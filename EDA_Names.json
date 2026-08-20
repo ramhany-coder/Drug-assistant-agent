@@ -1,0 +1,1930 @@
+[
+    {
+        "compound_name": "AMIKACIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "GENTAMICIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "NEOMYCIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "STREPTOMYCIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "TOBRAMYCIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "ALBENDAZOLE",
+        "doc": 1
+    },
+    {
+        "compound_name": "DIETHYLCARBAMAZINE",
+        "doc": 1
+    },
+    {
+        "compound_name": "IVERMECTIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "LEVAMISOLE",
+        "doc": 1
+    },
+    {
+        "compound_name": "MEBENDAZOLE",
+        "doc": 1
+    },
+    {
+        "compound_name": "NICLOSAMIDE",
+        "doc": 1
+    },
+    {
+        "compound_name": "PRAZIQUANTEL",
+        "doc": 1
+    },
+    {
+        "compound_name": "PYRANTEL",
+        "doc": 1
+    },
+    {
+        "compound_name": "TRICLABENDAZOLE",
+        "doc": 1
+    },
+    {
+        "compound_name": "AMPHOTERICIN B",
+        "doc": 1
+    },
+    {
+        "compound_name": "ANIDULAFUNGIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "CASPOFUNGIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "FLUBENDAZOLE",
+        "doc": 1
+    },
+    {
+        "compound_name": "FLUCONAZOLE",
+        "doc": 1
+    },
+    {
+        "compound_name": "GRISEOFULVIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "ITRACONAZOLE",
+        "doc": 1
+    },
+    {
+        "compound_name": "KETOCONAZOLE",
+        "doc": 1
+    },
+    {
+        "compound_name": "MICAFUNGIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "NYSTATIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "VORICONAZOLE",
+        "doc": 1
+    },
+    {
+        "compound_name": "POSACONAZOLE",
+        "doc": 1
+    },
+    {
+        "compound_name": "ARTEMETHER AND LUMEFANTRINE",
+        "doc": 1
+    },
+    {
+        "compound_name": "ARTESUNATE",
+        "doc": 1
+    },
+    {
+        "compound_name": "ARTESUNATE AND AMODIAQUINE",
+        "doc": 1
+    },
+    {
+        "compound_name": "CHLOROQUINE",
+        "doc": 1
+    },
+    {
+        "compound_name": "HYDROXYCHLOROQUINE",
+        "doc": 1
+    },
+    {
+        "compound_name": "MEFLOQUINE",
+        "doc": 1
+    },
+    {
+        "compound_name": "PYRIMETHAMINE",
+        "doc": 1
+    },
+    {
+        "compound_name": "SULFADOXINE AND PYRIMETHAMINE",
+        "doc": 1
+    },
+    {
+        "compound_name": "ABACAVIR (ABC)",
+        "doc": 1
+    },
+    {
+        "compound_name": "LAMIVUDINE (3TC)",
+        "doc": 1
+    },
+    {
+        "compound_name": "TENOFOVIR DISOPROXIL FUMARATE (TDF)",
+        "doc": 1
+    },
+    {
+        "compound_name": "ZIDOVUDINE",
+        "doc": 10
+    },
+    {
+        "compound_name": "NEVIRAPINE (NVP)",
+        "doc": 1
+    },
+    {
+        "compound_name": "EFAVIRENZ (EFV)",
+        "doc": 1
+    },
+    {
+        "compound_name": "ATAZANAVIR (ATV)",
+        "doc": 1
+    },
+    {
+        "compound_name": "LOPINAVIR AND RITONAVIR",
+        "doc": 1
+    },
+    {
+        "compound_name": "DARUNAVIR AND RITONAVIR (DRV/R)",
+        "doc": 1
+    },
+    {
+        "compound_name": "DOLUTEGRAVIR (DTG)",
+        "doc": 1
+    },
+    {
+        "compound_name": "RALTEGRAVIR",
+        "doc": 10
+    },
+    {
+        "compound_name": "ETHAMBUTOL",
+        "doc": 1
+    },
+    {
+        "compound_name": "ETHAMBUTOL, ISONIAZID, RIFAMPICIN, AND PYRAZINAMIDE",
+        "doc": 1
+    },
+    {
+        "compound_name": "ISONIAZID",
+        "doc": 1
+    },
+    {
+        "compound_name": "PYRAZINAMIDE",
+        "doc": 1
+    },
+    {
+        "compound_name": "RIFAMPICIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "RIFAMPICIN AND ISONIAZID",
+        "doc": 1
+    },
+    {
+        "compound_name": "ACYCLOVIR",
+        "doc": 1
+    },
+    {
+        "compound_name": "ADEFOVIR DIPIVOXIL",
+        "doc": 1
+    },
+    {
+        "compound_name": "DACLATASVIR",
+        "doc": 1
+    },
+    {
+        "compound_name": "ENTECAVIR",
+        "doc": 1
+    },
+    {
+        "compound_name": "FAMCICLOVIR",
+        "doc": 1
+    },
+    {
+        "compound_name": "FAVIPIRAVIR",
+        "doc": 1
+    },
+    {
+        "compound_name": "GANCICLOVIR",
+        "doc": 1
+    },
+    {
+        "compound_name": "LAMIVUDINE AND ZIDOVUDINE",
+        "doc": 1
+    },
+    {
+        "compound_name": "LEDIPASVIR AND SOFOSBUVIR",
+        "doc": 1
+    },
+    {
+        "compound_name": "OMBITASVIR, PAPRITAPREVIR AND RITONAVIR",
+        "doc": 1
+    },
+    {
+        "compound_name": "OSELTAMIVIR",
+        "doc": 1
+    },
+    {
+        "compound_name": "RIBAVIRIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "SIMEPREVIR",
+        "doc": 1
+    },
+    {
+        "compound_name": "SOFOSBUVIR",
+        "doc": 1
+    },
+    {
+        "compound_name": "SOFOSBUVIR AND VELPATASVIR",
+        "doc": 1
+    },
+    {
+        "compound_name": "SOFOSBUVIR, VELPATASVIR AND VOXILAPREVIR",
+        "doc": 1
+    },
+    {
+        "compound_name": "TENOFOVIR ALAFENAMIDE",
+        "doc": 1
+    },
+    {
+        "compound_name": "VALACYCLOVIR",
+        "doc": 1
+    },
+    {
+        "compound_name": "VALGANCICLOVIR",
+        "doc": 1
+    },
+    {
+        "compound_name": "ERTAPENEM",
+        "doc": 1
+    },
+    {
+        "compound_name": "IMIPENEM AND CILASTATIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "MEROPENEM",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFADROXIL",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFAZOLIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEPHALEXIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEPHRADINE",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFACLOR",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFOXITIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFPROZIL",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFUROXIME",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFDINIR",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFIXIME",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFPODOXIME",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFOPERAZONE",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFOPERAZONE AND SULBACTAM",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFOTAXIME",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFTAZIDIME",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFTAZIDIME AND AVIBACTAM",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFTRIAXONE",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFEPIME",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFTAROLINE FOSAMIL",
+        "doc": 1
+    },
+    {
+        "compound_name": "CEFTOLOZANE AND TAZOBACTAM",
+        "doc": 1
+    },
+    {
+        "compound_name": "AZITHROMYCIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "CLARITHROMYCIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "ERYTHROMYCIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "ROXITHROMYCIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "SPIRAMYCIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "AZTREONAM",
+        "doc": 1
+    },
+    {
+        "compound_name": "CHLORAMPHENICOL",
+        "doc": 1
+    },
+    {
+        "compound_name": "CLINDAMYCIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "COLISTIMETHATE",
+        "doc": 1
+    },
+    {
+        "compound_name": "DAPSONE",
+        "doc": 1
+    },
+    {
+        "compound_name": "DILOXANIDE",
+        "doc": 1
+    },
+    {
+        "compound_name": "DOXYCYCLINE",
+        "doc": 1
+    },
+    {
+        "compound_name": "FOSFOMYCIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "LINCOMYCIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "LINEZOLID",
+        "doc": 1
+    },
+    {
+        "compound_name": "METRONIDAZOLE",
+        "doc": 1
+    },
+    {
+        "compound_name": "NITROFURANTOIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "OXYTETRACYCLINE",
+        "doc": 1
+    },
+    {
+        "compound_name": "RIFAXIMIN",
+        "doc": 8
+    },
+    {
+        "compound_name": "SECNIDAZOLE",
+        "doc": 1
+    },
+    {
+        "compound_name": "SULFAMETHOXAZOLE AND TRIMETHOPRIM",
+        "doc": 1
+    },
+    {
+        "compound_name": "TEDIZOLID",
+        "doc": 1
+    },
+    {
+        "compound_name": "TEICOPLANIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "TETRACYCLINE",
+        "doc": 1
+    },
+    {
+        "compound_name": "THIAMPHENICOL",
+        "doc": 1
+    },
+    {
+        "compound_name": "TIGECYCLINE",
+        "doc": 1
+    },
+    {
+        "compound_name": "VANCOMYCIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "AMOXICILLIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "AMOXICILLIN AND CLAVULANIC ACID",
+        "doc": 1
+    },
+    {
+        "compound_name": "AMPICILLIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "AMPICILLIN AND SULBACTAM",
+        "doc": 1
+    },
+    {
+        "compound_name": "BENZYLPENICILLIN [PENICILLIN G]",
+        "doc": 1
+    },
+    {
+        "compound_name": "CLOXACILLIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "FLUCLOXACILLIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "PENICILLIN G BENZATHINE",
+        "doc": 1
+    },
+    {
+        "compound_name": "PHENOXYMETHYLPENICILLIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "PIPERACILLIN AND TAZOBACTAM",
+        "doc": 1
+    },
+    {
+        "compound_name": "SULTAMICILLIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "CIPROFLOXACIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "GATIFLOXACIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "LEVOFLOXACIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "LOMEFLOXACIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "MOXIFLOXACIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "NORFLOXACIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "OFLOXACIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "BENZYL BENZOATE",
+        "doc": 1
+    },
+    {
+        "compound_name": "CLOTRIMAZOLE",
+        "doc": 1
+    },
+    {
+        "compound_name": "ECONAZOLE",
+        "doc": 1
+    },
+    {
+        "compound_name": "ERYTHROMYCIN AND ZINC ACETATE",
+        "doc": 1
+    },
+    {
+        "compound_name": "ISOCONAZOLE",
+        "doc": 1
+    },
+    {
+        "compound_name": "MICONAZOLE",
+        "doc": 1
+    },
+    {
+        "compound_name": "MUPIROCIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "NEOMYCIN, POLYMYXIN B, AND DEXAMETHASONE",
+        "doc": 1
+    },
+    {
+        "compound_name": "NATAMYCIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "TERBINAFINE",
+        "doc": 1
+    },
+    {
+        "compound_name": "SELENIUM SULFIDE",
+        "doc": 1
+    },
+    {
+        "compound_name": "SILVER SULFADIAZINE",
+        "doc": 1
+    },
+    {
+        "compound_name": "SODIUM FUSIDATE/ FUSIDIC ACID",
+        "doc": 1
+    },
+    {
+        "compound_name": "PERMETHRIN",
+        "doc": 1
+    },
+    {
+        "compound_name": "ALFUZOSIN",
+        "doc": 2
+    },
+    {
+        "compound_name": "DOXAZOSIN",
+        "doc": 2
+    },
+    {
+        "compound_name": "SILODOSIN",
+        "doc": 2
+    },
+    {
+        "compound_name": "TAMSULOSIN",
+        "doc": 2
+    },
+    {
+        "compound_name": "TERAZOSIN",
+        "doc": 2
+    },
+    {
+        "compound_name": "CARVEDILOL",
+        "doc": 2
+    },
+    {
+        "compound_name": "CANDESARTAN",
+        "doc": 2
+    },
+    {
+        "compound_name": "IRBESARTAN",
+        "doc": 2
+    },
+    {
+        "compound_name": "LOSARTAN",
+        "doc": 2
+    },
+    {
+        "compound_name": "OLMESARTAN",
+        "doc": 2
+    },
+    {
+        "compound_name": "SACUBITRIL AND VALSARTAN",
+        "doc": 2
+    },
+    {
+        "compound_name": "TELMISARTAN",
+        "doc": 2
+    },
+    {
+        "compound_name": "VALSARTAN",
+        "doc": 2
+    },
+    {
+        "compound_name": "BENAZEPRIL HYDROCHLORIDE",
+        "doc": 2
+    },
+    {
+        "compound_name": "CAPTOPRIL",
+        "doc": 2
+    },
+    {
+        "compound_name": "ENALAPRIL",
+        "doc": 2
+    },
+    {
+        "compound_name": "LISINOPRIL",
+        "doc": 2
+    },
+    {
+        "compound_name": "PERINDOPRIL",
+        "doc": 2
+    },
+    {
+        "compound_name": "TRIMETAZIDINE",
+        "doc": 2
+    },
+    {
+        "compound_name": "ISOSORBIDE DINITRATE",
+        "doc": 2
+    },
+    {
+        "compound_name": "ISOSORBIDE MONONITRATE",
+        "doc": 2
+    },
+    {
+        "compound_name": "NICORANDIL",
+        "doc": 2
+    },
+    {
+        "compound_name": "NITROGLYCERIN (GLYCERYL TRINITRATE)",
+        "doc": 2
+    },
+    {
+        "compound_name": "AMIODARONE",
+        "doc": 2
+    },
+    {
+        "compound_name": "LIDOCAINE",
+        "doc": 2
+    },
+    {
+        "compound_name": "PROPAFENONE",
+        "doc": 2
+    },
+    {
+        "compound_name": "CLONIDINE HYDROCHLORIDE",
+        "doc": 2
+    },
+    {
+        "compound_name": "METHYLDOPA",
+        "doc": 2
+    },
+    {
+        "compound_name": "AMBRISENTAN",
+        "doc": 2
+    },
+    {
+        "compound_name": "BOSENTAN",
+        "doc": 2
+    },
+    {
+        "compound_name": "HYDRALAZINE",
+        "doc": 2
+    },
+    {
+        "compound_name": "MACITENTAN",
+        "doc": 2
+    },
+    {
+        "compound_name": "NITROPRUSSIDE SODIUM",
+        "doc": 2
+    },
+    {
+        "compound_name": "ACETYLSALICYLIC ACID",
+        "doc": 5
+    },
+    {
+        "compound_name": "CILOSTAZOL",
+        "doc": 5
+    },
+    {
+        "compound_name": "CLOPIDOGREL",
+        "doc": 5
+    },
+    {
+        "compound_name": "TICAGRELOR",
+        "doc": 5
+    },
+    {
+        "compound_name": "ATENOLOL",
+        "doc": 2
+    },
+    {
+        "compound_name": "BISOPROLOL",
+        "doc": 2
+    },
+    {
+        "compound_name": "METOPROLOL",
+        "doc": 2
+    },
+    {
+        "compound_name": "NEBIVOLOL",
+        "doc": 2
+    },
+    {
+        "compound_name": "PROPRANOLOL",
+        "doc": 2
+    },
+    {
+        "compound_name": "AMLODIPINE",
+        "doc": 2
+    },
+    {
+        "compound_name": "FELODIPINE",
+        "doc": 2
+    },
+    {
+        "compound_name": "NIFEDIPINE",
+        "doc": 2
+    },
+    {
+        "compound_name": "DILTIAZEM",
+        "doc": 2
+    },
+    {
+        "compound_name": "VERAPAMIL",
+        "doc": 2
+    },
+    {
+        "compound_name": "DIGOXIN",
+        "doc": 2
+    },
+    {
+        "compound_name": "BUMETANIDE",
+        "doc": 2
+    },
+    {
+        "compound_name": "FUROSEMIDE",
+        "doc": 2
+    },
+    {
+        "compound_name": "TORSEMIDE (TORASEMIDE)",
+        "doc": 2
+    },
+    {
+        "compound_name": "MANNITOL",
+        "doc": 2
+    },
+    {
+        "compound_name": "EPLERENONE",
+        "doc": 2
+    },
+    {
+        "compound_name": "SPIRONOLACTONE",
+        "doc": 2
+    },
+    {
+        "compound_name": "CHLORTHALIDONE",
+        "doc": 2
+    },
+    {
+        "compound_name": "HYDROCHLOROTHIAZIDE",
+        "doc": 2
+    },
+    {
+        "compound_name": "INDAPAMIDE",
+        "doc": 2
+    },
+    {
+        "compound_name": "ALTEPLASE",
+        "doc": 5
+    },
+    {
+        "compound_name": "STREPTOKINASE",
+        "doc": 5
+    },
+    {
+        "compound_name": "CHOLESTYRAMINE",
+        "doc": 2
+    },
+    {
+        "compound_name": "COLESEVELAM",
+        "doc": 2
+    },
+    {
+        "compound_name": "EZETIMIBE",
+        "doc": 2
+    },
+    {
+        "compound_name": "FENOFIBRATE",
+        "doc": 2
+    },
+    {
+        "compound_name": "ATORVASTATIN",
+        "doc": 2
+    },
+    {
+        "compound_name": "PITAVASTATIN",
+        "doc": 2
+    },
+    {
+        "compound_name": "ROSUVASTATIN",
+        "doc": 2
+    },
+    {
+        "compound_name": "SIMVASTATIN",
+        "doc": 2
+    },
+    {
+        "compound_name": "IVABRADINE",
+        "doc": 2
+    },
+    {
+        "compound_name": "DAPAGLIFLOZIN",
+        "doc": 4
+    },
+    {
+        "compound_name": "EMPAGLIFLOZIN",
+        "doc": 4
+    },
+    {
+        "compound_name": "ADRENALINE (EPINEPHRINE)",
+        "doc": 2
+    },
+    {
+        "compound_name": "DOBUTAMINE",
+        "doc": 2
+    },
+    {
+        "compound_name": "DOPAMINE",
+        "doc": 2
+    },
+    {
+        "compound_name": "BUSULFAN",
+        "doc": 3
+    },
+    {
+        "compound_name": "BENDAMUSTINE",
+        "doc": 3
+    },
+    {
+        "compound_name": "CHLORAMBUCIL",
+        "doc": 3
+    },
+    {
+        "compound_name": "CYCLOPHOSPHAMIDE",
+        "doc": 3
+    },
+    {
+        "compound_name": "IFOSFAMIDE",
+        "doc": 3
+    },
+    {
+        "compound_name": "MELPHALAN",
+        "doc": 3
+    },
+    {
+        "compound_name": "LOMUSTINE",
+        "doc": 3
+    },
+    {
+        "compound_name": "TEMOZOLOMIDE",
+        "doc": 3
+    },
+    {
+        "compound_name": "CARBOPLATIN",
+        "doc": 3
+    },
+    {
+        "compound_name": "CISPLATIN",
+        "doc": 3
+    },
+    {
+        "compound_name": "OXALIPLATIN",
+        "doc": 3
+    },
+    {
+        "compound_name": "DACARBAZINE",
+        "doc": 3
+    },
+    {
+        "compound_name": "METHOTREXATE",
+        "doc": 8
+    },
+    {
+        "compound_name": "PEMETREXED",
+        "doc": 3
+    },
+    {
+        "compound_name": "FLUDARABINE",
+        "doc": 3
+    },
+    {
+        "compound_name": "MERCAPTOPURINE",
+        "doc": 3
+    },
+    {
+        "compound_name": "THIOGUANINE",
+        "doc": 3
+    },
+    {
+        "compound_name": "AZACITIDINE",
+        "doc": 3
+    },
+    {
+        "compound_name": "CAPECITABINE",
+        "doc": 3
+    },
+    {
+        "compound_name": "CYTARABINE",
+        "doc": 3
+    },
+    {
+        "compound_name": "FLUOROURACIL",
+        "doc": 3
+    },
+    {
+        "compound_name": "GEMCITABINE",
+        "doc": 3
+    },
+    {
+        "compound_name": "DOCETAXEL",
+        "doc": 3
+    },
+    {
+        "compound_name": "PACLITAXEL",
+        "doc": 3
+    },
+    {
+        "compound_name": "VINBLASTINE",
+        "doc": 3
+    },
+    {
+        "compound_name": "VINCRISTINE",
+        "doc": 3
+    },
+    {
+        "compound_name": "VINORELBINE",
+        "doc": 3
+    },
+    {
+        "compound_name": "DAUNORUBICIN",
+        "doc": 3
+    },
+    {
+        "compound_name": "DOXORUBICIN",
+        "doc": 3
+    },
+    {
+        "compound_name": "EPIRUBICIN",
+        "doc": 3
+    },
+    {
+        "compound_name": "MITOXANTRONE",
+        "doc": 3
+    },
+    {
+        "compound_name": "BLEOMYCIN",
+        "doc": 3
+    },
+    {
+        "compound_name": "DACTINOMYCIN",
+        "doc": 3
+    },
+    {
+        "compound_name": "ABIRATERONE",
+        "doc": 3
+    },
+    {
+        "compound_name": "BICALUTAMIDE",
+        "doc": 3
+    },
+    {
+        "compound_name": "FLUTAMIDE",
+        "doc": 3
+    },
+    {
+        "compound_name": "FULVESTRANT",
+        "doc": 3
+    },
+    {
+        "compound_name": "ANASTRAZOLE",
+        "doc": 3
+    },
+    {
+        "compound_name": "EXEMESTANE",
+        "doc": 3
+    },
+    {
+        "compound_name": "LETROZOLE",
+        "doc": 3
+    },
+    {
+        "compound_name": "TAMOXIFEN",
+        "doc": 3
+    },
+    {
+        "compound_name": "GOSERELIN",
+        "doc": 3
+    },
+    {
+        "compound_name": "LEUPROLIDE",
+        "doc": 3
+    },
+    {
+        "compound_name": "LENALIDOMIDE",
+        "doc": 3
+    },
+    {
+        "compound_name": "HYDROXYCARBAMIDE",
+        "doc": 3
+    },
+    {
+        "compound_name": "HYDROXYUREA",
+        "doc": 3
+    },
+    {
+        "compound_name": "ALL-TRANS RETINOIC ACID",
+        "doc": 3
+    },
+    {
+        "compound_name": "ATRA",
+        "doc": 3
+    },
+    {
+        "compound_name": "EPOETIN ALFA",
+        "doc": 3
+    },
+    {
+        "compound_name": "FILGRASTIM",
+        "doc": 3
+    },
+    {
+        "compound_name": "PEGFILGRASTIM",
+        "doc": 3
+    },
+    {
+        "compound_name": "CALCIUM FOLINATE",
+        "doc": 3
+    },
+    {
+        "compound_name": "MESNA",
+        "doc": 3
+    },
+    {
+        "compound_name": "ZOLEDRONIC ACID",
+        "doc": 3
+    },
+    {
+        "compound_name": "ASPARAGINASE",
+        "doc": 3
+    },
+    {
+        "compound_name": "ETOPOSIDE",
+        "doc": 3
+    },
+    {
+        "compound_name": "IRINOTECAN",
+        "doc": 3
+    },
+    {
+        "compound_name": "TOPOTECAN",
+        "doc": 3
+    },
+    {
+        "compound_name": "FINASTERIDE",
+        "doc": 4
+    },
+    {
+        "compound_name": "DANAZOL",
+        "doc": 4
+    },
+    {
+        "compound_name": "TESTOSTERONE",
+        "doc": 4
+    },
+    {
+        "compound_name": "ACARBOSE",
+        "doc": 4
+    },
+    {
+        "compound_name": "METFORMIN",
+        "doc": 4
+    },
+    {
+        "compound_name": "ALOGLIPTIN",
+        "doc": 4
+    },
+    {
+        "compound_name": "LINAGLIPTIN",
+        "doc": 4
+    },
+    {
+        "compound_name": "SAXAGLIPTIN",
+        "doc": 4
+    },
+    {
+        "compound_name": "SITAGLIPTIN",
+        "doc": 4
+    },
+    {
+        "compound_name": "VILDAGLIPTIN",
+        "doc": 4
+    },
+    {
+        "compound_name": "DULAGLUTIDE",
+        "doc": 4
+    },
+    {
+        "compound_name": "EXENATIDE",
+        "doc": 4
+    },
+    {
+        "compound_name": "LIRAGLUTIDE",
+        "doc": 4
+    },
+    {
+        "compound_name": "SEMAGLUTIDE",
+        "doc": 4
+    },
+    {
+        "compound_name": "REPAGLINIDE",
+        "doc": 4
+    },
+    {
+        "compound_name": "CANAGLIFLOZIN",
+        "doc": 4
+    },
+    {
+        "compound_name": "GLIBENCLAMIDE",
+        "doc": 4
+    },
+    {
+        "compound_name": "GLICLAZIDE",
+        "doc": 4
+    },
+    {
+        "compound_name": "GLIMEPIRIDE",
+        "doc": 4
+    },
+    {
+        "compound_name": "GLIPIZIDE",
+        "doc": 4
+    },
+    {
+        "compound_name": "PIOGLITAZONE",
+        "doc": 4
+    },
+    {
+        "compound_name": "CARBIMAZOLE",
+        "doc": 4
+    },
+    {
+        "compound_name": "PROPYLTHIOURACIL",
+        "doc": 4
+    },
+    {
+        "compound_name": "ETHINYL ESTRADIOL",
+        "doc": 4
+    },
+    {
+        "compound_name": "ETONOGESTREL",
+        "doc": 4
+    },
+    {
+        "compound_name": "LEVONORGESTREL",
+        "doc": 4
+    },
+    {
+        "compound_name": "ULIPRISTAL",
+        "doc": 4
+    },
+    {
+        "compound_name": "MEDROXYPROGESTERONE ACETATE",
+        "doc": 4
+    },
+    {
+        "compound_name": "NORETHISTERONE",
+        "doc": 4
+    },
+    {
+        "compound_name": "NORETHINDRONE",
+        "doc": 4
+    },
+    {
+        "compound_name": "PROGESTERONE",
+        "doc": 4
+    },
+    {
+        "compound_name": "BETAMETHASONE",
+        "doc": 9
+    },
+    {
+        "compound_name": "BUDESONIDE",
+        "doc": 9
+    },
+    {
+        "compound_name": "DEXAMETHASONE",
+        "doc": 9
+    },
+    {
+        "compound_name": "FLUDROCORTISONE",
+        "doc": 4
+    },
+    {
+        "compound_name": "HYDROCORTISONE",
+        "doc": 9
+    },
+    {
+        "compound_name": "METHYLPREDNISOLONE",
+        "doc": 9
+    },
+    {
+        "compound_name": "MOMETASONE",
+        "doc": 9
+    },
+    {
+        "compound_name": "PREDNISOLONE",
+        "doc": 9
+    },
+    {
+        "compound_name": "TRIAMCINOLONE",
+        "doc": 9
+    },
+    {
+        "compound_name": "BROMOCRIPTINE",
+        "doc": 4
+    },
+    {
+        "compound_name": "CABERGOLINE",
+        "doc": 4
+    },
+    {
+        "compound_name": "ESTRADIOL",
+        "doc": 4
+    },
+    {
+        "compound_name": "GLUCAGON",
+        "doc": 4
+    },
+    {
+        "compound_name": "INSULIN DEGLUDEC",
+        "doc": 4
+    },
+    {
+        "compound_name": "INSULIN DETEMIR",
+        "doc": 4
+    },
+    {
+        "compound_name": "INSULIN GLARGINE",
+        "doc": 4
+    },
+    {
+        "compound_name": "CLOMIPHENE",
+        "doc": 4
+    },
+    {
+        "compound_name": "FOLLITROPIN ALFA",
+        "doc": 4
+    },
+    {
+        "compound_name": "HUMAN CHORIONIC GONADOTROPIN",
+        "doc": 4
+    },
+    {
+        "compound_name": "UROFOLLITROPIN",
+        "doc": 4
+    },
+    {
+        "compound_name": "CARBETOCIN",
+        "doc": 4
+    },
+    {
+        "compound_name": "OXYTOCIN",
+        "doc": 4
+    },
+    {
+        "compound_name": "METHYLERGOMETRINE",
+        "doc": 4
+    },
+    {
+        "compound_name": "DESMOPRESSIN ACETATE",
+        "doc": 4
+    },
+    {
+        "compound_name": "LEVOTHYROXINE",
+        "doc": 4
+    },
+    {
+        "compound_name": "FERROUS FUMARATE",
+        "doc": 5
+    },
+    {
+        "compound_name": "IRON CARBOXYMALTOSE",
+        "doc": 5
+    },
+    {
+        "compound_name": "IRON DEXTRAN",
+        "doc": 5
+    },
+    {
+        "compound_name": "IRON SUCROSE",
+        "doc": 5
+    },
+    {
+        "compound_name": "CYANOCOBALAMIN",
+        "doc": 5
+    },
+    {
+        "compound_name": "FOLIC ACID",
+        "doc": 5
+    },
+    {
+        "compound_name": "HYDROXOCOBALAMIN",
+        "doc": 5
+    },
+    {
+        "compound_name": "DABIGATRAN",
+        "doc": 5
+    },
+    {
+        "compound_name": "ENOXAPARIN",
+        "doc": 5
+    },
+    {
+        "compound_name": "HEPARIN CALCIUM",
+        "doc": 5
+    },
+    {
+        "compound_name": "HEPARIN SODIUM",
+        "doc": 5
+    },
+    {
+        "compound_name": "APIXABAN",
+        "doc": 5
+    },
+    {
+        "compound_name": "RIVAROXABAN",
+        "doc": 5
+    },
+    {
+        "compound_name": "WARFARIN",
+        "doc": 5
+    },
+    {
+        "compound_name": "FONDAPARINUX",
+        "doc": 5
+    },
+    {
+        "compound_name": "EMICIZUMAB",
+        "doc": 5
+    },
+    {
+        "compound_name": "FACTOR VIII",
+        "doc": 5
+    },
+    {
+        "compound_name": "FACTOR IX",
+        "doc": 5
+    },
+    {
+        "compound_name": "PHYTOMENADIONE",
+        "doc": 5
+    },
+    {
+        "compound_name": "TRANEXAMIC ACID",
+        "doc": 5
+    },
+    {
+        "compound_name": "TIROFIBAN",
+        "doc": 5
+    },
+    {
+        "compound_name": "DEFERASIROX",
+        "doc": 5
+    },
+    {
+        "compound_name": "ERYTHROPOIETIN",
+        "doc": 5
+    },
+    {
+        "compound_name": "PHENOBARBITAL",
+        "doc": 6
+    },
+    {
+        "compound_name": "PHENOBARBITONE",
+        "doc": 6
+    },
+    {
+        "compound_name": "CLONAZEPAM",
+        "doc": 6
+    },
+    {
+        "compound_name": "DIAZEPAM",
+        "doc": 6
+    },
+    {
+        "compound_name": "CARBAMAZEPINE",
+        "doc": 6
+    },
+    {
+        "compound_name": "OXCARBAZEPINE",
+        "doc": 6
+    },
+    {
+        "compound_name": "LAMOTRIGINE",
+        "doc": 6
+    },
+    {
+        "compound_name": "PHENYTOIN",
+        "doc": 6
+    },
+    {
+        "compound_name": "ETHOSUXIMIDE",
+        "doc": 6
+    },
+    {
+        "compound_name": "LACOSAMIDE",
+        "doc": 6
+    },
+    {
+        "compound_name": "LEVETIRACETAM",
+        "doc": 6
+    },
+    {
+        "compound_name": "GABAPENTIN",
+        "doc": 6
+    },
+    {
+        "compound_name": "MAGNESIUM SULPHATE HEPTAHYDRATE",
+        "doc": 6
+    },
+    {
+        "compound_name": "TOPIRAMATE",
+        "doc": 6
+    },
+    {
+        "compound_name": "VALPROIC ACID",
+        "doc": 6
+    },
+    {
+        "compound_name": "AMANTADINE",
+        "doc": 6
+    },
+    {
+        "compound_name": "CARBIDOPA",
+        "doc": 6
+    },
+    {
+        "compound_name": "LEVODOPA",
+        "doc": 6
+    },
+    {
+        "compound_name": "PRAMIPEXOLE",
+        "doc": 6
+    },
+    {
+        "compound_name": "RASAGILINE",
+        "doc": 6
+    },
+    {
+        "compound_name": "TRIHEXYPHENIDYL",
+        "doc": 6
+    },
+    {
+        "compound_name": "NEOSTIGMINE",
+        "doc": 6
+    },
+    {
+        "compound_name": "PYRIDOSTIGMINE",
+        "doc": 6
+    },
+    {
+        "compound_name": "CLADRIBINE",
+        "doc": 6
+    },
+    {
+        "compound_name": "DIMETHYL FUMARATE",
+        "doc": 6
+    },
+    {
+        "compound_name": "FINGOLIMOD",
+        "doc": 6
+    },
+    {
+        "compound_name": "GLATIRAMER ACETATE",
+        "doc": 6
+    },
+    {
+        "compound_name": "DASATINIB",
+        "doc": 7
+    },
+    {
+        "compound_name": "IMATINIB",
+        "doc": 7
+    },
+    {
+        "compound_name": "NILOTINIB",
+        "doc": 7
+    },
+    {
+        "compound_name": "IBRUTINIB",
+        "doc": 7
+    },
+    {
+        "compound_name": "ABEMACICLIB",
+        "doc": 7
+    },
+    {
+        "compound_name": "RIBOCICLIB",
+        "doc": 7
+    },
+    {
+        "compound_name": "ERLOTINIB",
+        "doc": 7
+    },
+    {
+        "compound_name": "GEFITINIB",
+        "doc": 7
+    },
+    {
+        "compound_name": "LAPATINIB",
+        "doc": 7
+    },
+    {
+        "compound_name": "EVEROLIMUS",
+        "doc": 7
+    },
+    {
+        "compound_name": "SORAFENIB",
+        "doc": 7
+    },
+    {
+        "compound_name": "SUNITINIB",
+        "doc": 7
+    },
+    {
+        "compound_name": "RITUXIMAB",
+        "doc": 7
+    },
+    {
+        "compound_name": "CETUXIMAB",
+        "doc": 7
+    },
+    {
+        "compound_name": "PERTUZUMAB",
+        "doc": 7
+    },
+    {
+        "compound_name": "TRASTUZUMAB",
+        "doc": 7
+    },
+    {
+        "compound_name": "NIVOLUMAB",
+        "doc": 7
+    },
+    {
+        "compound_name": "BEVACIZUMAB",
+        "doc": 7
+    },
+    {
+        "compound_name": "BORTEZOMIB",
+        "doc": 7
+    },
+    {
+        "compound_name": "DENOSUMAB",
+        "doc": 7
+    },
+    {
+        "compound_name": "LOPERAMIDE",
+        "doc": 8
+    },
+    {
+        "compound_name": "APREPITANT",
+        "doc": 8
+    },
+    {
+        "compound_name": "GRANISETRON",
+        "doc": 8
+    },
+    {
+        "compound_name": "ONDANSETRON",
+        "doc": 8
+    },
+    {
+        "compound_name": "PALONOSETRON",
+        "doc": 8
+    },
+    {
+        "compound_name": "DOMPERIDONE",
+        "doc": 8
+    },
+    {
+        "compound_name": "METOCLOPRAMIDE",
+        "doc": 8
+    },
+    {
+        "compound_name": "ITOPRIDE",
+        "doc": 8
+    },
+    {
+        "compound_name": "PRUCALOPRIDE",
+        "doc": 8
+    },
+    {
+        "compound_name": "SIMETHICONE",
+        "doc": 8
+    },
+    {
+        "compound_name": "HYOSCINE-N-BUTYL BROMIDE",
+        "doc": 8
+    },
+    {
+        "compound_name": "SCOPOLAMINE BUTYLBROMIDE",
+        "doc": 8
+    },
+    {
+        "compound_name": "MEBEVERINE",
+        "doc": 8
+    },
+    {
+        "compound_name": "DICYCLOMINE",
+        "doc": 8
+    },
+    {
+        "compound_name": "DICYCLOVERINE",
+        "doc": 8
+    },
+    {
+        "compound_name": "TRIMEBUTINE",
+        "doc": 8
+    },
+    {
+        "compound_name": "URSODEOXYCHOLIC ACID",
+        "doc": 8
+    },
+    {
+        "compound_name": "FAMOTIDINE",
+        "doc": 8
+    },
+    {
+        "compound_name": "ESOMEPRAZOLE",
+        "doc": 8
+    },
+    {
+        "compound_name": "DEXLANSOPRAZOLE",
+        "doc": 8
+    },
+    {
+        "compound_name": "LANSOPRAZOLE",
+        "doc": 8
+    },
+    {
+        "compound_name": "OMEPRAZOLE",
+        "doc": 8
+    },
+    {
+        "compound_name": "PANTOPRAZOLE",
+        "doc": 8
+    },
+    {
+        "compound_name": "RABEPRAZOLE",
+        "doc": 8
+    },
+    {
+        "compound_name": "MESALAZINE",
+        "doc": 8
+    },
+    {
+        "compound_name": "MESALAMINE",
+        "doc": 8
+    },
+    {
+        "compound_name": "SULFASALAZINE",
+        "doc": 8
+    },
+    {
+        "compound_name": "GLYCERIN",
+        "doc": 8
+    },
+    {
+        "compound_name": "LACTULOSE",
+        "doc": 8
+    },
+    {
+        "compound_name": "POLYETHYLENE GLYCOL 3350",
+        "doc": 8
+    },
+    {
+        "compound_name": "MACROGOL",
+        "doc": 8
+    },
+    {
+        "compound_name": "BISACODYL",
+        "doc": 8
+    },
+    {
+        "compound_name": "SODIUM PICOSULFATE",
+        "doc": 8
+    },
+    {
+        "compound_name": "DOCUSATE SODIUM",
+        "doc": 8
+    },
+    {
+        "compound_name": "LUBIPROSTONE",
+        "doc": 8
+    },
+    {
+        "compound_name": "BISMUTH SUBCITRATE",
+        "doc": 8
+    },
+    {
+        "compound_name": "CETIRIZINE",
+        "doc": 9
+    },
+    {
+        "compound_name": "CHLORPHENIRAMINE MALEATE",
+        "doc": 9
+    },
+    {
+        "compound_name": "FEXOFENADINE",
+        "doc": 9
+    },
+    {
+        "compound_name": "LORATADINE",
+        "doc": 9
+    },
+    {
+        "compound_name": "IPRATROPIUM BROMIDE",
+        "doc": 9
+    },
+    {
+        "compound_name": "TIOTROPIUM",
+        "doc": 9
+    },
+    {
+        "compound_name": "DEXTROMETHORPHAN",
+        "doc": 9
+    },
+    {
+        "compound_name": "FORMOTEROL",
+        "doc": 9
+    },
+    {
+        "compound_name": "SALBUTAMOL",
+        "doc": 9
+    },
+    {
+        "compound_name": "TERBUTALINE",
+        "doc": 9
+    },
+    {
+        "compound_name": "XYLOMETAZOLINE",
+        "doc": 9
+    },
+    {
+        "compound_name": "OMALIZUMAB",
+        "doc": 9
+    },
+    {
+        "compound_name": "BECLOMETHASONE DIPROPIONATE",
+        "doc": 9
+    },
+    {
+        "compound_name": "FLUTICASONE",
+        "doc": 9
+    },
+    {
+        "compound_name": "MONTELUKAST",
+        "doc": 9
+    },
+    {
+        "compound_name": "ACETYLCYSTEINE",
+        "doc": 9
+    },
+    {
+        "compound_name": "AMBROXOL",
+        "doc": 9
+    },
+    {
+        "compound_name": "BROMHEXINE",
+        "doc": 9
+    },
+    {
+        "compound_name": "CARBOCISTEINE",
+        "doc": 9
+    },
+    {
+        "compound_name": "CARBOCYSTEINE",
+        "doc": 9
+    },
+    {
+        "compound_name": "GUAIFENESIN",
+        "doc": 9
+    },
+    {
+        "compound_name": "AMINOPHYLLINE",
+        "doc": 9
+    },
+    {
+        "compound_name": "THEOPHYLLINE",
+        "doc": 9
+    },
+    {
+        "compound_name": "DOXAPRAM",
+        "doc": 9
+    },
+    {
+        "compound_name": "BERACTANT",
+        "doc": 9
+    },
+    {
+        "compound_name": "PIRFENIDONE",
+        "doc": 9
+    },
+    {
+        "compound_name": "ABACAVIR",
+        "doc": 10
+    },
+    {
+        "compound_name": "LAMIVUDINE",
+        "doc": 10
+    },
+    {
+        "compound_name": "TENOFOVIR DISOPROXIL FUMARATE",
+        "doc": 10
+    },
+    {
+        "compound_name": "EFAVIRENZ",
+        "doc": 10
+    },
+    {
+        "compound_name": "ETRAVIRINE",
+        "doc": 10
+    },
+    {
+        "compound_name": "NEVIRAPINE",
+        "doc": 10
+    },
+    {
+        "compound_name": "LOPINAVIR",
+        "doc": 10
+    },
+    {
+        "compound_name": "RITONAVIR",
+        "doc": 10
+    },
+    {
+        "compound_name": "CABOTEGRAVIR",
+        "doc": 10
+    },
+    {
+        "compound_name": "DOLUTEGRAVIR",
+        "doc": 10
+    },
+    {
+        "compound_name": "EMTRICITABINE",
+        "doc": 10
+    }
+]
