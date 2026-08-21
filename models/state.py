@@ -8,7 +8,7 @@ class State (BaseModel):
     query: Optional[str]
     user_language : Optional[str]
     eng_query : Optional[str]
-    rewritten_query : Optional[str]
+    is_academic : Optional[bool]
     chat_hist : Annotated[list,add_messages]
     context : Optional[list]
     response : Optional[str]
