@@ -15,8 +15,9 @@ class State (BaseModel):
     drug_class : Optional[str] = None
     route : Optional[str] = None
     price_egp : Optional[str] = None
+    is_academic : Optional[bool] = False
     chat_hist : Annotated[list,add_messages]
-    context : Optional[list]
+    context : Optional[list[str]]
     response : Optional[str]
     native_response : Optional[str]
     
