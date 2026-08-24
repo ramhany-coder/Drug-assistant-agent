@@ -8,7 +8,13 @@ class State (BaseModel):
     query: Optional[str]
     user_language : Optional[str]
     eng_query : Optional[str]
-    is_academic : Optional[bool]
+    commercial_name_en : Optional[str] = None
+    commercial_name_ar : Optional[str] = None
+    scientific_name : Optional[str] = None
+    manufacturer : Optional[str] = None
+    drug_class : Optional[str] = None
+    route : Optional[str] = None
+    price_egp : Optional[str] = None
     chat_hist : Annotated[list,add_messages]
     context : Optional[list]
     response : Optional[str]
