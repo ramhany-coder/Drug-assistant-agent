@@ -5,7 +5,7 @@ from llm.client import fallback_client ,FALLBACK_ORDER
 
 
 
-def translator_to_eng (state:State):
+def translator_to_eng (state):
     query = state.get("query")
     message = [
         SystemMessage(content=SYSTEM_PROMPT_TRANSLATOR_TO_ENG),
