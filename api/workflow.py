@@ -1,4 +1,6 @@
-from typing import Any, Dict, List, Optional
+import logging
+import time
+from typing import Any, Callable, Dict, List, Optional
 
 from agents.translatore_to_eng.translator import translator_to_eng
 from agents.meta_data_fiter.query_extractor.extractor import meta_data_extractor
@@ -7,14 +9,91 @@ from agents.early_responser.early_responser import early_responser
 
 from api.graph_builder import GraphBuilder
 
+logger = logging.getLogger("pipeline")
+
+
+def _normalize_state(state: Dict[str, Any]) -> Dict[str, Any]:
+    """Reshape a graph state (partial or complete) into the API's response shape."""
+    return {
+        "eng_query": state.get("eng_query"),
+        "user_language": state.get("user_language"),
+        "extracted": {
+            "commercial_name_en": state.get("commercial_name_en"),
+            "commercial_name_ar": state.get("commercial_name_ar"),
+            "scientific_name": state.get("scientific_name"),
+            "manufacturer": state.get("manufacturer"),
+            "drug_class": state.get("drug_class"),
+            "route": state.get("route"),
+            "price_egp": state.get("price_egp"),
+        },
+        "context": state.get("context", []),
+        "response": state.get("response"),
+        "is_academic": state.get("is_academic", False),
+    }
+
+
+class PipelineStageError(Exception):
+    """Raised when a graph node fails. Carries the failing stage's name, how long it
+    ran before failing, the latencies of every stage that completed before it, and a
+    snapshot of the state as it stood going into the failing stage — so callers can
+    tell exactly where the gap happened and what data led to it, without re-reading
+    server logs."""
+
+    def __init__(
+        self,
+        stage: str,
+        elapsed: float,
+        stage_timings: Dict[str, float],
+        state: Dict[str, Any],
+        original: Exception,
+    ) -> None:
+        self.stage = stage
+        self.elapsed = elapsed
+        self.stage_timings = stage_timings
+        self.state = state
+        self.original = original
+        super().__init__(f"stage '{stage}' failed after {elapsed:.2f}s: {original}")
+
+
+def _timed(name: str, fn: Callable) -> Callable:
+    """Wrap an agent callable so its latency is recorded into state, and any failure
+    is logged with the stage name, elapsed time, the timings of prior stages, and the
+    state going into that stage."""
+
+    def wrapper(state):
+        start = time.perf_counter()
+        try:
+            result = fn(state)
+        except Exception as e:
+            elapsed = time.perf_counter() - start
+            prior_timings = dict(state.get("stage_timings") or {})
+            state_snapshot = _normalize_state(dict(state))
+            logger.error(
+                "[pipeline] failed at stage '%s' after %.2fs - completed stages: %s - "
+                "state going in: %s - error: %s",
+                name, elapsed, prior_timings, state_snapshot, e,
+            )
+            raise PipelineStageError(name, elapsed, prior_timings, state_snapshot, e) from e
+
+        elapsed = time.perf_counter() - start
+        timings = dict(state.get("stage_timings") or {})
+        timings[name] = round(elapsed, 3)
+        logger.info("[pipeline] stage '%s' completed in %.2fs", name, elapsed)
+
+        result = dict(result)
+        result["stage_timings"] = timings
+        return result
+
+    return wrapper
+
 
 def default_agent_map() -> Dict[str, Any]:
-    """Return the default mapping of node name -> agent callable."""
+    """Return the default mapping of node name -> timed agent callable."""
     return {
-        "translator_to_eng": translator_to_eng,
-        "meta_data_extractor": meta_data_extractor,
-        "meta_data_filter": meta_data_filter,
-        "early_responser": early_responser,
+        "translator_to_eng": _timed("translator_to_eng", translator_to_eng),
+        "meta_data_extractor": _timed("meta_data_extractor", meta_data_extractor),
+        "meta_data_filter": _timed("meta_data_filter", meta_data_filter),
+        "early_responser": _timed("early_responser", early_responser),
     }
 
 
@@ -22,24 +101,30 @@ graph = GraphBuilder(default_agent_map()).build()
 
 
 def run_pipeline(query: str, chat_hist: Optional[List[Any]] = None) -> Dict[str, Any]:
-    """Runs the compiled graph: translator -> extractor -> filter -> responder."""
-    initial_state = {"query": query, "chat_hist": chat_hist or []}
+    """Runs the compiled graph: translator -> extractor -> filter -> responder.
 
-    final_state = graph.invoke(initial_state)
+    Raises PipelineStageError (see above) if any stage fails."""
+    initial_state = {"query": query, "chat_hist": chat_hist or []}
+    start = time.perf_counter()
+
+    try:
+        final_state = graph.invoke(initial_state)
+    except PipelineStageError as e:
+        total_elapsed = time.perf_counter() - start
+        logger.error(
+            "[pipeline] aborted after %.2fs total - failed stage: '%s'",
+            total_elapsed, e.stage,
+        )
+        raise
+
+    total_elapsed = time.perf_counter() - start
+    logger.info(
+        "[pipeline] completed in %.2fs - stage_timings=%s",
+        total_elapsed, final_state.get("stage_timings"),
+    )
 
     return {
-        "eng_query": final_state.get("eng_query"),
-        "user_language": final_state.get("user_language"),
-        "extracted": {
-            "commercial_name_en": final_state.get("commercial_name_en"),
-            "commercial_name_ar": final_state.get("commercial_name_ar"),
-            "scientific_name": final_state.get("scientific_name"),
-            "manufacturer": final_state.get("manufacturer"),
-            "drug_class": final_state.get("drug_class"),
-            "route": final_state.get("route"),
-            "price_egp": final_state.get("price_egp"),
-        },
-        "context": final_state.get("context", []),
-        "response": final_state.get("response"),
-        "is_academic": final_state.get("is_academic", False),
+        **_normalize_state(final_state),
+        "stage_timings": final_state.get("stage_timings", {}),
+        "total_latency_seconds": round(total_elapsed, 3),
     }

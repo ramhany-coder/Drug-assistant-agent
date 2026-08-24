@@ -1,4 +1,4 @@
-from typing import Annotated, List, Optional
+from typing import Annotated, Dict, List, Optional
 
 from typing_extensions import TypedDict
 
@@ -21,3 +21,4 @@ class State(TypedDict):
     context: Optional[List[dict]]
     response: Optional[str]
     native_response: Optional[str]
+    stage_timings: Optional[Dict[str, float]]

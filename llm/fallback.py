@@ -77,7 +77,7 @@ class FallBack:
                 llm = client_llm.get_model(router, model_name)
                 
                 # Bind the Pydantic schema to the LLM
-                structured_llm = llm.with_structured_output(constraine_model)
+                structured_llm = llm.with_structured_output(constraine_model, method="json_mode")
                 pydantic_response = structured_llm.invoke(message)
                 
                 # Return as a dictionary

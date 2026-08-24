@@ -14,6 +14,6 @@ def translator_to_eng (state):
     result = fallback_client.constrained_invoke(message,FALLBACK_ORDER,constraine_model=translator_model)
 
     return{
-        'eng_query':result.eng_query,
-        'user_language':result.user_language
+        'eng_query':result['eng_query'],
+        'user_language':result['user_language']
     }

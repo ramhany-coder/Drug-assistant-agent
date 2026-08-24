@@ -13,9 +13,26 @@ st.title("Egyptian Drug Database — Pipeline Tester")
 
 def call(endpoint: str, payload: dict):
     try:
-        r = requests.post(f"{api_base}{endpoint}", json=payload, timeout=60)
+        r = requests.post(f"{api_base}{endpoint}", json=payload, timeout=120)
         r.raise_for_status()
         return r.json()
+    except requests.exceptions.HTTPError:
+        try:
+            detail = r.json().get("detail")
+        except Exception:
+            detail = r.text
+        if isinstance(detail, dict):
+            st.error(f"Failed at stage: **{detail.get('failed_stage')}** "
+                     f"(ran for {detail.get('stage_latency_seconds')}s before failing)")
+            if detail.get("completed_stage_timings"):
+                st.caption(f"Stages completed before the failure: {detail['completed_stage_timings']}")
+            st.code(detail.get("error", ""))
+            if detail.get("state") is not None:
+                with st.expander("Pipeline state going into the failed stage"):
+                    st.json(detail["state"])
+        else:
+            st.error(f"Request failed ({r.status_code}): {detail}")
+        return None
     except requests.exceptions.RequestException as e:
         st.error(f"Request failed: {e}")
         return None
@@ -35,6 +52,14 @@ with tab_full:
             st.subheader("Final response")
             st.write(result.get("response"))
             st.caption(f"is_academic: {result.get('is_academic')}")
+
+            st.subheader("Latency")
+            st.metric("Total", f"{result.get('total_latency_seconds', 0)}s")
+            timings = result.get("stage_timings") or {}
+            if timings:
+                st.bar_chart(timings)
+                st.caption(" · ".join(f"{k}: {v}s" for k, v in timings.items()))
+
             with st.expander("Full pipeline state"):
                 st.json(result)
             if result.get("context"):
@@ -45,13 +70,19 @@ with tab_translate:
     st.subheader("Translator agent — /translate")
     raw_query = st.text_input("Raw query", "عايز بنادول")
     if st.button("Translate", key="btn_translate"):
-        st.json(call("/translate", {"query": raw_query}))
+        result = call("/translate", {"query": raw_query})
+        if result:
+            st.caption(f"⏱ {result.get('latency_seconds')}s")
+            st.json(result)
 
 with tab_extract:
     st.subheader("Metadata extractor agent — /extract")
     eng_query = st.text_input("English query", "I want panadol under 20 EGP")
     if st.button("Extract metadata", key="btn_extract"):
-        st.json(call("/extract", {"eng_query": eng_query}))
+        result = call("/extract", {"eng_query": eng_query})
+        if result:
+            st.caption(f"⏱ {result.get('latency_seconds')}s")
+            st.json(result)
 
 with tab_filter:
     st.subheader("Metadata filter agent — /filter")
@@ -76,6 +107,7 @@ with tab_filter:
         }
         result = call("/filter", payload)
         if result:
+            st.caption(f"⏱ {result.get('latency_seconds')}s")
             matches = result.get("context", [])
             st.write(f"{len(matches)} match(es)")
             if matches:
@@ -102,4 +134,7 @@ with tab_respond:
                 "context": context,
                 "chat_hist": [],
             }
-            st.json(call("/respond", payload))
+            result = call("/respond", payload)
+            if result:
+                st.caption(f"⏱ {result.get('latency_seconds')}s")
+                st.json(result)

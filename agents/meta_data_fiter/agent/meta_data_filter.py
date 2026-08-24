@@ -1,5 +1,6 @@
 from agents.meta_data_fiter.agent.helpers import _load_drugs,_tokenize,_matches_price
 
+MAX_CONTEXT_ITEMS = 40
 
 
 def meta_data_filter(state):
@@ -26,6 +27,7 @@ def meta_data_filter(state):
         if text_matched or price_matched:
             chunks.append(drug)
     if chunks is None :
-        return {"is_academic":True}  
-    
-    return {"context": chunks}
+        return {"is_academic":True}
+
+    # Cap what gets forwarded to the responder so a broad match can't overflow the LLM's context window.
+    return {"context": chunks[:MAX_CONTEXT_ITEMS]}

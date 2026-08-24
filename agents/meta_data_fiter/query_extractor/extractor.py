@@ -16,11 +16,11 @@ def meta_data_extractor (state : State):
     result = fallback_client.constrained_invoke(message=message,fallback_order=FALLBACK_ORDER,constraine_model=extractor_model)
 
     return {
-        "commercial_name_en" : result.commercial_name_en,
-        "commercial_name_ar" : result.commercial_name_ar,
-        "scientific_name" : result.scientific_name,
-        "manufacturer" : result.manufacturer,
-        "drug_class" : result.drug_class,
-        "route" : result.route,
-        "price_egp" : result.price_egp,
+        "commercial_name_en" : result["commercial_name_en"],
+        "commercial_name_ar" : result["commercial_name_ar"],
+        "scientific_name" : result["scientific_name"],
+        "manufacturer" : result["manufacturer"],
+        "drug_class" : result["drug_class"],
+        "route" : result["route"],
+        "price_egp" : result["price_egp"],
     }

@@ -19,6 +19,6 @@ def early_responser (state):
     result = fallback_client.constrained_invoke(message,FALLBACK_ORDER,constraine_model=early_responser_model)
 
     return {
-        "response":result.response,
-        "is_academic":result.is_academic
+        "response":result["response"],
+        "is_academic":result["is_academic"]
     }
