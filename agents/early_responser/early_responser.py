@@ -7,7 +7,7 @@ def early_responser (state):
     query = state.get("eng_query")
     language = state.get("user_language")
     content = state.get("context")
-    chat_history : state.get("chat_hist")
+    chat_history = state.get("chat_hist")
 
 
     message = [SystemMessage(content=SYSTEM_PROMPT_EARLY_RESPONSER),
