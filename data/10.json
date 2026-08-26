@@ -1,0 +1,1424 @@
+
+    [{
+      "id": 1,
+      "category": "Nucleoside/Nucleotide Reverse Transcriptase Inhibitors",
+      "name": "Abacavir",
+      "abbreviation": "ABC",
+      "generic_name": "Abacavir Sulphate",
+      "dosage_form_strengths": ["Tablets: Abacavir 300 mg", "Abacavir + Lamivudine (120/60 mg)", "Abacavir + Lamivudine (60/30 mg)"],
+      "route_of_administration": "Oral",
+      "pharmacologic_category": "Nucleoside reverse transcriptase inhibitor (NRTI)",
+      "atc_code": "J05AF06",
+      "indications": "HIV-1 infection: treatment in combination with other antiretroviral agents (adults: alternative to first-line regimen in special circumstances; pediatrics: preferred regimen).",
+      "dosage_regimen": {
+        "adult": "Oral: 300 mg twice daily or 600 mg once daily in combination with other antiretroviral agents.",
+        "pediatric": "Infants >=4 weeks, children, adolescents. Twice-daily: weight-band dosing (ABC 60/120 mg tablets per weight band; ABC 300 mg scored tablets: 14 to <20 kg: 150 mg BID; 20 to <25 kg: 150 mg AM + 300 mg PM; >=25 kg: 300 mg BID). Once-daily (clinically stable, undetectable VL >6 months): ABC 60/120 mg tablets by weight band (3-<6 kg: 2 tabs 60 mg or 1 tab 120mg; 6-<10 kg: 3 / 1.5; 10-<14 kg: 4 / 2; 14-<20 kg: 5 / 2.5; 20-<25 kg: 6 / 3); ABC 300 mg if >=14 kg: 14-<20 kg: 300 mg OD; 20-<25 kg: 450 mg OD; >=25 kg: 600 mg OD."
+      },
+      "dosage_adjustment": {
+        "renal_impairment_adult": "No dosage adjustments.",
+        "renal_impairment_pediatric": null,
+        "hepatic_impairment_adult": "Mild (Child-Pugh A): 200 mg twice daily (oral solution recommended). Moderate to severe (B or C): contraindicated.",
+        "hepatic_impairment_pediatric": "Mild: adjustment required, no pediatric-specific recommendations available. Moderate-severe (Child-Pugh B or C): contraindicated."
+      },
+      "contraindications": ["Hypersensitivity to abacavir or any component of the formulation", "Moderate to severe hepatic impairment", "HLA-B*5701 positive patients"],
+      "adverse_drug_reactions": {
+        ">10%": "CNS: headache (adults <=13%, pediatrics 1%), fatigue (<=12%), malaise (<=12%). GI: nausea (7-19%)",
+        "1-10%": "CNS: abnormal dreams, sleep disorder, chills, migraine, depression, dizziness, anxiety; Dermatologic: skin rash (5-7%); Metabolic: hypertriglyceridemia (grades 3/4: 2-6%); GI: nausea/vomiting, diarrhea, abdominal pain, gastritis, increased amylase; Hematologic: neutropenia, thrombocytopenia; Hepatic: elevated ALT/AST (grades 3/4: 6% each); Hypersensitivity: drug-induced hypersensitivity (9%), hypersensitivity reaction incl. anaphylaxis and multiorgan failure (8%); Neuromuscular: increased CPK (7-8%); Respiratory: ENT infection, viral RTI, bronchitis, pneumonia; Misc: fever (<=9%)"
+      },
+      "monitoring_parameters": "Blood count with differential, CD4 count, HIV RNA plasma levels, serum transaminases, fasting lipid panel, serum creatine kinase, serum amylase (as clinically indicated), HLA-B*5701 genotype status before initiation/reinitiation, signs/symptoms of hypersensitivity.",
+      "drug_interactions": {
+        "risk_x_avoid_combination": ["Atidarsagene Autotemcel", "Betibeglogene Autotemcel", "Cladribine", "Elivaldogene Autotemcel", "Lovotibeglogene Autotemcel"],
+        "risk_d_consider_therapy_modification": []
+      },
+      "pregnancy_lactation": {
+        "pregnancy": "Preferred NRTI for pregnant patients living with HIV (ART-naive, restarting, or requiring new regimen). May continue if viral suppression effective and tolerated.",
+        "lactation": "Present in human milk; no information on effects on breastfed infant or milk production. Instruct mothers not to breastfeed (HIV transmission, resistance, adverse reaction risks)."
+      },
+      "administration": "May be administered without regard to food.",
+      "warnings_precautions": ["Serious/fatal hypersensitivity reactions (higher risk with HLA-B*5701)", "Immune reconstitution syndrome", "Lactic acidosis/hepatomegaly", "Coronary heart disease risk (increased MI risk in some cohorts)", "Hepatic impairment caution/mild adjustment", "May cause mild hyperglycemia (more common in pediatrics)"],
+      "storage": "Store at 20°C to 25°C. Oral solution may be refrigerated; do not freeze."
+    },
+    {
+      "id": 2,
+      "category": "Nucleoside/Nucleotide Reverse Transcriptase Inhibitors",
+      "name": "Lamivudine",
+      "abbreviation": "3TC",
+      "generic_name": "Lamivudine",
+      "dosage_form_strengths": ["Tablets: Lamivudine 150 mg", "Lamivudine/Zidovudine 150/300 mg", "Abacavir + Lamivudine (120/60 mg)", "Abacavir + Lamivudine (60/30 mg)"],
+      "route_of_administration": "Oral",
+      "pharmacologic_category": "Nucleoside reverse transcriptase inhibitor (NRTI)",
+      "atc_code": "J05AF05",
+      "indications": "HIV-1 infection treatment in adults and pediatrics in combination with other antiretrovirals (first line, alternative first line, second line, alternative second line).",
+      "dosage_regimen": {
+        "adult": "Oral (in combination): 150 mg twice daily or 300 mg once daily.",
+        "pediatric": "Twice-daily: 3TC 30/60 mg tablets by weight band; 3TC 150 mg scored tablets for patients >=14 kg. Once-daily (not initial therapy in children; transition after >=36 weeks stable on BID with undetectable VL and stable CD4): same tablet forms by weight band."
+      },
+      "dosage_adjustment": {
+        "renal_impairment_adult": "CrCl >=50: none. CrCl 30-49: 150 mg once daily. CrCl 15-29: 150 mg first dose then 100 mg once daily. CrCl 5-14: 150 mg then 50 mg once daily. CrCl <5: 50 mg then 25 mg once daily. Hemodialysis/peritoneal dialysis: 50 mg then 25 mg once daily; dose after hemodialysis; no supplement after PD.",
+        "renal_impairment_pediatric": "<25 kg: insufficient data; consider dose reduction/increased interval. >=25 kg: same as adults.",
+        "hepatic_impairment_adult": "No dosage adjustment necessary; not studied in decompensated liver disease.",
+        "hepatic_impairment_pediatric": null
+      },
+      "contraindications": ["Hypersensitivity to lamivudine or any component of the formulation"],
+      "adverse_drug_reactions": {
+        ">10%": "Dermatologic: skin rash (9-12%); GI: diarrhea (8-18%), nausea (<=33%), vomiting (<=13%); Hepatic: hepatomegaly (11% pediatrics); Nervous system: fatigue (<=27%), headache (35%), malaise (<=27%), neuropathy (12%), sleep disturbance (11%); Neuromuscular: musculoskeletal pain (12%); Respiratory: cough (15-18%), ENT infection (25%), nasal symptoms (8-20%), pharyngitis (13%); Misc: fever (up to 25% pediatrics)",
+        "1-10%": "GI: abdominal cramps/pain, anorexia, decreased appetite, dyspepsia, elevated amylase/lipase, stomatitis; Hematologic: neutrophil decrease, lymphadenopathy, thrombocytopenia; Hepatic: elevated ALT/AST; Immunologic: splenomegaly; Nervous system: chills, depression, dizziness; Neuromuscular: arthralgia, increased CPK, myalgia; Respiratory: abnormal breath sounds, wheezing"
+      },
+      "monitoring_parameters": "Hepatic function, lactic acidosis signs, pancreatitis signs, HBV coinfection (before therapy), HIV viral load and CD4 count, immune reconstitution syndrome.",
+      "drug_interactions": {
+        "risk_x_avoid_combination": ["Atidarsagene Autotemcel", "Betibeglogene Autotemcel", "Cladribine", "Elivaldogene Autotemcel", "Lovotibeglogene Autotemcel"],
+        "risk_d_consider_therapy_modification": ["Fexinidazole", "Risdiplam", "Sorbitol" ,  "Tafenoquine", "Vimseltinib"]
+      },
+      "pregnancy_lactation": {
+        "pregn": "High placental transfer; no increased teratogenic risk after trimester.",
+        "lactation": "Present in breast milk; recommended component for acute HIV in postpartum patients. Interrupt breastfeeding immediately if seroconversion suspected; may express/store milk while awaiting results."
+      },
+      "administration": "May be administered without regard to meals.",
+      "warnings_precautions": ["Immune reconstitution syndrome", "Lactic acidosis/hepatomegaly (caution with liver disease risk factors)", "Pancreatitis (especially HIV-infected pediatric patients)", "Resistance concerns in unrecognized HIV or HBV coinfection", "Do not use as monotherapy", "Not recommended combined with emtricitabine as dual-NRTI"],
+      "storage": "Store at 20° to 25°C; excursions permitted to 15° to 30°C."
+    },
+    {
+      "id": 3,
+      "category": "Nucleoside/Nucleotide Reverse Transcriptase Inhibitors",
+      "name": "Tenofovir Disoproxil Fumarate",
+      "abbreviation": "TDF",
+      "generic_name": "Tenofovir Disoproxil Fumarate",
+      "dosage_form_strengths": ["Tablets: Emtricitabine/Tenofovir disoproxil fumarate 200/300 mg"],
+      "route_of_administration": "Oral",
+      "pharmacologic_category": "Reverse transcriptase inhibitor; antiretroviral, nucleotide (anti-HIV)",
+      "atc_code": "J05AF07",
+      "indications": "Treatment of HIV-1 in adults and pediatrics >=2 years weighing >=10 kg, in combination with other antiretrovirals (first line, alternative first line, alternative second line).",
+      "dosage_regimen": {
+        "adult": "Oral: 300 mg once daily (in combination with other antiretrovirals).",
+        "pediatric": "Weight-directed: >=2 years, >=10 kg: 8 mg/kg/dose once daily, max 300 mg/day. Fixed dosing >=17 kg: 17-<22 kg: 150 mg OD; 22-<28 kg: 200 mg OD; 28-<35 kg: 250 mg OD; >=35 kg: 300 mg OD. nPEP children >=2 years: age/weight-appropriate x 28 days within 72 hours of exposure."
+      },
+      "dosage_adjustment": {
+        "renal_impairment_adult": "CrCl >=50: none. 30-49: 300 mg every 48 hr. 10-29: 300 mg every 72-96 hr (twice weekly). <10: not studied, avoid use; if no alternative, 300 mg every 7 days with caution. Hemodialysis: 300 mg following dialysis every 7 days.",
+        "renal_impairment_pediatric": "Not recommended in pediatrics with renal impairment.",
+        "hepatic_impairment_adult": "No dosage adjustment necessary.",
+        "hepatic_impairment_pediatric": "Children >=2 years and adolescents: no dosage adjustment required."
+      },
+      "contraindications": ["Hypersensitivity to tenofovir or any component of the formulation"],
+      "adverse_drug_reactions": {
+        ">10%": "Metabolic: increased triglycerides (11%); GI: diarrhea (11-16%), nausea (8-11%); Nervous system: asthenia (7-11%), pain (12%); Neuromuscular: increased CPK (grades 3/4: 2-12%)",
+        "1-10%": "Cardiovascular: chest pain; Dermatologic: diaphoresis, skin rash; Metabolic: increased glucose, weight loss; GI: abdominal pain, anorexia, dyspepsia, flatulence, elevated amylase, vomiting; GU: glycosuria; Hematologic: increased neutrophils; Hepatic: elevated ALT/AST; Nervous: depression, dizziness, fatigue, headache, insomnia, peripheral neuropathy; Musculoskeletal: back pain, myalgia; Respiratory: nasopharyngitis, pneumonia; Misc: fever"
+      },
+ "monitoring_parameters": "Serum phosphorus, serum creatinine, urine glucose/protein, LFTs, bone density (fracture history/bone loss risk), weight (children), CBC with differential, reticulocyte count, creatine kinase, CD4 count, HIV RNA, HBV testing before ART initiation.",
+      "drug_interactions": {
+        "risk_x_avoid_combination": ["Adefovir", "Atidarsagene Autotemcel", "Betibeglogene Autotemcel", "Cladribine", "Elivaldogene Autotemcel", "Leniolisib", "Lovotibeglogene Autotemcel", "Sparsentan", "Taurursodiol"],
+        "risk_d_consider_therapy_modification": ["Atazanavir", "Belumosudil", "Ledipasvir", "Nonsteroidal Anti-Inflammatory Agents", "Vimseltinib"]
+      },
+      "pregnancy_lactation": {
+        "pregnancy": "High placental transfer; no increased teratogenicity per registry data; maternal ART associated with possible preterm birth/low birth weight; high viral loads also associated with adverse outcomes.",
+        "lactation": "Recommended component when acute HIV detected in breastfeeding patients; instruct mothers not to breastfeed due to HIV transmission/resistance/adverse reactions."
+      },
+      "administration": "Tablets may be administered without regard to meals; do not crush oral tablets; consider calcium and vitamin D supplementation.",
+      "warnings_precautions": ["Decreased bone mineral density", "Immune reconstitution syndrome", "Lactic acidosis/hepatomegaly", "Osteomalacia and renal dysfunction (proximal renal tubulopathy)", "Renal toxicity", "Hepatic impairment caution", "Limited data in decompensated liver disease", "Do not combine with other TDF/TAF products or adefovir", "HBV coinfection: appropriate combination needed"],
+      "storage": "Store at 25°C, dispense only in original container to protect from light and moisture."
+    },
+    {
+      "id": 4,
+      "category": "Nucleoside/Nucleotide Reverse Transcriptase Inhibitors",
+      "name": "Zidovudine",
+      "abbreviation": "ZDV",
+      "generic_name": "Zidovudine",
+      "dosage_form_strengths": ["Tablets: Lamivudine/zidovudine 150/300 mg", "Syrup: 10 mg/ml"],
+      "route_of_administration": "Oral",
+      "pharmacologic_category": "Antiretroviral, reverse transcriptase inhibitor, nucleoside (anti-HIV)",
+      "atc_code": "J05AF01",
+      "indications": "Treatment of HIV-1 infection in combination with other agents (second-line regimen if failed TDF regimen with 3TC+DTG or LPV/r); prevention of maternal-fetal HIV-1 transmission.",
+      "dosage_regimen": {
+        "adult": "HIV treatment: 300 mg twice daily. Maternal-fetal transmission prevention (>14 weeks pregnancy): 100 mg orally 5 times daily until labor; during labor IV 2 mg/kg over 1 hour then continuous infusion 1 mg/kg/hr until cord clamping.",
+        "pediatric": "Neonatal dosing (within 12 hours of birth through 6 weeks): >=35 wk gestation: 4 mg/kg/dose PO BID; 30-<35 wk: 2 mg/kg/dose BID (birth-2 wks), 3 mg/kg/dose BID (2-6 wks); <30 wk: 2 mg/kg/dose BID (birth-4 wks), 3 mg/kg/dose BID (4-6 wks). By body weight: 4 to <=9 kg: 12 mg/kg/12hr; >9 to <=30 kg: 9 mg/kg/12hr; >30 kg: 300 mg/12hr."
+      },
+      "dosage_adjustment": {
+        "renal_impairment_adult": "Hemodialysis/peritoneal dialysis or Cockcroft-Gault CrCl <15 mL/min: oral dosage 100 mg every 6-8 hours.",
+        "renal_impairment_pediatric": null,
+        "hepatic_impairment_adult": "Insufficient data; frequent monitoring of hematologic toxicities advised.",
+        "hepatic_impairment_pediatric": null
+      },
+      "contraindications": ["Potentially life-threatening hypersensitivity to zidovudine or components", "Neutrophil count <750/mm3", "Hemoglobin <7.5 g/dL"],
+      "adverse_drug_reactions": {
+        ">10%": "GI: anorexia (20%), nausea (51%), vomiting (17%); Hematologic: anemia (neonates 22%; adults grades 3/4: 1%); Nervous system: headache (63%), malaise (53%)",
+        "1-10%": null
+      },
+      "monitoring_parameters": "CBC with differential (more frequent with poor marrow reserve), LFTs, serum creatinine, HIV viral load and CD4 count.",
+      "drug_interactions": {
+        "risk_x_avoid_combination": ["Atidarsagene Autotemcel", "BCG (Intravesical)", "Betibeglogene Autotemcel", "Chloramphenicol (Systemic)", "Cladribine", "Elivaldogene Autotemcel", "Fexinidazole", "Lovotibeglogene Autotemcel", "Stavudine"],
+        "risk_d_consider_therapy_modification": ["Amodiaquine", "Clarithromycin", "Deferiprone", "Doxorubicin (Conventional)", "Doxorubicin (Liposomal)", "Ribavirin (Oral Inhalation)", "Ribavirin (Systemic)", "Ropeginterferon Alfa-2b"]
+      },
+      "pregnancy_lactation": {
+        "pregnancy": "No increased teratogenic risk after first-trimester exposure.",
+        "lactation": "Present in breast milk; concentrations similar to maternal serum; not detected in breastfeeding infant serum exposed only via breast milk."
+      },
+      "administration": "May be administered without regard to meals.",
+      "warnings_precautions": ["Hematologic toxicity (neutropenia, severe anemia; hemoglobin reduction as early as 2-4 weeks, neutropenia 6-8 weeks; pancytopenia reported)", "Caution with bone marrow compromise", "Immune reconstitution syndrome", "Lactic acidosis/hepatomegaly", "Lipoatrophy", "Myopathy"],
+      "storage": "Store at 15°C to 25°C. Protect capsules from moisture."
+    },
+    {
+      "id": 5,
+      "category": "Non-nucleoside Reverse Transcriptase Inhibitors",
+      "name": "Efavirenz",
+      "abbreviation": "EFV",
+      "generic_name": "Efavirenz",
+      "dosage_form_strengths": ["Film-coated tablets: EFV 200 mg, 600 mg"],
+      "route_of_administration": "Oral",
+      "pharmacologic_category": "Antiretroviral, reverse transcriptase inhibitor, non-nucleoside (NNRTI)",
+      "atc_code": "J05AG03",
+      "indications": "Antiviral combination treatment of HIV-1 infected adults, adolescents, and children >=3 months weighing at least 3.5 kg.",
+      "dosage_regimen": {
+        "adult": "Adults and adolescents >=40 kg: 600 mg orally once daily in combination with NRTIs with or without PI.",
+        "pediatric": "Children >3 years, >=13 kg, able to swallow tablets, once daily: 13-15 kg: 200 mg; 15-20: 250 mg; 20-25: 300 mg; 25-32.5: 350 mg; 32.5-<40: 400 mg; >=40: 600 mg."
+      },
+      "dosage_adjustment": {
+        "renal_impairment_adult": "No dose adjustment required; close safety monitoring in severe renal failure.",
+        "renal_impairment_pediatric": null,
+        "hepatic_impairment_adult": "Mild (Child-Pugh A): no adjustment; use with caution. Moderate-severe (B or C): not recommended.",
+        "hepatic_impairment_pediatric": null
+      },
+      "contraindications": ["Hypersensitivity to active substance/excipients", "Severe hepatic impairment (Child-Pugh C)", "Co-administration with terfenadine, astemizole, cisapride, midazolam, triazolam, pimozide, bepridil, ergot alkaloids (CYP3A4 competition risk)", "Co-administration with elbasvir/grazoprevir", "St. John's wort preparations", "Family history of sudden death/congenital QTc prolongation", "History of symptomatic cardiac arrhythmias, bradycardia, CHF with reduced LVEF", "Severe electrolyte disturbances (hypokalemia/hypomagnesemia)", "Patients taking QTc-prolonging drugs"],
+      "adverse_drug_reactions": {
+        ">10%": "Dermatologic: skin rash (5-32%); Metabolic: hypercholesterolemia (20-40%), increased HDL (25-35%), increased triglycerides (6-11%); GI: diarrhea (3-14%); Nervous system: CNS toxicity (53%), dizziness (2-28%), depression (3-19%), insomnia (7-16%), anxiety (2-13%), pain (1-13%)",
+        "1-10%": "Dermatologic: pruritus, erythema multiforme; Metabolic: increased GGT, amylase, hyperglycemia; GI: nausea, vomiting, dyspepsia, abdominal pain, anorexia; Hematologic: neutropenia; Hepatic: elevated AST/ALT (higher with HBV/HCV coinfection); Nervous system: lack of concentration, fatigue, headache, drowsiness, nervousness, abnormal dreams, severe depression, hallucination"
+      },
+      "monitoring_parameters": "Cholesterol and triglycerides, liver function, glucose level, signs/symptoms of infection, psychiatric effects.",
+      "drug_interactions": {
+        "risk_x_avoid_combination": ["Abemaciclib", "Acoramidis", "Amodiaquine", "Antihepaciviral Combination Products", "Atidarsagene Autotemcel", "Atrasentan", "Avacopan", "Avapritinib", "Bedaquiline", "Betibeglogene Autotemcel", "Cabotegravir", "Capivasertib", "Capmatinib", "Carbamazepine", "Cobimetinib", "Daridorexant", "Dasabuvir", "Defactinib", "Deflazacort", "Dordaviprone", "Doxorubicin (Conventional)", "Elacestrant", "Elbasvir/Grazoprevir", "Elinzanetant", "Elivaldogene Autotemcel", "Ensartinib", "Entrectinib", "Ergonovine", "Etuvetidigene Autotemcel", "Fedratinib", "Fexinidazole", "Finerenone", "Ibrexafungerp", "Ivabradine", "Lazertinib", "Lemborexant", "Leniolisib", "Letermovir", "Levoketoconazole", "Lonafarnib", "Lovotibeglogene Autotemcel", "Lumateperone", "Mavacamten", "Methoxyflurane", "Mobocertinib", "Nerandomilast", "Neratinib", "Nirogacestat", "Nisoldipine", "Olaparib", "Olutasidenib", "Omaveloxolone", "Palovarotene", "Pemigatinib", "Pimavanserin", "Posaconazole", "Pretomanid", "Quizartinib", "Ranolazine", "Remibrutinib", "Repotrectinib", "NNRTIs", "Revumenib", "Rilzabrutinib", "Rimegepant", "Sacituzumab Govitecan", "Sebetralstat", "Selpercatinib", "Selumetinib", "Sevabertinib", "Simeprevir", "Sonidegib", "Suzetrigine", "Taletrectinib", "Tazemetostat", "Ulipristal", "Vanzacaftor/Tezacaftor/Deutivacaftor", "Velpatasvir", "Venetoclax", "Voclosporin", "Vonoprazan", "Vorapaxar", "Voxilaprevir", "Ziftomenib", "Zoliflodacin", "Zuranolone"],
+        "risk_d_consider_therapy_modification": ["Aficamten", "Alfentanil", "Atazanavir", "Atogepant", "Atovaquone", "Avanafil", "Axitinib", "Brigatinib", "Cabozantinib", "Cariprazine", "Caspofungin", "Clarithromycin", "Crinecerfont", "Daclatasvir", "Deferasirox", "Darunavir", "Dolutegravir", "Duvelisib", "Erdafitinib", "Erlotinib", "Flibanserin", "Fosamprenavir", "Fruquintinib", "Ganaxolone", "Gepotidacin", "Glasdegib", "Glecaprevir/Pibrentasvir", "Guanfacine", "Hormonal Contraceptives", "Itraconazole", "Ketoconazole (Systemic)", "Larotrectinib", "Lefamulin", "Lenacapavir", "Lopinavir", "Lorlatinib", "Lurasidone", "Maraviroc", "Maribavir", "Mifepristone", "Mitapivat", "Paltusotine", "Perampanel", "Pirtobrutinib", "Pralsetinib", "Praziquantel", "Rifabutin", "Ripretinib", "Sunvozertinib", "Ubrogepant", "Valoctocogene Roxaparvovec", "Voriconazole", "Zanubrutinib"]
+      },
+      "pregnancy_lactation": {
+        "pregnancy": "Should not be used in first trimester due to potential neural tube defect risk; avoid unless clinically required. Pregnancy testing before initiation; adequate contraception during and 12 weeks after discontinuation.",
+        "lactation": "Present in breast milk; discontinue breastfeeding during treatment; women living with HIV should not breastfeed."
+      },
+      "administration": "Take on empty stomach, preferably at bedtime (may improve CNS symptom tolerability).",
+      "warnings_precautions": ["Not for monotherapy or added to failing regimen", "Food increases exposure/adverse reactions", "Fixed-combination tablet co-administration caution", "Rash (discontinue if severe with blisteringesquamation/mucosal involvement/fever)", "CNS effects (insomnia, abnormal dreams, hallucinations, depression, suicidal ideation; bedtime dosing helps; avoid driving/machinery)", "Embryo-fetal toxicity", "Fat redistribution", "Hepatotoxicity (including fulminant hepatitis; monitor transaminases)", "Hypercholesterolemia", "Immune reconstitution syndrome", "QT prolongation", "Convulsions (caution in seizure history; monitor phenytoin/phenobarbital levels)", "Not evaluated in children <3 months or <3.5 kg"],
+      "storage": "Store in dry place at temperature not exceeding 30°C."
+      },
+      {
+    "number": 6,
+    "generic_name": "Etravirine",
+    "abbreviation": "ETR",
+    "dosage_form_strengths": "Tablets 100 mg or 200 mg",
+    "route_of_administration": "Oral",
+    "pharmacologic_category": {
+      "category": "Antiretroviral, Reverse Transcriptase Inhibitor, Non-nucleoside (Anti-HIV) (NNRTI)",
+      "atc_code": "J05AG04"
+    },
+    "indications": "Treatment of HIV-1 infection in combination with other antiretroviral medicinal products, in treatment-experienced adult patients and paediatric patients from 2 years of age with viral strains resistant to an NNRTI and other antiretroviral agents (third-line regimen).",
+    "dosage_regimen": {
+      "adult": "Two tablets 100 mg (or one tablet 200 mg) taken orally twice daily following a meal.",
+      "pediatric": [
+        {"body_weight": "≥10 to <20 kg", "dose": "100 mg twice daily"},
+        {"body_weight": "≥20 to <25 kg", "dose": "125 mg twice daily"},
+        {"body_weight": "≥25 to <30 kg", "dose": "150 mg twice daily"},
+        {"body_weight": "≥30 kg", "dose": "200 mg twice daily"}
+      ],
+      "missed_dose": "If missed within 6 hours of usual time, take following a meal as soon as possible then resume schedule. If more than 6 hours, skip and resume usual schedule. If vomiting within 4 hours of dose, take another dose following a meal; if vomiting after 4 hours, no additional dose until next scheduled time."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustment required; highly protein-bound so unlikely removed by hemodialysis or peritoneal dialysis.",
+      "hepatic_impairment_adult": "No adjustment for mild/moderate impairment (Child-Pugh A or B); use with caution in moderate impairment; not recommended in severe impairment.",
+      "renal_impairment_pediatric": "Children ≥2 years: No dosage adjustments required.",
+      "hepatic_impairment_pediatric": "Mild to moderate impairment: no adjustments required. Severe impairment: no adjustments provided (has not been studied)."
+    },
+    "contraindications": [
+      "Hypersensitivity to etravirine or any component of the formulation",
+      "Concomitant use with hepatitis C combination regimen of ombitasvir, paritaprevir, ritonavir, and drugs containing dasabuvir or elbasvir/grazoprevir"
+    ],
+    "adverse_drug_reactions": {
+      "greater_than_10_percent": {
+        "dermatologic": "Skin rash (adults 10%; children 15%)",
+        "endocrine_metabolic": "Hypercholesterolemia (grades 2-3: 8%-20%), increased LDL cholesterol (grade 2: 13%), increased serum glucose (grades 2-3: 4%-15%)",
+        "gastrointestinal": "Diarrhea (children/adolescents: all grades ≥2%)"
+      },
+      "one_to_10_percent": null
+    },
+    "monitoring_parameters": "Viral load, CD4 count, cholesterol, triglycerides, hepatic transaminases (if signs/symptoms of hypersensitivity develop); signs of skin rash, signs and symptoms of infection.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": ["Abemaciclib", "Antihepaciviral Combination Products", "Atidarsagene Autotemcel", "Atrasentan", "Avacopan", "Avanafil", "Avapritinib", "Bedaquiline", "Betibeglogene Autotemcel", "Capivasertib", "Capmatinib", "Cariprazine", "Cobimetinib", "CYP3A4 Inducers (Strong)", "Daclatasvir", "Daridorexant", "Dasabuvir", "Defactinib", "Deflazacort", "DOXOrubicin (Conventional)", "Elacestrant", "Elbasvir and Grazoprevir", "Elivaldogene Autotemcel", "Ensartinib", "Entrectinib", "Ergonovine", "Fedratinib", "Fexinidazole", "Finerenone", "Flibanserin", "Fosamprenavir", "Ibrexafungerp", "Ivabradine", "Lazertinib", "Lemborexant", "Leniolisib", "Letermovir", "Lonafarnib", "Lovotibeglogene Autotemcel", "Lumateperone", "Mavacamten", "Mobocertinib", "Neratinib", "Nirogacestat", "Nisoldipine", "Olaparib", "Olutasidenib", "Omaveloxolone", "Palovarotene", "Pemigatinib", "Phenobarbital-Primidone", "Pimavanserin", "Pretomanid", "Quizartinib", "Ranolazine", "Repotrectinib", "Reverse Transcriptase Inhibitors (Non-Nucleoside)", "Revumenib", "Rifabutin", "Rifapentine", "Rimegepant", "Selpercatinib", "Selumetinib", "Simeprevir", "St John's Wort", "Suzetrigine", "Sonidegib", "Taletrectinib", "Tazemetostat", "Tipranavir", "Ulipristal", "Vanzacaftor", "Velpatasvir", "Venetoclax", "Voclosporin", "Vonoprazan", "Vorapaxar", "Voxilaprevir", "Zuranolone"],
+      "risk_d_consider_therapy_modification": ["Alfentanil", "Atazanavir", "Atogepant", "Axitinib", "Brigatinib", "Cabozantinib", "Clarithromycin", "Clopidogrel", "Crinecerfont", "Darunavir", "Dolutegravir", "Duvelisib", "Erdafitinib", "Erlotinib", "Fruquintinib", "Ganaxolone", "Glasdegib", "Guanfacine", "Indinavir", "Larotrectinib", "Lefamulin", "Lenacapavir", "Lorlatinib", "Lurasidone", "Maraviroc", "MiFEPRIStone", "Mitapivat", "Perampanel", "Pirtobrutinib", "Pralsetinib", "Praziquantel", "Ripretinib", "Ritonavir", "Ubrogepant", "Voxelotor", "Zanubrutinib"]
+    },
+    "pregnancy_and_lactation": {
+      "pregnancy": "Given increased etravirine exposure during pregnancy, caution should be applied for pregnant patients who require concomitant medicinal products or have comorbidities that may further increase etravirine exposure.",
+      "lactation": null
+    },
+    "administration": "Administer after meals. Tablets should be swallowed whole; if unable to swallow whole, may disperse in water (5 mL), stir until milky, add ~15 mL of water, milk, or orange juice, and drink immediately. Do not place tablets directly in orange juice or milk without first adding water. Rinse glass several times and swallow contents each rinse. Do not use carbonated beverages or warm (>40°C) water.",
+    "warnings_precautions": {
+      "adverse_effect_concerns": [
+        "Fat redistribution",
+        "Immune reconstitution syndrome",
+        "Severe/life-threatening skin reactions (Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme); discontinue immediately if severe skin reaction occurs"
+      ],
+      "special_populations": "Not for treatment-naive patients or experienced patients without NNRTI/PI resistance mutations.",
+      "pediatric_considerations": "Rash more common/severe in pediatric patients (2 to <18 years), particularly <6 years and females; incidence children 2 to <6 years 50%, pediatric patients ≥6 years 15%, adults 10%.",
+      "overdosage": "No specific antidote; highest studied dose 400 mg once daily; supportive measures; dialysis unlikely effective due to high protein binding."
+    },
+    "storage": "Store at room temperature of 25°C; excursions permitted to 15°C–30°C. Protect from moisture."
+  },
+  {
+    "number": 7,
+    "generic_name": "Nevirapine",
+    "abbreviation": "NVP",
+    "dosage_form_strengths": "Suspension: 50 mg/5 mL",
+    "route_of_administration": "Oral",
+    "pharmacologic_category": {
+      "category": "Antiretroviral, Reverse Transcriptase Inhibitor, Non-nucleoside (Anti-HIV)",
+      "atc_code": "J05AG01"
+    },
+    "indications": "Often used as part of newborn antiretroviral regimens to prevent perinatal transmission of HIV.",
+    "dosage_regimen": {
+      "adult": null,
+      "pediatric": {
+        "by_bsa": "150 mg/m² once daily for two weeks, followed by 150 mg/m² twice daily thereafter (all ages).",
+        "by_weight_under_8_years": "4 mg/kg once daily for two weeks, followed by 7 mg/kg twice daily thereafter.",
+        "by_weight_8_years_and_older": "4 mg/kg once daily for two weeks, followed by 4 mg/kg twice daily thereafter.",
+        "simplified_age_based_dosing_table": {
+          "strength": "Syrup 10 mg/ml",
+          "dosing": [
+            {"age": "0–6 weeks", "AM": "1.5 ml", "PM": "-"},
+            {"age": "6–12 weeks", "AM": "2 ml", "PM": "-"},
+            {"age": "12 weeks – 6 months", "AM": "2 ml", "PM": "-"},
+            {"age": "6–9 months", "AM": "3 ml", "PM": "-"},
+            {"age": "9–24 months", "AM": "4 ml", "PM": "-"}
+          ]
+        }
+      }
+    },
+    "dosage_adjustment": {
+      "renal_impairment": "CrCl <20 mL/min: No dosage adjustments (has not been studied). Hemodialysis: Additional 200 mg dose recommended following dialysis session.",
+      "hepatic_impairment": "Permanently discontinue if symptomatic hepatic events occur. Mild impairment (Child-Pugh A): no dosage adjustments; use with caution. Moderate to severe impairment (Child-Pugh B or C): use is contraindicated."
+    },
+    "contraindications": [
+      "Moderate to severe hepatic impairment (Child-Pugh class B or C)",
+      "Use in occupational or nonoccupational postexposure prophylaxis (PEP) regimens",
+      "Hypersensitivity to nevirapine or any component of the formulation"
+    ],
+    "adverse_drug_reactions": {
+      "greater_than_10_percent": {
+        "endocrine_metabolic": "Decreased serum phosphate (≤38%), hypercholesterolemia (3%–19%), increased LDL cholesterol (5%–15%)",
+        "hepatic": "Hepatic impairment (≤11%, including cholestatic hepatitis, fulminant hepatitis, hepatic failure, hepatic necrosis, hepatitis, hepatotoxicity, hyperbilirubinemia, increased GGT, jaundice), increased serum ALT (2%–14%)"
+      },
+      "one_to_10_percent": null
+    },
+    "monitoring_parameters": "Monitor CBC and viral load. Intensive monitoring required during initial 18 weeks of therapy to detect potentially life-threatening hepatic, dermatologic, and hypersensitivity reactions. LFTs at baseline, before dose escalation, and 2 weeks post-escalation. Assess AST/ALT immediately in any patient with a rash.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": ["Atazanavir", "Atidarsagene Autotemcel", "Carbamazepine", "Daclatasvir", "Ergonovine", "Itraconazole", "Lenacapavir", "Letermovir", "Levoketoconazole", "Methoxyflurane", "Nelfinavir", "Reverse Transcriptase Inhibitors (Non-Nucleoside)", "Rifampin", "Saquinavir", "Simeprevir", "St John's Wort", "Velpatasvir"],
+      "risk_d_consider_therapy_modification": ["Atogepant", "Caspofungin", "Clarithromycin", "CYP3A4 Inducers (Strong)", "Darunavir", "Dolutegravir", "Fosamprenavir", "Indinavir", "Ketoconazole (Systemic)", "Lopinavir", "Ubrogepant"]
+    },
+    "pregnancy_and_lactation": {
+      "pregnancy": "Currently available data on pregnant women indicate no malformative or foeto/neonatal toxicity. No adequate well-controlled studies in pregnant women; caution should be exercised when prescribing nevirapine to pregnant women.",
+      "lactation": "It is recommended that women living with HIV not breastfeed their infants to avoid HIV transmission."
+    },
+    "administration": "May be administered with or without food. Shake suspension gently before administration; use oral dosing syringe especially if dose ≤5 mL; rinse dosing cup with water and administer rinse.",
+    "warnings_precautions": "Fat redistribution, hepatotoxicity, severe life-threatening skin reactions, immune reconstitution syndrome, and rhabdomyolysis.",
+    "storage": "Store at 20°C–25°C; excursions permitted to 15°C–30°C."
+  },
+  {
+    "number": 8,
+    "generic_name": "Lopinavir/Ritonavir",
+    "abbreviation": "LPV/r",
+    "dosage_form_strengths": "Tablets: 200/50 mg, 100/25 mg; Pellets or granules: 40/10 mg",
+    "route_of_administration": "Oral",
+    "pharmacologic_category": {
+      "category": "Antiretroviral, Protease Inhibitor (Anti-HIV)",
+      "atc_code": "J05AR10"
+    },
+    "indications": "Treatment of HIV-1 infection in adults and pediatric patients 14 days of age and older in combination with other antiretroviral agents (adults: component of second-line regimen if failed TDF or AZT regimen; pediatrics: preferred regimen).",
+    "dosage_regimen": {
+      "adult": {
+        "without_efv_nelfinavir_nvp": "Twice-daily: lopinavir 400 mg/ritonavir 100 mg twice daily. Once-daily: therapy-naive/experienced with <3 lopinavir resistance-associated substitutions: lopinavir 800 mg/ritonavir 200 mg once daily.",
+        "with_efv_nelfinavir_nvp": "Tablet: lopinavir 500 mg/ritonavir 125 mg twice daily (once-daily not recommended).",
+        "with_rifampicin": "Double-dose LPV 800 mg + ritonavir 200 mg twice daily, or super boosted LPV 400 mg + ritonavir 100 mg twice daily plus additional ritonavir 300 mg twice daily, with close monitoring.",
+        "with_rifabutin": "No dose adjustment required. Rifapentine should not be used.",
+        "pregnant_women": "Tablet: lopinavir 400 mg/ritonavir 100 mg twice daily; may increase to lopinavir 600 mg/ritonavir 150 mg or 500 mg/125 mg twice daily during second/third trimesters; avoid once-daily or solution form."
+      },
+      "pediatric": {
+        "infants_42_weeks_pma_or_more": "Not receiving concomitant efavirenz/nelfinavir/nevirapine: lopinavir 16 mg/kg/dose or 300 mg/m²/dose twice daily.",
+        "children_adolescents_not_on_efv_nelfinavir_nvp": "<15 kg: 12 mg/kg/dose twice daily; 15–40 kg: 10 mg/kg/dose twice daily; >40 kg: 400 mg twice daily.",
+        "experienced_or_decreased_sensitivity": "<15 kg: 13 mg/kg/dose twice daily; 15–45 kg: 11 mg/kg/dose twice daily; >45 kg: 400 mg twice daily.",
+        "weight_band_dosing_swallowable_tablets": "15–20 kg: 200 mg twice daily; >20–30 kg: 300 mg twice daily; >30 kg: 400 mg twice daily.",
+        "with_concomitant_efv_nelfinavir_nvp": "<15 kg: 13 mg/kg/dose twice daily; ≥15 to 45 kg: 11 mg/kg/dose twice daily; >45 kg: oral solution lopinavir 520 mg twice daily; tablets lopinavir 500 mg twice daily.",
+        "notes": "Use of tablets in patients <15 kg or <0.6 m² is not recommended; oral solution preferable. Once-daily dosing not recommended in children <18 years. Not recommended in infants receiving efavirenz/nelfinavir/nevirapine."
+      },
+      "weight_band_tables": {
+        "twice_daily_infants_children_4weeks_plus": [
+          {"strength": "Tablet 100/25 mg", "3_to_lt6_kg_AM": "-", "3_to_lt6_kg_PM": "-", "6_to_lt10_AM": "-", "6_to_lt10_PM": "-", "10_to_lt14_AM": "2", "10_to_lt14_PM": "1", "14_to_lt20_AM": "2", "14_to_lt20_PM": "2", "20_to_lt25_AM": "2", "20_to_lt25_PM": "2"},
+          {"strength": "Pellets 40/10 mg", "3_to_lt6_kg_AM": "2", "3_to_lt6_kg_PM": "2", "6_to_lt10_AM": "3", "6_to_lt10_PM": "3", "10_to_lt14_AM": "4", "10_to_lt14_PM": "4", "14_to_lt20_AM": "5", "14_to_lt20_PM": "5", "20_to_lt25_AM": "6", "20_to_lt25_PM": "6"}
+        ],
+        "granules_infants_younger_than_4_weeks": [{"strength": "Granules (sachets) 40/10 mg", "weight_band": "3 to <5 kg", "AM": "2", "PM": "2"}]
+      }
+    },
+    "dosage_adjustment": {
+      "renal_impairment": "No dosage adjustments provided. Hemodialysis: Avoid once-daily dosing.",
+      "hepatic_impairment": "Mild to moderate: no dosage adjustments; use with caution. Severe: no dosage adjustments (has not been studied); use with caution."
+    },
+    "contraindications": ["Hypersensitivity (e.g., toxic epidermal necrolysis, Stevens-Johnson syndrome) to lopinavir, ritonavir, or any component of the formulation"],
+    "adverse_drug_reactions": {
+      "greater_than_10_percent": {
+        "endocrine_metabolic": "Increased gamma-glutamyl transferase (grade 3/4: 10%–29%)",
+        "gastrointestinal": "Diarrhea (12%–20%; greater with once-daily dosing), dysgeusia (children 22%), vomiting (children 21%; adults 7%)",
+        "hepatic": "Increased serum ALT (grade 3/4: children/adults 1%–11%)",
+        "respiratory": "Upper respiratory tract infection (14%)"
+      },
+      "one_to_10_percent": null
+    },
+    "monitoring_parameters": "Before therapy consider genotypic/phenotypic testing for lopinavir resistance-associated substitutions. Triglycerides and cholesterol (before initiation, then periodically), LFTs, electrolytes, glucose, basic HIV monitoring, viral load, CD4 count.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": ["Acalabrutinib", "Acoramidis", "Alfuzosin", "ALPRAZolam", "Amiodarone", "Antihepaciviral Combination Products", "Apalutamide", "Aprepitant", "Atazanavir", "Atidarsagene Autotemcel", "Atrasentan", "Avanafil", "Avapritinib", "Barnidipine", "Betibeglogene Autotemcel", "Bilastine", "Blonanserin", "Bosutinib", "Budesonide (Topical)", "Bulevirtide", "Cabotegravir", "Cisapride", "Clobetasone", "Cobicistat", "Cobimetinib", "Conivaptan", "CYP3A4 Inducers (Strong)", "Dapoxetine", "Daridorexant", "Darunavir", "Defactinib", "Disulfiram", "Domperidone", "DOXOrubicin (Conventional)", "Dronedarone", "Elacestrant", "Elagolix, Estradiol, and Norethindrone", "Elbasvir and Grazoprevir", "Eletriptan", "Elivaldogene Autotemcel", "Ensartinib", "Eplerenone", "Ergot Derivatives (Vasoconstrictive CYP3A4 Substrates)", "Everolimus", "Finerenone", "Flecainide", "Flibanserin", "Fluticasone (Nasal)", "Fosamprenavir", "Fosaprepitant", "Futibatinib", "Garlic", "Gepirone", "Glecaprevir and Pibrentasvir", "Ibrutinib", "Isavuconazonium Sulfate", "Ivabradine", "Lefamulin", "Lemborexant", "Leniolisib", "Lercanidipine", "Letermovir", "Levoketoconazole", "Lomitapide", "Lonafarnib", "Lovastatin", "Lovotibeglogene Autotemcel", "Lurasidone", "Macitentan", "Meptazinol", "Methotrimeprazine", "Methoxyflurane", "MetroNIDAZOLE (Systemic)", "Midazolam", "Mitapivat", "Mobocertinib", "Naloxegol", "Neratinib", "NIFEdipine (Topical)", "NiMODipine", "Nirogacestat", "Nisoldipine", "Pacritinib", "Palovarotene", "PAZOPanib", "Pimozide", "Propafenone", "QuiNIDine", "QuiNINE", "Radotinib", "Ranolazine", "Red Yeast Rice", "Regorafenib", "Repotrectinib", "Resmetirom", "Revefenacin", "RifAMPin", "Rimegepant", "Rivaroxaban", "Rupatadine", "Ruxolitinib (Topical)", "Sacituzumab Govitecan", "Salmeterol", "Sebetralstat", "Secnidazole", "Sertindole", "Silodosin", "Simeprevir", "Simvastatin", "Sirolimus (Protein Bound)", "Sonidegib", "Sparsentan", "St John's Wort", "Suvorexant", "Suzetrigine", "Taletrectinib", "Tamsulosin", "Taurursodiol", "Tazemetostat", "Ticagrelor", "Tipranavir", "Tolvaptan", "Topotecan", "Trabectedin", "Triazolam", "Ubrogepant", "Udenafil", "Vincristine", "Vinflunine", "Voclosporin", "Vorapaxar", "Voxilaprevir", "Zavegepant (Nasal)"],
+      "risk_d_consider_therapy_modification": ["Abemaciclib", "Adagrasib", "Ado-Trastuzumab Emtansine", "Afatinib", "Alfentanil", "Alitretinoin (Systemic)", "Almotriptan", "Alpelisib", "Apixaban", "ARIPiprazole", "Atogepant", "Atorvastatin", "Avacopan", "Axitinib", "Bedaquiline", "Bosentan", "Brexpiprazole", "Brigatinib", "Brincidofovir", "Bromocriptine", "Budesonide (Oral Inhalation, systemic)", "BusPIRone", "Cabazitaxel", "Cabozantinib", "Canagliflozin", "Capivasertib", "CarBAMazepine", "Cariprazine", "Ceritinib", "Cilostazol", "Cladribine", "Clarithromycin", "Clopidogrel", "Colchicine", "Copanlisib", "Crizotinib", "CycloSPORINE (Systemic)", "Dabrafenib", "Daclatasvir", "Darifenacin", "Dasatinib", "Deferasirox", "Deflazacort", "Delamanid", "DexAMETHasone (Systemic)", "Digoxin", "DOCEtaxel", "Duvelisib", "Efavirenz", "Elexacaftor, Tezacaftor, and Ivacaftor", "Eliglustat", "Eluxadoline", "Entrectinib", "Erdafitinib", "Erlotinib", "Erythromycin (Systemic)", "Eszopiclone", "Etravirine", "Fedratinib", "Felodipine", "FentaNYL", "Fesoterodine", "Fexinidazole", "Fluticasone (Oral Inhalation)", "Fosphenytoin", "Fusidic Acid (Systemic)", "Gepotidacin", "Gilteritinib", "Glasdegib", "GuanFACINE", "Halofantrine", "Hormonal Contraceptives", "Ibrexafungerp", "Idelalisib", "Iloperidone", "Indinavir", "Irinotecan Products", "Istradefylline", "Itraconazole", "Ivacaftor", "Ivosidenib", "Ixabepilone", "Ketoconazole (Systemic)", "LamoTRIgine", "Lapatinib", "Larotrectinib", "Levomilnacipran", "Lorlatinib", "Lumateperone", "Lurbinectedin", "Manidipine", "Maraviroc", "Mavacamten", "Mavorixafor", "Midostaurin", "MiFEPRIStone", "Mirodenafil", "Nelfinavir", "Nevirapine", "NIFEdipine (Systemic)", "Nilotinib", "Olaparib", "Omaveloxolone", "Osilodrostat", "Palbociclib", "Panobinostat", "Pemigatinib", "Pexidartinib", "PHENobarbital", "Phenytoin", "Pimavanserin", "Pirtobrutinib", "PONATinib", "Pralsetinib", "Primidone", "QUEtiapine", "Quizartinib", "Relugolix, Estradiol, and Norethindrone", "Revumenib", "Ribociclib", "Rifabutin", "Riociguat", "Rosuvastatin", "Ruxolitinib (Systemic)", "SAXagliptin", "Selpercatinib", "Selumetinib", "Sildenafil", "Sirolimus (Conventional)", "Solifenacin", "SUFentanil", "SUNItinib", "Sunvozertinib", "Tacrolimus (Systemic)", "Tadalafil", "Temsirolimus", "Tezacaftor and Ivacaftor", "Thioridazine", "Thiotepa", "Tofacitinib", "Tolterodine", "Toremifene", "TraZODone", "Tretinoin (Systemic)", "Triamcinolone (Systemic)", "Upadacitinib", "Valbenazine", "Vamorolone", "Vanzacaftor, Tezacaftor, and Deutivacaftor", "Vardenafil", "Vemurafenib", "Venetoclax", "Vilazodone", "Voriconazole", "Zanubrutinib", "Zopiclone", "Zuranolone"]
+    },
+    "pregnancy_and_lactation": {
+      "pregnancy": "No dose adjustment required during pregnancy and postpartum. Once-daily administration not recommended due to lack of PK and clinical data.",
+      "lactation": "Studies in rats revealed lopinavir excreted in milk; unknown whether excreted in human milk. Women living with HIV advised not to breastfeed to avoid transmission."
+    },
+    "administration": "Solution: must be administered with food. Tablet: may be taken with or without food; swallow whole, do not break, crush, or chew.",
+    "warnings_precautions": "Cardiovascular concerns (possible higher MI risk; consider avoiding in high cardiac risk patients); may alter cardiac conduction/prolong QTc and/or PR interval; fat redistribution; hepatotoxicity (caution in hepatitis B/C and cirrhosis); immune reconstitution syndrome; increased cholesterol; changes in glucose tolerance/hyperglycemia/DKA; caution in hemophilia A/B; caution in hepatic impairment; pancreatitis risk with increased triglycerides.",
+    "storage": "Oral solution: store at 2°C–8°C; avoid excessive heat; if stored at 25°C use within 2 months. Tablet: store at 20°C–25°C, excursions permitted to 15°C–30°C; avoid high humidity outside original container >2 weeks."
+  },
+  {
+    "id": 9,
+    "category": "Integrase Inhibitors",
+    "generic_name": "Cabotegravir",
+    "brand_names": ["Apretude", "Vocabria"],
+    "dosage_forms_strengths": {
+      "intramuscular_injection": "Apretude: 600 mg/3 mL (3 mL)",
+      "tablet_oral": ["Apretude: 30 mg", "Vocabria: 30 mg"]
+    },
+    "route_of_administration": ["Oral", "Intramuscular injection"],
+    "pharmacologic_category": {
+      "category": ["Antiretroviral", "Integrase Inhibitor (Anti-HIV)"],
+      "atc_classification": "J05AJ04"
+    },
+    "indications": [
+      "Pre-exposure prophylaxis (PrEP) to reduce the risk of sexually acquired HIV-1 infection in individuals at high risk, in combination with safer sex practices, in adults and adolescents (≥12 years and ≥35 kg)",
+      "Treatment of HIV-1 infection in virologically suppressed adults/adolescents (HIV-1 RNA <50 copies/mL) on a stable regimen with no INSTI or NNRTI resistance or prior virological failure with these classes",
+      "Tablets may be used as oral lead-in to assess tolerability before long-acting injectable therapy, or as oral therapy when planned injections will be missed"
+    ],
+    "dosage_regimen": {
+      "prep_hiv_infection_oral_lead_in": "30 mg once daily for 1 month (≥28 days); missed dose taken ASAP if next dose >12 hours away, otherwise skip",
+      "initiation_injections": "IM 600 mg once monthly for 2 doses; administer initiation injection on last day of oral lead-in or within 3 days after",
+      "continuation_injections": "IM 600 mg once every 2 months, starting 2 months after last initiation injection; may be given up to 7 days before or after scheduled date",
+      "missed_doses": {
+        "planned_missed_injections": {
+          "definition": "Injection delayed by more than 7 days is considered missed",
+          "oral_replacement": "Oral cabotegravir 30 mg once daily may replace one missed injection for up to 2 months, starting ~2 months (±7 days) after last injection; resume injections day oral dosing ends or within 3 days",
+          "if_oral_continued_over_2_months": "Alternative oral PrEP regimen recommended"
+        },
+        "unplanned_missed_second_injection": {
+          "time_since_first_injection_le_2_months": "Administer one 600 mg injection ASAP and continue every-2-month schedule",
+          "time_since_first_injection_gt_2_months": "Restart: one 600 mg initiation injection, second 600 mg initiation injection one month later, then every-2-month schedule"
+        },
+        "unplanned_missed_third_or_subsequent_injection": {
+          "time_since_prior_injection_le_3_months": "Administer one 600 mg injection ASAP and continue every-2-month schedule",
+          "time_since_prior_injection_gt_3_months": "Restart: one 600 mg initiation injection, second 600 mg initiation injection one month later, then every-2-month schedule"
+        }
+      }
+    },
+    "dosage_adjustment": {
+      "hepatic_impairment": {
+        "mild_moderate_child_pugh_A_B": "No dose adjustment",
+        "severe_child_pugh_C": "Use with caution"
+      },
+      "renal_impairment": {
+        "mild_moderate_severe": "No dose adjustment required",
+        "renal_replacement_therapy": "Use with caution"
+      }
+    },
+    "contraindications": [
+      "Hypersensitivity to active substance or excipients",
+      "Unknown or positive HIV-1 status (for prophylaxis)",
+      "Concomitant use with rifampicin, rifapentine, carbamazepine, oxcarbazepine, phenytoin, or phenobarbital"
+    ],
+    "adverse_drug_reactions": {
+      "greater_than_10_percent": {
+        "local": ["Induration at injection site", "Injection-site nodule", "Injection-site reaction", "Pain at injection site", "Swelling at injection site", "Tenderness at injection site"],
+        "nervous_system": ["Headache"],
+        "neuromuscular_skeletal": ["Increased creatine phosphokinase"]
+      },
+      "one_to_10_percent": {
+        "dermatologic": ["Skin rash"],
+        "gastrointestinal": ["Abdominal distress", "Abdominal pain", "Decreased appetite", "Diarrhea", "Flatulence", "Increased serum lipase", "Nausea", "Vomiting"],
+        "hepatic": ["Increased ALT", "Increased AST"],
+        "local": ["Abscess at injection site", "Bruising at injection site", "Erythema at injection site", "Injection-site numbness", "Injection-site pruritus", "Skin discoloration at injection site", "Warm sensation at injection site"],
+        "nervous_system": ["Anxiety", "Asthenia", "Dizziness", "Drowsiness", "Fatigue", "Sleep disturbance including abnormal dreams", "Insomnia"],
+        "neuromuscular_skeletal": ["Back pain", "Myalgia"],
+        "renal": ["Increased serum creatinine"],
+        "respiratory": ["Upper respiratory tract infection"],
+        "miscellaneous": ["Fever"]
+      }
+    },
+    "monitoring_parameters": [
+      "Liver chemistries; signs/symptoms of hypersensitivity and/or skin reactions; mood changes",
+      "PrEP: documented negative HIV-1 RNA assay (≤1 week before initiating/reinitiating, at 1 month post-initiation, then every 2 months during PrEP, and after discontinuation); assess symptoms of acute HIV infection (before initiation, at 1 month post-initiation, then every 2 months)"
+    ],
+    "drug_interactions": {
+      "risk_X_avoid_combination": ["Atidarsagene Autotemcel", "Betibeglogene Autotemcel", "Elivaldogene Autotemcel", "Etuvetidigene Autotemcel", "Lovotibeglogene Autotemcel", "Nirmatrelvir and Ritonavir", "Oxcarbazepine", "Rifapentine", "UGT1A1 Inducers"],
+      "risk_D_consider_therapy_modification": ["Atazanavir", "Belumosudil", "Polyvalent Cation Containing Products", "Rifabutin"]
+    },
+    "pregnancy_and_lactation": {
+      "pregnancy": "Not recommended due to limited human data and unknown effects; use only if benefit outweighs risk. Counsel women of childbearing potential about prolonged systemic persistence (up to 12 months or longer) after discontinuation with potential fetal exposure",
+      "lactation": "Expected to be excreted in human milk based on animal data; breastfeed only if benefit outweighs risk. Women living with HIV advised not to breastfeed to prevent transmission"
+    },
+    "administration": {
+      "tablets": [
+        "May be administered with or without food",
+        "Polyvalent cation-containing antacids should be taken at least 2 hours before and 4 hours after cabotegravir tablets",
+        "When taken with rilpivirine tablets, take with a meal"
+      ],
+      "injection": [
+        "For intramuscular use, administer in ventrogluteal (preferred) or dorsogluteal site avoiding intravascular injection",
+        "Give dose as soon as possible after preparation; discard if held in syringe more than 2 hours"
+      ]
+    },
+    "warnings_precautions": [
+      "Reconfirm HIV-negative status at each subsequent injection",
+      "Use only in confirmed HIV-negative individuals (as prophylaxis); start ART immediately if HIV diagnosed; never use alone to treat HIV-1; initiate alternative PrEP within 2 months of discontinuation in those at ongoing risk",
+      "Hypersensitivity reactions (rash, fever, malaise, fatigue, muscle/joint aches, blisters, oral lesions, conjunctivitis, facial edema, hepatitis, eosinophilia, angioedema) may occur; stop immediately if they occur with clinical/liver monitoring",
+      "Hepatotoxicity reported; monitor clinically and by laboratory tests; discontinue if confirmed",
+      "Adolescents should be counseled about risk of suicidal ideation/behavior, especially with pre-existing psychiatric conditions; monitor periodically",
+      "Virological failure risk increases with ≥2 baseline factors: archived rilpivirine resistance, HIV-1 subtype A6/A1, or BMI ≥30 kg/m² (especially with every-2-month dosing); caution if treatment history/resistance data incomplete",
+      "Does not cure HIV; patients may develop opportunistic infections requiring ongoing monitoring",
+      "Immune reactivation syndrome or autoimmune disorders may occur with cART initiation in severe immune deficiency"
+    ],
+    "storage": {
+      "tablet": "Store below 30°C",
+      "injection": "Do not freeze. Do not store above 25°C"
+    }
+  },
+  {
+    "id": 10,
+    "category": "Integrase Inhibitors",
+    "generic_name": "Dolutegravir (DTG)",
+    "brand_names": [],
+    "dosage_forms_strengths": {
+      "film_coated_tablets": ["50 mg", "10 mg"]
+    },
+    "route_of_administration": ["Oral"],
+    "pharmacologic_category": {
+      "category": ["Antiretroviral", "Integrase Inhibitor (Anti-HIV)"],
+      "atc_classification": "J05AJ03"
+    },
+    "indications": [
+      "Treatment of HIV-1 infection in combination with other antiretroviral agents for treatment-naive or experienced adult or pediatric patients"
+    ],
+    "dosage_regimen": {
+      "adults_no_integrase_resistance": {
+        "standard_dose": "50 mg orally once daily",
+        "twice_daily_when_coadministered_with": ["efavirenz", "nevirapine", "tipranavir/ritonavir", "rifampicin"]
+      },
+      "adults_with_integrase_resistance_documented_or_suspected": "50 mg twice daily",
+      "pediatrics_age_4_weeks_and_above_weight_at_least_3_kg": {
+        "insti_naive_treatment_naive_or_experienced": {
+          "soluble_tablets_for_oral_suspension": "Infants and children weighing 3 to <20 kg",
+          "tablets": {
+            "14_to_less_than_20_kg": "40 mg once daily",
+            "at_least_20_kg": "50 mg once daily"
+          }
+        },
+        "insti_experienced_with_resistance_mutation_or_suspected_resistance": "Insufficient data for children/adolescents/infants; some references recommend 50 mg twice daily in those weighing ≥40 kg",
+        "bioequivalence_note": "Dispersible tablets have ~1.6-fold higher relative bioavailability vs film-coated tablets; 50 mg film-coated = 30 mg dispersible (six 5 mg tablets); 40 mg film-coated = 25 mg dispersible (five 5 mg tablets). Not interchangeable mg-per-mg."
+      },
+      "missed_doses": "Take as soon as possible if next dose is not due within 4 hours; otherwise skip and resume usual schedule"
+    },
+    "dosage_adjustment": {
+      "renal_impairment": "No dosage adjustment required for mild, moderate, or severe (CrCl <30 mL/min, not on dialysis); no dialysis data but PK differences not expected",
+      "hepatic_impairment": {
+        "mild_to_moderate_child_pugh_A_B": "No dosage adjustment necessary",
+        "severe_child_pugh_C": "Not studied; not recommended"
+      }
+    },
+    "contraindications": [
+      "Hypersensitivity to dolutegravir or any other component in the formulation"
+    ],
+    "adverse_drug_reactions": {
+      "greater_than_10_percent": {
+        "gastrointestinal": ["Increased serum lipase (2% to 11%)"]
+      },
+      "one_to_10_percent": {
+        "dermatologic": ["Pruritus (<2%)"],
+        "endocrine_metabolic": ["Hyperglycemia (≤9%)"],
+        "gastrointestinal": ["Abdominal distress (<2%)", "Abdominal pain (<2%)", "Diarrhea (≤2%)", "Flatulence (<2%)", "Nausea (≤1%)", "Upper abdominal pain (<2%)", "Vomiting (<2%)"],
+        "hematologic_oncologic": ["Neutropenia (4%; grades 3/4: 2% to 3%)"],
+        "hepatic": ["Hepatitis (<2%)", "Hyperbilirubinemia (≤3%)", "Increased ALT (1% to 4%)", "Increased AST (1% to 5%)"],
+        "nervous_system": ["Depression (≤1%)", "Fatigue (≤2%)", "Headache (≤2%)", "Insomnia (≤7%)", "Suicidal ideation (<2%)", "Suicidal tendencies (<2%)"],
+        "neuromuscular_skeletal": ["Increased creatine phosphokinase (2% to 7%)", "Myositis (<2%)"],
+        "renal": ["Renal insufficiency (<2%)"]
+      }
+    },
+    "monitoring_parameters": [
+      "Viral load, CD4 count, lipid profile",
+      "Liver aminotransferases (baseline and during therapy)",
+      "Monitor for hypersensitivity"
+    ],
+    "drug_interactions": {
+      "risk_X_avoid_combination": ["Atidarsagene Autotemcel", "Betibeglogene Autotemcel", "Dofetilide", "Elivaldogene Autotemcel", "Fosphenytoin-Phenytoin", "Lovotibeglogene Autotemcel", "Oxcarbazepine", "Phenobarbital", "Primidone", "St John's Wort"],
+      "risk_D_consider_therapy_modification": ["Aluminum Hydroxide", "Atazanavir", "Belumosudil", "Calcium Salts", "Carbamazepine", "Dalfampridine", "Efavirenz", "Etravirine", "Fosamprenavir", "Iron Preparations", "Magnesium Salts", "Metformin", "Multivitamins/Minerals (with ADEK, Folate, Iron)", "Multivitamins/Minerals (with AE, No Iron)", "Nevirapine", "Pilsicainide", "Rifampin", "Selenium", "Sucralfate", "Tipranavir", "Zinc Salts"]
+    },
+    "pregnancy_and_lactation": {
+      "pregnancy": "An alternative treatment should be considered at time of conception through first trimester due to risk of neural tube defects",
+      "lactation": "Excreted in human milk in small amounts; insufficient information on neonatal/infant effects; breastfeeding not recommended due to potential HIV-1 transmission"
+    },
+    "administration": [
+      "Administer without regard to meals",
+      "Administer 2 hours before or 6 hours after cation-containing antacids/laxatives, sucralfate, iron/calcium supplements, or buffered medications; alternatively take together with calcium/iron supplements with food"
+    ],
+    "warnings_precautions": [
+      "Hepatotoxicity",
+      "Hypersensitivity reactions",
+      "Immune reconstitution syndrome"
+    ],
+    "storage": "Store at 15°C to 30°C, protect from moisture"
+  },
+  {
+    "id": 11,
+    "category": "Integrase Inhibitors",
+    "generic_name": "Raltegravir (RAL)",
+    "brand_names": [],
+    "dosage_forms_strengths": {
+      "tablet": ["400 mg", "25 mg"]
+    },
+    "route_of_administration": ["Oral"],
+    "pharmacologic_category": {
+      "category": ["Antiretroviral", "Integrase Inhibitor (Anti-HIV)"],
+      "atc_classification": "J05AJ01"
+    },
+    "indications": [
+      "Treatment of HIV-1 infection in combination with other antiretroviral agents (alternative to first-line regimen) in adults and pediatric patients weighing at least 3 kg"
+    ],
+    "dosage_regimen": {
+      "adults": {
+        "standard": "400 mg twice daily orally",
+        "with_rifampin": "800 mg (two 400-mg tabs) twice daily"
+      },
+      "pediatrics_age_at_least_4_weeks_weight_at_least_3_kg_less_than_25_kg": {
+        "3_to_less_than_6_kg": "25 mg twice daily (1 x 25 mg)",
+        "6_to_less_than_10_kg": "50 mg twice daily (2 x 25 mg)",
+        "10_to_less_than_14_kg": "75 mg twice daily (3 x 25 mg)",
+        "14_to_less_than_20_kg": "100 mg twice daily",
+        "20_to_less_than_25_kg": "150 mg twice daily"
+      },
+      "children_adolescents_at_least_25_kg": "400 mg twice daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment": {
+        "mild_moderate_severe": "No dosage adjustment necessary",
+        "ESRD_on_intermittent_hemodialysis": "Dose after dialysis on dialysis days"
+      },
+      "hepatic_impairment": {
+        "mild_to_moderate": "No dosage adjustment necessary",
+        "severe": "Not studied; use with caution"
+      }
+    },
+    "contraindications": [
+      "Hypersensitivity to raltegravir or any other component of the formulation"
+    ],
+    "adverse_drug_reactions": {
+      "greater_than_10_percent": {
+        "hepatic": ["Increased serum alanine aminotransferase (grade 2-4: ≤11%)"]
+      },
+      "one_to_10_percent": {
+        "endocrine_metabolic": ["Increase in fasting plasma glucose (grade 2: 7%-10%; grade 3: 2%-3%)"],
+        "gastrointestinal": ["Abdominal pain (<2%)", "Decreased appetite (≥2%)", "Diarrhea (≥2%)", "Dyspepsia (<2%)", "Flatulence (≥2%)", "Gastritis (<2%)", "Increased serum amylase (≤4%)", "Increased serum lipase (1%-7%)", "Nausea (1%-3%)", "Vomiting (<2%)"],
+        "genitourinary": ["Genital herpes simplex (<2%)"],
+        "hematologic_oncologic": ["Decrease in absolute neutrophil count (≤4%)", "Decreased hemoglobin (≤1%)"],
+        "hepatic": ["Hepatitis (<2%)", "Increased alkaline phosphatase (≤2%)", "Increased AST (≤9%)", "Increased bilirubin (≤6%)"],
+        "hypersensitivity": ["Hypersensitivity reaction (<2%)"],
+        "infection": ["Herpes zoster infection (<2%)"],
+        "nervous_system": ["Abnormal dreams (≥2%)", "Asthenia", "Depression", "Dizziness (≤2%)", "Fatigue (2%)", "Headache (≤4%)", "Insomnia (≤4%)", "Nightmares (≥2%)", "Suicidal ideation (<2%)", "Suicidal tendencies (<2%)"],
+        "neuromuscular_skeletal": ["Increased creatine phosphokinase (grade 2-4: 2%-5%)"],
+        "renal": ["Increased serum creatinine (grade 2-3: ≤1%)", "Nephrolithiasis (<2%)", "Renal failure syndrome (<2%)"]
+      }
+    },
+    "monitoring_parameters": [
+      "Viral load, CD4 count",
+      "Signs of skin rash",
+      "Signs/symptoms of depression and suicidal ideation"
+    ],
+    "drug_interactions": {
+      "risk_X_avoid_combination": ["Aluminum Hydroxide", "Atidarsagene Autotemcel", "Betibeglogene Autotemcel", "Elivaldogene Autotemcel", "Fosamprenavir", "Lovotibeglogene Autotemcel", "Magnesium Salts"],
+      "risk_D_consider_therapy_modification": ["Belumosudil", "Calcium Carbonate", "Polyvalent Cation Containing Products", "Rifampin"]
+    },
+    "pregnancy_and_lactation": {
+      "pregnancy": "Raltegravir 400 mg twice daily can be used during pregnancy if clinically needed",
+      "lactation": "Breastfeeding not recommended while taking raltegravir; women living with HIV advised not to breastfeed to avoid transmission"
+    },
+    "administration": ["May be administered without regard to meals"],
+    "warnings_precautions": [
+      "Immune reconstitution syndrome",
+      "Myopathy, skin and hypersensitivity reactions",
+      "At birth UGT1A1 enzyme is low; elimination in neonates may be prolonged; UGT1A1 activity increases rapidly over first 4 to 6 weeks of life",
+      "Do not use with darunavir/ritonavir in patients with HIV RNA ≥100,000 copies/mL and/or CD4 ≤200 cells/mm³",
+      "Do not use with abacavir/lamivudine in patients with HIV RNA ≥100,000 copies/mL"
+    ],
+    "storage": "Store at 20°C to 25°C; excursions permitted between 15°C and 30°C"
+  },
+  {
+    "id": 12,
+    "category": "Combinations",
+    "generic_name": "Abacavir and Lamivudine",
+    "brand_names": [],
+    "dosage_forms_strengths": {
+      "tablet": "600 mg/300 mg (was in EDA drug database but cancelled)",
+      "tablets_for_oral_suspension": ["60 mg/30 mg", "120 mg/60 mg"]
+    },
+    "route_of_administration": ["Oral"],
+    "pharmacologic_category": {
+      "category": ["Antiretroviral", "Reverse Transcriptase Inhibitor, Nucleoside (Anti-HIV)"],
+      "atc_classification": "J05AR02"
+    },
+    "indications": {
+      "tablet": "Antiretroviral combination therapy for HIV infection in adults, adolescents, and children weighing at least 25 kg",
+      "tablets_for_oral_suspension": "In combination with other antiretroviral agents for HIV-1 infection in pediatric patients aged ≥3 months and weighing at least 5 kg"
+    },
+    "dosage_regimen": {
+      "adults_adolescents_children_at_least_25_kg": "One tablet 600 mg/300 mg once daily",
+      "pediatric_patients_3_months_older_at_least_5_kg": {
+        "once_daily_dosing": "Abacavir 16 mg/kg + lamivudine 8 mg/kg",
+        "twice_daily_dosing": "Abacavir 8 mg/kg + lamivudine 4 mg/kg"
+      },
+      "maximum_daily_dose": "Abacavir 600 mg; lamivudine 300 mg"
+    },
+    "dosage_adjustment": {
+      "renal_impairment": {
+        "CrCl_at_least_50_mL_min": "No dosage adjustment necessary",
+        "CrCl_30_to_less_than_50_mL_min": "No dosage adjustment necessary",
+        "CrCl_less_than_30_mL_min": "Use not recommended; use dose-adjusted individual components"
+      },
+      "hepatic_impairment": {
+        "mild_child_pugh_A": "Use not recommended; close monitoring required including abacavir plasma levels if feasible",
+        "moderate_severe_child_pugh_B_C": "Use contraindicated"
+      },
+      "oral_suspension_pediatric_renal_impairment": "No data available"
+    },
+    "contraindications": [
+      "Hypersensitivity to active substances or excipients",
+      "Moderate or severe hepatic impairment",
+      "Presence of HLA-B*5701 allele"
+    ],
+    "adverse_drug_reactions": {
+      "one_to_10_percent": {
+        "central_nervous_system": ["Abnormal dreams", "Anxiety", "Depression", "Dizziness", "Fatigue", "Headache", "Insomnia", "Malaise", "Migraine", "Vertigo"],
+        "dermatologic": ["Skin rash"],
+        "gastrointestinal": ["Abdominal pain", "Diarrhea", "Gastritis"],
+        "hypersensitivity": ["Hypersensitivity including multiorgan failure and anaphylaxis"],
+        "miscellaneous": ["Fever"]
+      }
+    },
+    "monitoring_parameters": [
+      "HLA-B*5701 genotype status before initiation; signs/symptoms of hypersensitivity",
+      "Bilirubin, liver enzymes",
+      "Blood glucose, fasting lipid panel",
+      "Hematologic parameters, viral load, CD4 count",
+      "Amylase, serum creatine kinase as clinically indicated"
+    ],
+    "drug_interactions": {
+      "risk_X_avoid_combination": ["Atidarsagene Autotemcel", "Betibeglogene Autotemcel", "Cladribine", "Elivaldogene Autotemcel", "Etuvetidigene Autotemcel", "Lovotibeglogene Autotemcel"],
+      "risk_D_consider_therapy_modification": ["Fexinidazole", "Risdiplam", "Sorbitol", "Tafenoquine", "Vimseltinib"]
+    },
+    "pregnancy_and_lactation": {
+      "pregnancy": "Consider only if benefit to mother outweighs risk to fetus; clinical data indicate no increased congenital malformation risk despite theoretical mitochondrial toxicity concerns",
+      "lactation": "Excreted into human milk; breastfeeding not recommended due to lack of safety data under 3 months and HIV transmission risk"
+    },
+    "administration": {
+      "tablet": "May be administered with or without food",
+      "tablets_for_oral_suspension": [
+        "Can be taken with or without food, dispersed in water, or split along score; do not chew; do not use if damaged/broken/expired",
+        "For children unable to swallow tablets: place tablet in container, add 10 mL water per tablet (5 mL per half tablet), stir/swirl 2-3 minutes until broken into swallowable pieces, drink immediately (within 1 hour); stir again if delayed; discard after 1 hour; rinse container with water and drink for full dose"
+      ]
+    },
+    "warnings_precautions": [
+      "Potentially serious/fatal hypersensitivity reactions (HSR) with fever and/or rash with multi-organ involvement; stop immediately if suspected regardless of HLA-B5701 status; never restart after suspected HSR; discard remaining tablets",
+      "Increases in body weight, blood lipids, and glucose may occur during ART",
+      "Pancreatitis reported but causality uncertain",
+      "Increased virological failure risk with triple-nucleoside therapy (especially abacavir/lamivudine + TDF once-daily) with early resistance development; may carry higher failure risk than alternatives",
+      "HBV/HCV co-infected patients at increased risk of severe potentially fatal hepatic reactions; stopping lamivudine may trigger acute hepatitis exacerbation—monitor liver function and HBV markers",
+      "In utero nucleoside/nucleotide exposure may cause mitochondrial dysfunction (transient hematologic/metabolic abnormalities, rare neurological effects)",
+      "Immune reactivation syndrome may occur after cART initiation (CMV, mycobacterial infections, Pneumocystis jirovecii pneumonia), usually first weeks/months; autoimmune disorders (Graves' disease, autoimmune hepatitis) may also develop",
+      "Osteonecrosis reported particularly in advanced HIV/long-term cART; seek care for joint pain/stiffness/difficulty moving",
+      "Does not cure HIV; continued medical supervision required",
+      "Possible increased cardiovascular events (especially MI); manage modifiable risk factors; consider alternatives for high cardiovascular risk",
+      "Moderate renal impairment (CrCl 30-49): lamivudine levels rise increasing anemia/neutropenia risk; monitor closely; switch to individual adjusted components if needed",
+      "Should not be taken with any other lamivudine- or emtricitabine-containing products"
+    ],
+    "storage": "Store at 25°C; excursions permitted to 15°-30°C"
+  },
+  {
+  "id": 13,
+  "category": "Combinations",
+  "generic_name": "Emtricitabine and Tenofovir Disoproxil",
+  "brand_names": [],
+  "dosage_forms_strengths": {
+    "film_coated_tablet": "Emtricitabine 200 mg; tenofovir disoproxil fumarate 300 mg equivalent to 245 mg tenofovir disoproxil"
+  },
+  "route_of_administration": [
+    "Oral"
+  ],
+  "pharmacologic_category": {
+    "category": [
+      "Antiretroviral",
+      "Reverse Transcriptase Inhibitor, Nucleoside (Anti-HIV)"
+    ],
+    "atc_classification": "J05AR03"
+  },
+  "indications": {
+    "tablet": [
+      "Indicated in adults and pediatric patients 12 years of age and older in combination with other antiretroviral agents for the treatment of HIV-1 infection",
+      "Indicated in infected adolescents, for the treatment of HIV-1, in case of NRTI resistance or toxicities precluding the use of first-line agents",
+      "Pre-exposure prophylaxis (PrEP)"
+    ]
+  },
+  "dosage_regimen": {
+    "adults_and_adolescents_at_least_12_years_weighing_at_least_35_kg": "One tablet once daily for treatment and prevention"
+  },
+  "dosage_adjustment": {
+    "renal_impairment": {
+      "CrCl_50_to_80_mL_min": "Limited clinical data support a once-daily dose for treatment",
+      "CrCl_60_to_80_mL_min": "Limited clinical data support a once-daily dose for prophylaxis",
+      "CrCl_less_than_60_mL_min": "For prophylaxis: no data in uninfected patients, use is not recommended",
+      "CrCl_30_to_49_mL_min": "For treatment: recommended dose is every 48 hours; for prophylaxis: not recommended",
+      "CrCl_less_than_30_mL_min_and_hemodialysis": "Not recommended in treatment and prophylaxis",
+      "pediatric_patients_under_18_years": "Not recommended for use in individuals under the age of 18 years with renal impairment"
+    },
+    "hepatic_impairment": {
+      "hepatic_impairment": "No dosage adjustments are needed"
+    }
+  },
+  "contraindications": [
+    "Hypersensitivity to the active ingredient or any component of the formulation",
+    "Use for pre-exposure prophylaxis in individuals with unknown or positive HIV-1 status"
+  ],
+  "adverse_drug_reactions": {
+    "greater_than_10_percent": {
+      "neuromuscular_and_skeletal": [
+        "Decreased bone mineral density (13%)",
+        "Elevated creatine kinase"
+      ],
+      "gastrointestinal": [
+        "Diarrhea",
+        "Nausea",
+        "Vomiting"
+      ]
+    },
+    "one_to_10_percent": {
+      "endocrine_and_metabolic": [
+        "Abnormal phosphorus levels (<2.0 mg/dL: 10%)",
+        "Weight loss (3%)",
+        "Hyperglycemia",
+        "Hypertriglyceridemia"
+      ],
+      "gastrointestinal": [
+        "Abdominal pain (4%)",
+        "Dyspepsia",
+        "Elevated amylase (including elevated pancreatic amylase)",
+        "Elevated serum lipase"
+      ],
+      "hepatobiliary": [
+        "Elevated serum aspartate aminotransferase (AST) and/or elevated serum alanine aminotransferase (ALT)",
+        "Hyperbilirubinemia"
+      ],
+      "hematologic_and_oncologic": [
+        "Decreased neutrophils (5%)"
+      ],
+      "nervous_system": [
+        "Headache (7%)",
+        "Dizziness"
+      ],
+      "neuromuscular_and_skeletal": [
+        "Bone fracture (2%)"
+      ],
+      "immune_system": [
+        "Allergic reaction"
+      ],
+      "psychiatric": [
+        "Insomnia",
+        "Abnormal dreams"
+      ],
+      "skin_and_subcutaneous_tissue": [
+        "Vesiculobullous rash",
+        "Pustular rash",
+        "Maculopapular rash",
+        "Pruritus",
+        "Urticaria",
+        "Skin discoloration (increased pigmentation)"
+      ],
+      "miscellaneous": [
+        "Pain",
+        "Asthenia"
+      ]
+    }
+  },
+  "monitoring_parameters": [
+    "CBC with differential, reticulocyte count",
+    "Creatine kinase",
+    "CD4 count",
+    "HIV RNA plasma levels",
+    "Serum phosphorus (in individuals with chronic kidney disease or at risk of kidney dysfunction with persistent or worsening bone or muscle symptoms)",
+    "Serum creatinine, urine glucose, and urine protein (before initiation and as clinically indicated during therapy)",
+    "Hepatic function tests",
+    "Bone density (in patients with a history of bone fracture or who have risk factors for bone loss or kidney dysfunction with persistent or worsening bone or muscle symptoms)",
+    "Testing for hepatitis B virus (HBV) before initiation of antiretroviral therapy",
+    "Weight (children)",
+    "Monitor patients with HIV and HBV coinfection for several months following tenofovir discontinuation",
+    "PrEP specific: Documented negative HIV test (<=1 week before initiating/reinitiating, at least every 3 months while taking, and following discontinuation); screen for acute viral infections and potential exposure events within 1 month of starting; assess side effects and acute HIV infection symptoms every 3 months; renal function before initiation then every 6 to 12 months",
+    "PEP specific: Documented HIV test at baseline, 6 weeks, 12 weeks, and 6 months (or baseline, 6 weeks, and 4 months if using 4th generation p24/antibody test); CBC, renal, and hepatic function assessments at baseline and 2 weeks after exposure"
+  ],
+  "drug_interactions": {
+    "risk_X_avoid_combination": [
+      "Adefovir",
+      "Atidarsagene Autotemcel",
+      "Betibeglogene Autotemcel",
+      "Cladribine",
+      "Elivaldogene Autotemcel",
+      "Etuvetidigene Autotemcel",
+      "Leniolisib",
+      "Lovotibeglogene Autotemcel",
+      "Sparsentan",
+      "Taurursodiol"
+    ],
+    "risk_D_consider_therapy_modification": [
+      "Atazanavir",
+      "Belumosudil",
+      "Ledipasvir",
+      "Nonsteroidal Anti-Inflammatory Agents",
+      "Vimseltinib"
+    ]
+  },
+  "pregnancy_and_lactation": {
+    "pregnancy": "A large amount of data on pregnant women indicates no malformations or fetal/neonatal toxicity associated with emtricitabine and tenofovir disoproxil; use may be considered during pregnancy, if necessary",
+    "lactation": "Insufficient information on effects in newborns/infants; emtricitabine/tenofovir disoproxil should not be used during breastfeeding"
+  },
+  "administration": {
+    "tablet": [
+      "Can be administered with or without food (preferably with food)",
+      "If difficulty swallowing, use the tip of a spoon to crush the tablet, mix powder with about 100 mL (half a glass) of water, orange juice, or grape juice, and drink immediately",
+      "Missed dose within 12 hours: take as soon as possible and continue normal schedule",
+      "Missed dose by more than 12 hours: skip missed dose and resume usual schedule",
+      "Vomiting within 1 hour of dose: take another tablet",
+      "Vomiting more than 1 hour after dose: do not take a second dose"
+    ]
+  },
+  "warnings_precautions": [
+    "Patients with hepatitis B or C virus infection: co-infected patients treated with antiretroviral therapy have an increased risk of fatal liver adverse effects; no evidence on safety/efficacy for PrEP in co-infected patients",
+    "Patients with HIV-1 harboring mutations: avoid in patients with HIV-1 with the K65R mutation",
+    "Overall HIV-1 infection prevention strategy: does not always prevent acquisition of HIV-1; protection time after administration is unknown",
+    "Risk of resistance with undetected HIV-1 infection: confirm HIV-1 negative status before PrEP and reconfirm at least every 3 months; not a complete treatment regimen alone; delay use for at least 1 month if consistent clinical symptoms of acute viral infection are present",
+    "Liver disease: HIV-1-infected patients with pre-existing liver dysfunction have an increased frequency of liver function abnormalities; consider interruption or discontinuation if worsening occurs",
+    "Renal effects: renal failure, renal impairment, elevated creatinine, hypophosphatemia, and proximal tubulopathy (including Fanconi syndrome) reported; calculate CrCl before initiation; monitor renal function after 2-4 weeks, 3 months, and every 3-6 months thereafter (more frequently if at risk); do not initiate and discontinue in pediatric patients who develop renal impairment",
+    "Bone effects: osteomalacia (manifesting as persistent/worsening bone pain and contributing to fractures) may be associated with tenofovir disoproxil-induced proximal renal tubulopathy; consider alternative regimens for patients with osteoporosis or history of fractures",
+    "Immune reconstitution syndrome: inflammatory response to indolent/residual opportunistic infections or activation of autoimmune disorders",
+    "Opportunistic infections and co-administration with other nephrotoxic drugs/boosted protease inhibitors",
+    "Elderly: caution should be exercised",
+    "Importance of adherence: adherence correlates with blood drug level and effectiveness in reducing HIV-1 acquisition risk"
+  ],
+  "storage": "Store in the original package in order to protect from moisture, at a temperature below 30 °C. Keep the bottle tightly closed."
+},
+  {
+  "id": 14,
+  "category": "Combinations",
+  "generic_name": "Lamivudine and Zidovudine",
+  "brand_names": [],
+  "dosage_forms_strengths": {
+    "film_coated_tablet": "Lamivudine/Zidovudine 150 mg/300 mg"
+  },
+  "route_of_administration": [
+    "Oral"
+  ],
+  "pharmacologic_category": {
+    "category": [
+      "Antiretroviral",
+      "Reverse Transcriptase Inhibitor, Nucleoside (Anti-HIV)"
+    ],
+    "atc_classification": "J05AR01"
+  },
+  "indications": {
+    "film_coated_tablet": "Antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection"
+  },
+  "dosage_regimen": {
+    "adults_and_adolescents_weighing_at_least_30_kg": "One tablet twice daily",
+    "children_21_kg_to_30_kg": "One-half tablet taken in the morning and one whole tablet taken in the evening",
+    "children_14_kg_to_21_kg": "One-half tablet taken twice daily",
+    "children_less_than_14_kg": "Tablets should not be used"
+  },
+  "dosage_adjustment": {
+    "renal_impairment": {
+      "CrCl_at_least_50_mL_min": "No dosage adjustment necessary",
+      "CrCl_less_than_50_mL_min": "Use is not recommended (use dose-adjusted individual components)"
+    },
+    "severe_hepatic_impairment": {
+      "severe_hepatic_impairment": "Use is not recommended (use dose-adjusted individual components)"
+    }
+  },
+  "contraindications": [
+    "Hypersensitivity to the active substances or to any of the excipients",
+    "Zidovudine is contraindicated in patients with abnormally low neutrophil counts (<0.75 x 10^9/L) or abnormally low haemoglobin levels (<7.5 g/dL or 4.65 mmol/L)"
+  ],
+  "adverse_drug_reactions": {
+    "lamivudine": {
+      "greater_than_10_percent": {
+        "dermatologic": [
+          "Skin rash"
+        ],
+        "gastrointestinal": [
+          "Diarrhea",
+          "Nausea",
+          "Vomiting"
+        ],
+        "hepatic": [
+          "Hepatomegaly (infants, children, adolescents)"
+        ],
+        "nervous_system": [
+          "Fatigue",
+          "Headache",
+          "Malaise",
+          "Neuropathy",
+          "Sleep disturbance"
+        ],
+        "neuromuscular_and_skeletal": [
+          "Musculoskeletal pain"
+        ],
+        "respiratory": [
+          "Cough",
+          "ENT infection",
+          "Nasal signs and symptoms",
+          "Pharyngitis"
+        ],
+        "miscellaneous": [
+          "Fever"
+        ]
+      },
+      "one_to_10_percent": {
+        "gastrointestinal": [
+          "Abdominal cramps",
+          "Abdominal pain",
+          "Anorexia",
+          "Decreased appetite",
+          "Dyspepsia",
+          "Increased serum amylase",
+          "Increased serum lipase",
+          "Stomatitis"
+        ],
+        "hematologic_and_oncologic": [
+          "Decrease in absolute neutrophil count",
+          "Lymphadenopathy",
+          "Thrombocytopenia"
+        ],
+        "hepatic": [
+          "Increased serum alanine aminotransferase",
+          "Increased serum aspartate aminotransferase"
+        ],
+        "immunologic": [
+          "Splenomegaly"
+        ],
+        "nervous_system": [
+          "Chills",
+          "Depression",
+          "Dizziness"
+        ],
+        "neuromuscular_and_skeletal": [
+          "Arthralgia",
+          "Increased creatine phosphokinase in blood specimen",
+          "Myalgia"
+        ],
+        "respiratory": [
+          "Abnormal breath sounds",
+          "Wheezing"
+        ]
+      }
+    },
+    "zidovudine": {
+      "greater_than_10_percent": {
+        "gastrointestinal": [
+          "Anorexia",
+          "Nausea",
+          "Vomiting"
+        ],
+        "hematologic_and_oncologic": [
+          "Anemia"
+        ],
+        "nervous_system": [
+          "Headache",
+          "Malaise"
+        ]
+      },
+      "one_to_10_percent": {
+        "gastrointestinal": [
+          "Abdominal cramps",
+          "Abdominal pain",
+          "Constipation",
+          "Dyspepsia"
+        ],
+        "nervous_system": [
+          "Asthenia",
+          "Chills",
+          "Fatigue",
+          "Insomnia",
+          "Neuropathy"
+        ],
+        "neuromuscular_and_skeletal": [
+          "Arthralgia",
+          "Musculoskeletal pain",
+          "Myalgia"
+        ]
+      }
+    }
+  },
+  "monitoring_parameters": [
+    "Amylase, bilirubin, signs and symptoms of pancreatitis",
+    "CBC with differential and platelet count at least every 2 weeks",
+    "Liver function tests (including signs/symptoms of hepatomegaly)",
+    "MCV",
+    "Serum creatine kinase",
+    "Viral load and CD4 count",
+    "Observe for appearance of opportunistic infections",
+    "Signs of muscle weakness or pain",
+    "Blood lactate levels and signs of acidosis"
+  ],
+  "drug_interactions": {
+    "risk_X_avoid_combination": [
+      "Atidarsagene Autotemcel",
+      "Bacillus Calmette Guerin (BCG) (Intravesical)",
+      "Betibeglogene Autotemcel",
+      "Chloramphenicol (Systemic)",
+      "Cladribine",
+      "Elivaldogene Autotemcel",
+      "Etuvetidigene Autotemcel",
+      "Fexinidazole",
+      "Lovotibeglogene Autotemcel",
+      "Stavudine",
+      "Thiamphenicol"
+    ],
+    "risk_D_consider_therapy_modification": [
+      "Amodiaquine",
+      "Clarithromycin",
+      "Deferiprone",
+      "Doxorubicin (Conventional, liposomal)",
+      "Levamisole",
+      "Ribavirin (Oral Inhalation, systemic)",
+      "Risdiplam",
+      "Ropeginterferon Alfa-2b",
+      "Sorbitol",
+      "Tafenoquine",
+      "Vimseltinib"
+    ]
+  },
+  "pregnancy_and_lactation": {
+    "pregnancy": "Extensive data indicate lamivudine and zidovudine are generally safe in pregnancy and reduce maternal-fetal HIV transmission; potential risks like mitochondrial dysfunction, transplacental carcinogenicity in animals, and hepatitis recurrence in co-infected patients should be considered, balancing maternal benefit and fetal risk.",
+    "lactation": "Lamivudine and zidovudine are excreted in breast milk with low infant exposure for lamivudine; however, women living with HIV are advised not to breastfeed to prevent HIV transmission."
+  },
+  "administration": {
+    "film_coated_tablet": [
+      "May be administered with or without food",
+      "Ideally swallowed without crushing; for patients unable to swallow tablets, they may be crushed and added to a small amount of semi-solid food or liquid, all of which should be consumed immediately"
+    ]
+  },
+  "warnings_precautions": [
+    "Patients receiving lamivudine/zidovudine or other antiretroviral therapy may still develop opportunistic infections and HIV-related complications, and should remain under close monitoring by experienced healthcare providers",
+    "Zidovudine may cause anemia, neutropenia, or leukopenia, especially at higher doses or in patients with advanced HIV or poor bone marrow reserve; regularly monitor hematologic parameters and use separate preparations if severe anemia or myelosuppression occurs",
+    "Rare cases of pancreatitis have been reported; treatment should be discontinued immediately if clinical signs, symptoms, or lab abnormalities suggest pancreatitis",
+    "Zidovudine may cause lactic acidosis, often with hepatomegaly and hepatic steatosis, which can be life-threatening; discontinue if symptomatic hyperlactatemia, metabolic acidosis, or rapidly rising liver enzymes occur",
+    "Zidovudine treatment may cause lipoatrophy (loss of subcutaneous fat, especially in face, limbs, and buttocks) related to cumulative exposure and mitochondrial toxicity; switch to alternative regimen if suspected",
+    "Antiretroviral therapy may cause increases in weight, blood lipids, and glucose; monitor according to HIV treatment guidelines",
+    "Immune reactivation syndrome may occur after initiation of combination antiretroviral therapy in severely immunocompromised HIV patients",
+    "Osteonecrosis has been reported in patients with advanced HIV or long-term CART; seek medical advice for joint symptoms",
+    "Should not be co-administered with other lamivudine- or emtricitabine-containing products; use with cladribine is not recommended"
+  ],
+  "storage": "Store in a dry place at a temperature not exceeding 30 °C."
+},
+  {
+  "id": 15,
+  "category": "Combinations",
+  "generic_name": "Tenofovir Disoproxil, Lamivudine, and Efavirenz",
+  "brand_names": [],
+  "dosage_forms_strengths": {
+    "tablet": [
+      "Efavirenz 600 mg / lamivudine 300 mg / tenofovir disoproxil fumarate 300 mg (equivalent to 245 mg of tenofovir disoproxil)",
+      "Efavirenz 400 mg / lamivudine 300 mg / tenofovir disoproxil fumarate 300 mg (equivalent to 245 mg of tenofovir disoproxil)"
+    ]
+  },
+  "route_of_administration": [
+    "Oral"
+  ],
+  "pharmacologic_category": {
+    "category": [
+      "Antiviral for systemic use",
+      "Antiretroviral",
+      "Non-nucleoside reverse transcriptase inhibitor (Efavirenz)",
+      "Nucleo(t)side reverse transcriptase inhibitor (Lamivudine and Tenofovir disoproxil fumarate)"
+    ],
+    "atc_classification": "J05AR11"
+  },
+  "indications": {
+    "tablet": "Complete regimen for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in adult and pediatric patients weighing at least 40 kg or 35 kg."
+  },
+  "dosage_regimen": {
+    "adults_and_pediatric_patients_weighing_at_least_40_kg": "One tablet once daily (EFV 600 mg / 3TC 300 mg / TDF 300 mg)",
+    "adults_and_pediatric_patients_weighing_at_least_35_kg": "One tablet once daily (EFV 400 mg / 3TC 300 mg / TDF 300 mg)"
+  },
+  "dosage_adjustment": {
+    "renal_impairment": {
+      "CrCl_at_least_50_mL_min": "No dosage adjustment needed",
+      "CrCl_less_than_50_mL_min": "Not recommended",
+      "end_stage_renal_disease_hemodialysis": "Not recommended",
+      "acute_kidney_injury": "Discontinuing tenofovir disoproxil fumarate is recommended and substituting with alternative antiretroviral therapy"
+    },
+    "hepatic_impairment": {
+      "mild_hepatic_impairment": "Use with caution",
+      "moderate_severe_hepatic_impairment_child_pugh_b_c": "Not recommended"
+    }
+  },
+  "contraindications": [
+    "Previous hypersensitivity reaction (e.g., Stevens-Johnson syndrome, erythema multiforme, or toxic skin eruptions) to any of the components contained in the formulation",
+    "Coadministration with elbasvir and grazoprevir"
+  ],
+  "adverse_drug_reactions": {
+    "greater_than_10_percent": {
+      "dermatologic": [
+        "Skin rash (18%)"
+      ],
+      "endocrine_and_metabolic": [
+        "Hypercholesterolemia (grades 3/4: 19%)"
+      ],
+      "gastrointestinal": [
+        "Diarrhea (11%)"
+      ],
+      "nervous_system": [
+        "Depression (11%)",
+        "Headache (14%)",
+        "Pain (13%)"
+      ],
+      "neuromuscular_and_skeletal": [
+        "Decreased bone mineral density (28%)",
+        "Increased creatine phosphokinase in blood specimen (grades 3/4: 12%)"
+      ]
+    },
+    "one_to_10_percent": {
+      "endocrine_and_metabolic": [
+        "Increased serum triglycerides (grades 3/4: 1%)"
+      ],
+      "gastrointestinal": [
+        "Abdominal pain (7%)",
+        "Dyspepsia (4%)",
+        "Increased amylase (grades 3/4: 9%)",
+        "Nausea (8%)",
+        "Vomiting (5%)"
+      ],
+      "genitourinary": [
+        "Hematuria (grades 3/4: 7%)"
+      ],
+      "hematologic_and_oncologic": [
+        "Decreased neutrophils (grades 3/4: 3%)"
+      ],
+      "hepatic": [
+        "Increased serum alanine aminotransferase (grades 3/4: 4%)",
+        "Increased serum aspartate aminotransferase (grades 3/4: 5%)"
+      ],
+      "nervous_system": [
+        "Anxiety (6%)",
+        "Asthenia (6%)",
+        "Dizziness (3%)",
+        "Insomnia (5%)",
+        "Peripheral neuropathy (1%)"
+      ],
+      "neuromuscular_and_skeletal": [
+        "Arthralgia (5%)",
+        "Back pain (9%)",
+        "Lipodystrophy (1%)",
+        "Myalgia (3%)"
+      ],
+      "respiratory": [
+        "Pneumonia (5%)"
+      ],
+      "miscellaneous": [
+        "Fever (8%)"
+      ]
+    }
+  },
+  "monitoring_parameters": [
+    "Test all patients for hepatitis B virus (HBV) prior to initiation",
+    "Assess serum creatinine, serum phosphorus, estimated creatinine clearance, urine glucose, and urine protein as clinically appropriate in all patients",
+    "Monitor cholesterol, triglycerides, and hepatic function at baseline and during treatment in all patients"
+  ],
+  "drug_interactions": {
+    "risk_X_avoid_combination": [
+      "Abemaciclib",
+      "Acoramidis",
+      "Adefovir",
+      "Amodiaquine",
+      "Antihepaciviral Combination Products",
+      "Atidarsagene Autotemcel",
+      "Atrasentan",
+      "Avacopan",
+      "Avapritinib",
+      "Bedaquiline",
+      "Betibeglogene Autotemcel",
+      "Cabotegravir",
+      "Capivasertib",
+      "Capmatinib",
+      "CarBAMazepine",
+      "Cladribine",
+      "Cobimetinib",
+      "Daridorexant",
+      "Dasabuvir",
+      "Defactinib",
+      "Deflazacort",
+      "Dordaviprone",
+      "DOXOrubicin",
+      "Elacestrant",
+      "Elbasvir and Grazoprevir",
+      "Elinzanetant",
+      "Elivaldogene Autotemcel",
+      "Ensartinib",
+      "Entrectinib",
+      "Ergonovine",
+      "Etuvetidigene Autotemcel",
+      "Fedratinib",
+      "Fexinidazole",
+      "Finerenone",
+      "Ibrexafungerp",
+      "Ivabradine",
+      "Ketoconazole (Systemic)",
+      "Lazertinib",
+      "Lemborexant",
+      "Leniolisib",
+      "Letermovir",
+      "Levoketoconazole",
+      "Lonafarnib",
+      "Lovotibeglogene Autotemcel",
+      "Lumateperone",
+      "Mavacamten",
+      "Methoxyflurane",
+      "Mobocertinib",
+      "Nerandomilast",
+      "Neratinib",
+      "Nirogacestat",
+      "Nisoldipine",
+      "Olaparib",
+      "Olutasidenib",
+      "Omaveloxolone",
+      "Palovarotene",
+      "Pemigatinib",
+      "Pimavanserin",
+      "Posaconazole",
+      "Pretomanid",
+      "Quizartinib",
+      "Ranolazine",
+      "Remibrutinib",
+      "Repotrectinib",
+      "Reverse Transcriptase Inhibitors (Non-Nucleoside)",
+      "Revumenib",
+      "Rilzabrutinib",
+      "Rimegepant",
+      "Sacituzumab Govitecan",
+      "Sebetralstat",
+      "Selpercatinib",
+      "Selumetinib",
+      "Sevabertinib",
+      "Simeprevir",
+      "Sonidegib",
+      "Sparsentan",
+      "Suzetrigine",
+      "Taletrectinib",
+      "Taurursodiol",
+      "Tazemetostat",
+      "Ulipristal",
+      "Vanzacaftor",
+      "Tezacaftor",
+      "Deutivacaftor",
+      "Velpatasvir",
+      "Venetoclax",
+      "Voclosporin",
+      "Vonoprazan",
+      "Vorapaxar",
+      "Voxilaprevir",
+      "Ziftomenib",
+      "Zoliflodacin",
+      "Zuranolone"
+    ],
+    "risk_D_consider_therapy_modification": [
+      "Aficamten",
+      "Alfentanil",
+      "Atazanavir",
+      "Atogepant",
+      "Atovaquone",
+      "Avanafil",
+      "Axitinib",
+      "Belumosudil",
+      "Brigatinib",
+      "Cabozantinib",
+      "Cariprazine",
+      "Caspofungin",
+      "Clarithromycin",
+      "Crinecerfont",
+      "Daclatasvir",
+      "Darunavir",
+      "Deferasirox",
+      "Dolutegravir",
+      "Duvelisib",
+      "Erdafitinib",
+      "Erlotinib",
+      "Flibanserin",
+      "Fosamprenavir",
+      "Fruquintinib",
+      "Gepotidacin",
+      "Glasdegib",
+      "Glecaprevir and Pibrentasvir",
+      "GuanFACINE",
+      "Hormonal Contraceptives",
+      "Itraconazole",
+      "Ketoconazole (Systemic)",
+      "Larotrectinib",
+      "Ledipasvir",
+      "Lefamulin (Intravenous)",
+      "Lefamulin",
+      "Lenacapavir",
+      "Lopinavir",
+      "Lorlatinib",
+      "Lurasidone",
+      "Maraviroc",
+      "Maribavir",
+      "MiFEPRIStone",
+      "Mitapivat",
+      "Nonsteroidal Anti-Inflammatory Agents",
+      "Paltusotine",
+      "Perampanel",
+      "Pirtobrutinib",
+      "Pralsetinib",
+      "Praziquantel",
+      "Rifabutin",
+      "Ripretinib",
+      "Risdiplam",
+      "Saquinavir",
+      "Sorbitol",
+      "Sunvozertinib",
+      "Tafenoquine",
+      "Ubrogepant",
+      "Valoctocogene Roxaparvovec",
+      "Vimseltinib",
+      "Voriconazole",
+      "Zanubrutinib"
+    ]
+  },
+  "pregnancy_and_lactation": {
+    "pregnancy": "EFV should not be used in the first trimester of pregnancy due to potential risk of neural tube defects; no adequate/well-controlled studies with TDF in pregnant women (use only if clearly needed); lamivudine crosses the placenta. Patients who become pregnant while taking this combination may continue if viral suppression is effective and regimen is well tolerated. Females of reproductive potential should undergo pregnancy testing before initiation.",
+    "lactation": "Efavirenz, lamivudine, and tenofovir are present in breast milk; mothers should be instructed not to breastfeeding if receiving this combination."
+  },
+  "administration": {
+    "tablet": "Should be taken on an empty stomach, preferably at bedtime (may improve tolerability of CNS symptoms)."
+  },
+  "warnings_precautions": [
+    "Lactic acidosis and severe hepatomegaly with steatosis: stop treatment if clinical or laboratory findings occur (female gender and obesity may increase risk)",
+    "Severe acute exacerbation of hepatitis B in patients coinfected with HIV-1 and HBV: test all HIV-1 patients for chronic HBV before initiation and closely follow up if discontinued",
+    "New onset or worsening renal impairment: reported cases of acute renal failure and Fanconi syndrome with TDF; assess estimated CrCl before and during therapy; avoid if recent use of nephrotoxic agents",
+    "CNS effects: insomnia, abnormal dreams, hallucinations, and CNS depression (impaired concentration, dizziness, drowsiness); increased occurrence of psychiatric symptoms including severe depression and suicidal ideation; avoid driving or operating machinery",
+    "Embryo-fetal toxicity: encourage reproductive-age women receiving EFV to avoid pregnancy due to potential fetal harm during the first trimester",
+    "Decreased bone mineral density: associated with TDF; consider bone mineral density assessment for adults with history of fracture or osteoporosis risk factors; consider calcium and vitamin D supplementation; osteomalacia associated with proximal renal tubulopathy reported",
+    "Fat redistribution: combination antiretrovirals may cause redistribution/accumulation of body fat (central obesity, dorsocervical fat enlargement, peripheral wasting)",
+    "Hepatotoxicity: reported cases of hepatitis with efavirenz, including fulminant hepatitis sometimes fatal or progressing to liver failure",
+    "Hypercholesterolemia: increases in total cholesterol and triglycerides reported with efavirenz",
+    "Immune reconstitution syndrome: inflammatory response to indolent/residual opportunistic infections or activation of autoimmune disorders",
+    "Pancreatitis: reported particularly in pediatric patients with risk factors when using lamivudine; discontinue if signs/symptoms of pancreatitis occur",
+    "QT prolongation: reported with efavirenz; consider alternative therapy in patients at risk of torsade de pointes",
+    "Convulsions: observed in patients receiving EFV, generally with a known history of seizures; caution in patients with history of seizures; patients receiving hepatic-metabolized anticonvulsants may require plasma level monitoring"
+  ],
+  "storage": "Store below 30 °C. Keep the bottle tightly closed, in its original container."
+}]
