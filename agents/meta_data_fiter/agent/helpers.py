@@ -10,6 +10,13 @@ def _tokenize(value):
     return {token.upper() for token in re.findall(r"\w+", str(value))}
 
 
+def _matches_text(query_value, field_value):
+    query_tokens = _tokenize(query_value)
+    if not query_tokens:
+        return False
+    return query_tokens <= _tokenize(field_value)
+
+
 def _matches_price(expression, price):
     if price is None:
         return False

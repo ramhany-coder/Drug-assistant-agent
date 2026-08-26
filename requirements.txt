@@ -1,44 +1,22 @@
-# Web scraping
-requests>=2.32.0
-httpx>=0.27.0
-beautifulsoup4>=4.12.0
-lxml>=5.0.0
-playwright>=1.45.0
-
-# Data processing
-pandas>=2.2.0
+# HTTP client (streamlit_app.py)
+requests>=2.34.2
 
 # JSON / configuration
-python-dotenv>=1.0.1
+python-dotenv>=1.2.3
 
-# Database
-SQLAlchemy>=2.0.30
-psycopg2-binary>=2.9.9
+# Data validation
+pydantic>=2.13.4
+typing_extensions>=4.16.0
 
 # RAG / LangChain
-langchain>=0.3.0
-langchain-core>=0.3.0
-langchain-community>=0.3.0
-langchain-groq>=0.2.0
-langchain-openai>=0.2.0
-langchain-google-genai>=2.0.0
-langchain-ollama>=0.2.0
+langchain-core>=1.6.0
+langchain-groq>=1.1.3
+langchain-openai>=1.6.0
+langchain-google-genai>=4.3.5
+langchain-ollama>=1.1.0
+langgraph>=1.2.11
 
 # API / testing UI
-fastapi>=0.115.0
-uvicorn[standard]>=0.32.0
-streamlit>=1.38.0
-
-# Embeddings
-sentence-transformers>=3.0.0
-
-# Vector database
-qdrant-client>=1.10.0
-
-# Utilities
-tqdm>=4.66.0
-tenacity>=8.5.0
-
-# Development / testing
-pytest>=8.0.0
-pytest-asyncio>=0.23.0
+fastapi>=0.141.1
+uvicorn[standard]>=0.52.4
+streamlit>=1.62.0

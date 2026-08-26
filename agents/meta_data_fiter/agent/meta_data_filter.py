@@ -1,4 +1,4 @@
-from agents.meta_data_fiter.agent.helpers import _load_drugs,_tokenize,_matches_price
+from agents.meta_data_fiter.agent.helpers import _load_drugs,_matches_text,_matches_price
 
 MAX_CONTEXT_ITEMS = 40
 
@@ -19,7 +19,7 @@ def meta_data_filter(state):
     chunks = []
     for drug in _load_drugs():
         text_matched = any(
-            _tokenize(value) & _tokenize(drug.get(key))
+            _matches_text(value, drug.get(key))
             for key, value in filters.items()
         )
         price_matched = price_egp is not None and _matches_price(price_egp, drug.get("price_egp"))
