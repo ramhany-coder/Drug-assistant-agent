@@ -5,6 +5,8 @@ from typing import Any, Callable, Dict, List, Optional
 from agents.translatore_to_eng.translator import translator_to_eng
 from agents.meta_data_fiter.query_extractor.extractor import meta_data_extractor
 from agents.meta_data_fiter.agent.meta_data_filter import meta_data_filter
+from agents.compound_mapper.compound_mapper import compound_mapper
+from agents.retreivale.agent import retrieve_academic
 from agents.early_responser.early_responser import early_responser
 
 from api.graph_builder import GraphBuilder
@@ -27,6 +29,7 @@ def _normalize_state(state: Dict[str, Any]) -> Dict[str, Any]:
             "price_egp": state.get("price_egp"),
         },
         "context": state.get("context", []),
+        "compound_mappings": state.get("compound_mappings", []),
         "response": state.get("response"),
         "is_academic": state.get("is_academic", False),
     }
@@ -93,6 +96,8 @@ def default_agent_map() -> Dict[str, Any]:
         "translator_to_eng": _timed("translator_to_eng", translator_to_eng),
         "meta_data_extractor": _timed("meta_data_extractor", meta_data_extractor),
         "meta_data_filter": _timed("meta_data_filter", meta_data_filter),
+        "compound_mapper": _timed("compound_mapper", compound_mapper),
+        "retrieve_academic": _timed("retrieve_academic", retrieve_academic),
         "early_responser": _timed("early_responser", early_responser),
     }
 

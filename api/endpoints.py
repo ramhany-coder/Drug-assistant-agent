@@ -8,6 +8,8 @@ from pydantic import BaseModel
 from agents.translatore_to_eng.translator import translator_to_eng
 from agents.meta_data_fiter.query_extractor.extractor import meta_data_extractor
 from agents.meta_data_fiter.agent.meta_data_filter import meta_data_filter
+from agents.compound_mapper.compound_mapper import compound_mapper
+from agents.retreivale.agent import retrieve_academic
 from agents.early_responser.early_responser import early_responser
 from api.workflow import run_pipeline, PipelineStageError
 
@@ -101,6 +103,39 @@ def filter_metadata(payload: FilterRequest):
     return _run_stage("meta_data_filter", lambda: meta_data_filter(payload.model_dump()))
 
 
+# ---- stage 3b: compound mapper ----
+
+class CompoundMapperRequest(BaseModel):
+    scientific_name: Optional[str] = None
+    context: List[Dict[str, Any]] = []
+
+
+class CompoundMapperResponse(BaseModel):
+    compound_mappings: List[Dict[str, Any]] = []
+    latency_seconds: float
+
+
+@router.post("/map_compounds", response_model=CompoundMapperResponse)
+def map_compounds(payload: CompoundMapperRequest):
+    return _run_stage("compound_mapper", lambda: compound_mapper(payload.model_dump()))
+
+
+# ---- stage 3c: academic retrieval ----
+
+class RetrieveAcademicRequest(BaseModel):
+    compound_mappings: List[Dict[str, Any]] = []
+
+
+class RetrieveAcademicResponse(BaseModel):
+    context: List[Dict[str, Any]] = []
+    latency_seconds: float
+
+
+@router.post("/retrieve_academic", response_model=RetrieveAcademicResponse)
+def retrieve_academic_endpoint(payload: RetrieveAcademicRequest):
+    return _run_stage("retrieve_academic", lambda: retrieve_academic(payload.model_dump()))
+
+
 # ---- stage 4: early responder ----
 
 class RespondRequest(BaseModel):
@@ -133,6 +168,7 @@ class PipelineResponse(BaseModel):
     user_language: Optional[str] = None
     extracted: Dict[str, Any]
     context: List[Dict[str, Any]]
+    compound_mappings: List[Dict[str, Any]] = []
     response: Optional[str] = None
     is_academic: bool = False
     stage_timings: Dict[str, float] = {}

@@ -1,3 +1,4 @@
+from langchain_anthropic import ChatAnthropic
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_groq import ChatGroq
 from langchain_openai import ChatOpenAI
@@ -6,8 +7,8 @@ from llm.helpers import Helpers
 from config import settings
 
 class Llm :
-    routers_list = ["gemini","gpt","groq","ollama"]
-    
+    routers_list = ["anthropic","gemini","gpt","groq","ollama"]
+
     def __init__(self,temp:float=0):
         self.temp = temp
 
@@ -15,6 +16,7 @@ class Llm :
         router = Helpers.validate_router(router)
 
         providers = {
+            "anthropic": Llm.anthropic,
             "gemini": Llm.gemini,
             "groq": Llm.groq,
             "ollama": Llm.ollama,
@@ -22,7 +24,17 @@ class Llm :
         }
 
         return providers[router](model,self.temp)
-        
+
+    # 0. Anthropic Claude
+    @staticmethod
+    def anthropic(model: str, temp: float):
+        return ChatAnthropic(
+        model=model,
+        api_key=settings.ANTHROPIC_API_KEY,
+        temperature=temp,
+        )
+
+
 # 1. Google Gemini
     @staticmethod
     def gemini(model: str, temp: float):

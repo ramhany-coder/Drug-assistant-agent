@@ -6,6 +6,7 @@ from llm.llm_models import client_llm
 class FallBack:
     def __init__(
         self,
+        llm_anthropic: Optional[str] = None,
         llm_ollama: Optional[str] = None,
         llm_gpt: Optional[str] = None,
         llm_gemini: Optional[str] = None,
@@ -13,7 +14,9 @@ class FallBack:
     ):
         # Map the router names to their specific model strings
         self.llms: Dict[str, str] = {}
-        
+
+        if llm_anthropic:
+            self.llms["anthropic"] = llm_anthropic
         if llm_ollama:
             self.llms["ollama"] = llm_ollama
         if llm_gpt:
@@ -22,7 +25,7 @@ class FallBack:
             self.llms["gemini"] = llm_gemini
         if llm_groq:
             self.llms["groq"] = llm_groq
-            
+
 
     def invoke(self, message: Any, fallback_order: List[str]) -> str:
         """
@@ -76,8 +79,10 @@ class FallBack:
                 model_name = self.llms[router]
                 llm = client_llm.get_model(router, model_name)
                 
-                # Bind the Pydantic schema to the LLM
-                structured_llm = llm.with_structured_output(constraine_model, method="json_mode")
+                # Bind the Pydantic schema to the LLM as a tool call, not a JSON-mode
+                # prompt -- Anthropic has no native JSON mode, and tool calling is the
+                # actually-constrained decoding path across every provider here.
+                structured_llm = llm.with_structured_output(constraine_model, method="tool_calling")
                 pydantic_response = structured_llm.invoke(message)
                 
                 # Return as a dictionary

@@ -19,6 +19,7 @@ class State(TypedDict):
     is_academic: Optional[bool]
     chat_hist: Annotated[list, add_messages]
     context: Optional[List[dict]]
+    compound_mappings: Optional[List[dict]]
     response: Optional[str]
     native_response: Optional[str]
     stage_timings: Optional[Dict[str, float]]
