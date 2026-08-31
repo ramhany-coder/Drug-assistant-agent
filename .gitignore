@@ -20,6 +20,11 @@ dist/
 # Streamlit
 .streamlit/
 
+# Runtime-downloaded model cache markers (config.PII_SPACY_MODEL_DIR) -- must
+# never be committed, or a fresh clone/container would wrongly believe the
+# model is already installed and skip downloading it. See model_manager.py.
+models/pii_spacy/
+
 # Editors / OS
 .vscode/
 .idea/
@@ -29,3 +34,7 @@ Thumbs.db
 # Logs
 *.log
 logs/
+
+# Pickled search-engine indices (agents/meta_data_fiter/engine_registry.py) --
+# rebuilt automatically from data/egyptian-drugs.json when missing or stale.
+cache/

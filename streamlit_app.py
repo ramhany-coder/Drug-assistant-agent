@@ -1,3 +1,4 @@
+import base64
 import json
 import os
 import threading
@@ -127,6 +128,13 @@ def init_session_state():
         st.session_state.last_result = None
 
 
+def uploaded_image_to_data_uri(uploaded_file) -> str:
+    """Encode a Streamlit UploadedFile as a data URI the vision model can read."""
+    mime = uploaded_file.type or "image/jpeg"
+    b64 = base64.b64encode(uploaded_file.getvalue()).decode("utf-8")
+    return f"data:{mime};base64,{b64}"
+
+
 def get_user_facing_response(result: Dict[str, Any]) -> str:
     return result.get("response") or "No response was generated."
 
@@ -151,6 +159,9 @@ def render_chat_message(message: Dict[str, Any], streaming: bool = False):
     avatar = USER_AVATAR if role == "user" else ASSISTANT_AVATAR
 
     with st.chat_message(role, avatar=avatar):
+        if role == "user" and message.get("image_data_uri"):
+            st.image(message["image_data_uri"], width=220)
+
         if role == "assistant" and message.get("flagged"):
             st.warning(
                 "The retrieved catalogue content was insufficient to answer confidently. "
@@ -222,6 +233,16 @@ def render_debug_panel(result: Dict[str, Any]):
     with st.expander("Developer Trace / Internal State", expanded=False):
         render_stage_timings(result)
         st.divider()
+
+        if result.get("description"):
+            st.markdown("#### Image Description")
+            st.write(result["description"])
+            st.caption(
+                f"image_type: {result.get('image_type')} · "
+                f"is_readable: {result.get('is_readable')} · "
+                f"needs_clarification: {result.get('needs_clarification')} · "
+                f"image_redaction_mode: {result.get('image_redaction_mode')}"
+            )
 
         st.markdown("#### English Query")
         st.code(result.get("eng_query") or "N/A")
@@ -306,13 +327,28 @@ with tab_chat:
     # -----------------------------
     # Input Area
     # -----------------------------
-    query = st.chat_input("Ask about a drug in Arabic, Egyptian Arabic, Arabizi, or English...")
+    chat_submission = st.chat_input(
+        "Ask about a drug, or attach a photo of the box / prescription...",
+        accept_file=True,
+        file_type=["png", "jpg", "jpeg", "webp"],
+    )
+
+    query: Optional[str] = None
+    image_data_uri: Optional[str] = None
+    if chat_submission:
+        query = (chat_submission.text or "").strip() or None
+        if chat_submission.files:
+            image_data_uri = uploaded_image_to_data_uri(chat_submission.files[0])
 
     # -----------------------------
     # Main Execution
     # -----------------------------
-    if query:
-        user_message = {"role": "user", "content": query}
+    if query or image_data_uri:
+        user_message = {
+            "role": "user",
+            "content": query or "[sent a photo]",
+            "image_data_uri": image_data_uri,
+        }
         st.session_state.messages.append(user_message)
         render_chat_message(user_message)
 
@@ -326,14 +362,18 @@ with tab_chat:
                 try:
                     # run_pipeline (api/workflow.py) times every agent node and
                     # returns the full final state plus stage_timings /
-                    # total_latency_seconds alongside it.
-                    result = run_pipeline(query, chat_history)
+                    # total_latency_seconds alongside it. With an image attached it
+                    # routes through image_describer -> query_merger first (see
+                    # api/graph_builder.py) instead of straight to the extractor.
+                    result = run_pipeline(query, chat_history, image_data_uri)
                     st.session_state.last_result = result
 
                     response = get_user_facing_response(result)
                     flagged = is_flagged_result(result)
 
-                    if flagged:
+                    if result.get("needs_clarification"):
+                        st.info("The photo couldn't be used as sent — asking for a clearer one.")
+                    elif flagged:
                         st.warning(
                             "The retrieved catalogue content was insufficient to answer confidently. "
                             "Showing a safe fallback response instead."

@@ -159,13 +159,19 @@ def respond(payload: RespondRequest):
 # ---- full pipeline ----
 
 class PipelineRequest(BaseModel):
-    query: str
+    query: Optional[str] = None
     chat_hist: List[Any] = []
+    image: Optional[str] = None
 
 
 class PipelineResponse(BaseModel):
     eng_query: Optional[str] = None
     user_language: Optional[str] = None
+    description: Optional[str] = None
+    image_type: Optional[str] = None
+    image_redaction_mode: Optional[str] = None
+    is_readable: Optional[bool] = None
+    needs_clarification: Optional[bool] = None
     extracted: Dict[str, Any]
     context: List[Dict[str, Any]]
     compound_mappings: List[Dict[str, Any]] = []
@@ -178,7 +184,7 @@ class PipelineResponse(BaseModel):
 @router.post("/pipeline/run", response_model=PipelineResponse)
 def run_full_pipeline(payload: PipelineRequest):
     try:
-        return run_pipeline(payload.query, payload.chat_hist)
+        return run_pipeline(payload.query, payload.chat_hist, payload.image)
     except PipelineStageError as e:
         raise HTTPException(
             status_code=500,

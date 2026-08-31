@@ -8,8 +8,11 @@ python-dotenv>=1.2.3
 pydantic>=2.13.4
 typing_extensions>=4.16.0
 
-# Fuzzy string matching (compound_mapper)
+# Fuzzy string matching (compound_mapper, search_engine)
 rapidfuzz>=3.14.5
+
+# BM25 recall stage (search_engine)
+rank-bm25>=0.2.2
 
 # RAG / LangChain
 langchain-core>=1.6.0
@@ -24,3 +27,19 @@ langgraph>=1.2.11
 fastapi>=0.141.1
 uvicorn[standard]>=0.52.4
 streamlit>=1.62.0
+
+# Image PII redaction (agents/image_pii), gates image_describer. The spaCy
+# model itself (PII_SPACY_MODEL_NAME, "en_core_web_sm" by default) is NOT
+# listed here -- model_manager.ensure_spacy_model_downloaded fetches it once
+# at runtime (see agents/image_pii/helpers.py), so a text-only deployment
+# never pays for it. Needs the `tesseract-ocr` system binary (see
+# packages.txt / Dockerfile) -- pytesseract only wraps that CLI, it doesn't
+# ship it.
+presidio-analyzer>=2.2.0
+presidio-image-redactor>=0.0.3
+pytesseract>=0.3.10
+spacy>=3.7.0,<4.0.0
+Pillow>=10.0.0
+
+# Testing
+pytest>=9.1.1

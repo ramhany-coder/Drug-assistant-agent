@@ -1,16 +1,7 @@
 from typing import List, Optional, Tuple
 
-from langchain_core.messages import HumanMessage, SystemMessage
-
-from agents.compound_mapper.academic_index import ACADEMIC_INDEX
-from agents.compound_mapper.compound_mapper_prompt import (
-    SYSTEM_PROMPT_COMPOUND_MAPPER,
-    human_prompt_compound_mapper,
-)
-from agents.compound_mapper.matcher import match_component, split_components
+from agents.compound_mapper.compound_map import get_generic_names
 from agents.compound_mapper.unmapped_log import log_unmapped
-from llm.client import fallback_client, FALLBACK_ORDER
-from models.compound_mapper import CompoundMapperModel
 
 
 def _scientific_names_to_map(state) -> List[Tuple[str, Optional[str]]]:
@@ -35,64 +26,26 @@ def _scientific_names_to_map(state) -> List[Tuple[str, Optional[str]]]:
 
 
 def compound_mapper(state):
+    """Pure dict-lookup mapping (see compound_map.get_generic_names) — no LLM, no
+    fuzzy matching at runtime. A component absent from the build artefact is
+    reported as unmatched rather than guessed at, and logged so
+    logs/unmapped_compounds.jsonl can drive the next data update."""
     scientific_name_sources = _scientific_names_to_map(state)
     if not scientific_name_sources:
         return {"compound_mappings": []}
 
-    slots: List[dict] = []
-    pending_indices: List[int] = []
-
-    for scientific_name, source_product in scientific_name_sources:
-        for component_info in split_components(scientific_name):
-            outcome = match_component(component_info)
-            slot = {"component": outcome["component"], "source_product": source_product}
-            if outcome["matched"] is None:
-                slot["candidates"] = outcome["candidates"]
-                pending_indices.append(len(slots))
-            else:
-                slot["generic_name"] = outcome["generic_name"]
-                slot["matched"] = outcome["matched"]
-            slots.append(slot)
-
-    if pending_indices:
-        pending_slots = [slots[i] for i in pending_indices]
-
-        message = [
-            SystemMessage(content=SYSTEM_PROMPT_COMPOUND_MAPPER),
-            HumanMessage(content=human_prompt_compound_mapper(pending_slots)),
-        ]
-        raw_result = fallback_client.constrained_invoke(
-            message=message,
-            fallback_order=FALLBACK_ORDER,
-            constraine_model=CompoundMapperModel,
-        )
-        validated = CompoundMapperModel.model_validate(
-            raw_result, context={"valid_generic_names": ACADEMIC_INDEX.valid_generic_names}
-        )
-        by_component = {mapping.component: mapping for mapping in validated.mappings}
-
-        for index in pending_indices:
-            slot = slots[index]
-            mapping = by_component.get(slot["component"])
-            if mapping is None:
-                slot["generic_name"] = None
-                slot["matched"] = False
-            else:
-                slot["generic_name"] = mapping.generic_name
-                slot["matched"] = mapping.matched
-
     mappings = []
-    for slot in slots:
-        matched = bool(slot.get("matched"))
-        if not matched:
-            log_unmapped(slot["component"], slot.get("source_product"))
-        mappings.append(
-            {
-                "component": slot["component"],
-                "generic_name": slot.get("generic_name"),
-                "matched": matched,
-                "source_product": slot.get("source_product"),
-            }
-        )
+    for scientific_name, source_product in scientific_name_sources:
+        for entry in get_generic_names(scientific_name):
+            if not entry["matched"]:
+                log_unmapped(entry["component"], source_product)
+            mappings.append(
+                {
+                    "component": entry["component"],
+                    "generic_name": entry["generic_name"],
+                    "matched": entry["matched"],
+                    "source_product": source_product,
+                }
+            )
 
     return {"compound_mappings": mappings}

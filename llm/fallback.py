@@ -79,10 +79,10 @@ class FallBack:
                 model_name = self.llms[router]
                 llm = client_llm.get_model(router, model_name)
                 
-                # Bind the Pydantic schema to the LLM as a tool call, not a JSON-mode
-                # prompt -- Anthropic has no native JSON mode, and tool calling is the
-                # actually-constrained decoding path across every provider here.
-                structured_llm = llm.with_structured_output(constraine_model, method="tool_calling")
+                # json_schema uses native constrained decoding (response_format), not
+                # tool-calling -- avoids Groq's "model did not call a tool" failures
+                # that forced tool_choice can produce.
+                structured_llm = llm.with_structured_output(constraine_model, method="json_schema")
                 pydantic_response = structured_llm.invoke(message)
                 
                 # Return as a dictionary

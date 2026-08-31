@@ -9,7 +9,7 @@ SECONDARY_MODEL = "openai/gpt-oss-120b"
 TERTIARY_ROUTER = "gpt"
 TERTIARY_MODEL = "gpt-4o-mini"
 
-FALLBACK_ORDER = [PRIMARY_ROUTER, SECONDARY_ROUTER, TERTIARY_ROUTER]
+FALLBACK_ORDER = [SECONDARY_ROUTER]  # Groq only for now -- anthropic/gpt creds not configured
 
 
 fallback_kwargs = {

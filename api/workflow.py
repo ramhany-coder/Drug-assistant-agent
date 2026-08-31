@@ -3,6 +3,9 @@ import time
 from typing import Any, Callable, Dict, List, Optional
 
 from agents.translatore_to_eng.translator import translator_to_eng
+from agents.image_pii.image_pii import image_pii
+from agents.image_describer.image_describer import image_describer
+from agents.query_merger.query_merger import query_merger
 from agents.meta_data_fiter.query_extractor.extractor import meta_data_extractor
 from agents.meta_data_fiter.agent.meta_data_filter import meta_data_filter
 from agents.compound_mapper.compound_mapper import compound_mapper
@@ -19,6 +22,11 @@ def _normalize_state(state: Dict[str, Any]) -> Dict[str, Any]:
     return {
         "eng_query": state.get("eng_query"),
         "user_language": state.get("user_language"),
+        "description": state.get("description"),
+        "image_type": state.get("image_type"),
+        "image_redaction_mode": state.get("image_redaction_mode"),
+        "is_readable": state.get("is_readable"),
+        "needs_clarification": state.get("needs_clarification"),
         "extracted": {
             "commercial_name_en": state.get("commercial_name_en"),
             "commercial_name_ar": state.get("commercial_name_ar"),
@@ -94,6 +102,9 @@ def default_agent_map() -> Dict[str, Any]:
     """Return the default mapping of node name -> timed agent callable."""
     return {
         "translator_to_eng": _timed("translator_to_eng", translator_to_eng),
+        "image_pii": _timed("image_pii", image_pii),
+        "image_describer": _timed("image_describer", image_describer),
+        "query_merger": _timed("query_merger", query_merger),
         "meta_data_extractor": _timed("meta_data_extractor", meta_data_extractor),
         "meta_data_filter": _timed("meta_data_filter", meta_data_filter),
         "compound_mapper": _timed("compound_mapper", compound_mapper),
@@ -105,11 +116,18 @@ def default_agent_map() -> Dict[str, Any]:
 graph = GraphBuilder(default_agent_map()).build()
 
 
-def run_pipeline(query: str, chat_hist: Optional[List[Any]] = None) -> Dict[str, Any]:
-    """Runs the compiled graph: translator -> extractor -> filter -> responder.
+def run_pipeline(
+    query: Optional[str] = None,
+    chat_hist: Optional[List[Any]] = None,
+    image: Optional[str] = None,
+) -> Dict[str, Any]:
+    """Runs the compiled graph: translator -> extractor -> filter -> responder, or,
+    when `image` is given, image_describer -> query_merger first (see
+    GraphBuilder.build). `image` is a data URI ("data:image/jpeg;base64,...") or a
+    plain URL the vision model can fetch; `query` doubles as the photo's caption.
 
     Raises PipelineStageError (see above) if any stage fails."""
-    initial_state = {"query": query, "chat_hist": chat_hist or []}
+    initial_state = {"query": query, "chat_hist": chat_hist or [], "image": image}
     start = time.perf_counter()
 
     try:
