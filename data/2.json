@@ -1,0 +1,3268 @@
+[
+  {
+    "category": "Cardiovascular system",
+    "name": "Alfuzosin",
+    "abbreviation": null,
+    "generic_name": "Alfuzosin",
+    "dosage_form_strengths": [
+      "5 mg",
+      "10 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Alpha 1 Blocker",
+    "atc_code": "G04CA01",
+    "indications": "Benign prostatic hyperplasia: Treatment of benign prostatic hyperplasia.",
+    "dosage_regimen": {
+      "adult": "Extended release: 10 mg once daily or 5 mg twice daily.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Avoid in severe renal impairment (CrCl <30 mL/minute).",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "Mild hepatic impairment: Use caution, not studied. Moderate or severe hepatic impairment: Use is contraindicated.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to Alfuzosin or any component of the formulation.",
+      "Moderate or severe hepatic impairment.",
+      "History of micturition syncope.",
+      "History of postural hypotension",
+      "Concurrent use with potent CYP3A4 inhibitors (e.g. Itraconazole, Ketoconazole)"
+    ],
+    "adverse_drug_reactions": {
+      "1% to 10%": "Gastrointestinal: Abdominal pain 2%, constipation 2%, dyspepsia 2%, nausea 2%; Genitourinary: Impotence 2%; Nervous system: Dizziness 6%, fatigue 3%, headache 3%, pain 2%; Respiratory: Bronchitis 2%, pharyngitis 2%, sinusitis 2%, upper respiratory tract infection 3%"
+    },
+    "monitoring_parameters": "Blood pressure. Herart rate.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Alpha1-Blockers",
+        "Strong CYP3A4 Inhibitors (e.g. Clarithromycin, Itraconazole, Ketoconazole, Posaconazole)",
+        "Fexinidazole",
+        "Fusidic Acid (Systemic)"
+      ],
+      "risk_d_consider_therapy_modification": []
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "This medicine is not intended for use in women.",
+      "lactation": null
+    },
+    "administration": "Oral: Administer immediately following a meal at the same time each day. Swallow tablet whole; do not crush or chew. Refer to manufacturer PIL if there are specific considerations.",
+    "warnings_precautions": [
+      "Floppy iris syndrome: Intraoperative floppy iris syndrome is observed in cataract surgery patients who have been treated with alpha1-blockers; no benefit to discontinue therapy prior to surgery. Instruct patients to inform ophthalmologist of alpha-blocker use before eye surgery.",
+      "Orthostatic hypotension/syncope: May cause significant orthostatic hypotension with or without syncope, especially with first dose, if dosage is rapidly increased, or if another antihypertensive drug is co-administered.; First‑dose orthostatic hypotension may occur few hours after dosing; may be dose related. Vertigo and dizziness due to orthostatic hypotension may occur. Patients should be cautioned about performing hazardous tasks or driving when starting new therapy or adjusting dosage upward. Elderly are at higher risk.",
+      "Hepatic or renal impairment: Use with caution in patients with mild hepatic impairment; contraindicated in moderate-to-severe impairment. Caution in patients with severe renal impairment (CrCl <30 mL/minute).",
+      "Prostate cancer: It is recommended to rule out prostatic carcinoma before beginning therapy",
+      "Heart disease: Use with caution in patients with histories of tachyarrhythmia or with certain cardiovascular conditions, such as myocardial ischemia. Discontinue if symptoms of angina occur or worsen. Alfuzosin has been shown to prolong the QT interval alone (minimal) and with other drugs with comparable effects on the QT interval (additive). Use with caution in patients with known QT prolongation (congenital or acquired)."
+    ],
+    "storage": "Store between 15°C to 30°C. Protect from light and moisture. Refer to manufacturer PIL if there are specific considerations.",
+    "id": 1
+  },
+  {
+    "category": "Cardiovascular system",
+    "name": "DOXAZOSIN",
+    "abbreviation": null,
+    "generic_name": "Doxazosin",
+    "dosage_form_strengths": [
+      "Tablets: 1mg",
+      "Tablets: 2mg",
+      "Tablets: 4mg",
+      "Tablets: 8mg",
+      "Modified Release Film Coated Tablets: 4mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Alpha 1 Blocker; Antihypertensive",
+    "atc_code": "C02CA04",
+    "indications": "Benign prostatic hyperplasia: Treatment of benign prostatic hyperplasia. Hypertension: Management of hypertension.",
+    "dosage_regimen": {
+      "adult": "Hypertension: Immediate-release: initial 1 mg once daily increased by doubling every 1‑2 weeks up to 16 mg; Modified-release: 4 mg once daily, may increase to 8 mg after 4 weeks. Benign prostatic hyperplasia: Immediate-release: initial 1 mg once daily increased by doubling every 1‑2 weeks up to 8 mg; usual maintenance 2‑4 mg daily; Modified-release: 4 mg once daily, may increase to 8 mg after 4 weeks.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No adjustments necessary.",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "Mild to moderate impairment: use with caution. Severe impairment: use is not recommended.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to Doxazosin, other Quinazolines (e.g. Prazosin, Terazosin), or any component of the formulation.",
+      "History of micturition syncope (in patients with benign prostatic hypertrophy).",
+      "History of postural hypotension.",
+      "Monotherapy in patients with overflow bladder or anuria.",
+      "Concurrent use with potent CYP3A4 inhibitors (eg, Itraconazole, Ketoconazole)."
+    ],
+    "adverse_drug_reactions": {
+      ">10%": "Nervous system: Dizziness (≤19%), fatigue (≤12%), malaise (≤12%), vertigo (≤16%)",
+      "1% to 10%": "Cardiovascular: Edema (≤3%), hypotension (≤2%), orthostatic hypotension (2%); Gastrointestinal: Abdominal pain (2%), dyspepsia (1%), nausea (2%), xerostomia (1%); Genitourinary: Urinary tract infection (1%); Nervous system: Asthenia (4%), drowsiness (1%), headache (6%); Neuromuscular and skeletal: Myalgia (≤1%); Renal: Polyuria (2%); Respiratory: Dyspnea (1% to 3%), respiratory tract infection (5%), rhinitis (3%)",
+      "Significant Adverse Reactions": "Floppy iris syndrome: with current or prior use of alpha-1 blockers undergoing cataract surgery. Orthostatic hypotension: Dose related. Onset after initial dose or after few months."
+    },
+    "monitoring_parameters": "Blood pressure; Heart rate",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Alpha1-Blockers",
+        "Bromperidol"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Amifostine",
+        "Obinutuzumab",
+        "Phosphodiesterase 5 Inhibitors"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "No evidence of teratogenicity; Animal Data Suggest Moderate Risk. Use only when potential benefit outweighs risk.",
+      "lactation": "Accumulates in milk in animal studies. Potential Toxicity. Better to avoid."
+    },
+    "administration": "Oral: Immediate release: Administer without regard to meals at the same time each day. Extended release: Swallow tablets whole; do not crush or divide. Administer with morning meal. Refer to manufacturer PIL if there are specific considerations.",
+    "warnings_precautions": [
+      "Floppy iris syndrome: Intraoperative floppy iris syndrome is observed in cataract surgery patients who have been treated with alpha1-blockers; no benefit to discontinue therapy prior to surgery. Instruct patients to inform ophthalmologist of alpha-blocker use before eye surgery.",
+      "Orthostatic hypotension/syncope: May cause significant orthostatic hypotension with or without syncope, especially with first dose, if dosage is rapidly increased, or if another antihypertensive drug is co-administered. First-dose orthostatic hypotension may occur few hours after dosing; may be dose related. Vertigo and dizziness due to orthostatic hypotension may occur. Patients should be cautioned about performing hazardous tasks, driving, or operating heavy machinery when starting new therapy or adjusting dosage upward. Elderly are at higher risk.",
+      "Hepatic impairment: Use with caution in patients with mild to moderate impairment; monitor blood pressure and for symptoms of hypotension. Not recommended in severe impairment as extensively metabolized.",
+      "Prostate cancer: It is recommended to rule out prostatic carcinoma before starting therapy.",
+      "Heart disease: Use with caution in patients with heart failure, angina pectoris, or recent acute myocardial infarction (within the last 6 months). If symptoms of angina pectoris appear or worsen, discontinue use.",
+      "Hematologic effect: Leukopenia and thrombocytopenia rarely occur and reversible after discontinuation."
+    ],
+    "storage": "Store between 15°C to 30°C. Refer to manufacturer PIL if there are specific considerations.",
+    "id": 2
+  },
+  {
+    "category": "Cardiovascular system",
+    "name": "Silodosin",
+    "abbreviation": null,
+    "generic_name": "Silodosin",
+    "dosage_form_strengths": [
+      "Capsules: 4mg",
+      "Capsules: 8mg",
+      "Scored tablet: 8mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Alpha1 blocker",
+    "atc_code": "G04CA04",
+    "indications": "Treatment of benign prostatic hyperplasia.",
+    "dosage_regimen": {
+      "adult": "8 mg once daily with a meal.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "CrCl >50 mL/min: No dosage adjustment necessary; CrCl 30-50 mL/min: 4 mg once daily; CrCl <30 mL/min: Use is contraindicated.",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "Mild-to-moderate impairment: No dosage adjustment necessary; Severe impairment: Use is contraindicated.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Severe renal or hepatic impairment.",
+      "Hypersensitivity to silodosin or any ingredient of the formulation.",
+      "Concurrent use with potent CYP3A4 inhibitors (e.g., Itraconazole, Ketoconazole)."
+    ],
+    "adverse_drug_reactions": {
+      ">10%": "Genitourinary: Retrograde ejaculation (28%)",
+      "1% to 10%": "Cardiovascular: Orthostatic hypotension (3%; increased in elderly ≥65 years up to 5%); Central nervous system: Dizziness (3%), headache (2%), insomnia (1%); Gastrointestinal: Diarrhea (3%), abdominal pain (1%); Genitourinary: Prostate specific antigen increased (1%); Neuromuscular and skeletal: Weakness (1% to 2%); Respiratory: Nasal congestion (2%), rhinorrhea (1%), sinusitis (1%)"
+    },
+    "monitoring_parameters": "Blood pressure, Heart rate",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Alpha1-Blockers, Strong CYP3A4 Inhibitors (e.g. Clarithromycin, Itraconazole, Ketoconazole, Posaconazole), Fexinidazole, Fusidic Acid (Systemic)"
+      ],
+      "risk_d_consider_therapy_modification": []
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Not indicated for women.",
+      "lactation": null
+    },
+    "administration": "Oral: Administer Silodosin with a meal, at about the same time every day. Swallow the capsule intact; do not chew or crush. Do not subdivide capsule contents. The dose should be swallowed immediately (within 5 minutes) without chewing and followed by 240 mL glass of cool water. Refer to manufacturer PIL if there are specific considerations.",
+    "warnings_precautions": [
+      "Floppy iris syndrome: Intraoperative floppy iris syndrome is observed in cataract surgery patients who have been treated with alpha1-blockers; no benefit to discontinue therapy prior to surgery. Instruct patients to inform ophthalmologist of alpha-blocker use before eye surgery.",
+      "Orthostatic hypotension/syncope: May cause significant orthostatic hypotension with or without syncope, especially with first dose, if dosage is rapidly increased, or if another antihypertensive drug is co-administered. First-dose orthostatic hypotension may occur few hours after dosing; may be dose related. Vertigo and dizziness due to orthostatic hypotension may occur. Patients should be cautioned about performing hazardous tasks, driving, or operating heavy machinery when starting new therapy or adjusting dosage upward. Elderly are at higher risk.",
+      "Hepatic or renal impairment: Use with caution in patients with mild-to-moderate impairment; contraindicated with severe hepatic or renal impairment.",
+      "Prostate cancer: It is recommended to rule out prostatic carcinoma before beginning therapy."
+    ],
+    "storage": "Store between 15°C to 30°C. Protect from light and moisture. Refer to manufacturer PIL if there are specific considerations.",
+    "id": 3
+  },
+  {
+    "category": "Cardiovascular system",
+    "name": "Felodipine",
+    "abbreviation": null,
+    "generic_name": "Felodipine",
+    "dosage_form_strengths": [
+      "2.5mg",
+      "5mg",
+      "10mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antihypertensive; Calcium Channel Blocker, Dihydropyridine",
+    "atc_code": "C08CA02",
+    "indications": "Management of hypertension; Prophylaxis of angina",
+    "dosage_regimen": {
+      "adult": "Hypertension: Initially 2.5 mg once daily; titrate every 1-2 weeks. Usual maintenance 2.5–10 mg once daily, taken in the morning. Prophylaxis of angina: Initially 5 mg once daily (2.5 mg in elderly); titrate every 2-4 weeks up to 10 mg if needed, taken in the morning.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary.",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "Initial: 2.5 mg once daily; caution.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to felodipine or any component of the formulation.",
+      "Pregnant or lactating women",
+      "Cardiac outflow obstruction.",
+      "Significant cardiac valvular obstruction (e.g. aortic stenosis)",
+      "Uncontrolled heart failure",
+      "Unstable angina within 1 month of myocardial infarction"
+    ],
+    "adverse_drug_reactions": {
+      "10%": "Cardiovascular: Peripheral edema (2% to 17%); Central nervous system: Headache (11% to 15%)",
+      "1% to 10%": "Cardiovascular: Flushing (4% to 7%), tachycardia (≤3%)"
+    },
+    "monitoring_parameters": "Blood pressure; Heart rate",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Bromperidol",
+        "Dantrolene",
+        "Fexinidazole",
+        "Fusidic Acid (Systemic)",
+        "Itraconazole",
+        "Ketoconazole (Systemic)"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Amifostine",
+        "Strong CYP3A4 Inducers (eg. Barbiturates (phenobarbital), Carbamazepine, Phenytoin, Rifampicin)",
+        "Strong CYP3A4 Inhibitors (eg. Clarithromycin, Posaconazole)",
+        "Obinutuzumab",
+        "Sincalide",
+        "Thioridazine"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Avoid in pregnant women. Agents other than felodipine are more commonly used.",
+      "lactation": "Present in milk. Potential for serious adverse reactions in breastfeeding infant."
+    },
+    "administration": "Oral: Swallow tablet whole; do not crush, or chew. Administer without food or with low in fat and carbohydrates meals.",
+    "warnings_precautions": [
+      "Discontinue if ischemic pain occurs or existing pain worsens shortly after initiating treatment.",
+      "Peripheral edema: Common adverse effect, dose dependent; may occur in 2 to 3 weeks after starting therapy.",
+      "Heart failure: use is not recommended",
+      "Caution in patients with hepatic impairment, Hypertrophic cardiomyopathy, and in elderly."
+    ],
+    "storage": "Store between 15°C to 30°C. Protect from light.",
+    "id": 4
+  },
+  {
+    "category": "Antianginal, Vasodilators",
+    "name": "TRIMETAZIDINE",
+    "abbreviation": null,
+    "generic_name": "Trimetazidine",
+    "dosage_form_strengths": [
+      "Tablets: 20mg",
+      "Modified Release Tablets: 35 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Cardio protective Anti-ischemic agent",
+    "atc_code": "C01EB15",
+    "indications": "Prevent angina attacks as an add-on to existing treatments in patients who are not adequately controlled by or intolerant to other medicines for angina pectoris.",
+    "dosage_regimen": {
+      "adult": "Immediate release tablet: Initial and maximum dose: 20 mg 3 times daily; Modified release tablet: Initial and maximum dose: 35 mg twice daily",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "CrCl 30-60 mL/min: Immediate release tablet 20 mg twice daily; Modified release tablet 35 mg once daily (preferably in the morning). CrCl <30 mL/min: contraindicated.",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to component of the formulation.",
+      "Parkinson disease or and other related movement disorders",
+      "Severe reduced kidney function (creatinine clearance < 30ml/min)."
+    ],
+    "adverse_drug_reactions": {
+      "unspecified": "Nausea and vomiting.",
+      "Very rarely": "Reversible parkinsonian symptoms after stopping treatment."
+    },
+    "monitoring_parameters": "Kidney disease; Symptoms of Parkinson.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [],
+      "risk_d_consider_therapy_modification": []
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "No data, so not recommended to use during pregnancy and lactation.",
+      "lactation": "No data, so not recommended to use during pregnancy and lactation."
+    },
+    "administration": "Oral: at mealtime.",
+    "warnings_precautions": [
+      "Trimetazidine should be discontinued permanently in patients who develop movement disorders such as Parkinsonian symptoms. If Parkinsonian symptoms persist for more than four months after discontinuation, a neurologist's opinion should be sought."
+    ],
+    "storage": "Store between 150 C to 300 C.",
+    "id": 5
+  },
+  {
+    "category": null,
+    "name": "TERAZOSIN",
+    "abbreviation": null,
+    "generic_name": "TERAZOSIN",
+    "dosage_form_strengths": [
+      "1 mg",
+      "2.4 mg",
+      "6 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Alpha 1 Blocker; Antihypertensive",
+    "ATC": "G04CA03",
+    "indications": "Benign prostatic hyperplasia; Hypertension",
+    "dosage_regimen": {
+      "adult": "1 mg once daily at bedtime; titrate slowly every few weeks according to response and tolerability; usual dose: 5-10 mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to terazosin or any component of the formulation; History of micturition syncope; History of postural hypotension"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Nervous system: Asthenia (≤11%), dizziness (9% to 19%), fatigue (≤11%), lassitude (≤11%)",
+      "1% to 10%": [
+        "Cardiovascular: Orthostatic hypotension (1% to 5%), palpitations (4%), peripheral edema (6%), tachycardia (2%)",
+        "Gastrointestinal: Nausea (2% to 4%)",
+        "Genitourinary: Impotence (2%)",
+        "Nervous system: Drowsiness (4% to 5%), paresthesia (3%), vertigo (1%)",
+        "Neuromuscular and skeletal: Back pain (2%), limb pain (4%)"
+      ],
+      "≥11%": [
+        "Cardiovascular: Orthostatic hypotension (1% to 5%), palpitations (4%), peripheral edema (6%), tachycardia (2%)",
+        "Gastrointestinal: Nausea (2% to 4%)",
+        "Genitourinary: Impotence (2%)",
+        "Nervous system: Drowsiness (4% to 5%), paresthesia (3%), vertigo (1%)",
+        "Neuromuscular and skeletal: Back pain (2%), limb pain (4%)"
+      ]
+    },
+    "monitoring_parameters": "Blood Pressure; Heart rate",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Alpha1-Blockers",
+        "Bromperidol"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Amifostine",
+        "Obinutuzumab",
+        "Phosphodiesterase 5 Inhibitors (eg. Sildenafil, Tadalafil, Vardenafil, and Avanafil)"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "No Human Data. Agents other than Terazosin may be preferred in chronic hypertension.",
+      "lactation": "It is not known if terazosin is present in breast milk. Caution if used."
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Orthostatic hypotension/syncope: May cause significant orthostatic hypotension with or without syncope, especially with first dose, if dosage is rapidly increased, or if another antihypertensive drug is co-administered.; First-dose” orthostatic hypotension may occur few hours after dosing; may be dose related. Vertigo and dizziness due to orthostatic hypotension may occur. Patients should be cautioned about performing hazardous tasks, driving, or operating heavy machinery when starting new therapy or adjusting dosage upward. Elderly are at higher risk."
+    ],
+    "id": 6
+  },
+  {
+    "category": null,
+    "name": "ISOSORBIDE DINITRATE",
+    "abbreviation": null,
+    "generic_name": "ISOSORBIDE DINITRATE",
+    "dosage_form_strengths": [
+      "Sublingual Tablet 5mg, 10mg",
+      "Capsules: 20mg, 40mg",
+      "Tablet 5mg, 10mg, Tablet 20mg, 40mg (in combination)",
+      "Sustained Release Capsule 20 mg, 40mg",
+      "Lentocaps 40mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antianginal Agent; Vasodilator",
+    "atc_code": "C01DA08",
+    "indications": "Prevention of angina pectoris due to coronary artery disease",
+    "dosage_regimen": {
+      "adult": "20 mg twice daily with the 2 doses given 7 hours apart (eg, 8 AM and 3 PM) to decrease tolerance development",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to Isosorbide dinitrate or any component of the formulation",
+      "Concurrent use with phosphodiesterase inhibitors (Sildenafil, Tadalafil, Vardenafil, or Avanafil)",
+      "Severe anemia"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Bromperidol",
+        "Phosphodiesterase 5 Inhibitors",
+        "Riociguat"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Amifostine",
+        "Obinutuzumab"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Hypotension/bradycardia",
+      "Intracranial pressure increased",
+      "Cardiovascular disease: Not recommended in patients with acute MI or HF (cannot easily reverse effects if adverse events develop)",
+      "Hypertrophic cardiomyopathy (HCM)",
+      "Tolerance: Appropriate dosing intervals are needed to minimize tolerance development"
+    ],
+    "storage": null,
+    "id": 7
+  },
+  {
+    "category": "Antianginal Agent; Vasodilator, Potassium-channel openers",
+    "name": "Nicorandil",
+    "abbreviation": "Nico",
+    "generic_name": "Nicorandil",
+    "dosage_form_strengths": [
+      "10mg",
+      "20mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antianginal Agent; Vasodilator, Potassium-channel openers",
+    "atc_code": "C01DX16",
+    "indications": "Prophylaxis and treatment of stable angina (second-line)",
+    "dosage_regimen": {
+      "adult": "10–20 mg twice daily",
+      "pediatric": "Not recommended for pediatric patients"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustments required in liver or renal impairment",
+      "renal_impairment_pediatric": "No dose adjustments required in liver or renal impairment",
+      "hepatic_impairment_adult": "No dose adjustments required in liver or renal impairment",
+      "hepatic_impairment_pediatric": "No dose adjustments required in liver or renal impairment"
+    },
+    "contraindications": [
+      "Hypovolaemia or severe hypotension",
+      "Shock (including cardiogenic shock)",
+      "Acute pulmonary oedema",
+      "Left ventricular dysfunction with low filling pressure or cardiac decompensation",
+      "Hypersensitivity reactions to any component of the formulation"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Significant Adverse Reactions: Nicorandil may cause serious ulcers at skin, mucosa, and eye; including GIT ulcers, which may progress to perforation, hemorrhage, fistula or abscess. Discontinue treatment if ulceration occurs and consider an alternative agent."
+    },
+    "monitoring_parameters": "cardiac function, Blood pressure",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Aspirin",
+        "Corticosteroids",
+        "NSAIDs",
+        "phosphodiesterase type-5 inhibitors (eg. Sildenafil, Vardenafil, Tadalafil)"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Hypotensive agents",
+        "Dapoxetine"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Pregnancy: No data available. Use only if potential benefit outweighs risk.",
+      "lactation": "Lactation: No data available. Not recommended."
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "May affect performance of driving or operating machinery.",
+      "Diverticular disease (risk of fistula formation or bowel perforation).",
+      "G6PD deficiency patients: Caution as may cause methemoglobinemia.",
+      "Heart failure: Caution in patients with heart failure."
+    ],
+    "id": 8
+  },
+  {
+    "category": null,
+    "name": "CLONIDINE HYDROCHLORIDE",
+    "abbreviation": null,
+    "generic_name": "CLONIDINE HYDROCHLORIDE",
+    "dosage_form_strengths": [
+      "25 mcg",
+      "150 mcg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Alpha2-Adrenergic Agonist; Antihypertensive",
+    "ATC": "C02AC01",
+    "indications": "Management of hypertension",
+    "dosage_regimen": {
+      "adult": "Hypertension",
+      "pediatric": "Prevention of recurrent migraine, Prevention of vascular, headache, Menopausal symptoms, particularly flushing, and vasomotor conditions"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Give 50–75% of the usual dosage",
+      "renal_impairment_pediatric": "Give 50–75% of the usual dosage",
+      "hepatic_impairment_adult": "No quantitative recommendations are available",
+      "hepatic_impairment_pediatric": "No quantitative recommendations are available"
+    },
+    "contraindications": [
+      "Hypersensitivity to drug or any component of the formulation",
+      "Severe bradyarrhythmia from second- or third-degree atrioventricular block or sick sinus syndrome; sinus node dysfunction"
+    ],
+    "adverse_drug_reactions": {
+      "frequency bucket as written in the text": "Pregnancy and Lactation"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Azelastine (Nasal), Bromperidol, Blonanserin, Fexinidazole, Flunarizine, Kratom, Macimorelin, Olopatadine (Nasal), Orphenadrine, Oxomemazine, Paraldehyde, Thalidomide"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Amifostine",
+        "Beta-Blockers",
+        "Blonanserin",
+        "Buprenorphine",
+        "Cerinib",
+        "Chlormethiazole",
+        "Daridorexant",
+        "Dexmedetomidine",
+        "Droperidol",
+        "Fingolimod",
+        "Flunitrazepam",
+        "Hydroxyzine",
+        "Lemborexant",
+        "Methotrimeprazine",
+        "Mirtazapine",
+        "Obinutuzumab",
+        "Opioid Agonists",
+        "Oxybate Salt Products",
+        "Ponesimod",
+        "Ropeginterferon Alfa-2b",
+        "Siponimod",
+        "Suvorexant",
+        "Tricyclic Antidepressants",
+        "Zolpidem",
+        "Zuranolone"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": null,
+    "storage": "Store between 150C and 30 oC. Keep in dry place.",
+    "id": 9
+  },
+  {
+    "category": null,
+    "name": "METHYLDOPA",
+    "abbreviation": null,
+    "generic_name": "Methyldopa",
+    "dosage_form_strengths": [
+      "Tablets",
+      "Capsules"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Alpha2-Adrenergic Agonist; Antihypertensive",
+    "ATC_code": "C02AB01",
+    "indications": "Hypertension",
+    "dosage_regimen": {
+      "adult": "250 mg 2 to 3 times daily; titrate daily dose at least every 2 days based on response; usual dose range: 250 mg to 1 g daily in 2 to 4 divided doses; maximum dose: 3 g/day in divided doses",
+      "pediatric": "10 mg/kg/day in 2 to 4 divided doses; titrate no more frequently than every 2 days until adequate response to maximum daily dose: 65 mg/kg/day or 3,000 mg/day whichever is less"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment is needed",
+      "renal_impairment_pediatric": "No dosage adjustment is needed",
+      "hepatic_impairment_adult": "No dosage adjustments available; use is contraindicated in patients with active hepatic disease such as acute hepatitis and decompensated cirrhosis",
+      "hepatic_impairment_pediatric": "No dosage adjustments available; use is contraindicated in patients with active hepatic disease such as acute hepatitis and decompensated cirrhosis"
+    },
+    "contraindications": [
+      "Hypersensitivity to methyldopa or any component of the formulation",
+      "Active hepatic disease (eg, acute hepatitis, active cirrhosis)",
+      "Hepatic disorders previously associated with use of methyldopa",
+      "Concurrent use of MAO inhibitors",
+      "Bromperidol, Monoamine Oxidase Inhibitors, Triptorelin"
+    ],
+    "adverse_drug_reactions": {
+      "frequency": "Not defined"
+    },
+    "monitoring_parameters": "Blood pressure (standing and sitting/lying down); CBC, liver enzymes (periodically during the first 6 to 12 weeks or when unexplained fever occurs); Coombs test (direct) (may obtain prior to initiation and at 6 and 12 months)",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Bromperidol",
+        "Monoamine Oxidase Inhibitors",
+        "Triptorelin"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Amifostine",
+        "Beta-Blockers",
+        "Iron Preparations",
+        "Mirtazapine",
+        "Multivitamins/Minerals"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Methyldopa crosses the placenta. Available data show use during pregnancy does not cause fetal harm and improves fetal outcomes. Chronic maternal hypertension may increase the risk of birth defects, low birth weight, preterm delivery, stillbirth, and neonatal death. If treatment for chronic hypertension during pregnancy is needed, oral methyldopa is an option; however, other agents may be preferred due to adverse events and decreased effectiveness when compared to other medications. Females with preexisting hypertension may continue their medication during pregnancy unless contraindications exist.",
+      "lactation": "Methyldopa is present in breast milk. Methyldopa is compatible with breastfeeding. However, because maternal depression has been reported following methyldopa administration, use of methyldopa should be avoided in the postnatal period due to the underlying risk of depression already present in this patient population. Administration Oral: Administer new dosage increases in the evening to minimize sedation. N.B. Refer to manufacturer PIL for specific considerations."
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Patients with severe bilateral cerebrovascular disease have exhibited involuntary choreoathetotic movements (rare); discontinue use if these symptoms develop.",
+      "Use with caution in patients with history of hepatic disease or impairment.",
+      "Renal impairment; may respond to smaller doses.",
+      "Not recommended in patients with pheochromocytoma.",
+      "Tolerance may occur usually between the second and third month of therapy; adding a diuretic or increasing the dosage of methyldopa frequently restores blood pressure control.",
+      "Methyldopa is not considered a drug of first choice in the elderly because of its CNS effects.",
+      "Surgical patients: Patients on methyldopa may need less anesthetic agents.",
+      "Storage Store between 15°C to 30°C. Protect from light."
+    ],
+    "id": 10
+  },
+  {
+    "category": "Antihypertensive; Vasodilator",
+    "name": "Hydralazine",
+    "abbreviation": "HYDRALAZINE",
+    "generic_name": "Hydralazine",
+    "dosage_form_strengths": [
+      "25mg",
+      "50mg",
+      "100mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antihypertensive; Vasodilator",
+    "atc_code": "C02DB02",
+    "indications": "Hypertension, chronic: Management of moderate to severe hypertension.",
+    "dosage_regimen": {
+      "adult": "25 mg 2 times daily followed by titration based on response to 50 mg 4 times daily.",
+      "pediatric": "0.75 mg/kg/day in 2 to 4 divided doses; maximum initial adult dose: 10 mg/dose; may increase gradually over 3 to 4 weeks; maximum daily dose: 7.5 mg/kg/day not to exceed 200 mg/day"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Reduce dose or administer usual dose at extended time intervals. Use with caution. More likely to develop hydralazine toxicity.",
+      "renal_impairment_pediatric": "Adjust dose or intervals according to clinical response."
+    },
+    "contraindications": [
+      "Hypersensitivity to hydralazine or any component of the formulation",
+      "Coronary artery disease",
+      "Mitral valve rheumatic heart disease"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hydralazine-induced lupus-like syndrome (HILS) has occurred in up to 10% of patients on doses ≥200 mg for ≥3 months and is reversible upon discontinuation."
+    },
+    "monitoring_parameters": "Blood pressure, Heart rate, Kidney functions, Complete blood cell count (CBC)",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Bromperidol",
+        "Amifostine, Obinutuzumab"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Amifostine, Obinutuzumab"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Agents other than oral hydralazine are more recommended. Females with preexisting hypertension may continue their medication during pregnancy unless contraindications exist.",
+      "lactation": "Caution should be used if administered to a breastfeeding woman."
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Disease-related concerns: Cardiovascular disease: Use is contraindicated in patients with coronary artery disease (CAD). Use with caution in patients with cerebral vascular accidents and suspected CAD; myocardial stimulation produced by hydralazine can cause anginal attacks and electrocardiogram (ECG) changes of myocardial ischemia; has been implicated in the production of myocardial infarction.",
+      "Kidney impairment: Use with caution in patients with advanced kidney impairment; dosage adjustment recommended.",
+      "Mitral valvular disease: Use with caution in patients with mitral valvular disease; may increase pulmonary artery pressure in these patients. Use is contraindicated in patients with mitral valve rheumatic heart disease."
+    ],
+    "storage": "Store between 15ºC to 30ºC",
+    "id": 11
+  },
+  {
+    "category": null,
+    "name": "DILTIAZEM",
+    "abbreviation": null,
+    "generic_name": "Diltiazem",
+    "dosage_form_strengths": [
+      "60mg",
+      "90mg",
+      "120mg",
+      "180mg",
+      "240mg"
+    ],
+    "route_of_administration": "Oral, Topical",
+    "pharmacologic_category": "Calcium Channel Blocker, Nondihydropyridine, Antianginal Agent; Antiarrhythmic Agent, Class IV; Antihypertensive",
+    "atc_code": null,
+    "indications": "Hypertension, Angina",
+    "dosage_regimen": {
+      "adult": "Doses vary according to formulation release and to patient response. Refer to manufacturer label.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Lower initial doses.",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "Lower initial doses. Use with caution.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to diltiazem or any component of the formulation; Sick sinus syndrome (unless pacemaker fitted); Second- or third-degree AV block (unless pacemaker fitted); Left ventricular failure with pulmonary congestion; Cardiogenic shock, heart failure (with reduced ejection fraction); Hypotension (systolic <90 mm Hg) or severe bradycardia"
+    ],
+    "adverse_drug_reactions": {
+      "Common or very common": [
+        "Cardiac conduction disorders",
+        "Constipation",
+        "Gastrointestinal discomfort",
+        "Malaise"
+      ],
+      "Uncommon": [
+        "Arrhythmias",
+        "Diarrhea",
+        "Insomnia",
+        "Nervousness",
+        "Postural hypotension",
+        "Dry mouth"
+      ],
+      "Rare or very rare": [
+        "Dry mouth"
+      ]
+    },
+    "monitoring_parameters": "Blood Pressure, Heart rate",
+    "drug_interactions": {
+      "Risk X: Avoid combination": [
+        "Aprepitant",
+        "Asunaprevir",
+        "Bosutinib",
+        "Bromperidol",
+        "Budesonide (Topical)",
+        "Dantrolene",
+        "Domperidone",
+        "Doxorubicin",
+        "Elacestrant",
+        "Eletriptan",
+        "Fexinidazole",
+        "Flibanserin",
+        "Fosaprepitant",
+        "Fusidic Acid (Systemic)",
+        "Infigratinib",
+        "Ivabradine",
+        "Lemborexant",
+        "Lomitapide",
+        "Lonafarnib",
+        "Methysergide",
+        "Nisoldipine",
+        "Orelabrutinib",
+        "Pacritinib",
+        "Pimozide",
+        "Sertindole",
+        "Simeprevir"
+      ],
+      "Risk D: Consider therapy modification": [
+        "Acalabrutinib",
+        "ALfentanil",
+        "Alprazolam",
+        "Amifostine",
+        "Astemizole",
+        "Avanafil",
+        "Avapritinib",
+        "Budesonide (Systemic)",
+        "Carbamazepine",
+        "Ceritinib",
+        "Cilostazol",
+        "Cisapride",
+        "Cobimetinib",
+        "Colchicine",
+        "CYP3A4 Inducers (Strong, eg. Barbiturates (phenobarbital))",
+        "Dapoxetine",
+        "Daridorexant",
+        "Deflazacort",
+        "Dronedarone",
+        "Eliglustat",
+        "Encorafenib",
+        "Entrectinib",
+        "Eplerenone",
+        "Esmolol",
+        "Fentanyl",
+        "Fingolimod",
+        "Guanfacine",
+        "Ibrutinib",
+        "Ivosidenib",
+        "Lovastatin",
+        "Lumateperone",
+        "Lurasidone",
+        "Lurbinectedin",
+        "Mavacamten",
+        "Methadone",
+        "Midazolam",
+        "Midostaurin",
+        "Mitapivat",
+        "Mobocertinib",
+        "Naloxegol",
+        "Obinutuzumab",
+        "Olaparib",
+        "Omaveloxolone",
+        "Pemigatinib",
+        "Pexidartinib",
+        "Phenytoin",
+        "Ponesimod",
+        "Ranolazine",
+        "Rimegepant",
+        "Selpercatinib",
+        "Selumetinib",
+        "Simvastatin",
+        "Sincalide",
+        "Siponimod",
+        "Sirolimus",
+        "Sonidegib",
+        "Suvorexant",
+        "Tazemetostat",
+        "Thioridazine",
+        "Tolvaptan",
+        "Triazolam",
+        "Ubrogepant",
+        "Vardenafil",
+        "Venetoclax",
+        "Voclosporin",
+        "Zanubrutinib"
+      ],
+      "Pregnancy and Lactation": {
+        "Systemic use": "Pregnancy: Adverse events have been observed in animal reproduction studies. Avoid use.",
+        "Lactation": "Pregnancy: Potential for serious adverse reactions in the breastfed infant. Discontinue either Diltiazem or breastfeeding."
+      }
+    },
+    "warnings_precautions": [
+      "Cardiac conduction disorders: Diltiazem may cause first-degree atrioventricular (AV) block, second-degree atrioventricular block, complete atrioventricular block, or sinus bradycardia. May occur at clinical doses, at any time during therapy. Risk factors: elderly, renal impairment, concomitant use of beta blockers or AV conditions abnormalities. Use with caution in left ventricular dysfunction; due to negative inotropic effects, may exacerbate condition. Diltiazem may cause cutaneous hypersensitivity reactions. e.g Maculopapular rash, Stevens-Johnson syndrome. Non-dose-related; immunologic and may occur at any time during therapy. Mild elevations of hepatic enzymes occurred and self-resolved. While significant elevations are reversible upon discontinuation. Systemic absorption following rectal use is unknown; therefore, consider all the contra-indications and warnings. Caution in diabetic patients, patients liable to intestinal obstruction."
+    ],
+    "id": 12
+  },
+  {
+    "category": null,
+    "name": "VERAPAMIL",
+    "abbreviation": null,
+    "generic_name": "Verapamil",
+    "dosage_form_strengths": [
+      "120mg",
+      "240mg",
+      "40mg",
+      "80mg",
+      "240mg"
+    ],
+    "route_of_administration": "Oral, IV",
+    "pharmacologic_category": "Antiarrhythmic /Antihypertensive (Calcium channel blocker Class IV)",
+    "atc_code": null,
+    "indications": "Angina, Atrial fibrillation or atrial flutter, hypertension: Oral: immediate or extended release capsule and tablet; Supraventricular tachycardia",
+    "dosage_regimen": {
+      "adult": "480 mg/day in 1 to 3 divided doses"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity",
+      "Acute porphyrias",
+      "Atrial flutter or fibrillation associated with accessory conducting pathways (e.g. Wolff-Parkinson-White-syndrome)",
+      "AV block",
+      "Cardiogenic shock",
+      "Heart failure",
+      "Hypotension",
+      "Lown-Ganong-Levine syndrome",
+      "Sick sinus syndrome (except in patients with a functioning artificial ventricular pacemaker)",
+      "Severe ventricular dysfunction"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Aprepitant",
+        "Asunaprevir",
+        "Bilastine",
+        "Bosutinib",
+        "Budesonide (Topical)",
+        "Bromperidol",
+        "Dantrolene",
+        "Disopyramide",
+        "Dofetilide",
+        "Domperidone",
+        "Doxorubicin",
+        "Fexinidazole",
+        "Flibanserin",
+        "Fosaprepitant",
+        "Fusidic Acid (Systemic)",
+        "Ivabradine",
+        "Lemborexant",
+        "Lomitapide",
+        "Lonafarnib",
+        "Methysergide",
+        "Neratinib",
+        "Nisoldipine",
+        "Orelabrutinib",
+        "Pacritinib",
+        "Pazopanib",
+        "Pimozide",
+        "Sirolimus (Protein Bound)",
+        "Simeprevir",
+        "Sertindole",
+        "Topotecan",
+        "Valbenazine",
+        "Vincristine (Liposomal)"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Acalabrutinib",
+        "Afatinib",
+        "Alfentanil",
+        "Alprazolam",
+        "Amifostine",
+        "Astemizole",
+        "Atorvastatin",
+        "Avanafil",
+        "Avapritinib",
+        "Berotralstat",
+        "Bromocriptine",
+        "Budesonide (Systemic)",
+        "Carbamazepine",
+        "Celiprolol",
+        "Ceritinib",
+        "Cilostazol",
+        "Cisapride",
+        "Cobimetinib",
+        "Colchicine",
+        "Strong CYP3A4 Inducers",
+        "Dapoxetine",
+        "Daridorexant",
+        "Deflazacort",
+        "Dronedarone",
+        "Eliglustat",
+        "Encorafenib",
+        "Entrectinib",
+        "Eplerenone",
+        "Esmolol",
+        "Everolimus",
+        "Fentanyl",
+        "Fingolimod",
+        "Fosphenytoin-Phenytoin",
+        "Guanfacine",
+        "Ibrutinib",
+        "Ivosidenib",
+        "Lefamulin",
+        "Lovastatin",
+        "Lumateperone",
+        "Lurasidone",
+        "Lurbinectedin",
+        "Mavacamten",
+        "Methadone",
+        "Midazolam",
+        "Mitapivat",
+        "Mobocertinib",
+        "Naloxegol",
+        "Obinutuzumab",
+        "Olaparib",
+        "Omaveloxolone",
+        "Palovarotene",
+        "Pemigatinib",
+        "Pexidartinib",
+        "Pralsetinib",
+        "Ranolazine",
+        "Red Yeast Rice",
+        "Relugolix",
+        "Rimegepant",
+        "Rivaroxaban",
+        "Selpercatinib",
+        "Selumetinib",
+        "Simvastatin",
+        "Sincalide",
+        "Siponimod",
+        "Sirolimus (Conventional)",
+        "Sonidegib",
+        "Suvorexant",
+        "Talazoparib",
+        "Tazemetostat",
+        "Tezacaftor and Ivacaftor",
+        "Tizanidine",
+        "Tolvaptan",
+        "Triazolam",
+        "Vardenafil",
+        "Venetoclax",
+        "Voclosporin",
+        "Zanubrutinib"
+      ]
+    },
+    "risk_x": "Avoid combination",
+    "risk_d": "Consider therapy modification",
+    "pregnancy": "Pregnancy: Verapamil crosses the placenta. May reduce uterine blood flow with fetal hypoxia. Use verapamil during pregnancy only if clearly needed. The lowest effective dose is recommended; avoid use during the first trimester unless absolutely necessary.",
+    "lactation": "Pregnancy and lactation: Verapamil is considered compatible with breastfeeding.",
+    "id": 13
+  },
+  {
+    "category": null,
+    "name": "MANNITOL",
+    "abbreviation": null,
+    "generic_name": "Mannitol",
+    "dosage_form_strengths": [
+      "10%",
+      "15%",
+      "20% (10,15 or 20 gm / 100 ml)"
+    ],
+    "route_of_administration": "I.V",
+    "pharmacologic_category": "Diuretic, Osmotic; Genitourinary Irrigant",
+    "atc_code": null,
+    "indications": "Reduction of increased intracranial pressure (associated with cerebral edema and/or brain mass. Reduction of increased intraocular pressure.",
+    "dosage_regimen": {
+      "adult": "0.5 to 2 g/kg once; may repeat 0.25 to 1 g/kg per dose every 4 to 6 hours based on response and clinical status.",
+      "pediatric": "0.25 to 1 g/kg/dose infused over 20 to 30 minutes; repeat as needed to maintain serum osmolality <320 m."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Contraindicated in severe kidney impairment.",
+      "renal_impairment_pediatric": "No dose adjustment necessary.",
+      "hepatic_impairment_adult": "No dose adjustment necessary.",
+      "hepatic_impairment_pediatric": "No dose adjustment necessary."
+    },
+    "contraindications": [
+      "Hypersensitivity to mannitol or any component of the formulation.",
+      "Anuria",
+      "Severe hypovolemia",
+      "Active intracranial bleeding except during craniotomy",
+      "Preexisting severe pulmonary vascular congestion or pulmonary edema"
+    ],
+    "adverse_drug_reactions": {
+      "frequency bucket as written in the text": "Miscellaneous: Fever"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Amikacin",
+        "Liposome (Oral Inhalation)",
+        "Aminoglycosides",
+        "Tobramycin (Oral Inhalation)"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Arsenic Trioxide"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "I.V",
+    "warnings_precautions": [
+      "May cause hypervolemia and electrolyte disturbances; monitor for new onset or worsening cardiac or pulmonary congestion.",
+      "May cause profound diuresis with fluid and electrolyte loss; close medical supervision and dose evaluation are required.",
+      "May cause kidney dysfunction, especially with high doses; use caution in patients taking other nephrotoxic agents, with sepsis, or preexisting kidney disease.",
+      "Discontinue mannitol if acute kidney injury develops.",
+      "Mannitol may initially worsen pulmonary edema or heart failure by causing hypervolemia before diuresis ensues.",
+      "Do not administer large volumes of mannitol to patients with preexisting severe pulmonary edema or heart failure.",
+      "Discontinue mannitol if cardiac or pulmonary status worsens.",
+      "Use with caution.",
+      "In patients with severe impairment; do not use until adequacy of kidney function and urine flow is established.",
+      "Do not use until adequacy of kidney function and urine flow is established.",
+      "Do not use until adequacy of kidney function and urine flow is established.",
+      "Do not use until adequacy of kidney function and urine flow is established."
+    ],
+    "storage": null,
+    "id": 14
+  },
+  {
+    "category": null,
+    "name": "SPIRONOLACTONE",
+    "abbreviation": null,
+    "generic_name": "Spironolactone",
+    "dosage_form_strengths": [
+      "Tablets: 25 mg; 50 mg; 100 mg",
+      "Route of administration: Oral",
+      "Pharmacologic category: Antihypertensive; Diuretic, Potassium Sparing; Mineralocorticoid (Aldosterone) Receptor Antagonist",
+      "ATC: C03DA01",
+      "Indications: Ascites due to cirrhosis; Heart failure with reduced ejection fraction; Hypertension: Management of hypertension unresponsive to other therapies; Primary hyperaldosteronism"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antihypertensive; Diuretic, Potassium Sparing; Mineralocorticoid (Aldosterone) Receptor Antagonist",
+    "indications": "Ascites due to cirrhosis; Heart failure with reduced ejection fraction; Hypertension: Management of hypertension unresponsive to other therapies; Primary hyperaldosteronism",
+    "dosage_regimen": {
+      "adult": "Initial: 100 mg once daily; adjust every 3 to 5 days based on response",
+      "pediatric": "Initial: 1-3 mg/kg/day divided every 6 to 24 hours; titrate as needed; reported maximum daily dose range: 4 to 6 mg/kg/day in divided doses every 6 to 12 hours or 400 mg/day"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No specific dosage adjustments available (has not been studied); use with caution",
+      "renal_impairment_pediatric": "No specific dosage adjustments available; initiate with low dose and titrate slowly (cirrhosis); use with caution; minor alterations of fluid and electrolyte balance may precipitate hepatic coma",
+      "hepatic_impairment_adult": "Initial: 25 mg once daily; titrate as needed after ~2 to 4 weeks based on response and tolerability up to 100 mg once daily",
+      "hepatic_impairment_pediatric": "Initial: 1 mg/kg/day divided every 12 to 24 hours; titrate as needed up to a maximum daily dose: 3.3 mg/kg/day or 100 mg/day, whichever is less"
+    },
+    "contraindications": [
+      "Hyperkalemia",
+      "Addison disease",
+      "Concomitant use with eplerenone",
+      "Anuria",
+      "Any renal disease associated with severe renal impairment (CrCl less than 10 mL/minute) or acute renal failure"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gynecomastia: is usually reversible following discontinuation of therapy, Onset: Delayed; may occur after 1 to 2 months to over a year of therapy"
+    },
+    "monitoring_parameters": "Blood Pressure; Serum electrolytes (potassium [within 1 week of initiation or dose titration and regularly thereafter], sodium)",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Amiloride, Bromperidol, Cyclosporine (Systemic), Potassium Salts, Potassium-Sparing Diuretics (Eplerenone, Triamterene)"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Abiraterone Acetate, Amifostine, Cosyntropin, Obinutuzumab"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Limited Human Data—Animal Data Suggest Risk. may cause feminization of a male fetus. High doses late in pregnancy may be associated with intrauterine growth restriction.",
+      "lactation": "The active metabolite of spironolactone is present in breast milk. Spironolactone is considered compatible with breastfeeding. Consider risk benefit ratio."
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Fluid and electrolyte imbalance (eg, hypomagnesemia, hyponatremia, hypocalcemia, hyperglycemia, hyperkalemia) may occur. Patients with heart failure, kidney disease, or cirrhosis may be particularly susceptible. Monitor and correct electrolyte disturbances; adjust dose to avoid dehydration.",
+      "Tumorigenic: Shown to be a tumorigen in chronic toxicity animal studies. Recent retrospective and observational studies do not suggest an increased risk of prostate or breast cancer.",
+      "When evaluating a heart failure patient for spironolactone treatment, eGFR should be >30 mL/minute/1.73 m2 or creatinine should be ≤2.5 mg/dL (men) or ≤2 mg/dL (women) with no recent worsening and potassium <5 mEq/L with no history of severe hyperkalemia. Discontinue therapy if serum potassium cannot be maintained <5.5 mEq/L or if kidney function worsens.",
+      "Discontinue use prior to adrenal vein catheterization.",
+      "When used in combination with ACE inhibitors or ARBs, monitor patient for increased risk of hyperkalemia in older patients."
+    ],
+    "storage": "Tablet: Store between 150C to 300C.",
+    "id": 15
+  },
+  {
+    "category": null,
+    "name": "DOPAMINE",
+    "abbreviation": null,
+    "generic_name": "DOPAMINE",
+    "dosage_form_strengths": [
+      "Concentrate for Solution For I.V Infusion: 200mg"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Adrenergic Agonist Agent; Inotrope",
+    "atc_code": null,
+    "indications": "Cardiogenic shock: Treatment of severe hypotension or shock (eg, septic shock and other vasodilatory shock states, cardiogenic shock, decompensated heart failure, post–cardiac arrest, cardiac surgery) that persists during and after adequate fluid volume replacement.",
+    "dosage_regimen": {
+      "adult": "Dopamine is a cardiac stimulant which acts on beta1 receptors in cardiac muscle, and increases contractility with little effect on rate. Initial: 2 to 5 mcg/kg/minute; titrate up to a dose of 20 mcg/kg/minute.",
+      "pediatric": "• Hemodynamic support: Infants, Children, and Adolescents: Continuous IV or intraosseous infusion: 2 to 20 mcg/kg/minute; titrate gradually by 5 to 10 mcg/kg/minute increments until optimal response is obtained."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustments are needed.",
+      "renal_impairment_pediatric": "No dosage adjustments are needed.",
+      "hepatic_impairment_adult": "No dosage adjustments are needed.",
+      "hepatic_impairment_pediatric": "No dosage adjustments are needed."
+    },
+    "contraindications": [
+      "Hypersensitivity to sulfites (commercial preparation contains sodium bisulfite); Pheochromocytoma; Uncorrected tachyarrhythmias; Ventricular fibrillation"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Cardiovascular: Angina pectoris, atrial fibrillation, bradycardia, cardiac conduction disorder, ectopic beats, hypertension, hypotension, palpitations, tachycardia, vasoconstriction, ventricular arrhythmia, widened QRS complex on ECG",
+      "Dermatologic": "Peripheral gangrene (with prolonged or high dose, can occur with low doses with concomitant occlusive vascular disease), piloerection",
+      "Gastrointestinal": "Nausea, vomiting"
+    },
+    "monitoring_parameters": "BP, heart rate, ECG; End-organ perfusion (eg, urine output, mental status); Infusion site for blanching/extravasation; Intravascular volume status.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Ergot Derivatives",
+        "Kratom",
+        "Benzylpenicilloyl Polylysine",
+        "Bromocriptine",
+        "Cocaine (Topical)",
+        "Hyaluronidase",
+        "Linezolid",
+        "Monoamine Oxidase Inhibitors",
+        "Serotonin/Norepinephrine Reuptake Inhibitors",
+        "Tricyclic Antidepressants"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Benzylpenicilloyl Polylysine",
+        "Bromocriptine",
+        "Cocaine (Topical)",
+        "Hyaluronidase",
+        "Linezolid",
+        "Monoamine Oxidase Inhibitors",
+        "Serotonin/Norepinephrine Reuptake Inhibitors",
+        "Tricyclic Antidepressants"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Use dopamine during pregnancy only if the potential benefit justifies the potential risk of the fetus. Animal studies have shown maternal toxicity including mortality, decreased weight gain, and pharmacotoxic signs",
+      "lactation": "Use caution when administering dopamine to a breast-feeding woman. It is not known whether dopamine is excreted in human milk"
+    },
+    "administration": "IV",
+    "warnings_precautions": [
+      "Concerns related to adverse effects: Arrhythmias: May cause increases in heart rate, increasing the risk of tachycardia and other tachyarrhythmias including ventricular arrhythmias. In heart transplant candidates, institute appropriate measures to protect patient against risks of sudden cardiac death.",
+      "Extravasation: Vesicant; ensure proper needle or catheter placement prior to and during infusion. Avoid extravasation; infuse into a large vein if possible. Avoid infusion into leg veins. Watch IV site closely. If extravasation occurs, infiltrate the area with diluted phentolamine (5 to 10 mg in 10 to 15 mL of saline) with a fine hypodermic needle. Phentolamine should be administered as soon as possible after extravasation is noted to prevent sloughing/necrosis.",
+      "Disease-related concerns: Cardiovascular disease: Use with caution in patients with cardiovascular disease, cardiac arrhythmias and/or occlusive vascular disease.",
+      "Active myocardial ischemia/post-myocardial infarction: Use with caution in patients with active myocardial ischemia or recent myocardial infarction; may increase myocardial oxygen consumption.",
+      "Electrolyte imbalance: Correct electrolyte disturbances, especially hypokalemia or hypomagnesemia, prior to use and throughout therapy to minimize the risk of arrhythmias.",
+      "Shock: The use of dopamine in adult patients with shock (majority of patients had septic shock) demonstrated a higher incidence of adverse events (eg, tachyarrhythmias). Higher 28-day mortality was also seen in patients with septic shock with the use of dopamine as compared to norepinephrine."
+    ],
+    "storage": {
+      "Storage": "Store between 15°C to 30°C. Protect from light. Avoid excessive heat; Protect from freezing."
+    },
+    "id": 16
+  },
+  {
+    "category": "Generic",
+    "name": "Tamsulosin",
+    "abbreviation": "TAMSULOSIN",
+    "generic_name": "Tamsulosin",
+    "dosage_form_strengths": [
+      "Modified Release Hard Gelatin Capsule: 0.4mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Alpha 1 Blocker",
+    "atc_code": "G04CA02",
+    "indications": "Benign prostatic hyperplasia: Treatment of benign prostatic hyperplasia.",
+    "dosage_regimen": {
+      "adult": "Modified release capsule: 0.4 mg dalily.",
+      "pediatric": "No dosage adjustment necessary."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary.",
+      "renal_impairment_pediatric": "Has not been studied; use with caution.",
+      "hepatic_impairment_adult": "Mild-to-moderate impairment: No dosage adjustment is necessary.",
+      "hepatic_impairment_pediatric": "Severe impairment: Has not been studied. Avoid."
+    },
+    "contraindications": [
+      "Hypersensitivity to Tamsulosin or any component of the formulation.",
+      "History of micturition syncope.",
+      "History of postural hypotension.",
+      "Concurrent use with potent CYP3A4 inhibitors (eg, Itraconazole, Ketoconazole)"
+    ],
+    "adverse_drug_reactions": {
+      "Significant Adverse Reactions": [
+        "Floppy iris syndrome: with current or prior use of alpha-1 blockers undergoing cataract surgery.",
+        "Orthostatic hypotension: Dose related. Onset after initial dose or after few months.",
+        "Cardiovascular: Orthostatic hypotension (by orthostatic testing: first dose: 6% to 7%, chronic use: 16% to 19%; symptomatic: <1%).",
+        "Genitourinary: Ejaculation failure (8% to 18%)",
+        "Infection: Infection (9% to 11%)",
+        "Nervous system: Dizziness (15% to 17%), headache (19% to 21%)",
+        "Respiratory: Rhinitis (13% to 18%)",
+        "1% to 10%: Decreased libido (2%)",
+        "Gastrointestinal: Diarrhea (6%), nausea (4%)",
+        "Nervous system: Asthenia (8% to 9%), drowsiness (3% to 4%), insomnia (1% to 2%), Vertigo (1%)",
+        "Neuromuscular and skeletal: Back pain (7% to 8%)",
+        "Ophthalmic: Blurred vision (≤2%)",
+        "Respiratory: Increased cough (3% to 5%), pharyngitis (6%), sinusitis (4%)"
+      ],
+      "Parameters": "Blood pressure. Heart rate",
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "drug_interactions": {
+      "Alpha1-Blockers, Bromperidol, Strong CYP3A4 Inhibitors (e.g. Clarithromycin, Itraconazole, Ketoconazole, Posaconazole), Fexinidazole, Fusidic Acid (Systemic).\",\n    ": "isk X: Avoid combination"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Tamsulosin is not indicated in women.",
+      "lactation": "Administration Administration: Oral Administer capsules as a whole at the same time each day, with or without food."
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Floppy iris syndrome: Intraoperative floppy iris syndrome is observed in cataract surgery patients who have been treated with alpha1-blockers; no benefit to discontinue therapy prior to surgery. Instruct patients to inform ophthalmologist of alpha-blocker use before eye surgery.",
+      "Orthostatic hypotension/syncope: May cause significant orthostatic hypotension with or without syncope, especially with first dose, if dosage is rapidly increased, or if another antihypertensive drug is co-administered.; First-dose” orthostatic hypotension may occur few hours after dosing; may be dose related. Vertigo and dizziness due to orthostatic hypotension may occur. Patients should be cautioned about performing hazardous tasks, driving, or operating heavy machinery when starting new therapy or adjusting dosage upward. Elderly are at higher risk."
+    ],
+    "storage": "Store between 15°C to 30°C.",
+    "id": 17
+  },
+  {
+    "category": null,
+    "name": "Carvedilol",
+    "abbreviation": null,
+    "generic_name": "Carvedilol",
+    "dosage_form_strengths": [
+      "3.125 mg",
+      "6.25 mg",
+      "12.5 mg",
+      "25 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Alpha- And Beta-Adrenoceptor Blockers",
+    "atc_code": null,
+    "indications": "Chronic heart failure, left ventricular dysfunction following myocardial infarction, angina, hypertension",
+    "dosage_regimen": {
+      "adult": "Hypertension - Immediate release: Initially 6.25 mg twice daily for 2 days, then increased if necessary in week intervals up to 25 mg once or twice daily",
+      "pediatric": "Elderly: Initially 12.5 mg daily, initial dose may provide satisfactory control - Extended release: Oral: Initial: 20 mg once daily; titrate in intervals of more than a week as needed according to response; usual dosage range: 20 to 80 mg/day"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Acute heart failure",
+      "Bronchial asthma",
+      "AV block",
+      "Severe bradycardia (unless permanent pacemaker is used)",
+      "Cardiogenic shock",
+      "Severe hepatic disease",
+      "Sick sinus syndrome",
+      "Acute or decompensated heart failure requiring intravenous inotropes",
+      "History of serious hypersensitivity reaction"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Bradyarrhythmias"
+    },
+    "monitoring_parameters": "ECG, heart rate, blood pressure",
+    "drug_interactions": [
+      "Beta2-Agonists, Bilastine, Bromperidol, Doxorubicin (Conventional), Etofylline, Fexinidazole, Pazopanib, Rivastigmine, Sirolimus (Protein Bound), Topotecan, Vincristine (Liposomal), White Birch Allergen Extract",
+      "Beta2-Agonists, Bilastine, Bromperidol, Doxorubicin (Conventional), Etofylline, Fexinidazole, Pazopanib, Rivastigmine, Sirolimus (Protein Bound), Topotecan, Vincristine (Liposomal), White Birch Allergen Extract"
+    ],
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Anaphylactic reactions: Use caution in patients with history of severe anaphylaxis; patients taking beta-blockers may become more sensitive to allergens and unresponsive to usual doses of epinephrine used for treatment.",
+      "Bradycardia: Reduce dosage if heart rate drops below 55 beats/minute.",
+      "Floppy iris syndrome: Intraoperative floppy iris syndrome is observed in cataract surgery patients who have been treated with alpha1-blockers; no benefit to discontinue therapy prior to surgery. Instruct patients to inform ophthalmologist of alpha-blocker use before eye surgery.",
+      "Hypotension or syncope may occur, usually within the first 30 days of therapy; close monitor patients especially in initial or change dosing; gradual dose increase, and administration with food may help to decrease the occurrence of hypotension or syncope.",
+      "Angina: Use caution in patients that may have vasospastic angina.",
+      "Bronchospastic disease: Patients with bronchospastic disease should not use beta-blockers; if used, should be used cautiously with close monitoring.",
+      "Diabetes: β-blockers may potentiate insulin-induced hypoglycemia and mask symptoms of hypoglycemia e.g. tachycardia.",
+      "Heart failure with reduced ejection fraction: Worsening heart failure or fluid retention may occur during up-titration of carvedilol. Gradual titration and adjustments of other medications instead of increasing carvedilol dosing is required.",
+      "Peripheral vascular disease (PVD): May precipitate or aggravate symptoms of arterial insufficiency in patients with PVD; use with caution and monitor for progression of arterial obstruction.",
+      "Pheochromocytoma (untreated): Use with caution; adequate alpha-blockade should be initiated prior to use of any beta-blocker.",
+      "Thyroid disease: β-adrenergic blockade should be initiated prior to use of any beta-blocker."
+    ],
+    "id": 18
+  },
+  {
+    "category": null,
+    "name": "IRBESARTAN",
+    "abbreviation": null,
+    "generic_name": "IRBESARTAN",
+    "dosage_form_strengths": [
+      "75mg",
+      "150mg",
+      "300mg",
+      "300mg (scored tablet)",
+      "Tablets"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Angiotensin II Receptor Blocker; Antihypertensive",
+    "atc_code": null,
+    "indications": "Hypertension; Renal disease in hypertensive type 2 diabetes mellitus",
+    "dosage_regimen": {
+      "adult": "150mg once daily, may be increased (after 2-4 weeks) if necessary to 300mg once daily",
+      "pediatric": "25mg once daily; titrate to desired effect; maximum dose: 100mg/day"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary for kidney dysfunction unless the patient is also volume-depleted",
+      "renal_impairment_pediatric": "No dosage adjustment needed for kidney dysfunction unless the patient is also volume-depleted",
+      "hepatic_impairment_adult": "Mild to moderate hepatic disease: No dosage adjustment needed",
+      "hepatic_impairment_pediatric": "Severe liver disease: Irbesartan has not been studied"
+    },
+    "contraindications": [
+      "Hypersensitivity to Irbesartan or any component of the formulation",
+      "Concomitant use with Aliskiren in patients with diabetes mellitus or with moderate to severe renal impairment",
+      "Pregnancy",
+      "Adverse Drug Reactions: >10%: Endocrine and metabolic: Hyperkalemia (diabetic nephropathy: 19%)",
+      "1% to 10%: Cardiovascular: Orthostatic hypotension (diabetic nephropathy: 5%)",
+      "Gastrointestinal: Diarrhea (3%), dyspepsia (≤2%), heartburn (≤2%)",
+      "Nervous system: Dizziness (diabetic nephropathy: 10%), fatigue (4%), orthostatic dizziness (diabetic nephropathy: 5%)",
+      "Monitoring Parameters: Baseline and periodic BP, Electrolytes, Kidney function",
+      "Drug Interactions: Risk X: Avoid combination; Bromperidol, Sparsentan; Risk D: Consider therapy modification; Aliskiren, Amifostine, Angiotensin-Converting Enzyme Inhibitors, Lithium, Obinutuzumab"
+    ],
+    "adverse_drug_reactions": {
+      ">10%: Endocrine and metabolic: Hyperkalemia (diabetic nephropathy: 19%)\",\n    ": "to 10%: Cardiovascular: Orthostatic hypotension (diabetic nephropathy: 5%)",
+      "Gastrointestinal: Diarrhea (3%), dyspepsia (≤2%), heartburn (≤2%)\",\n    ": "ervous system: Dizziness (diabetic nephropathy: 10%), fatigue (4%), orthostatic dizziness (diabetic nephropathy: 5%)"
+    },
+    "monitoring_parameters": "Baseline and periodic BP, Electrolytes, Kidney function",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    \"Bromperidol, Sparsentan\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Avoid",
+      "lactation": "No human data. Potential for serious adverse reactions in the breastfeeding infant. It is recommended to discontinue either breastfeeding or the drug."
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Angioedema: Angioedema has been reported rarely at any time during treatment with some angiotensin II receptor antagonists (ARBs). As angioedema results in obstruction of the airways, it is necessary to monitor the patient regularly, especially if the tongue, glottis, or larynx are involved. If angioedema develops, discontinue therapy immediately. An aggressive early management approach is essential."
+    ],
+    "storage": "Store between 15°C to 30°C.",
+    "id": 19
+  },
+  {
+    "category": null,
+    "name": "Olmesartan",
+    "abbreviation": null,
+    "generic_name": "Olmesartan",
+    "dosage_form_strengths": [
+      "Tablets: 10 mg 20 mg 40 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Angiotensin II Receptor Blocker; Antihypertensive",
+    "atc_code": null,
+    "indications": "Hypertension, chronic: Management of hypertension in adults and pediatric patients ≥6 years of age.",
+    "dosage_regimen": {
+      "adult": "Initially 10 mg daily, increased if necessary to 20 mg daily; maximum 40 mg per day",
+      "pediatric": "Initially 10mg once daily. May be adjusted up to 20mg in patients up to 35 kgs, or to 40 mg in patients over 35 kgs."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Maximum 20 mg daily. CrCl 20–60 mL/minute: Maximum 20 mg daily. CrCl less than 20 mL/minute: Avoid",
+      "renal_impairment_pediatric": "Maximum 20 mg daily. CrCl 20–60 mL/minute: Maximum 20 mg daily. CrCl less than 20 mL/minute: Avoid",
+      "hepatic_impairment_adult": "Caution. Maximum 20 mg daily. Mild impairment: No dosage adjustment. Moderate: Caution. Initial: 50mg twice daily. Severe: Caution. Risk of hypotension. Start with 50mg twice daily.",
+      "hepatic_impairment_pediatric": "Caution. Initial: 50mg twice daily. Severe impairment, biliary cirrhosis or cholestasis: Avoid (has not been studied)."
+    },
+    "contraindications": [
+      "Concomitant use with Aliskiren in patients with diabetes mellitus and moderate to severe renal impairment.",
+      "Hypersensitivity to Olmesartan or any component of the formulation.",
+      "Pregnancy.",
+      "Adverse Drug Reactions",
+      "Kidney function deterioration: May be associated with deterioration of renal function, particularly in patients with renal artery stenosis or heart failure due to low renal blood flow.",
+      "Aortic/mitral stenosis: As with other vasodilators, use caution in patients with aortic/mitral stenosis.",
+      "Pregnancy: Contraindicated.",
+      "Lactation: No human data. Potential for serious adverse reactions in the infant.",
+      "Renal impairment: Use with caution with preexisting renal insufficiency.",
+      "Hypoglycemic effect: ARBs may enhance the hypoglycemic effects of antidiabetic agents by improving insulin sensitivity. Monitor blood glucose.",
+      "Hypotension: May occur early at initiation particularly in patients who are salt- or volume-depleted or concurrent diuretic; correct volume depletion prior to administration.",
+      "Avoid use in Severe hepatic impairment, biliary cirrhosis or cholestasis.",
+      "Pediatric: Olmesartan has not been shown to be effective for hypertension in children <6 years of age."
+    ],
+    "adverse_drug_reactions": {
+      "1% to 10%": "Hypertriglyceridemia, hyperuricaemia, dizziness, headache, bronchitis, pharyngitis, cough, rhinitis, gastroenteritis, diarrhoea, abdominal pain, nausea, dyspepsia, arthritis, back pain, skeletal pain, haematuria, urinary tract infection, pain, chest pain, peripheral oedema, influenza-like symptoms, fatigue, increased hepatic enzymes, blood urea increased, increased blood creatine phosphokinase.",
+      "Monitoring Parameters": "Blood pressure, Kidney function, Serum potassium",
+      "Drug Interactions": {
+        "Risk X: Avoid combination": [
+          "Bromperidol",
+          "Sparsentan",
+          "Aliskiren",
+          "Amifostine",
+          "Leniolisib",
+          "Antihepaciviral Combination P"
+        ],
+        "Risk D: Consider therapy modification": [
+          "Aliskiren",
+          "Amifostine",
+          "Antihepaciviral Combination P"
+        ]
+      }
+    },
+    "monitoring_parameters": "Blood pressure, Kidney function, Serum potassium",
+    "drug_interactions": {
+      "Risk X: Avoid combination": [
+        "Bromperidol",
+        "Sparsentan",
+        "Aliskiren",
+        "Amifostine",
+        "Leniolisib",
+        "Antihepaciviral Combination P"
+      ],
+      "Risk D: Consider therapy modification": [
+        "Aliskiren",
+        "Amifostine",
+        "Antihepaciviral Combination P"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Contraindicated. Discontinue as soon as possible once pregnancy is detected. Risk of injury and death to fetus.",
+      "lactation": "No human data. Potential for serious adverse reactions in the infant."
+    },
+    "id": 20
+  },
+  {
+    "category": null,
+    "name": "Telmisartan",
+    "abbreviation": null,
+    "generic_name": "Telmisartan",
+    "dosage_form_strengths": [
+      "40 mg",
+      "80 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Angiotensin II Receptor Blocker; Antihypertensive",
+    "ATC": "C09CA07",
+    "indications": "Management of hypertension. Prevention of cardiovascular events in atherosclerotic or diabetic nephropathy patients.",
+    "dosage_regimen": {
+      "adult": "20-40 mg once daily in adults, increased if necessary after 4 weeks to 80 mg"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary",
+      "hepatic_impairment_adult": "Initiate therapy with low dose (20 mg once daily); titrate slowly and monitor closely as Telmisartan is primarily eliminated by biliary excretion."
+    },
+    "contraindications": [
+      "Hypersensitivity to Telmisartan or any component of the formulation",
+      "Biliary obstructive disorders, cholestasis",
+      "Concurrent use of aliskiren in patients with diabetes or renal impairment"
+    ],
+    "adverse_drug_reactions": {
+      "1% to 10%": [
+        "Cardiovascular: Intermittent claudication (7%), chest pain (≥1%), hypertension (≥1%), peripheral edema (≥1%)",
+        "Central nervous system: Dizziness (≥1%), fatigue (≥1%), headache (≥1%), pain (≥1%)",
+        "Dermatologic: Dermal ulcer (3%)",
+        "Gastrointestinal: Diarrhea (3%), abdominal pain (≥1%), dyspepsia (≥1%), nausea (≥1%)",
+        "Genitourinary: Urinary tract infection (≥1%)",
+        "Neuromuscular and skeletal: Back pain (3%), myalgia (≥1%)",
+        "Respiratory: Upper respiratory tract infection (7%), sinusitis (3%), cough (≥1%), flu-like symptoms (≥1%), pharyngitis (1%)"
+      ]
+    },
+    "monitoring_parameters": "Blood pressure, Electrolytes, Kidney functions",
+    "drug_interactions": {
+      "Bromperidol, Ramipril, Sparsentan": [
+        "Risk X: Avoid combination",
+        "Risk D: Consider therapy modification"
+      ],
+      "Aliskiren, Amifostine, Angiotensin-Converting Enzyme Inhibitors, Lithium, Obinutuzumab, Patiromer": [
+        "Risk X: Avoid combination",
+        "Risk D: Consider therapy modification"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Contraindicated",
+      "lactation": "No human data. Potential for serious adverse reactions in the breastfeeding infant. Discontinue either breastfeeding or the drug."
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Angioedema: Angioedema has been reported rarely at any time during treatment with some angiotensin II receptor antagonists (ARBs). As angioedema results in obstruction of the airways, it is necessary to monitor the patient regularly, especially if the tongue, glottis, or larynx are involved. If angioedema develops, discontinue therapy immediately. An aggressive early management approach is essential. IM epinephrine may be necessary. ARBs should not be re-administered if angioedema occurred.",
+      "Hyperkalemia: May occur; risk factors include diabetes mellitus, renal dysfunction, concomitant use of potassium-sparing or supplements. Use cautiously, and monitor potassium closely.",
+      "Combination of ARBs and ACE inhibitors should be avoided, due to risk of dual blockade of the renin-angiotensin system. It is associated with higher risks of hypotension, hyperkalemia, and renal function disorders, including acute renal failure, compared to monotherapy.",
+      "Kidney function deterioration: May be associated with deterioration of renal function, particularly in patients with renal artery stenosis or heart failure due to low renal blood flow. Small increases in serum creatinine may occur following initiation; Discontinue only with progressive or significant deterioration in renal function.",
+      "Aortic/mitral stenosis: As with other vasodilators, use caution in patients with aortic/mitral stenosis.",
+      "Pregnancy: Contraindicated.",
+      "Renal impairment: Use with caution with preexisting renal insufficiency.",
+      "Hypoglycemic effect: ARBs may enhance the hypoglycemic effects of antidiabetic agents by improving insulin sensitivity. Monitor blood glucose.",
+      "Hypotension: May occur early at initiation particularly in patients who are salt-or volume-depleted or concurrent diuretic; correct volume depletion prior to administration.",
+      "Avoid use in Severe hepatic impairment, biliary cirrhosis or cholestasis."
+    ],
+    "id": 21
+  },
+  {
+    "category": null,
+    "name": "Valsartan",
+    "abbreviation": null,
+    "generic_name": "Valsartan",
+    "dosage_form_strengths": [
+      "Tablets 40mg, 80mg, 160mg, 320mg",
+      "Capsules 80mg, 160mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Angiotensin II Receptor Blocker; Antihypertensive",
+    "atc_code": null,
+    "indications": "Heart failure in adults; Hypertension in adults and pediatric patients ≥1 year of age; Post–myocardial infarction: Reduction of cardiovascular mortality in patients with left ventricular dysfunction or failure following myocardial infarction (MI) in adults.",
+    "dosage_regimen": {
+      "adult": "20 to 40 mg twice daily; increase dose after at least 2 weeks based on response and tolerability up to 160 mg twice daily",
+      "pediatric": "1-2 mg/kg/dose once daily; maximum initial daily dose: 40 mg/day; maximum daily dose: 160 mg/day"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary",
+      "renal_impairment_pediatric": "No initial dosage adjustment is necessary; use with caution; monitor kidney function and potassium more closely",
+      "hepatic_impairment_adult": "No initial dosage adjustment is necessary; use with caution; monitor kidney function and potassium more closely",
+      "hepatic_impairment_pediatric": "Has not been studied; use with caution; monitor kidney function and potassium more closely"
+    },
+    "contraindications": [
+      "Hypersensitivity to valsartan or any component of the formulation; Concomitant use with Aliskiren in patients with diabetes mellitus or renal impairment; Biliary cirrhosis, cholestasis; Pregnancy, breastfeeding"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Dizziness (17%; hypertension: 2% to 8%)"
+    },
+    "monitoring_parameters": "Baseline and periodic blood pressure; kidney functions; Electrolyte panels",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Bromperidol, Leniolisib, Sparsentan"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Aliskiren, Amifostine, Angiotensin-Converting Enzyme Inhibitors, Antihepaciviral"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Angioedema: Angioedema has been reported rarely at any time during treatment with some angiotensin II receptor antagonists (ARBs). As angioedema results in obstruction of the airways, it is necessary to monitor the patient regularly, especially if the tongue, glottis, or larynx are involved. If angioedema develops, discontinue therapy immediately. An aggressive early management approach is essential. IM epinephrine may be necessary. ARBs should not be re-administered if angioedema occurred.",
+      "Hyperkalemia: May occur; risk factors include diabetes mellitus, renal dysfunction, concomitant use of potassium-sparing or supplements. Use cautiously, and monitor potassium closely.",
+      "Combination of ARBs and ACE inhibitors should be avoided, due to risk of dual blockade of the renin-angiotensin system. It is associated with higher risks of hypotension, hyperkalemia, and renal function disorders, including acute renal failure, compared to monotherapy.",
+      "Kidney function deterioration: May be associated with deterioration of renal function, particularly in patients with renal artery stenosis or heart failure due to low renal blood flow. Small increases in serum creatinine may occur following initiation; Discontinue only with progressive or significant deterioration in renal function."
+    ],
+    "id": 22
+  },
+  {
+    "category": null,
+    "name": "Captopril",
+    "abbreviation": null,
+    "generic_name": "Captopril",
+    "dosage_form_strengths": [
+      "25mg",
+      "50mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Angiotensin-Converting Enzyme (ACE) Inhibitor; Antihypertensive",
+    "atc_code": null,
+    "indications": "Acute coronary syndrome: To improve survival following myocardial infarction (MI) in clinically stable patients. Treatment of heart failure with reduced ejection fraction. Management of chronic hypertension. Proteinuric chronic kidney disease",
+    "diabetic": "Treatment of diabetic nephropathy (proteinuria >500 mg/day) in patients with type 1 diabetes mellitus and retinopathy. Dosage Regimen Adult dosing: Acute coronary syndrome: Oral: Initial: 6.25-12.5mg 3 times daily; then gradually increase dose up to 50 mg 3 times daily as tolerated. Heart failure: Oral: Initial: 6.25-12.5 mg 2 to 3 times daily; increase dose (eg, double) as tolerated every ≥1 to 2 weeks to a target dose of 50 mg 3 times daily. Hypertension, chronic: Oral: Initial: 12.5 to 25 mg 2 times daily; then gradually increase dose up to 50 mg 3 times daily as tolerated. Proteinuric chronic kidney disease (in diabetic patients): Oral: Initial: 25 mg 3 times daily; titrate dose as tolerated to achieve the desired BP response and a proteinuria goal of <1 g/day. Dosage adjustment Dosing: Altered Kidney Function: Adult Reduce initial daily dose and titrate more gradually. CrCl 20–40 mL/minute: Initial dose not to exceed 25 mg daily, maintenance not to exceed 100 mg daily. CrCl 10–20 mL/minute: Initial dose not to exceed 12.5 mg daily, maintenance not to exceed 75 mg daily. CrCl less than 10 mL/minute: Initial dose not to exceed 6.25 mg daily, maintenance not to exceed 37.5mg daily. Intermittent hemodialysis: Taken after hemodialysis on dialysis days Dosing: Hepatic Impairment: Adult No dosage adjustments are recommended for captopril in hepatic impairment. Contraindications • Angiotensin-converting enzyme inhibitors (ACE inhibitors) hypersensitivity. • History of angioedema. • Concomitant use with Aliskiren in patients with diabetes mellitus or moderate to severe kidney impairment; coadministration with or within 36 hours of switching to or from a neprilysin inhibitor (eg, Sacubitril). Adverse Drug Reactions Significant adverse Reactions: Acute kidney injury",
+    "id": 23
+  },
+  {
+    "category": null,
+    "name": "ENALAPRIL",
+    "abbreviation": null,
+    "generic_name": "ENALAPRIL",
+    "dosage_form_strengths": [
+      "5mg",
+      "10mg",
+      "20mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Angiotensin-Converting Enzyme (ACE) Inhibitor; Antihypertensive",
+    "ATC": "C09AA02",
+    "indications": "Heart failure; Hypertension",
+    "dosage_regimen": {
+      "adult": "2.5 mg twice daily; increase dose as tolerated to a target dose of 10 to 20 mg twice daily over 2-4 weeks",
+      "pediatric": "0.1 mg/kg once daily increased to 1mg/kg in 1-2 divided doses according to response with close monitoring"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustment necessary",
+      "renal_impairment_pediatric": "Initial dose: 2.5 mg once daily; Maximum recommended dose: 20 mg/day",
+      "hepatic_impairment_adult": "No dose adjustment necessary",
+      "hepatic_impairment_pediatric": "Initial dose: 2.5 mg every other day; Maximum recommended dose: 10 mg/day"
+    },
+    "contraindications": [
+      "Angiotensin-converting enzyme inhibitors (ACE inhibitors) hypersensitivity; History of angioedema"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Acute kidney injury; Angioedema; Cough; Hyperkalemia"
+    },
+    "monitoring_parameters": "Blood pressure; Kidney functions; Serum potassium, Serum sodium; CBC with differential during the first 3 months of therapy and periodically thereafter in patients with kidney impairment and/or collagen vascular disease",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Bromperidol",
+        "Sacubitril",
+        "Grass Pollen Allergen Extract"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Aliskiren",
+        "Amifostine",
+        "Angiotensin II Receptor Blockers",
+        "Lanthanum",
+        "Lithium",
+        "Obinutuzumab",
+        "Urapidil"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Avoid. When pregnancy is detected, discontinue as soon as possible. Risk of injury and death to fetus.",
+      "lactation": "Avoid in first few weeks after delivery, may use in older infants with caution."
+    },
+    "id": 24
+  },
+  {
+    "category": null,
+    "name": "Lisinopril",
+    "abbreviation": null,
+    "generic_name": "Lisinopril",
+    "dosage_form_strengths": [
+      "5mg",
+      "10mg",
+      "20mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "ACE Inhibitor; Antihypertensive",
+    "atc_code": null,
+    "indications": "Heart failure with reduced ejection fraction: Adjunctive therapy; Chronic hypertension: in adult and pediatric patients ≥6 years of age.",
+    "dosage_regimen": {
+      "adult": "2.5 to 5 mg once daily; increase dose as tolerated every ≥1 to 2 weeks to a target dose of 20 to 40 mg once daily.",
+      "pediatric": "5 to 10 mg once daily; evaluate response after ~2 to 4 weeks and titrate dose as needed, up to 40 mg once daily; if additional blood pressure control is needed, consider combination therapy."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary",
+      "renal_impairment_pediatric": "Reduce initial recommended dose by 50% for adults (i.e., 5 mg once daily for hypertension, 2.5 mg PO once daily for heart failure and acute myocardial infarction). Max: 40 mg/day; titrate slowly.",
+      "hepatic_impairment_adult": "No dosage adjustments available; use with caution."
+    },
+    "contraindications": [
+      "Angiotensin-converting enzyme inhibitors (ACE inhibitors) hypersensitivity; History of angioedema; Concomitant use with Aliskiren in patients with diabetes mellitus or moderate to severe kidney impairment; coadministration with or within 36 hours of switching to or from a neprilysin inhibitor (eg, Sacubitril)."
+    ],
+    "adverse_drug_reactions": {
+      "Significant adverse Reactions": [
+        "Acute kidney injury",
+        "Angioedema",
+        "Cough",
+        "Hyperkalemia",
+        ">10%: Cardiovascular: Hypotension (up to 11%)"
+      ]
+    },
+    "monitoring_parameters": "Blood pressure; Kidney function; Serum potassium, Serum Sodium; CBC with differential; If angioedema is suspected, assess risk of airway obstruction",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Avoid. When pregnancy is detected, discontinue losartan as soon as possible. Risk of injury and death to fetus.",
+      "lactation": "Avoid. Due to the potential for serious adverse reactions in the breastfed infant, it is recommended a decision be made whether to discontinue breastfeeding or to discontinue Lisinopril."
+    },
+    "administration": "Oral; Administer as a single daily dose and without regard to meals.",
+    "warnings_precautions": [
+      "Hematologic effects: Patients with kidney impairment are at high risk of developing neutropenia.",
+      "Hypersensitivity reactions: Anaphylactic/anaphylactoid reactions can occur with angiotensin-converting enzyme (ACE) inhibitors.",
+      "Hypotension/syncope: close monitoring is needed. Although dose reduction may be needed, discontinuation is not necessary. Correct any volume depletion prior to initiation."
+    ],
+    "storage": "Store between 15°C to 30°C. Protect from moisture.",
+    "id": 25
+  },
+  {
+    "category": null,
+    "name": "PERINDOPRIL",
+    "abbreviation": null,
+    "generic_name": "Perindopril",
+    "dosage_form_strengths": [
+      "5mg",
+      "10mg",
+      "2mg",
+      "4mg",
+      "8mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "ACE Inhibitor; Antihypertensive",
+    "atc_code": "C09AA04",
+    "indications": "Hypertension, chronic; Management of hypertension. Stable coronary artery disease: To reduce the risk of cardiovascular mortality or nonfatal myocardial infarction in patients with stable coronary artery disease.",
+    "dosage_regimen": {
+      "adult": "5 mg once daily; may increase after 4 weeks to 10 mg once daily",
+      "pediatric": "2 mg once daily (2mg in elderly or in combination with diuretic); evaluate response after ~2 to 4 weeks and may increase dose up to 8 mg once daily; if additional blood pressure control is needed, consider combination therapy"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustment necessary",
+      "renal_impairment_pediatric": "No dose adjustment necessary",
+      "hepatic_impairment_adult": "No dose adjustment necessary",
+      "hepatic_impairment_pediatric": "No dose adjustment necessary"
+    },
+    "contraindications": [
+      "Angiotensin-converting enzyme inhibitors (ACE inhibitors) hypersensitivity",
+      "History of angioedema",
+      "Concomitant use with aliskiren in patients with diabetes mellitus or moderate to severe kidney impairment; coadministration with or within 36 hours of switching to or from a neprilysin inhibitor (eg, Sacubitril)",
+      "Adverse Drug Reactions",
+      "Significant adverse Reactions",
+      "Cough",
+      "Hyperkalemia",
+      "Central nervous system: Headache (24%)",
+      "Respiratory: Cough (12%; incidence higher in women, 3:1)",
+      "Cardiovascular: Edema, chest pain, ECG abnormality, palpitations",
+      "Central nervous system: Hypertonia, sleep disorder, depression, paresthesia, drowsiness, nervousness",
+      "Dermatologic: Skin rash",
+      "Endocrine and metabolic: Increased serum triglycerides, menstrual disease",
+      "Gastrointestinal: Diarrhea, abdominal pain, dyspepsia, nausea, vomiting, flatulence",
+      "Genitourinary: Urinary tract infection, proteinuria, sexual disorder",
+      "Hepatic: Increased serum ALT",
+      "Hypersensitivity: Seasonal allergy",
+      "Infection: Viral infection",
+      "Neuromuscular and skeletal: Weakness, back pain, leg pain, arm pain, arthralgia, arthritis, myalgia, neck pain",
+      "Otic: Tinnitus, otic infection",
+      "Respiratory: Upper respiratory tract infection, sinusitis, rhinitis, pharyngitis",
+      "Miscellaneous: Fever"
+    ],
+    "monitoring_parameters": "Blood pressure, kidney function, serum potassium, serum sodium",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    \"Bromperidol, Grass Pollen Allergen Extract, Sacubitril, Sparsentan\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Avoid",
+      "lactation": "Due to the potential for adverse reactions in the breastfed infant, consider using another agent particularly when high doses are needed."
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Angioedema: Rare cases. At any time during treatment (especially following first dose).",
+      "Cough: A dry, nonproductive cough that usually occurs within the first few months of treatment. Generally, resolve within a month after discontinuation of the ACE inhibitor. Exclude other causes of cough prior to discontinuation.",
+      "Hyperkalemia: Risk factors include diabetes mellitus, renal impairment or concomitant use of potassium-sparing or potassium supplements products. Caution.",
+      "Hypersensitivity reactions: Anaphylactic reactions can occur with ACE inhibitors.",
+      "Cholestatic jaundice: A rare toxicity associated; discontinue if marked elevation of hepatic transaminases or jaundice occurs.",
+      "Hypotension/syncope: close monitoring is needed. Although dose reduction may be needed, discontinuation is not necessary. Correct any volume depletion prior to initiation.",
+      "Renal function deterioration: May be associated with transient elevation of renal function and/or increases in BUN and serum creatinine. Consider discontinuation only in patients with progressive and/or significant deterioration in renal function.",
+      "Caution when use in patients with: Aortic stenosis, may reduce coronary perfusion resulting in ischemia.",
+      "Avoid use in patients with ascites or monitor BP and kidney function carefully to avoid rapid development of kidney failure.",
+      "Caution when use in patients with ischemic heart disease, cerebrovascular disease, Collagen vascular disease, Hepatic impairment or Kidney impairment.",
+      "Renal artery stenosis: Use with caution. If unstented unilateral or bilateral, use is generally avoided due to the elevated risk of deterioration in renal function unless possible benefits outweigh risks."
+    ],
+    "id": 26
+  },
+  {
+    "category": null,
+    "name": "Amiodarone",
+    "abbreviation": null,
+    "generic_name": "Amiodarone",
+    "dosage_form_strengths": [
+      "Tablet: 100mg, 200mg"
+    ],
+    "route_of_administration": "IV, Oral",
+    "pharmacologic_category": "Antiarrhythmic Agent, Class III",
+    "atc_code": "C01BD01",
+    "indications": "Management of arrhythmias particularly when other agents are ineffective or contraindicated",
+    "dosage_regimen": {
+      "adult": "200 mg 3 times a day for 1 week, reduced to twice daily for the second week, then a maintenance dose of 200-400 mg daily",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to amiodarone, iodine, or any component of the formulation",
+      "Sick sinus syndrome",
+      "Second- or third-degree atrioventricular block",
+      "Bradycardia leading to syncope without a functioning pacemaker",
+      "Cardiogenic shock",
+      "Thyroid dysfunction"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hepatotoxicity: Severe, acute hepatotoxicity has been associated with IV administration. Chronic toxicity may take the form of micronodular hepatic cirrhosis, hepatic fibrosis, or (less commonly) cholestasis. Hepatotoxicity may be irreversible in some cases",
+      "Bradycardia/hypotension": "Proarrhythmic effects",
+      "Pulmonary toxicity": "Pulmonary toxicity (including hypersensitivity pneumonitis and interstitial/alveolar pneumonitis: ≤17%)",
+      "Thyroid effects": ">10%: Cardiovascular: Hypotension (refractory in rare cases), Gastrointestinal: Nausea, vomiting (oral: >10%; IV: <2%)",
+      "Ophthalmic": "Epithelial keratopathy (98% to 99%)",
+      "Respiratory": "Pulmonary toxicity (including hypersensitivity pneumonitis and interstitial/alveolar pneumonitis: ≤17%)",
+      "1% to 10%": "1% to 10%"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Abametapir",
+        "Agalsidase Alfa",
+        "Aminolevulinic Acid",
+        "Atazanavir",
+        "Bilastine",
+        "Cimetidine",
+        "Citalopram",
+        "Clarithromycin",
+        "Conivaptan",
+        "Daclatasvir",
+        "Domperidone",
+        "Doxorubicin"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Afatinib",
+        "Agalsidase Beta",
+        "Amifostine",
+        "Amisulpride (Oral)",
+        "Azithromycin",
+        "Bromperidol",
+        "Carbetocin",
+        "Cardiac Glycosides",
+        "Ceritinib",
+        "Chloroquine",
+        "Clofazimine",
+        "Clomipramine",
+        "Clozapine",
+        "Colchicine",
+        "CYP3A4 Inhibitors (Strong)",
+        "Dabrafenib",
+        "Dasatinib",
+        "Doxepin",
+        "Droperidol",
+        "Encorafenib",
+        "Escitalopram",
+        "Etelcalcetide",
+        "Flecainide",
+        "Fluorouracil",
+        "Gadobenate Dimeglumine",
+        "Gilteritinib",
+        "Halofantrine",
+        "Haloperidol",
+        "Imipramine",
+        "Inotuzumab Ozogamicin",
+        "Lemborexant",
+        "Lofexidine",
+        "Lomitapide",
+        "Lonafarnib",
+        "Loratadine",
+        "Lovastatin",
+        "Meglumine Antimoniate",
+        "Pacing or defibrillation thresholds with initiation of amiodarone and during treatment in patients with implantable cardiac devices"
+      ],
+      "Pregnancy and Lactation": {
+        "Pregnancy Possible risk of neonatal goitre; use only if no alternative\",\n      ": "actation: Avoid; present in milk in significant amounts; theoretical risk of neonatal hypothyroidism from release of iodine"
+      }
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": null,
+    "warnings_precautions": [
+      "Amiodarone is intended for use only in patients with indicated life-threatening arrhythmias because its use is accompanied by substantial toxicity",
+      "Amiodarone can cause pulmonary toxicity (hypersensitivity pneumonitis or interstitial/alveolar pneumonitis) that has resulted in clinically manifest disease at rates as high as 17% in some series of patients",
+      "Amiodarone can cause hepatotoxicity, which can be fatal",
+      "Obtain baseline and periodic liver transaminases and discontinue or reduce dose if the increase exceeds 3 times normal or doubles in a patient with an elevated baseline",
+      "Discontinue amiodarone if the patient experiences signs or symptoms of clinical liver injury",
+      "Amiodarone can exacerbate arrhythmias",
+      "Initiate amiodarone in a clinical setting where continuous ECGs and cardiac resuscitation are available",
+      "Extravasation: May be a vesicant; ensure proper needle or catheter placement prior to infusion",
+      "Ocular effects: Regular ophthalmic examination is recommended",
+      "May cause optic neuropathy and/or optic neuritis resulting in visual impairment at any time during therapy; permanent blindness has occurred",
+      "Photosensitivity: Avoid excessive exposure to sunlight; may cause photosensitivity",
+      "Chronic administration of antiarrhythmic drugs may affect defibrillation or pacing thresholds",
+      "Assess when initiating amiodarone and during therapy",
+      "Electrolyte imbalance: Correct electrolyte disturbances, especially hypokalemia, hypomagnesemia, or hypocalcemia, prior to use and throughout therapy",
+      "Myocardial infarction: In the setting of acute myocardial infarction (MI), beta-blocker therapy should be initiated even though concomitant amiodarone therapy provides beta-blockade"
+    ],
+    "id": 27
+  },
+  {
+    "category": null,
+    "name": "LIDOCAINE",
+    "abbreviation": null,
+    "generic_name": "LIDOCAINE",
+    "dosage_form_strengths": [
+      "50mg 0r 20mg or 10 mg/ml (1%)",
+      "40mg or 20mg or 20 mg/ml",
+      "1 gm/50ml (2%)",
+      "20mg"
+    ],
+    "route_of_administration": "IM, IV, SC, Topical, oral",
+    "pharmacologic_category": "Systemic: Antiarrhythmic Agent, Class Ib; Local Anesthetic",
+    "ATC_code": "C01BB01",
+    "indications": "Ventricular Arrhythmias that occur following acute myocardial infarction MI or during cardiac manipulative procedures such as cardiac surgery.",
+    "dosage_regimen": {
+      "adult": "Continuous IV infusion: After initial bolus dosing, may administer as a continuous infusion; refer to indication-specific infusion rates in dosing for detailed recommendations.",
+      "pediatric": "Continuous IV infusion: After initial bolus dosing, may administer as a continuous infusion; refer to indication-specific infusion rates in dosing for detailed recommendations.",
+      "pediatric (children and adolescents)": "IV: Initial: Loading dose: 1 mg/kg/dose; follow with continuous IV infusion; may administer second bolus if delay between initial bolus and start of infusion is >15 minutes. Continuous IV infusion: 20 to 50 mcg/kg/minute. Do not exceed 20 mcg/kg/minute in patients with shock, hepatic disease, cardiac arrest, or congestive heart failure.",
+      "pediatric (infants, children, and adolescents)": "IV: Initial: Loading dose: 1 mg/kg/dose; follow with continuous IV infusion; may administer second bolus if delay between initial bolus and start of infusion is >15 minutes. Continuous IV infusion: 20 to 50 mcg/kg/minute. Do not exceed 20 mcg/kg/minute in patients with shock, hepatic disease, cardiac arrest, or congestive heart failure.",
+      "pediatric (children and adolescents): Typically, solutions with concentration <2% should be used (allow for larger volumes); maximum dose: 5 mg/kg/dose not to exceed the recommended adult maximum dose of 300 mg/dose; do not repeat within 2 hours.\",\n    \"adult": "IV infusion: 1000 mg in 250 mL (concentration: 4 mg/mL) or 2000 mg in 250 mL (concentration: 8 mg/mL)."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Administer lower maintenance infusion rate with close monitoring for toxicity.",
+      "renal_impairment_pediatric": "Administer lower maintenance infusion rate with close monitoring for toxicity.",
+      "hepatic_impairment_adult": "Administer lower maintenance infusion rate with close monitoring for toxicity.",
+      "hepatic_impairment_pediatric": "Administer lower maintenance infusion rate with close monitoring for toxicity.",
+      "pediatric": "Administer lower maintenance infusion rate with close monitoring for toxicity.",
+      "adult": "Administer lower maintenance infusion rate with close monitoring for toxicity.",
+      "pediatric (children and adolescents)": "Administer lower maintenance infusion rate with close monitoring for toxicity.",
+      "adult (children and adolescents)": "Administer lower maintenance infusion rate with close monitoring for toxicity."
+    },
+    "contraindications": [
+      "Hypersensitivity to lidocaine or to another local anesthetic of the amide type",
+      "Adam-Stokes syndrome",
+      "Wolff-Parkinson-White syndrome",
+      "Severe degrees of sinoatrial, atrioventricular, or intraventricular heart block (except in patients with a functioning artificial pacemaker)",
+      "In local dosage forms: bacterial, viral or fungal infection at the site of application"
+    ],
+    "adverse_drug_reactions": {
+      "1% to 10%": "Central nervous system: Headache (positional headache following spinal anesthesia: 3%), shivering (following spinal anesthesia: 2%), radiculopathy (≤2%; transient pain; subarachnoid administration)",
+      "Central nervous system: Agitation, anxiety, apprehension, cauda equina syndrome (following spinal anesthesia), coma, confusion, disorientation, dizziness, drowsiness, euphoria, hallucination, hyperesthesia, hypoesthesia, intolerance to temperature, lethargy, loss of consciousness, metallic taste, nervousness, paresthesia, peripheral neuropathy (following spinal anesthesia), psychosis, seizure, slurred speech, twitching\",\n    ": "astrointestinal: Nausea (including following spinal anesthesia), vomiting",
+      "Hypersensitivity: Anaphylactoid reaction, anaphylaxis, petechia (intradermal powder: 44% to 46%)\",\n    ": "ocal: >10%: Dermatologic: Erythema (intradermal powder: adults - 67%; children and adolescents - 53%), Hematologic and oncologic: Petechia (intradermal powder: 44% to 46%)",
+      "1% to 10%: Cardiovascular: Edema\",\n    ": "ermatologic: Pruritus"
+    },
+    "monitoring_parameters": {
+      "Systemic": "Liver function tests",
+      "ECG": "Lidocaine concentrations, in patients requiring drug >24 hrs, blood level monitoring recommended",
+      "Lidocaine concentrations, in patients requiring drug >24 hrs, blood level monitoring recommended\",\n    \"Reference Range": "Therapeutic: 1.5 to 5.0 mcg/mL (SI: 6 to 21 micromole/L) Potentially toxic: >6 mcg/mL (SI: >26 micromole/L) Toxic: >9 mcg/mL (SI: >38 micromole/L)"
+    },
+    "interactions": {
+      "Systemic": "Risk X: Avoid combination",
+      "Fexinidazole, Fusidic Acid (Systemic)": "Risk D: Consider therapy modification",
+      "Bupivacaine": "Pregnancy and Lactation"
+    },
+    "pregnancy_and_lactation": {
+      "Pregnancy category B": "Pregnancy category B. Reproductive studies conducted in rats have not demonstrated lidocaine-induced fetal harm; however, animal studies are not always predictive of human response. There are no adequate or well-controlled studies of lidocaine in pregnant women.",
+      "Lactation": "Available guidelines consider lidocaine to be compatible with lactation when used as an antiarrhythmic or local anesthetic or locally. Use caution."
+    },
+    "warnings_and_precautions": {
+      "Concerns related to adverse effects": "Intra-articular infusion related chondrolysis: Continuous intra-articular infusion of local anesthetics after arthroscopic procedures"
+    },
+    "id": 28
+  },
+  {
+    "category": null,
+    "name": "PROPAFENONE",
+    "abbreviation": null,
+    "generic_name": "Propafenone",
+    "dosage_form_strengths": [
+      "Tablets 150mg, 300mg",
+      "Ampoule 70mg/20ml"
+    ],
+    "route_of_administration": "Oral, IV",
+    "pharmacologic_category": "Antiarrhythmic Agent, Class Ic",
+    "indications": "Oral: Treatment of life-threatening ventricular arrhythmias; to prolong the time to recurrence of paroxysmal atrial fibrillation/flutter (PAF) or paroxysmal supraventricular tachycardia (PSVT) in patients with disabling symptoms without structural heart disease. IV: Arrhythmias (treatment or short-term prevention): For rapid control or short-term prophylaxis of arrhythmias including paroxysmal atrial fibrillation/flutter, paroxysmal supraventricular tachycardias (PSVT), and symptomatic arrhythmias associated with the Wolff-Parkinson-White syndrome, in patients without severe structural heart disease.",
+    "dosage_regimen": {
+      "adult": "150 mg every 8 hours; dosage increase may be made at minimum of 3 - to 4-day intervals, if further increase is necessary, may increase to 300 mg every 8 hours.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Acute bronchospasm",
+      "Asthma",
+      "AV block",
+      "Bradycardia",
+      "Brugada syndrome",
+      "Cardiogenic shock",
+      "Electrolyte imbalance",
+      "Heart failure",
+      "Hypotension",
+      "Sick sinus syndrome"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gastrointestinal: Nausea (≤11%), vomiting (≤11%)"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Afatinib",
+        "Berotralstat",
+        "Betrixaban",
+        "Cardiac Glycosides",
+        "Colchicine",
+        "Domperidone",
+        "Fingolimod",
+        "Methadone",
+        "Ponesimod",
+        "QT-Prolonging Class IA Antiarrhythmics (Highest Risk)",
+        "QT -Prolonging Class III Antiarrhythmics (Highest Risk)",
+        "QT -Prolonging Kinase Inhibitors (Highest Risk)",
+        "QT -Prolonging Miscellaneous Agents (Highest Risk)",
+        "Relugolix",
+        "Rimegepant",
+        "Siponimod",
+        "Sirolimus",
+        "Tizanidine",
+        "Ubrogepant",
+        "Venetoclax"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Afatinib",
+        "Berotralstat",
+        "Betrixaban",
+        "Cardiac Glycosides",
+        "Colchicine",
+        "Domperidone",
+        "Fingolimod",
+        "Methadone",
+        "Ponesimod",
+        "QT-Prolonging Class IA Antiarrhythmics (Highest Risk)",
+        "QT -Prolonging Class III Antiarrhythmics (Highest Risk)",
+        "QT -Prolonging Kinase Inhibitors (Highest Risk)",
+        "QT -Prolonging Miscellaneous Agents (Highest Risk)",
+        "Relugolix",
+        "Rimegepant",
+        "Siponimod",
+        "Sirolimus",
+        "Tizanidine",
+        "Ubrogepant",
+        "Venetoclax"
+      ]
+    },
+    "id": 29
+  },
+  {
+    "category": null,
+    "name": "Ambrisentan",
+    "abbreviation": null,
+    "generic_name": "Ambrisentan",
+    "dosage_form_strengths": [
+      "5mg",
+      "10mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Endothelin Receptor Antagonist; Vasodilator",
+    "atc_code": "C02KX02",
+    "indications": "Pulmonary arterial hypertension",
+    "dosage_regimen": {
+      "adult": "5 mg once daily, increased if necessary to 10 mg once daily after 4 weeks of evaluation"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Use with caution if creatinine clearance less than 30 mL/minute",
+      "renal_impairment_pediatric": "Use with caution and monitor closely, monitor liver functions monthly",
+      "hepatic_impairment_adult": "Mild or moderate impairment: Use with caution and monitor closely, monitor liver functions monthly",
+      "hepatic_impairment_pediatric": "Use with caution and monitor closely, monitor liver functions monthly"
+    },
+    "contraindications": [
+      "Idiopathic pulmonary fibrosis",
+      "Pregnancy",
+      "Severe hepatic impairment"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Abdominal pain, Anaemia, constipation, diarrhea, dizziness, Epistaxis, flushing, headaches, hypersensitivity, increased risk of infection, nasal congestion, nausea, palpitations, skin reactions, tinnitus, vision disorders, vomiting, Peripheral edema"
+    },
+    "monitoring_parameters": "Hemoglobin/hematocrit prior to initiation therapy, at 1 month, and periodically thereafter. Not to be initiated in patients with significant anemia.",
+    "drug_interactions": {
+      "Leniolisib, Sparsentan": "Risk X: Avoid combination",
+      "Cyclosporine (Systemic), Trofinetide": "Risk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Pregnancy: Do not administer Ambrisentan to a pregnant female or females liable to pregnancy without contraception, because it may cause fetal harm.",
+      "lactation": "Lactation: Potential Toxicity. Discontinue either treatment or breastfeeding."
+    },
+    "id": 30
+  },
+  {
+    "category": null,
+    "name": "BOSENTAN",
+    "abbreviation": null,
+    "generic_name": "Bosentan",
+    "dosage_form_strengths": [
+      "62.5 mg",
+      "125 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Endothelin Receptor Antagonist; Vasodilator",
+    "ATC": "C02KX01",
+    "indications": "Pulmonary arterial hypertension",
+    "dosage_regimen": {
+      "adult": "62.5 mg twice daily for 4 weeks, then increase to 125 mg twice daily (max. per dose 250 mg); maximum 500 mg per day",
+      "pediatric": "Children (body-weight 10–20 kg): Initially 31.25 mg once daily for 4 weeks, then increase to 31.25 mg twice daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustments necessary",
+      "renal_impairment_pediatric": "No dose adjustments necessary",
+      "hepatic_impairment_adult": "Mild impairment: No dose adjustments necessary for initial dose",
+      "hepatic_impairment_pediatric": "Moderate to severe impairment (Child-Pugh class B and C) and/or baseline transaminase >3 times normal level: Avoid use"
+    },
+    "contraindications": [
+      "Hypersensitivity to bosentan or any component of the formulation",
+      "Concurrent use of cyclosporine or glyburide",
+      "Pregnancy",
+      "Moderate to severe hepatic impairment (eg, ALT or AST >3 times ULN)"
+    ],
+    "adverse_drug_reactions": {
+      ">10%": {
+        "Cardiovascular": "Edema (≤11%)",
+        "Central nervous system": "Headache (15%)",
+        "Hepatic": "Increased serum ALT (≥3 times ULN: ≤12%; 8 times ULN: ≤2%; dose-related), increased serum AST (≥3 times ULN: ≤12%; 8 times ULN: ≤2%; dose-related)",
+        "Respiratory": "Respiratory tract infection (22%)",
+        "1% to 10%": {
+          "Cardiovascular": "Chest pain (5%), syncope (5%), flushing (4%), hypotension (4%), palpitations (4%)"
+        }
+      },
+      "1% to 10%": {
+        "Cardiovascular": "Chest pain (5%), syncope (5%), flushing (4%), hypotension (4%), palpitations (4%)",
+        "Endocrine and metabolic": "Fluid retention (≤2%)",
+        "Hematologic and oncologic": "Anemia (3%)",
+        "Neuromuscular and skeletal": "Arthralgia (4%)",
+        "Respiratory": "Sinusitis (4%)"
+      }
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Abemaciclib",
+        "Antihepaciviral Combination Products",
+        "Asunaprevir",
+        "Avacopan",
+        "Avanafil",
+        "Avapritinib",
+        "Axitinib",
+        "Bedaquiline",
+        "Capmatinib",
+        "Cariprazine",
+        "Cobimetinib",
+        "Cyclosporine (Systemic)",
+        "Daridorexant",
+        "Dasabuvir",
+        "Deflazacort",
+        "Doxorubicin",
+        "Elacestrant",
+        "Elbasvir And Grazoprevir",
+        "Encorafenib",
+        "Entrectinib",
+        "Fedratinib",
+        "Fexinidazole",
+        "Finerenone",
+        "Flibanserin",
+        "Fluconazole",
+        "Glyburide",
+        "Ibrexafungerp",
+        "Infigratinib",
+        "Ivabradine",
+        "Lemborexant",
+        "Lenacapavir",
+        "Leniolisib",
+        "Letermovir",
+        "Lonafarnib",
+        "Lumateperone",
+        "Lurbinectedin",
+        "Mavacamten",
+        "Mifepristone",
+        "Mobocertinib",
+        "Nisoldipine",
+        "Olaparib",
+        "Olutasidenib",
+        "Omaveloxolone",
+        "Orelabrutinib",
+        "Pacritinib",
+        "Pemigatinib",
+        "Pimavanserin",
+        "Pretomanid",
+        "Quizartinib",
+        "Ranolazine",
+        "Rimegepant",
+        "Selpercatinib",
+        "Selumetinib",
+        "Simeprevir",
+        "Sonidegib",
+        "Sparsentan",
+        "Tazemetostat",
+        "Ulipristal",
+        "Velpatasvir",
+        "Venetoclax",
+        "Voclosporin",
+        "Vonoprazan",
+        "Vorapaxar",
+        "Voxilaprevir"
+      ],
+      "risk_d": [
+        "Alfentanil",
+        "Atazanavir",
+        "Atogepant",
+        "Brigatinib",
+        "Clarithromycin",
+        "Cobicistat",
+        "Daclatasvir",
+        "Duvelisib",
+        "Erdafitinib",
+        "Ganaxolone",
+        "Glasdegib",
+        "Guanfacine",
+        "Hormonal Contraceptives",
+        "Larotrectinib",
+        "Lefamulin",
+        "Lorlatinib",
+        "Lurasidone",
+        "Maraviroc",
+        "Mitapivat",
+        "Nirmatrelvir And Ritonavir",
+        "Perampanel",
+        "Pirtobrutinib",
+        "Praziquantel",
+        "Protease Inhibitors",
+        "Ripretinib",
+        "Sildenafil",
+        "Trofinetide",
+        "Ubrogepant",
+        "Voxelotor",
+        "Zanubrutinib"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Contraindicated",
+      "lactation": "Not recommended. potential for serious adverse reactions"
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Hazardous agent (NIOSH 2016 [group 3]): Warning on adverse reproductive effects.",
+      "Avoid abrupt withdrawal, withdraw treatment gradually.",
+      "Fluid retention/peripheral edema may occur.",
+      "Hematologic effects: Dose-related decreases in hematocrit/hemoglobin may be observed, Monitor hemoglobin prior to treatment initiation, and periodically.",
+      "Hepatotoxicity",
+      "Hypersensitivity",
+      "Pulmonary veno-occlusive disease: Include signs of pulmonary edema occur; may require discontinuation of Bosentan.",
+      "Risks of hepatotoxicity and birth defects, close supervision is required.",
+      "Storage Store between 150C and 30°C"
+    ],
+    "storage": null,
+    "id": 31
+  },
+  {
+    "category": null,
+    "name": "MACITENTAN",
+    "abbreviation": null,
+    "generic_name": "MACITENTAN",
+    "dosage_form_strengths": [
+      "Tablet",
+      "Lyophilized powder for IM, IV injections"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Endothelin Receptor Antagonist; Vasodilator",
+    "atc_code": null,
+    "indications": "Pulmonary arterial hypertension for adults",
+    "dosage_regimen": {
+      "adult": "10 mg daily",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Severe anaemia",
+      "Pregnancy, breastfeeding",
+      "Hypersensetivity"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hematologic and oncologic: Anemia (13%)",
+      "Nervous system: Headache (14%)\",\n    ": "espiratory: Bronchitis (12%), nasopharyngitis (≤20%), pharyngitis (≤20%)",
+      "1% to 10%: Genitourinary: Urinary tract infection (9%)\",\n    ": "epatic: Increased serum transaminases (including increased serum alanine aminotransferase, increased serum aspartate aminotransferase; >8 × ULN: 2%)"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Bromperidol",
+        "Phosphodiesterase Inhibitors (e.g sildenafil, tadalafil, vardenafil, and avanafil), Riociguat"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Amifostine",
+        "Obinutuzumab"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Hazardous agent (NIOSH 2016 [group 3]: Warning for embryofetal toxicity; special warnings on contraception for females while taking and 1-month post-treatment.",
+      "Fluid retention/peripheral edema: Use with caution in patients with severe chronic heart failure.",
+      "Hematologic effects: A reduction in hematocrit/hemoglobin has been observed and may occur early in therapy with subsequent stabilization. Decreases in hemoglobin rarely required transfusion. Measure hemoglobin prior to initiating therapy and repeat as clinically appropriate. Use is not recommended in patients with severe anemia.",
+      "Hepatic effects: Increases in serum liver aminotransferases, hepatotoxicity, and liver failure have been reported.",
+      "Pulmonary veno-occlusive disease: If signs of pulmonary edema occur, consider the possibility of PVOD; discontinue."
+    ],
+    "storage": null,
+    "id": 32
+  },
+  {
+    "category": null,
+    "name": "ATENOLOL",
+    "abbreviation": null,
+    "generic_name": "Atenolol",
+    "dosage_form_strengths": [
+      "Tablets: 25 mg, 50 mg and 100 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Beta1-selective adrenergic blocking agent",
+    "atc_code": null,
+    "indications": "Hypertension management, Angina: Long-term management of patients with angina pectoris, Myocardial infarction: Early treatment and secondary prevention",
+    "dosage_regimen": {
+      "adult": "25 mg once or twice daily; increase gradually as needed based on response and tolerability by more than a week interval up to 100 mg/day in 1 or 2 divided doses",
+      "pediatric": "50 mg once daily; may increase dose gradually at weekly intervals according to frequency and severity of anginal symptoms and tolerability; usual dosage range: 50 to 100 mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary",
+      "renal_impairment_pediatric": "No dosage adjustment necessary",
+      "hepatic_impairment_adult": "No dosage adjustment necessary",
+      "hepatic_impairment_pediatric": "No dosage adjustment necessary"
+    },
+    "contraindications": [
+      "Hypersensitivity to Atenolol or any component of the formulation",
+      "Bradycardia",
+      "Heart block greater than first-degree (except in patients with a functioning artificial pacemaker)",
+      "Cardiogenic shock",
+      "Overt cardiac failure"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Bradyarrhythmias",
+      "risk_x_avoid_combination": [
+        "Bromperidol",
+        "Etofylline",
+        "Fexinidazole",
+        "Rivastigmine",
+        "White Birch Allergen Extract"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Alpha2-Agonists",
+        "Amifostine",
+        "Cerinib",
+        "Dronedarone"
+      ]
+    },
+    "monitoring_parameters": "Blood pressure, heart rate, ECG, serum glucose in diabetic patients",
+    "drug_interactions": {
+      "risk_x": "Avoid combination",
+      "risk_d": "Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "id": 33
+  },
+  {
+    "category": null,
+    "name": "PROPRANOLOL",
+    "abbreviation": null,
+    "generic_name": "PROPRANOLOL",
+    "dosage_form_strengths": [
+      "Tablet",
+      "Ampoule",
+      "IV"
+    ],
+    "route_of_administration": "Oral, IV",
+    "pharmacologic_category": "Beta Adrenergic Nonselective Blocking Agents, Antianginal Agent; Antiarrhythmic Agent, Class II; Antihypertensive",
+    "atc_code": "C07AA05",
+    "indications": "Arrhythmias, Thyrotoxicosis, Thyrotoxic crisis, Hypertension, portal hypertension and variceal hemorrhage prophylaxis, Phaeochromocytoma, Chronic Stable angina, Hypertrophic cardiomyopathy, Anxiety tachycardia, Prophylaxis after myocardial infarction, Essential tremor, Migraine prophylaxis",
+    "dosage_regimen": {
+      "adult": "10–40 mg 3–4 times a day",
+      "pediatric": "0.25–0.5 mg/kg 3–4 times a day (max. per dose 1 mg/kg 4 times a day)",
+      "renal_impairment_adult": "No dosage adjustment needed",
+      "renal_impairment_pediatric": "No dosage adjustment needed",
+      "hepatic_impairment_adult": "Metabolized by liver. Initiate therapy at a lower dose for the specified indication; carefully titrate the dosage to attain the desired response.",
+      "hepatic_impairment_pediatric": "No dosage adjustment needed"
+    },
+    "contraindications": [
+      "Acute heart failure",
+      "Asthma",
+      "AV block greater than first degree",
+      "Severe bradycardia",
+      "Cardiogenic shock",
+      "Sick sinus syndrome",
+      "Hypersensitivity to propranolol or any component of the formulation"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Nervous system: sleep disorder (infants: 16% to 18%), Respiratory: Bronchiolitis (infants), bronchitis (infants: 8% to 13%), 1% to 10%: Cardiovascular: Cold extremity (infants: 7% to 8%), Gastrointestinal: Abdominal pain (infants: 4%), constipation (1% to 3%), decreased appetite (infants: 3% to 4%), diarrhea (infants: 5% to 6%), Nervous system: Agitation (infants: 5% to 9%), dizziness (4% to 7%), drowsiness (infants: 5%), fatigue (5% to 7%), irritability (infants: 6%), nightmares (infants: 6%)",
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "monitoring_parameters": "ECG, heart rate, and blood pressure. Serum glucose, symptoms of bronchospasm in risk patients.",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Pregnancy: Human data suggest risk in 2nd and 3rd Trimesters",
+      "lactation": "Lactation: Breastfeeding infants should be monitored for bradycardia, cyanosis, and hypoglycemia"
+    },
+    "administration": "Oral, IV",
+    "warnings_precautions": [
+      "Anaphylactic reactions: Use caution with history of severe anaphylaxis to allens; patients taking beta-blockers may become more sensitive. Treatment of anaphylaxis (e.g., epinephrine) in patients taking beta-blockers may be ineffective or promote undesirable effects. Heart failure: Use with caution, monitor for a worsening of the condition (efficacy of propranolol in heart failure has not been demonstrated). Caution, monitor worsening of cases of Myasthenia gravis, Peripheral vascular disease and Raynaud disease, Psoriasis and Respiratory disease. Adequate alpha-blockade is required prior to use of any beta-blocker in cases of Pheochromocytoma and Vasospastic angina. Thyroid disease: May mask signs of hyperthyroidism (e.g., tachycardia). Monitor; gradual withdrawal when needed. Alterations in thyroid function tests may be observed. Considerations when treating infantile hemangioma include close monitoring of cardiovascular events (blood pressure and heart rate), serum glucose (hypoglycemia) and respiratory conditions (bronchospasm). Hypoglycemia: May potentiate hypoglycemia and/or mask signs and symptoms. Regular feeding habits are recommended Smokers: Cigarette smoking may decrease plasma levels of propranolol by increasing metabolism. Patients should be advised to avoid smoking. Major surgery: Chronic beta-blocker therapy should not be routinely withdrawn prior to major surgery. Storage: Store between 15 to 30°C. After dilution, propranolol is stable for 24 hours at room temperature in D5W or NS. Protect from freezing, excessive heat, light and moisture. Refer to manufacturer PIL if there are specific considerations."
+    ],
+    "id": 34
+  },
+  {
+    "category": null,
+    "name": "Amlodipine",
+    "abbreviation": null,
+    "generic_name": "Amlodipine",
+    "dosage_form_strengths": [
+      "2.5mg",
+      "5mg",
+      "10mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antianginal Agent; Antihypertensive; Calcium Channel Blocker; Dihydropyridine",
+    "ATC": "C08CA01",
+    "indications": "Angina: Treatment of symptomatic chronic stable angina; treatment of confirmed or suspected vasospastic angina (variant angina). Hypertension, chronic: Management of hypertension in adults and children ≥6 years of age.",
+    "dosage_regimen": {
+      "adult": "5 to 10 mg once daily",
+      "pediatric": "2.5 mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary",
+      "renal_impairment_pediatric": "No dosage adjustment necessary",
+      "hepatic_impairment_adult": "Initial: 5 mg once daily; titrate slowly in patients with severe hepatic impairment",
+      "hepatic_impairment_pediatric": "Initial: 2.5 mg once daily; titrate slowly in patients with severe hepatic impairment"
+    },
+    "contraindications": [
+      "Hypersensitivity to amlodipine or any component of the formulation"
+    ],
+    "adverse_drug_reactions": {
+      "Significant Adverse Reactions": [
+        "Peripheral edema: is the most common adverse reaction with amlodipine, characterized by ankle and leg swelling independent of fluid retention >10%: Cardiovascular: Peripheral edema (2% to 11%, dose related; females: 15%; males: 6%)"
+      ]
+    },
+    "monitoring_parameters": "Blood pressure, Heart rate",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Human Data suggest low risk",
+      "lactation": "Amlodipine is present in human breastmilk; however, no adverse effects of amlodipine on the breast-fed infant have been observed. Compatible."
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Disease-related concerns: • Aortic stenosis: Amlodipine may reduce coronary perfusion resulting in ischemia in patients with severe aortic stenosis. Caution. • Hepatic impairment: Use with caution in patients with hepatic impairment; may require lower starting dose; titrate slowly in patients with severe hepatic impairment. • Hypertrophic cardiomyopathy with left ventricular outflow tract obstruction: Use with caution since reduction in afterload may worsen symptoms associated with this condition. Special populations: • Older adult: Initiate at a lower dose in the elderly."
+    ],
+    "storage": "Store between 15°C to 30°C.",
+    "id": 35
+  },
+  {
+    "category": "Antianginal Agent; Antihypertensive; Calcium Channel Blocker, Dihydropyridine",
+    "name": "Nifedipine",
+    "abbreviation": "NIFEDIPINE",
+    "generic_name": "Nifedipine",
+    "dosage_form_strengths": [
+      "Soft Gelatin Capsule: 10mg",
+      "Retard Tablet (sustained release): 20mg",
+      "Sustained Release Hard Gelatin Capsules: 30 mg, 60 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "C08CA05",
+    "atc_code": "C08CA05",
+    "indications": "Angina: Management of chronic stable or vasospastic angina. Hypertension, chronic: Management of hypertension (Extended Release products only).",
+    "dosage_regimen": {
+      "adult": "30 or 60 mg once daily; increase as needed to effective antianginal dose over 1 to 2 weeks. Doses >90 mg/day are rarely needed; maximum: 120 mg/day."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary. Lower initial doses and more frequent monitoring is recommended in severe impairment (eg, CrCl <30 mL/minute).",
+      "renal_impairment_pediatric": "No dosage adjustments available (has not been studied); use with caution.",
+      "hepatic_impairment_adult": "No dosage adjustments available (has not been studied); use with caution.",
+      "hepatic_impairment_pediatric": "No dosage adjustments available (has not been studied); use with caution."
+    },
+    "contraindications": [
+      "Hypersensitivity to Nifedipine or any component of the formulation. ST-elevation myocardial infarction (STEMI)."
+    ],
+    "adverse_drug_reactions": {
+      "Significant Adverse Reactions": [
+        "Angina/Myocardial infarction",
+        "Hypotension/syncope",
+        "Peripheral edema"
+      ]
+    },
+    "monitoring_parameters": "Heart rate, Blood pressure",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Low risk",
+      "lactation": "Nifedipine is present in breast milk. Nifedipine is considered compatible with breastfeeding, although data following long-term use is limited."
+    },
+    "administration": "Immediate release: May be administered with or without food. Extended release: Tablets should be swallowed whole; do not crush, split, or chew.",
+    "warnings_precautions": [
+      "Use with caution in patients with: Severe aortic stenosis, Hepatic impairment, Hypertrophic cardiomyopathy (HCM) with outflow tract obstruction; Alterations in GI anatomy (eg, severe GI narrowing, history of GI cancer, obstruction, bowel resection, gastric bypass, vertical banded gastroplasty) and underlying hypomotility disorders have led to bezoar formation with extended release forms. Abrupt withdrawal may cause rebound angina in patients with coronary artery disease."
+    ],
+    "storage": "Store between 150C to 30°C; protect from light and moisture.",
+    "id": 36
+  },
+  {
+    "category": null,
+    "name": "BUMETANIDE",
+    "abbreviation": null,
+    "generic_name": "BUMETANIDE",
+    "dosage_form_strengths": [
+      "Tablets: 1mg",
+      "Solution for I.M or slow I.V Injection: 0.25 mg/ml"
+    ],
+    "route_of_administration": "Oral, IM, IV",
+    "pharmacologic_category": "Loop Diuretic",
+    "atc_code": "C03CA02",
+    "indications": "Edema in heart failure, kidney disease, and hepatic disease and Pulmonary edema",
+    "dosage_regimen": {
+      "adult": "1 mg (for elderly: 0.5mg is sufficient)",
+      "pediatric": "0.5 mg"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Higher doses may be required to achieve desired diuretic response due to decreased secretion into the tubular fluid",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "Initiate with conservative doses and monitoring. Use is contraindicated in hepatic coma. Use with caution in cirrhosis and ascites.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to bumetanide or any component of the formulation",
+      "Anuria",
+      "Hepatic coma",
+      "Severe electrolyte depletion until the condition improves or is corrected",
+      "Pregnancy",
+      "Lactation"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "May lead to acute kidney injury, Fluid/electrolyte loss eg, hypocalcemia, hypokalemia, hypomagnesemia which may predispose a patient to serious cardiac arrhythmias. Ototoxicity: hearing loss and tinnitus, which is generally reversible"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Aminolevulinic Acid (Systemic), Bromperidol, Cephaloridine, Desmopressin, Levosulpiride, Mecamylamine, Netilmicin (Ophthalmic), Promazine, Taurursodiol"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Amifostine",
+        "Arsenic Trioxide",
+        "Dofetilide",
+        "Fexinidazole",
+        "Foscarnet",
+        "Nonsteroidal Anti-Inflammatory Agents",
+        "Obinutuzumab"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Not recommended. Given to a pregnant woman only if the potential benefit justifies the potential risk to the fetus.",
+      "lactation": "Breastfeeding is not recommended. Diuretics have the potential to decrease milk volume and suppress lactation."
+    },
+    "id": 37
+  },
+  {
+    "category": null,
+    "name": "Furosemide",
+    "abbreviation": null,
+    "generic_name": "Furosemide",
+    "dosage_form_strengths": [
+      "40mg/4ml",
+      "20mg/2ml",
+      "20mg/2ml",
+      "20mg/5ml",
+      "50mg/5ml",
+      "80mg",
+      "500mg",
+      "20mg/2ml",
+      "20mg/5ml"
+    ],
+    "route_of_administration": "IV, IM, Oral",
+    "pharmacologic_category": "Antihypertensive; Diuretic, Loop",
+    "atc_code": "C03CA01",
+    "indications": "Edema or volume overload: Management of edema associated with heart failure, cirrhosis of the liver (ie, ascites), or kidney disease (including nephrotic syndrome); acute pulmonary edema",
+    "dosage_regimen": {
+      "adult": "20-50 mg once then titrate as needed to achieve targeted effect",
+      "pediatric": "2 mg/kg as a single dose; if ineffective, may increase in 6 to 8 hours in increments of 1 to 2 mg/kg/dose; maximum dose: 6 mg/kg/dose"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary",
+      "renal_impairment_pediatric": "Higher doses is needed. However, single doses >160 to 200 mg IV (or oral equivalent) are unlikely to result in additional diuretic effect",
+      "hepatic_impairment_adult": "No specific dosage adjustment is needed. Diuretics should be used with caution in patients with hepatic disease. Monitor effects. Changes of fluid and electrolyte balance may precipitate hepatic coma.",
+      "hepatic_impairment_pediatric": "Higher doses is needed. However, single doses >160 to 200 mg IV (or oral equivalent) are unlikely to result in additional diuretic effect"
+    },
+    "contraindications": [
+      "Hypersensitivity to sulfonamide-derived drugs",
+      "Aanuria",
+      "Hepatic disease",
+      "Severe electrolyte depletion until the condition improves or is corrected",
+      "Diabetes mellitus or prediabetes; changes in glucose levels may occur",
+      "Prostatic hyperplasia or urinary stricture: May cause urinary retention due to increased urine production, especially upon initiation of therapy",
+      "Systemic lupus erythematosus: May cause systemic lupus erythematosus exacerbation or activation"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Acute kidney injury"
+    },
+    "monitoring_parameters": "Audiometry with high doses or rapid IV administration",
+    "drug_interactions": {
+      "Aminolevulinic Acid (Systemic), Bromperidol, Cefaloridine, Chloral Hydrate, Desmopressin, Ethacrynic Acid, Levosulpiride, Mecamylamine, Netilmicin (Ophthalmic), Promazine, Taurursodiol (Ophthalmic)\",\n    ": "isk X: Avoid combination",
+      "Risk D: Consider therapy modification\",\n    \"Amifostine, Arsenic Trioxide, Chloral Betaine, Dofetilide, Fexinidazole, Foscarnet, Nonsteroidal Anti-Inflammatory Agents, Obinutuzumab, Sucralfate (Pregnancy and Lactation)\",\n    \"Pregnancy Monitor fetal growth if used during pregnancy\",\n    \"Lactation Contraindicated. Large doses of loop diuretics have the potential to decrease milk volume and suppress lactation; use should be avoided when possible\",\n    ": "dministration Administration: Oral May administer with or without food. May administer with food or milk to decrease GI distress. If multiple daily dosing, administer early in day to avoid nocturia unless instructed otherwise.",
+      "Administration: IV Usual Infusion Concentrations: Adult, Pediatric IV infusion: 1 mg/mL or 2 mg/mL may be mixed in NS or D5W solution.  May also be undiluted as 10 mg/mL\",\n    ": "ate of administeration: Undiluted direct IV injections: 20 to 40 mg over 1 to 2 minutes. For high doses (eg, ≥160 mg), consider a short-term infusion at a maximum rate of administration of 4 mg/minute; rapid administration increases the risk of ototoxicity"
+    },
+    "warnings_precautions": [
+      "Concerns related to adverse effects: Hyperuricemia: Asymptomatic hyperuricemia occurred and rarely, may precipitate gout. Sulfonamide allergy: Potential cross-reactivity between members of a specific class. Thyroid effects: Doses >80 mg may result in transient increase in free thyroid hormones, followed by an overall decrease in total thyroid hormone levels. Adrenal insufficiency: Avoid use of diuretics for treatment of elevated blood pressure in patients with primary adrenal insufficiency (Addison disease). Cirrhosis: Correct electrolyte and acid/base imbalances prior to initiation. Supplemental potassium or an aldosterone antagonist, when appropriate, may reduce risk of hypokalemia and metabolic alkalosis. Close monitoring needed with initiation of therapy. Diabetes: Use with caution in patients with diabetes mellitus or prediabetes; changes in glucose levels may occur. Prostatic hyperplasia or urinary stricture: May cause urinary retention due to increased urine production, especially upon initiation of therapy. Systemic lupus erythematosus: May cause systemic lupus erythematosus exacerbation or activation. Pediatric: May lead to nephrocalcinosis or nephrolithiasis in premature infants"
+    ],
+    "storage": null,
+    "id": 38
+  },
+  {
+    "category": null,
+    "name": "Eplerenone",
+    "abbreviation": null,
+    "generic_name": "Eplerenone",
+    "dosage_form_strengths": [
+      "25mg",
+      "50mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antihypertensive; Diuretic, Potassium Sparing; Mineralocorticoid (Aldosterone) Receptor Antagonist",
+    "indications": "Improve survival of stable patients with left ventricular ejection fraction (LVEF ≤40%) and congestive heart failure after an acute myocardial infarction. • Adjunct in chronic mild heart failure with left ventricular ejection fraction 30% • Treatment of hypertension, to reduce risk of fatal and nonfatal cardiovascular events.",
+    "dosage_regimen": {
+      "adult": "Oral: initial 25 mg increased to 50 mg in 4 weeks if necessary with respect to potassium levels. In hypertension, dose may be increased up to maximum 50 mg twice daily if necessary.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Mild to moderate impairment: caution, initial dose may be taken every other day. If CrCl ≤ than 30 mL/minute: Avoid use. Hepatic impairment dosing: Moderate hepatic impairment: Caution as systemic exposure is increased. Severe impairment: Avoid use.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hyperkalemia (Serum potassium >5.5 mEq/L at initiation)",
+      "CrCl ≤30 mL/minute",
+      "Concomitant use of strong CYP3A4 inhibitors (eg, Ketoconazole, Itraconazole, Clarithromycin, Ritonavir, Nelfinavir) or potassium sparing diuretics."
+    ],
+    "adverse_drug_reactions": {
+      "Common ≥1%": [
+        "Arrhythmias",
+        "Asthenia",
+        "Constipation",
+        "Cough",
+        "Diarrhea",
+        "Dizziness",
+        "Dyslipidaemia",
+        "Electrolyte imbalance",
+        "Headache",
+        "Insomnia",
+        "Muscle spasms",
+        "Nausea",
+        "Pain",
+        "Renal impairment",
+        "Skin reactions",
+        "Syncope",
+        "Vomiting"
+      ],
+      "Uncommon ≤1%": [
+        "Angioedema",
+        "Arterial thrombosis",
+        "Cholecystitis",
+        "Eosinophilia",
+        "Flatulence",
+        "Gynaecomastia",
+        "Hyperhidrosis",
+        "Hypothyroidism",
+        "Increased risk of infection",
+        "Malaise",
+        "Numbness",
+        "Postural hypotension"
+      ]
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": [
+      "Risk X: Avoid combination",
+      "Bromperidol",
+      "Cyclosporine",
+      "Strong CYP3A4 Inhibitors (e.g. Clarithromycin, Itraconazole, high amont of Grapefruit juice, Ketoconazole, Posaconazole)",
+      "Fexinidazole",
+      "Fusidic Acid (Systemic)",
+      "Potassium-Sparing Diuretics"
+    ],
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "id": 39
+  },
+  {
+    "category": null,
+    "name": "Hydrochlorothiazide",
+    "abbreviation": null,
+    "generic_name": "Hydrochlorothiazide",
+    "dosage_form_strengths": [
+      "Tablet: 12.5mg, 25mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antihypertensive; Diuretic, Thiazide",
+    "atc_code": null,
+    "indications": "Edema or general volume overload: Treatment of edema due to heart failure, various forms of renal dysfunction or corticosteroid or estrogen therapy.",
+    "dosage_regimen": {
+      "adult": "25 to 50 mg once or twice daily; may increase dose as needed based on response and tolerability up to a maximum of 200 mg/day",
+      "pediatric": "12.5 to 25 mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary",
+      "renal_impairment_pediatric": "No dosage adjustment necessary",
+      "hepatic_impairment_adult": "No dosage adjustment necessary",
+      "hepatic_impairment_pediatric": "No dosage adjustment necessary"
+    },
+    "contraindications": [
+      "Anuria",
+      "Sulfonamide hypersensitivity",
+      "Thiazide diuretic hypersensitivity"
+    ],
+    "adverse_drug_reactions": {
+      "Significant": {
+        "Dermatologic toxicity: Skin photosensitivity. 5 years use increases the risk for squamous cell carcinoma (SCC) of skin (lip) and basal cell carcinoma (BCC) of skin (lip)\",\n      ": "lectrolyte disturbances: Reversible hypokalemia, hypomagnesemia, hypercalcemia, and hyponatremia may occur with hydrochlorothiazide and may increase the risk of arrhythmias. minimized by using in combination with other electrolyte-sparing antihypertensives"
+      }
+    },
+    "monitoring_parameters": "Blood pressure, Fluid intake and output, Serum electrolytes, Kidney functions, Skin to assess for photosensitivity and skin cancer, Visual acuity, ocular pain",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "id": 40
+  },
+  {
+    "category": null,
+    "name": "Indapamide",
+    "abbreviation": null,
+    "generic_name": "Indapamide",
+    "dosage_form_strengths": [
+      "2.5 mg",
+      "1.5 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antihypertensive; Diuretic, Thiazide-Related",
+    "atc_code": "C03BA11",
+    "indications": "Edema or general volume overload: Treatment of edema in heart failure. Hypertension, chronic: Management of mild to moderate hypertension.",
+    "dosage_regimen": {
+      "adult": "2.5 mg once daily; may increase dose, as needed, up to 5 mg once daily",
+      "pediatric": "1.25 to 2.5 mg once daily; adjust dose after 2 to 4 weeks as needed, up to 5 mg once daily; if additional blood pressure control is needed, consider combination therapy."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment needed",
+      "renal_impairment_pediatric": "Do not use, indapamide is less effective as renal function declines",
+      "hepatic_impairment_adult": "Use with caution",
+      "hepatic_impairment_pediatric": "Use with caution"
+    },
+    "contraindications": [
+      "Anuria",
+      "Hypersensitivity to sulfonamide or any component in the formulation"
+    ],
+    "adverse_drug_reactions": {
+      ">10%": "Hypokalemia",
+      "1% to 10%": "Cardiovascular: Cardiac arrhythmia (<5%), chest pain (<5%), flushing (<5%), orthostatic hypotension (<5%), palpitations (<5%), peripheral edema (<5%), vasculitis (<5%), ventricular premature contractions (<5%)",
+      "Dermatologic: Pruritus (<5%), skin rash (<5%), urticaria (<5%)\",\n    ": "ndocrine and metabolic: Decreased libido (<5%), glycosuria (<5%), hyperglycemia (<5%), hyperuricemia (<5%), hypochloremia (<5%), hyponatremia (<5%), weight loss (<5%)",
+      "Gastrointestinal: Abdominal cramps (<5%), abdominal pain (<5%), anorexia (<5%), constipation (<5%), diarrhea (<5%), dyspepsia (<5%), gastric irritation (<5%), nausea (<5%), vomiting (<5%), xerostomia (<5%)\",\n    ": "enitourinary: Impotence (<5%), nocturia (<5%), urinary frequency (<5%)"
+    },
+    "monitoring_parameters": "Blood pressure, Blood glucose, Kidney functions, Hepatic Function, Serum electrolytes, Serum uric acid, Intake and output reports daily to determine fluid loss",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    \"Aminolevulinic Acid (Systemic), Bromperidol, Fexinidazole, Levosulpiride, Promazine\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Insufficient human data. Other agents are preferred.",
+      "lactation": "No human data."
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Concerns related to adverse effects: Electrolyte disturbances: Severe hyponatremia with hypokalemia has been reported at recommended doses (particularly in elderly women); risk may be dose dependent, therefore, use lowest dose possible. Hypochloremic alkalosis, hypomagnesemia, or hypercalcemia can also occur; monitor electrolytes periodically during therapy.",
+      "Ocular effects: may cause an idiosyncratic reaction resulting in acute angle-closure glaucoma and elevated intraocular pressure with or without a noticeable acute myopic shift and/or choroidal effusions. Symptom onset (eg, decreased visual acuity, ocular pain) typically occurs within hours to weeks after treatment initiation and may result in permanent vision loss if left untreated. Risk may be increased in patients with sulfonamide or penicillin allergy.",
+      "Photosensitivity: Photosensitization may occur.",
+      "Sulfonamide allergy: In cases where prior reactions were severe (Stevens-Johnson syndrome/TEN), avoid exposure to these classes.",
+      "Disease-related concerns: Adrenal insufficiency: Avoid use of diuretics for treatment of elevated blood pressure in patients with primary adrenal insufficiency (Addison disease).",
+      "Bariatric surgery: Dehydration: Avoid diuretics early after bariatric surgery; electrolyte disturbances and dehydration may occur.",
+      "Diabetes: Use with caution in patients with prediabetes or diabetes mellitus; hyperglycemia may occur, monitor.",
+      "Gout: In certain patients with a history of gout, or chronic renal failure, gout can be precipitated.",
+      "Hepatic impairment: Use with caution in patients with severe hepatic dysfunction; in cirrhosis, avoid electrolyte and acid/base imbalances that might lead to hepatic encephalopathy.",
+      "Hypercholesterolemia: Use with caution in patients with moderate or high cholesterol concentrations; thiazide diuretics have been shown to increase cholesterol concentrations; however, indapamide (a thiazide-like diuretic) has not been shown to adversely affected lipids.",
+      "Hypokalemia: Use with caution in patients with hypokalemia; correct before initiating therapy.",
+      "Renal impairment: Use with caution in severe renal disease.",
+      "Systemic lupus erythematosus: Can cause systemic lupus erythematosus exacerbation or activation."
+    ],
+    "id": 41
+  },
+  {
+    "category": null,
+    "name": "CHOLESTYRAMINE",
+    "abbreviation": null,
+    "generic_name": null,
+    "dosage_form_strengths": [
+      "Powder for Oral Suspension: 4mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antilipemic Agent, Bile Acid Sequestrant",
+    "ATC": "C10AC01",
+    "indications": "Dyslipidemia: Adjunct in the management of primary hypercholesterolemia; regression of arteriolosclerosis; primary prevention of coronary heart disease in men aged 35–59 years with primary hypercholesterolemia who have not responded to diet and other appropriate measures; diarrhea associated with Crohn’s disease, ileal resection, vagotomy, diabetic vagal neuropathy, and radiation; treatment of pruritus associated with partial biliary obstruction and primary biliary cirrhosis",
+    "dosage_regimen": {
+      "adult": "Dyslipidemia, Diarrhea and for Primary prevention of coronary heart disease: Initially 4 g daily, increased weekly if necessary to 12–24 g daily in 1–4 divided doses, maximum 36 g per day.",
+      "pediatric": "familial hypercholesterolemia"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary; however, use with caution in renal impairment; may cause hyperchloremic acidosis.",
+      "renal_impairment_pediatric": "No dosage adjustment necessary; not absorbed from the gastrointestinal tract.",
+      "hepatic_impairment_adult": "No dosage adjustment necessary; not absorbed from the gastrointestinal tract.",
+      "hepatic_impairment_pediatric": "No dosage adjustment necessary; not absorbed from the gastrointestinal tract."
+    },
+    "contraindications": [
+      "Hypersensitivity to bile acid sequestering resins or components of the formulation; complete Biliary obstruction"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Constipation: The most common adverse. Most cases of constipation are mild and self-limiting or may require dosage adjustment or discontinuation of therapy."
+    },
+    "monitoring_parameters": "Serum lipid profile (baseline and periodically)",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Mycophenolate",
+        "Taurursodiol"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Amiodarone",
+        "Chenodiol",
+        "Cholic Acid",
+        "Deferasirox",
+        "Ezetimibe",
+        "Fibric Acid Derivatives",
+        "Fluvastatin",
+        "Leflunomide",
+        "Lomitapide",
+        "Maralixibat",
+        "Multivitamins/Fluoride (with ADE)",
+        "Niacin",
+        "Obeticholic Acid",
+        "Odevixibat",
+        "Phenobarbital",
+        "Pravastatin",
+        "Raloxifene",
+        "Rosiglitazone",
+        "Sincalide",
+        "Teriflunomide",
+        "Thiazide and Thiazide -Like Diuretics",
+        "Thyroid Products",
+        "Ursodiol",
+        "Valproic Acid and Derivatives",
+        "Vitamin D Analogs",
+        "Vitamin K Antagonists (eg, warfarin)"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Not absorbed systemically but may interfere with absorption of vital vitamins which may harm fetus.",
+      "lactation": "Not absorbed systemically but may interfere with absorption of vital vitamins which may harm fetus."
+    },
+    "id": 42
+  },
+  {
+    "category": null,
+    "name": "Colesevelam",
+    "abbreviation": null,
+    "generic_name": "Colesevelam",
+    "dosage_form_strengths": [
+      "Tablets: 625mg",
+      "Powder for Oral Suspension: 1.875 gm, 3.75 gm"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antilipemic Agent, Bile Acid Sequestrant",
+    "ATC": "C10AC04",
+    "indications": "Monotherapy for primary hypercholesterolaemia as an adjunct to dietary measures, Primary hypercholesterolaemia as an adjunct to dietary measures [in combination with a statin or ezetimibe], For the treatment of type 2 diabetes mellitus as an adjunct to diet and exercise",
+    "dosage_regimen": {
+      "adult": "Oral: 3.75 g daily in 1–2 divided doses",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to Colesevelam or any component of the formulation",
+      "Biliary or bowel obstruction",
+      "Hypertriglyceridemia",
+      "Pancreatitis"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gastrointestinal: Constipation (3% to 11%)",
+      "1% to 10%": "Cardiovascular: Cardiovascular toxicity (2%, including myocardial infarction, aortic stenosis, bradycardia), hypertension (2% to 3%)",
+      "Central nervous system: Headache (children and adults 4% to 8%), fatigue (children 4%)\",\n    ": "ndocrine and metabolic: Hypertriglyceridemia (4% to 5%; >500 mg/dL: <1%; >1,000 mg/dL: <1%), hyperglycemia (3%), hypoglycemia (3%)",
+      "Gastrointestinal: Dyspepsia (3% to 8%), diarrhea (4%), nausea (children and adults 3% to 4%), gastroesophageal reflux disease (2%), periodontal abscess (2%), vomiting (children 2%)\",\n    ": "ematologic and oncologic: C-reactive protein increased (3%)",
+      "Infection: Influenza (children and adolescents 4%)\",\n    ": "euromuscular and skeletal: Weakness (4%), back pain (2%), increased creatine phosphokinase (children and adults 2%), myalgia (2%)"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification",
+      "Mycophenolate, Taurursodiol\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "id": 43
+  },
+  {
+    "category": null,
+    "name": "Ezetimibe",
+    "abbreviation": null,
+    "generic_name": "Ezetimibe",
+    "dosage_form_strengths": [
+      "10 mg tablets"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antilipemic Agent, 2-Azetidinone",
+    "ATC": "C10AX09",
+    "indications": "• Homozygous familial hypercholesterolemia: In combination with a high-intensity statin. • Homozygous sitosterolemia: As adjunctive therapy to diet. • Primary and mixed hyperlipidemia: As adjunctive therapy to diet and an HMG-CoA reductase inhibitor or as monotherapy if an HMG-CoA reductase inhibitor is not tolerated. Dosage Regimen",
+    "adults": "10 mg once daily",
+    "pediatric": "10 mg once daily in combination with Simvastatin",
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary",
+      "renal_impairment_pediatric": "No dosage adjustment necessary",
+      "hepatic_impairment_adult": "Mild impairment: No dosage adjustment necessary",
+      "hepatic_impairment_pediatric": "Mild impairment: No dosage adjustment necessary"
+    },
+    "contraindications": [
+      "Hypersensitivity to ezetimibe or any component of the formulation",
+      "Concomitant use with an HMG-CoA reductase inhibitor (statin) in patients with active hepatic disease or unexplained persistent elevations in serum transaminases",
+      "Pregnancy and breastfeeding (when used concomitantly with a statin)"
+    ],
+    "adverse_drug_reactions": {
+      "1% to 10%": "Hepatic: Increased serum transaminases (monotherapy, ≥3 x ULN: <1%; with HMG-CoA reductase inhibitors; ≥3 x ULN: 1%)",
+      "Neuromuscular and skeletal": "Arthralgia (3%)",
+      "Respiratory": "Sinusitis (3%), upper respiratory tract infection (4%)"
+    },
+    "monitoring_parameters": "Signs or symptoms of myopathy, CPK. Lipid panel (total cholesterol, HDL, LDL, triglycerides): Lipid profile (fasting or nonfasting) before initiating treatment. Fasting lipid profile should be rechecked 4 to 12 weeks after starting therapy and every 3 to 12 months thereafter",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "ibric Acid Derivatives: Risk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Limited human data. Adverse effects in animal studies. Ezetimibe should be used during pregnancy only if the potential benefit justifies the risk to the fetus.",
+      "lactation": "Avoid use. The decision to continue or discontinue breastfeeding during therapy should consider the risk of exposure to the infant and the benefits of treatment to the mother."
+    },
+    "administration": "May be administered without regard to meals. May be taken at the same time as a statin or fenofibrate. Administer ≥2 hours before or ≥4 hours after bile acid sequestrants.",
+    "warnings_precautions": [
+      "Use with caution in patients with mild hepatic impairment; use is not recommended in patients with moderate or severe hepatic impairment.",
+      "In patients with severe kidney impairment (CrCl ≤30 mL/minute/1.73 m2) systemic exposure is increased ~1.5-fold."
+    ],
+    "storage": "Store between 15°C to 30°C",
+    "id": 44
+  },
+  {
+    "category": null,
+    "name": "FENOFIBRATE",
+    "abbreviation": null,
+    "generic_name": "Fenofibrate",
+    "dosage_form_strengths": [
+      "67mg",
+      "100mg",
+      "200mg",
+      "250mg",
+      "300mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antilipemic Agent, Fibric Acid",
+    "ATC_code": "C10AB05",
+    "indications": "Hypertriglyceridemia: Adjunctive therapy to diet for treatment of adult patients with severe hypertriglyceridemia",
+    "dosage_regimen": {
+      "adult": "200 mg daily, then increased if necessary to 267 mg daily, maximum 200 mg daily with concomitant statin",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to fenofibrate or fenofibric acid or any component of the formulation",
+      "Active liver disease",
+      "Severe kidney impairment or end-stage kidney disease, including those receiving dialysis",
+      "Preexisting gallbladder disease",
+      "Pregnancy and Breastfeeding"
+    ],
+    "adverse_drug_reactions": {
+      "Significant": {
+        "Hypersensitivity Reactions (Delayed)": null,
+        "Myopathy/Rhabdomyolysis": null,
+        "Photosensitivity": null,
+        "Renal effects": {
+          "Cardiovascular": null,
+          "Dermatologic": null,
+          "Gastrointestinal": null,
+          "Nervous system": null,
+          "Neuromuscular and skeletal": null,
+          "Respiratory": null
+        },
+        "Hematologic effects": null,
+        "Pancreatitis": null,
+        "Venous thromboembolism": null
+      }
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "Risk X: Avoid combination": [
+        "Aminolevulinic Acid (Systemic), Ciprofibrate"
+      ],
+      "Risk D: Consider therapy modification": [
+        "Bile Acid Sequestrants, Cyclosporine (Systemic), Vitamin K Antagonists (eg, warfarin)"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "id": 45
+  },
+  {
+    "category": null,
+    "name": "ATORVASTATIN",
+    "abbreviation": null,
+    "generic_name": "Atorvastatin",
+    "dosage_form_strengths": [
+      "10mg",
+      "20mg",
+      "40mg",
+      "80mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antilipemic Agent, HMG-CoA Reductase Inhibitor",
+    "ATC_code": "C10AA05",
+    "indications": "Heterozygous familial hypercholesterolemia (adults and pediatrics from 10 years of age): To reduce elevated total cholesterol, LDL cholesterol, apolipoprotein B, and triglyceride levels, and to increase HDL cholesterol in patients with primary hypercholesterolemia.",
+    "dosage_regimen": {
+      "adult": "10mg once daily",
+      "pediatric": "40mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustment necessary",
+      "renal_impairment_pediatric": "No dose adjustment necessary",
+      "hepatic_impairment_adult": "Contraindicated in active liver failure or decompensated cirrhosis",
+      "hepatic_impairment_pediatric": "Contraindicated in active liver failure or decompensated cirrhosis"
+    },
+    "contraindications": [
+      "Hypersensitivity to atorvastatin or any component of the formulation",
+      "Acute liver failure or decompensated cirrhosis"
+    ],
+    "adverse_drug_reactions": {
+      "Hepatic effects": [
+        "Muscle-related effects >10%"
+      ],
+      "Muscle-related effects >10%": [
+        "Limb pain (3% to 9%), muscle spasm (2% to 5%), myalgia (3% to 8%)",
+        "Pharyngolaryngeal pain (3% to 4%)"
+      ]
+    },
+    "monitoring_parameters": "Lipid panel (total cholesterol, HDL, LDL, triglycerides) and Hepatic transaminase levels",
+    "drug_interactions": [
+      "Risk X: Avoid combination",
+      "Antihepaciviral combinations, Asunaprevir, Cyclosporine (Systemic), Fexinidazole (Systemic), Gemfibrozil, Glecaprevir and Pibrentasvir, Leniolisib, Lonafarnib, Posaconazole, Red Yeast Rice, Sparsentan, Taurursodiol, Tipranavir"
+    ],
+    "pregnancy_lactation": {
+      "pregnancy": "Contraindicated",
+      "lactation": "Due to the potential for adverse events in the breastfed infant, breastfeeding is not recommended"
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Diabetes mellitus: Increases in HbA 1c and fasting blood glucose occured",
+      "Hepatic impairment and/or ethanol use: Use with caution in patients who consume large amounts of ethanol or have a history of liver disease; use is contraindicated in patients with active liver disease or unexplained persistent elevations of serum transaminases.",
+      "Myasthenia gravis: May rarely worsen or precipitate myasthenia gravis; monitor",
+      "Hemorrhagic stroke: Patients with recent stroke receiving long-term therapy with high-dose (ie. 80 mg/day) Atorvastatin may be at high risk for hemorrhagic stroke.",
+      "Polysorbate 80: Some dosage forms may contain polysorbate 80 (also known as Tweens). Risk of Hypersensitivity reactions, usually a delayed reaction.",
+      "Storage: Store between 15°C to 30°C."
+    ],
+    "id": 46
+  },
+  {
+    "category": null,
+    "name": "Pitavastatin",
+    "abbreviation": null,
+    "generic_name": "Pitavastatin",
+    "dosage_form_strengths": [
+      "1mg",
+      "2mg",
+      "4mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antilipemic Agent, HMG-CoA Reductase Inhibitor",
+    "ATC": "C10AA08",
+    "indications": "Reduction of elevated total cholesterol and LDL-C, in patients with primary hypercholesterolaemia and combined (mixed) dyslipidaemia, when response to diet and other non-pharmacological measures is inadequate",
+    "dosage_regimen": {
+      "adult": "1 to 4 mg once daily",
+      "pediatric": "1-2mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Maximum dose is 2 mg with close monitoring",
+      "renal_impairment_pediatric": "Maximum dose is 2 mg with close monitoring",
+      "hepatic_impairment_adult": "Contraindicated in active liver disease or decompensated cirrhosis",
+      "hepatic_impairment_pediatric": "Contraindicated in active liver disease or decompensated cirrhosis"
+    },
+    "contraindications": [
+      "Hypersensitivity to Pitavastatin or any component of the formulation",
+      "Active liver disease or decompensated cirrhosis",
+      "Pregnancy or Lactation"
+    ],
+    "adverse_drug_reactions": {
+      "1% to 10%": "Gastrointestinal: Constipation (4%), diarrhea (3%)",
+      "Neuromuscular and skeletal": "Arthralgia",
+      "Frequency not defined": "Infection: Influenza",
+      "Nervous system": "Headache",
+      "Respiratory": "Nasopharyngitis"
+    },
+    "monitoring_parameters": "Lipid profile, Renal and hepatic functions, CPK in patients with risk or symptoms suggestive of myopathy",
+    "drug_interactions": {
+      "Cyclosporine (Systemic), Fusidic Acid (Systemic), Gemfibrozil, Leniolisib, Letermovir, Voxilaprevir": "Risk X: Avoid combination",
+      "Bezafibrate, Ciprofibrate, Daptomycin, Erythromycin (Systemic), Fostemsavir, Lanthanum, Rifampin, Trofinetide": "Risk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Contraindicated",
+      "lactation": "Contraindicated"
+    },
+    "id": 47
+  },
+  {
+    "category": "Antilipemic Agent, HMG-CoA Reductase Inhibitor",
+    "name": "Simvastatin",
+    "abbreviation": "Simvastatin",
+    "generic_name": "Simvastatin",
+    "dosage_form_strengths": [
+      "Tablets: 10 mg, 20 mg, 40 mg, 80 mg",
+      "Capsules 10mg, 20mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antilipemic Agent, HMG-CoA Reductase Inhibitor",
+    "indications": "Heterozygous familial hypercholesterolemia: To reduce elevated total cholesterol (total-C), LDL-C, apoB, and triglyceride levels, and to increase HDL-C in patients with primary hypercholesterolemia. Homozygous familial hypercholesterolemia: To reduce total-C and LDL-C in patients with homozygous familial hypercholesterolemia as an adjunct to other lipid-lowering treatments (eg, LDL apheresis) or if such treatments are unavailable. Primary hypercholesterolaemia, or combined hyperlipidaemia in patients who have not responded adequately to diet and other appropriate measures",
+    "dosage_regimen": {
+      "adult": "20 to 40 mg once daily in the evening",
+      "pediatric": "10–20 mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary for any degree of kidney dysfunction",
+      "renal_impairment_pediatric": "Maximum dose: 40 mg once daily",
+      "hepatic_impairment_adult": "Contraindicated in active liver disease or in patients with unexplained persistent elevations of serum transaminases",
+      "hepatic_impairment_pediatric": "Contraindicated in active liver disease or in patients with unexplained persistent elevations of serum transaminases"
+    },
+    "contraindications": [
+      "Patients with a known hypersensitivity to any component of this product",
+      "Patients with active liver disease, which may include unexplained persistent elevations of hepatic transaminase levels",
+      "Severe renal impairment",
+      "Pregnancy or Lactation"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hepatic effects: Statins are associated with increased serum transaminases and hepatotoxicity, usually reversible Upon dose reduction or discontinuation. Statins are associated with several muscle-related effects, including: Myalgia, Myopathy, Rhabdomyolysis, Immune-mediated necrotizing myopathy. Onset: Delayed after few months. Risk factors: Hypothyroidism, Kidney impairment, Low body mass index, Heavy exercise. >10%: Neuromuscular and skeletal: Myalgia (2% to 13%)"
+    },
+    "monitoring_parameters": "Lipid profile, Renal and hepatic functions, CPK in patients with risk or symptoms suggestive of myopathy",
+    "drug_interactions": [
+      "Risk X: Avoid combination",
+      "Fusidic Acid (Systemic), Ledipasvir, Leniolisib, Pacritinib, Red Yeast Rice, Sparsentan, Taurursodiol, Voxilaprevir"
+    ],
+    "pregnancy_lactation": {
+      "pregnancy": "Contraindicated",
+      "lactation": "Contraindicated"
+    },
+    "id": 48
+  },
+  {
+    "category": null,
+    "name": "IVABRADINE",
+    "abbreviation": null,
+    "generic_name": "IVABRADINE",
+    "dosage_form_strengths": [
+      "Tablets: 5mg; 7.5mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Cardiovascular Agent, Miscellaneous",
+    "atc_code": "C01EB17",
+    "indications": "Heart failure with reduced ejection fraction: To reduce the risk of hospitalization in adult patients with stable, symptomatic heart failure with left ventricular ejection fraction ≤35%, who are in sinus rhythm with resting heart rate ≥70 beats per minute despite being on a maximally tolerated dose of beta blocker or if there is a contraindication to beta-blocker use",
+    "dosage_regimen": {
+      "adult": "5 mg twice daily or 2.5 mg twice daily in patients with a history of conduction defects or who may experience hemodynamic compromise due to bradycardia. Adjust dose every ≥2 weeks as needed.",
+      "pediatric": "0.05 mg/kg/dose twice daily may increase dose every 2 weeks by 0.05 mg/kg/dose as tolerated to achieve a 20% reduction in heart rate without inducing bradycardia. Maximum dose: Age-dependent: ≥6 months to <1 year: 0.2 mg/kg/dose twice daily. ≥1 year: 0.3 mg/kg/dose twice daily, not to exceed 7.5 mg/dose twice daily."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary.",
+      "renal_impairment_pediatric": "No dosage adjustment necessary.",
+      "hepatic_impairment_adult": "No dosage adjustment necessary.",
+      "hepatic_impairment_pediatric": "No dosage adjustment necessary."
+    },
+    "contraindications": [
+      "Acute decompensated heart failure",
+      "Clinically significant hypotension",
+      "Sick sinus syndrome, sinoatrial block, or third-degree AV block (unless a functioning pacemaker is present)",
+      "Clinically significant bradycardia",
+      "Severe hepatic impairment",
+      "Pacemaker dependence (heart rate maintained exclusively by the pacemaker)"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Bradycardia (4% to 10%), hypertension (9%), atrial fibrillation (8%)"
+    },
+    "monitoring_parameters": "Heart rate (prior to initiation, prior to increasing dose, or after decreasing dose); blood pressure; cardiac rhythm (assessing for atrial fibrillation)",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Verapamil",
+        "Diltiazem",
+        "Amiodarone"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Fingolimod",
+        "Ponesimod",
+        "Siponimod"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Avoid concurrent use with Verapamil and Diltiazem.",
+      "lactation": "No human data. Due to the potential risk from exposure in the breastfed infant, breastfeeding is not recommended."
+    },
+    "id": 49
+  },
+  {
+    "category": null,
+    "name": "Dobutamine",
+    "abbreviation": null,
+    "generic_name": "Dobutamine",
+    "dosage_form_strengths": [
+      "12.5mg/ml; 250mg/20ml; 250 mg/5ml"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Adrenergic Agonist Agent; Inotrope",
+    "ATC": "C01CA07",
+    "indications": "Acute decompensated heart failure: Short-term management of patients with cardiac decompensation.",
+    "dosage_regimen": {
+      "adult": "Continuous infusion: IV: Initial: 2 to 5 mcg/kg/minute; titrate based on clinical end point (eg, systemic perfusion or end-organ perfusion); usual dosage range: 2 to 10 mcg/kg/minute; maximum dose: 20 mcg/kg/minute."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustments needed",
+      "renal_impairment_pediatric": "No dose adjustments needed",
+      "hepatic_impairment_adult": "No dose adjustments needed",
+      "hepatic_impairment_pediatric": "No dose adjustments needed"
+    },
+    "contraindications": [
+      "Hypersensitivity to dobutamine or sulfites (some contain sodium metabisulfate), or any component of the formulation",
+      "Hypertrophic cardiomyopathy with outflow tract obstruction (formerly known as idiopathic hypertrophic subaortic stenosis)",
+      "Phaeochromocytoma"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Cardiovascular: Increased heart rate (10%), increased systolic blood pressure (8%), ventricular premature contractions (5%), angina pectoris (1% to 3%), chest pain (1% to 3%), palpitations (1% to 3%)",
+      "Central nervous system: Headache (1% to 3%)\",\n    ": "astrointestinal: Nausea (1% to 3%)"
+    },
+    "monitoring_parameters": "BP, heart rate, ECG. Intravascular volume status. Serum-potassium concentration. Kidney function. Urine output.",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    \"Kratom\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "No evidence of harm. Use only if potential benefit outweighs risk. Appropriate",
+      "lactation": "No human data. Avoid."
+    },
+    "administration": "Always administer via infusion device; administer into large vein. Central line administration is preferred",
+    "warnings_precautions": [
+      "Arrhythmias: Ventricular arrhythmias, including nonsustained ventricular tachycardia and supraventricular arrhythmias, have been reported. Observe closely for arrhythmias in patients with decompensated heart failure; sudden cardiac death has been observed. Ensure that ventricular rate is controlled in atrial fibrillation/flutter before initiating; may increase ventricular response rate.",
+      "An increase in BP is more common due to augmented cardiac output, but hypotension secondarily to vasodilation may occur at higher doses.",
+      "An increased risk of hospitalization and death has been observed with prolonged use in New York Heart Association Class III/IV heart failure patients.",
+      "May cause dose-related increases in heart rate.",
+      "May exacerbate ventricular ectopy (dose-related).",
+      "Ineffective therapeutically in the presence of mechanical obstruction such as severe aortic stenosis.",
+      "Correct electrolyte disturbances, especially hypokalemia or hypomagnesemia prior to use and throughout therapy to minimize the risk of arrhythmias.",
+      "If needed, correct hypovolemia first to optimize hemodynamics.",
+      "Use with caution in patients with active myocardial ischemia or recent myocardial infarction; can increase myocardial oxygen demand."
+    ],
+    "storage": "Store between 15°C to 30°C. Follow following dilution in a compatible solution, use within 24 hours.",
+    "id": 50
+  }
+]

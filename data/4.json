@@ -1,0 +1,1933 @@
+[
+  {
+    "category": "Endocrine system",
+    "name": "Finasteride",
+    "abbreviation": null,
+    "generic_name": "Finasteride",
+    "dosage_form_strengths": [
+      "Tablets 1mg",
+      "Tablets 5mg",
+      "Capsules 1mg",
+      "Capsules 5mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "5 Alpha-Reductase Inhibitor",
+    "atc_code": "G04CB01",
+    "indications": "Androgenetic alopecia: Treatment of male pattern hair loss in men. Benign prostatic hyperplasia: Treatment of symptomatic benign prostatic hyperplasia (BPH) to improve symptoms, induce regression of the enlarged prostate, improve urinary flow, and reduce the need for BPH-related surgery; may be used alone or in combination with an alpha-1 blocker. Not approved for the prevention of prostate cancer.",
+    "dosage_regimen": {
+      "adult": "Androgenetic alopecia: 1 mg once daily; Benign prostatic hyperplasia: 5 mg once daily (single agent or with an alpha‑1 blocker).",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment is necessary.",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "No dosage adjustment available data. Use caution.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to Finasteride or any component of the formulation.",
+      "Pregnancy or patients who may potentially be pregnant."
+    ],
+    "adverse_drug_reactions": {
+      ">10%": "Genitourinary: Impotence",
+      "1% to 10%": "Endocrine & metabolic: Decreased libido, gynecomastia; Genitourinary: Breast tenderness, decreased ejaculate volume, ejaculatory disorder, sexual disorder; Respiratory: Rhinitis",
+      "Unspecified": "Sexual dysfunction may persist after discontinuation; delayed onset after 6 months; more common at 5 mg/day."
+    },
+    "monitoring_parameters": "After 6 months of treatment, a ~50% decrease in serum prostate-specific antigen (PSA) can be expected. Establish a new PSA baseline ≥6 months after initiation and monitor PSA periodically; any sustained increase should be evaluated for possible prostate cancer.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [],
+      "risk_d_consider_therapy_modification": []
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Use is contraindicated during pregnancy due to potential risk to a male fetus. Not indicated for use in women.",
+      "lactation": "Not indicated for use in women. It is not known if finasteride is present in breast milk."
+    },
+    "administration": "Oral: This may be administered with or without meals.",
+    "warnings_precautions": [
+      "Hazardous agent (NIOSH 2016 [group 3]): Women should not handle crushed or broken finasteride tablets when they are pregnant or may potentially be pregnant, due to potential risk to a male fetus; Pregnancy Category X.",
+      "Diminished urinary flow: Carefully monitor patients with a large residual urinary volume or severely diminished urinary flow for obstructive uropathy; these patients may not be candidates for finasteride therapy.",
+      "Hepatic impairment: The effect of hepatic insufficiency on the pharmacokinetics of finasteride has not been studied.",
+      "Breast cancer: reported at post marketing period. Instruct patients to report any changes in their breast tissue such as lumps, pain, gynecomastia, or nipple discharge.",
+      "Prostate cancer: When compared to placebo, 5‑alpha‑reductase inhibitors (5‑ARIs) have been associated with an increase in the incidence of high‑grade prostate cancers.",
+      "Mood alterations and depression: Mood alterations including depressed mood, depression, and, less frequently, suicidal ideation have been reported. Monitor carefully.",
+      "Appropriate use: Not indicated for use in pediatric patients or women."
+    ],
+    "storage": "Store between 15°C to 30°C. Keep the container tightly closed and protect it from moisture.",
+    "id": 1
+  },
+  {
+    "category": null,
+    "name": "Danazol",
+    "abbreviation": null,
+    "generic_name": "Danazol",
+    "dosage_form_strengths": [
+      "Capsule: 100mg, 200mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Androgen",
+    "atc_code": null,
+    "indications": "Endometriosis, Dysfunctional uterine bleeding, Benign breast fibrocystic disease, Gynecomastia, Pre-operative thinning of the endometrium, Prophylaxis of hereditary angioedema attacks",
+    "dosage_regimen": {
+      "adult": "200 to 400 mg/day in 2 divided doses",
+      "pediatric": "200 mg daily for 3 months"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "800 mg/day in 2 divided doses",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to danazol or any component of the formulation",
+      "Undiagnosed abnormal genital bleeding",
+      "Pregnancy; breastfeeding",
+      "Porphyria",
+      "Markedly impaired hepatic, renal, or cardiac function",
+      "Androgen-dependent tumor",
+      "Active or history of thrombosis or thromboembolic disease"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Cardiovascular: Acute myocardial infarction, edema, flushing, increased blood pressure, palpitations, syncope, tachycardia, thrombosis (including thromboembolic complications and thromboembolism. Dermatologic: Acne vulgaris, alopecia, diaphoresis, erythema multiforme, maculopapular rash, Papular rash, pruritus, purpuric rash, seborrhea, skin photosensitivity, Stevens-Johnson syndrome, urticaria, vesicular eruption. Endocrine & metabolic: Altered serum glucose, change in libido, changes in serum lipids, decreased sex hormone binding globulin, decreased thyroxine-binding globulin, exacerbation of porphyria, fluid retention, hirsutism, increased sex hormone-binding globulin, increased thyroxine-binding globulin, menstrual disease, weight gain. Gastrointestinal: Change in appetite, constipation, gastroenteritis, gingival hemorrhage, nausea, pancreatitis, vomiting. Genitourinary: Breast atrophy, hematuria, inhibition of spermatogenesis, nipple discharge, pelvic pain, spermatozoa disorder, vaginal dryness, vaginal irritation. Hematologic & oncologic: Abnormal blood cell levels, change in serum protein, petechial rash, polycythemia, purpuric disease. Hepatic: Hepatic adenoma, hepatic failure, hepatic neoplasm, hepotoxicity (idiyncratic), peliosis hepatitis. Nervous system: Anxiety, asthenia, chills, depression, dizziness, emotional lability, fatigue, Guillain-Barre syndrome, headache, intracranial hypertension, nervousness, paresthesia, seizure, sleep disorder, voice disorder, tremor. Neuromuscular & skeletal: Arthralgia, back pain, increased creatine phosphokinase in blood specimen, joint swelling, limb pain, muscle cramps, muscle spasm, myalgia, neck pain. Ophthalmic: Cataract, visual disturbance. Respiratory: Interstitial pneumonitis, nasal congestion. Miscellaneous: Fever."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Pimozide",
+        "Simvastatin"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Cyclosporine",
+        "Lemborexant",
+        "Lomitapide",
+        "Lonafarnib",
+        "Lovastatin",
+        "Sirolimus",
+        "Ubrogepant",
+        "Vitamin K Antagonists (e.g. warfarin)"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Contraindicated",
+      "lactation": "The use of Danazol is contraindicated in breastfeeding patients due to potential risk."
+    },
+    "administration": "Oral",
+    "warnings_precautions": null,
+    "storage": "Store between 15°C to 30°C. Protect from light.",
+    "id": 2
+  },
+  {
+    "category": null,
+    "name": "REPAGLINIDE",
+    "abbreviation": null,
+    "generic_name": "REPAGLINIDE",
+    "dosage_form_strengths": [
+      "0.5mg",
+      "1mg",
+      "2mg"
+    ],
+    "route_of_administration": "ORAL",
+    "pharmacologic_category": "Antidiabetic Agent, Meglitinide Analog",
+    "ATC_code": "A10BX02",
+    "indications": "Diabetes mellitus, type 2, management in adults: Adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus that can no longer be controlled satisfactorily by diet, weight reduction and exercise.",
+    "dosage_regimen": {
+      "adult": "0.5mg before main meals",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustments needed",
+      "renal_impairment_pediatric": "No dose adjustments needed",
+      "hepatic_impairment_adult": "Caution, longer intervals between dose adjustments may be needed",
+      "hepatic_impairment_pediatric": "Caution, longer intervals between dose adjustments may be needed"
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Central nervous system: Headache (9% to 11%), Endocrine & metabolic: Hypoglycemia (16% to 31%), Respiratory: Upper respiratory tract infection (10% to 16%), 1% to 10%",
+      "Risk X: Avoid combination": null,
+      "Risk D: Consider therapy modification": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "ORAL",
+    "warnings_precautions": null,
+    "storage": "Store between 15 to 30 oC. Protect from light and moisture.",
+    "id": 3
+  },
+  {
+    "category": null,
+    "name": "Canagliflozin",
+    "abbreviation": null,
+    "generic_name": "Canagliflozin",
+    "dosage_form_strengths": [
+      "Tablets: 100 mg, 300 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antidiabetic Agent, Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitor",
+    "atc_code": null,
+    "indications": "As an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus and type 2 diabetes mellitus and diabetic nephropathy with albuminuria.",
+    "dosage_regimen": {
+      "adult": "100 mg once daily taken before the first meal of the day",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "100 mg",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 4
+  },
+  {
+    "category": null,
+    "name": "GLICLAZIDE",
+    "abbreviation": null,
+    "generic_name": "Gliclazide",
+    "dosage_form_strengths": [
+      "40mg",
+      "80mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antidiabetic Agent, Sulfonylurea",
+    "atc_code": "A10BB09",
+    "indications": "Diabetes mellitus, type 2, treatment: Adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.",
+    "dosage_regimen": {
+      "adult": "40 to 160 mg/day (maximum: 320 mg/day)",
+      "pediatric": "30 to 60 mg/day (maximum: 120 mg/day)"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "May increase the dose in 40 to 80 mg increments every 1 to 4 weeks if needed to achieve glycemic goals; usual maintenance dose: 40 to 160 mg/day (maximum: 320 mg/day)",
+      "renal_impairment_pediatric": "May increase the dose in 30 mg increments every 1 to 4 weeks if needed to achieve glycemic goals; usual maintenance dose: 30 to 60 mg/day (maximum: 120 mg/day)",
+      "hepatic_impairment_adult": "May increase the dose in 30 mg increments every 1 to 4 weeks if needed to achieve glycemic goals; usual maintenance dose: 30 to 60 mg/day (maximum: 120 mg/day)",
+      "hepatic_impairment_pediatric": "May increase the dose in 30 mg increments every 1 to 4 weeks if needed to achieve glycemic goals; usual maintenance dose: 30 to 60 mg/day (maximum: 120 mg/day)"
+    },
+    "contraindications": [
+      "Hypersensitivity to Gliclazide, other sulfonylureas or sulfonamides, or any component of the formulation.",
+      "Type 1 diabetes mellitus.",
+      "Diabetic ketoacidosis.",
+      "Severe renal or hepatic impairment."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hypoglycemia (11% to 12%)."
+    },
+    "monitoring_parameters": "Blood glucose, Signs and symptoms of hypoglycemia.",
+    "drug_interactions": {
+      "Risk X: Avoid combination": [
+        "Aminolevulinic Acid (Systemic), Mecamylamine, Mitiglinide."
+      ],
+      "Risk D: Consider therapy modification": [
+        "Alpha-glucosidase inhibitors, Dipeptidyl Peptidase-IV Inhibitors, Glucagon-Like Peptide-1 Agonists, Metreleptin, Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitors (e.g. Canagliflozin, Dapagliflozin, Empagliflozin), Thiazolidinediones."
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "No human data.",
+      "lactation": "Not recommended due to the potential for hypoglycemia in infant."
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Hypoglycemia: All sulfonylurea drugs are capable of producing severe hypoglycemia. It is also more likely in elderly patients, malnourished or debilitated patients, and in patients with severe renal and hepatic impairment, adrenal and/or pituitary insufficiency; use with caution.",
+      "Hemolytic Anemia: Treatment of patients with glucose 6-phosphate dehydrogenase (G6PD) deficiency with sulfonylurea agents can lead to hemolytic anemia. Caution and consider a non-sulfonylurea alternative.",
+      "Awareness: Patients should be informed about the importance of adherence to dietary instructions, of a regular exercise program, and of regular testing of glucose levels.",
+      "Hypersensitivity reactions: Rashes, pruritus, and photosensitivity. Severe manifestations of hypersensitivity include cholestatic jaundice, leucopenia, thrombocytopenia, aplastic anemia, agranulocytosis, hemolytic anemia, erythema multiforme, Stevens-Johnson syndrome, and exfoliative dermatitis.",
+      "Renal impairment: The metabolism and excretion may be slowed and may accumulate in advanced renal insufficiency. Use is not recommended in severe kidney disease.",
+      "Hepato-biliary disorders: Cholestasis, jaundice, and hepatitis have been reported rarely; ",
+      "Discontinue treatment if cholestatic jaundice appears. These symptoms usually disappear after discontinuation of treatment.",
+      "Blood and lymphatic system disorders: Rare reports of anemia, thrombocytopenia, leukopenia, and granulocytopenia. Reversible on discontinuation.",
+      "Lactose intolerance: Some formulations may contain lactose; avoid use in patients with galactose intolerance, glucose-galactose malabsorption, or congenital lactose deficiency."
+    ],
+    "storage": "Store between 15°C to 30°C.",
+    "id": 5
+  },
+  {
+    "category": null,
+    "name": "PROPYLTHIOURACIL",
+    "abbreviation": null,
+    "generic_name": "Propylthiouracil",
+    "dosage_form_strengths": [
+      " Tablets: 50mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antithyroid Agent; Thioamide",
+    "atc_code": null,
+    "indications": "Management of hyperthyroidism, including the treatment of Graves’ disease and thyrotoxicosis.",
+    "dosage_regimen": {
+      "adult": "300–400 mg daily in single or divided doses (3 times daily) until the patient becomes euthyroid (may require up to 600-900 mg/day)",
+      "pediatric": "6 to 10 years: Oral: 50 to 150 mg/day divided every 8 hours, ≥10 years: Oral: 150 to 300 mg/day divided every 8 hours"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Decrease dose by 25% for eGFR between 10-50 mL/min, decrease dose by 50% for eGFR < 10 mL/min",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "No dosage adjustments needed",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Leukopenia, The most serious adverse effect (very low incidence) is agranulocytosis, Other severe (infrequent) include systemic vasculitis, aplastic anemia; drug fever; lupus-like syndrome; severe hepatic reactions (including encephalopathy, fulminant hepatic necrosis, and death); periarteritis;"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "BCG (Intravesical), Cladribine, Dipyrone, Fexinidazole, Sodium Iodide I131"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Deferiprone"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": null,
+    "storage": "Store between 15°C to 30°C",
+    "id": 6
+  },
+  {
+    "category": null,
+    "name": "Norethisterone",
+    "abbreviation": null,
+    "generic_name": "Norethisterone (Norethindrone)",
+    "dosage_form_strengths": [
+      "5 mg",
+      "10 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Contraceptive; Progestin",
+    "atc_code": null,
+    "indications": null,
+    "dosage_regimen": {
+      "adult": "5 mg 3 times a day for 10 days; bleeding usually stops within 48 hours",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to Norethindrone or any component of the formulation; Breast cancer (known, suspected, or history of); Undiagnosed abnormal genital bleeding; Pregnancy; Deep vein thrombosis or pulmonary embolism (current or history of); Active or recent history of arterial thromboembolic disease (eg, stroke, myocardial infarction); Hepatic impairment or disease; Severe pruritus or pemphigoid gestationis; Porphyria;"
+    ],
+    "adverse_drug_reactions": {
+      "≥1%": [
+        "Menstrual cycle irregularities",
+        "Hepatic cancer, Thromboembolism, Appetite change, depression, fatigue, gastrointestinal disorder, headaches, hypertension, Libido disorder, nervousness"
+      ]
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "Risk X": [
+        "Avoid combination"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": null,
+    "storage": "Store between 15° to 30°C.",
+    "id": 7
+  },
+  {
+    "category": null,
+    "name": "Progesterone",
+    "abbreviation": null,
+    "generic_name": "Progesterone",
+    "dosage_form_strengths": [
+      "Vaginal Gel",
+      "Rectal or vaginal pessaries",
+      "Soft Gelatin Capsule",
+      "Oral or Vaginal soft gelatin capsule",
+      "Vaginal Tablets",
+      "Oily solution for IM injection",
+      "Rectal Suppositories"
+    ],
+    "route_of_administration": [
+      "Oral",
+      "Vaginal",
+      "I.M",
+      "Rectal"
+    ],
+    "pharmacologic_category": "Progestin",
+    "atc_code": "G03DA04",
+    "indications": "Oral, Intramuscular, Vaginal, Rectal",
+    "dosage_regimen": {
+      "adult": "200mg at bedtime for 12 days beginning on Day 15 of the cycle and ending on Day 26. Withdrawal bleeding may occur in the following week.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to Progesterone or any component of the formulation. Undiagnosed abnormal vaginal bleeding. Breast cancer (known, suspected, or history) or genital tract cancer. Active or history of arterial thromboembolic disease (e.g., stroke, MI) or thrombophlebitis. Hepatic impairment or disease (severe impairment in vaginal and rectal). Missed abortion or ectopic pregnancy. Cerebral hemorrhage. Porphyria."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Metyrapone",
+        "Sincalide"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Progesterone"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": null,
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 8
+  },
+  {
+    "category": null,
+    "name": "Cabergoline",
+    "abbreviation": null,
+    "generic_name": "Cabergoline",
+    "dosage_form_strengths": [
+      "0.5mg",
+      "1mg",
+      "2mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Ergot Derivative; Hyperprolactinemia Agent, Dopamine (D2) Agonist",
+    "atc_code": "G02CB03",
+    "indications": "Hyperprolactinemic disorders; Inhibition of lactation for medical reasons",
+    "dosage_regimen": {
+      "adult": "0.5 to 2 mg/week administered in 1 or 2 divided weekly doses",
+      "pediatric": "0.5 to 2 mg/week administered in 1 or 2 divided weekly doses"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "0.5 mg/week",
+      "renal_impairment_pediatric": "0.25 mg (one-half 0.5 mg tablet) every 12 hours for two days i.e. 1 mg total dose",
+      "hepatic_impairment_adult": "No dosage adjustments",
+      "hepatic_impairment_pediatric": "No dosage adjustments"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance, any ergot alkaloid, or to any excipient; Pre-eclampsia, eclampsia; Post-partum hypertension or uncontrolled hypertension; Severe impairment of liver function; History of pulmonary, pericardial, and retroperitoneal fibrotic disorders; History of psychosis or risk of post-partum psychosis; For long-term treatment: Evidence of cardiac valvulopathy as determined by pre-treatment echocardiography"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Nausea (27% to 29%), Dizziness (15% to 17%), headache (26%)"
+    },
+    "monitoring_parameters": "Serum prolactin levels (monthly)",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Antipsychotic Agents",
+        "Bromocriptine",
+        "Dihydroergotamine",
+        "Lisuride",
+        "Lorcaserin",
+        "Methysergide",
+        "Metoclopramide",
+        "Pipamperone",
+        "Sulpiride"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Limited data",
+      "lactation": "No data"
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Cardiac valvulopathy: Risk is increased with use of high doses (e.g. >2 mg/day); Extracardiac Fibrotic Reactions: Pleural, pericardial, and retroperitoneal fibrosis have been reported; Cardiovascular effects: Initial doses >1 mg may cause orthostatic hypotension; Psychiatric disorders: Pathological gambling, increased libido, and hypersexuality, generally reversible with dose reduction or discontinuation of treatment; CNS depression: Patients must be cautioned about performing tasks that require mental alertness (e.g., operating machinery or driving); Peptic ulcer disease: Use with caution in patients with peptic ulcer disease (PUD) or GI bleeding; Raynaud syndrome: Use with caution in patients with Raynaud syndrome"
+    ],
+    "storage": "Store between 15-30°C",
+    "id": 9
+  },
+  {
+    "category": null,
+    "name": " Estradiol",
+    "abbreviation": null,
+    "generic_name": "Estradiol",
+    "dosage_form_strengths": [
+      "Tablets: 1 mg, 2 mg estradiol valerate",
+      "And in combinations"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Estrogen derivative",
+    "atc_code": null,
+    "indications": "Hormone replacement therapy (HRT) for estrogen deficiency symptoms in peri- and postmenopausal women, Prevention of osteoporosis in postmenopausal women at high risk of future fractures who are intolerant of, or contraindicated for, other medicinal products approved for the prevention of osteoporosis.",
+    "dosage_regimen": {
+      "adult": "1mg daily continuously without break. May be increased to 2 mg.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Anaphylactic reaction or hypersensitivity to estradiol or any of the excipients.",
+      "Untreated endometrial hyperplasia",
+      "Undiagnosed abnormal genital bleeding",
+      "Known or suspected cancer of the breast",
+      "Known or suspected estrogen-dependent neoplasia",
+      "Active deep vein thrombosis, pulmonary embolism, or history of these conditions.",
+      "Active or recent (e.g., within the past year) arterial thromboembolic disease (e.g., stroke, myocardial infarction)"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Neoplasms benign or malignant: Breast cancer, Endometrial cancer, Ovarian cancer."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Anastrozole",
+        "Dehydroepiandrosterone",
+        "Exemestane",
+        "Fexinidazole",
+        "Fezolinetant",
+        "Fusidic Acid (Systemic)",
+        "Hemin",
+        "Indium 111 Capromab Pendetide",
+        "Ospemifene",
+        "Raloxifene",
+        "Tranexamic Acid."
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Breast cancer: an increased risk of invasive breast cancer was observed in patients who are postmenopausal using estrogens in combination with progesterone.",
+      "Endometrial cancer: The use of estrogen-only HRT in patients with a uterus is associated with an increased risk of endometrial cancer.",
+      "Ovarian cancer: Slightly increase in incidence of ovarian cancer with estrogen replacement therapy."
+    ],
+    "storage": "Between 15°C and 300°C",
+    "id": 10
+  },
+  {
+    "category": null,
+    "name": "CARBETOCIN",
+    "abbreviation": null,
+    "generic_name": "Carbetocin",
+    "dosage_form_strengths": [
+      "100 mcg/ml"
+    ],
+    "route_of_administration": "IM, IV",
+    "pharmacologic_category": "Oxytocic Agent",
+    "atc_code": null,
+    "indications": "Prevention of postpartum hemorrhage by controlling uterine atony",
+    "dosage_regimen": {
+      "adult": "100 mcg",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to Carbetocin, Oxytocin, or any component of the formulation",
+      "For labor induction or augmentation",
+      "During pregnancy or labor (i.e. at any time before the baby is born)",
+      "Serious cardiovascular disorders",
+      "Liver or kidney disease",
+      "Epilepsy",
+      "Use in children"
+    ],
+    "adverse_drug_reactions": {
+      ">10%": [
+        "Cardiovascular: Flushing (2% to 25%), hypotension (2% to 21%)",
+        "Gastrointestinal: Abdominal pain (40%), nausea (3% to 27%)",
+        "Hematologic: Anemia (23%)",
+        "Nervous system: Headache (13% to 26%), localized warm feeling (19%)",
+        "Neuromuscular & skeletal: Tremor (1% to 12%)",
+        "1% to 10%"
+      ],
+      "<frequency bucket as written in the text>": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Bromperidol",
+        "Carboprost Tromethamine",
+        "Dinoprostone",
+        "Levoketoconazole",
+        "Misoprostol Pimozide",
+        "Sertindole"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Amifostine",
+        "Domperidone",
+        "Levoketoconazole",
+        "Obinutuzumab",
+        "QT-prolonging"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "IM",
+    "warnings_precautions": [
+      "High alert medication: A drug with high risk of causing significant patient harm when used in error",
+      "Concerns related to adverse effects",
+      "Monitor carefully Patients that use prostaglandins concomitantly with Carbetocin (Prostaglandins may potentiate effect)",
+      "Monitor patients with eclampsia and pre-eclampsia as no data on the use of Carbetocin in patients with eclampsia",
+      "Disease-related concerns",
+      "Asthma: Use with caution in patients with asthma",
+      "Cardiovascular disease: Use has not been studied in patients with a history of hypertension or known coagulopathy; use with extreme caution in patients with cardiovascular disease (contraindicated in serious cardiovascular disorders), especially coronary artery disease",
+      "Migraines: Use with caution in patients with migraines"
+    ],
+    "storage": null,
+    "id": 11
+  },
+  {
+    "category": null,
+    "name": "Oxytocin",
+    "abbreviation": null,
+    "generic_name": "Oxytocin",
+    "dosage_form_strengths": [
+      "5 I.U./ml",
+      "10 I.U./ml"
+    ],
+    "route_of_administration": "IV, IM",
+    "pharmacologic_category": "Oxytocic Agent",
+    "atc_code": null,
+    "indications": "Prevention and treatment of postpartum hemorrhage after delivery of placenta. Incomplete, inevitable, or missed miscarriage. Induction of labour for medical reasons, Stimulation of labour in hypotonic uterine inertia.",
+    "dosage_regimen": {
+      "adult": "5 I.U./ml, 10 I.U./ml",
+      "pediatric": "0.2 mg 3 to 4 times daily for up to 7 days"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustments needed",
+      "renal_impairment_pediatric": "No dosage adjustments needed",
+      "hepatic_impairment_adult": "No dosage adjustments needed",
+      "hepatic_impairment_pediatric": "No dosage adjustments needed"
+    },
+    "contraindications": [
+      "Inadvisable Spontaneous Labour or vaginal delivery. Avoid Intravenous Injection During Labour. Prolonged use in uterine inertia. Fetal Distress (Discontinue Immediately If This Occurs). Hypertonic Uterine Contractions (Discontinue Immediately If This Occurs). Severe cardiovascular disease. Severe preeclamptic toxaemia. Significant cephalopelvic disproportion. Fragility or overdistension of the uterus. Predisposition to amniotic fluid embolism (foetal death in utero, retroplacentar hematoma)"
+    ],
+    "adverse_drug_reactions": {
+      "frequency": "Not defined"
+    },
+    "monitoring_parameters": "Fluid intake and output during administration (due to antidiuretic effect). Maternal blood pressure. Continuous monitoring of fetal heart rate and uterine motility.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Carboprost Tromethamine, Gemeprost, Levoketoconazole, Pimozide, Sertindole"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Dinoprostone, Domperidone, Misoprostol, QT-prolonging Agents (Highest Risk)"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "IV, IM",
+    "warnings_precautions": [
+      "Hazardous agent (NIOSH 2016 [group 3]): Due to Developmental toxicity – third trimester. Antidiuretic effect: Oxytocin may produce an intrinsic antidiuretic effect. Avoid large infusion volumes and restrict fluid intake by mouth (risk of hyponatraemia and water-intoxication). Cardiovascular effects: Tachycardia, bradycardia or QT interval prolongation has been observed after oxytocin administration. Therefore, it should be administered with caution in patients with conditions such as congenital or documented acquired QT prolongation. Rapid intravenous injection: may transiently reduce blood pressure. Uterine hyperstimulation -usually with excessive doses—may cause fetal distress, asphyxia, and death, or may lead to hypertonicity, tetanic contractions, soft-tissue damage or uterine rupture. Overdose Placental abruption and amniotic fluid embolism reported on overdose. Appropriate use: Abortion: For the adjunctive management of abortion in the first trimester, curettage is generally considered primary therapy. Oxytocin infusion in second trimester abortion will often be effective; however, other therapy may be required. Trained personnel: IV preparations should be administered by adequately trained individuals familiar with its use and able to identify complications; continuous observation is necessary for all patients. Risk of postpartum disseminated intravascular coagulation: The pharmacological labour induction itself and not a particular agent is linked rarely to such a risk. Risk factors include being 35 years of age or over, complications during pregnancy and gestational age more than 40 weeks. In these women, Oxytocin or any other alternative drug should be used with care, and the practitioner should be alerted by signs of DIC (fibrinolysis). Store between 2-8°C. To be used immediately after dilution. Protect from light."
+    ],
+    "storage": "Protect from light",
+    "id": 12
+  },
+  {
+    "category": null,
+    "name": "Desmopressin Acetate",
+    "abbreviation": null,
+    "generic_name": "Desmopressin Acetate",
+    "dosage_form_strengths": [
+      "4mcg/ml",
+      "0.1 mg",
+      "0.2 mg",
+      "60 mcg",
+      "120 mcg",
+      "240 mcg"
+    ],
+    "route_of_administration": "Subcutaneous, Intramuscular, Intravenous, Oral, Sublingual, Nasal",
+    "pharmacologic_category": "Antihemophilic Agent; Hemostatic Agent; Hormone, Posterior Pituitary; Vasopressin Analog, Synthetic",
+    "atc_code": null,
+    "indications": "Diagnosis and treatment of cranial diabetes insipidus; mild to moderate hemophilia or von Willebrand's disease undergoing surgery or following trauma to increase Factor VIII: C and Factor VIII: Ag; to establish renal concentration capacity; to treat a headache resulting from a lumbar puncture; to test for fibrinolytic response; oral vasopressin sensitive cranial diabetes insipidus; post-hypophysectomy polyuria/polydipsia; oral lyophilisate Tablet; sublingual Vasopressin sensitive cranial diabetes insipidus; primary nocturnal enuresis; treatment of Nocturia; diagnosis and treatment of vasopressin-sensitive cranial diabetes insipidus; treatment of Diabetes Insipidus; establishing renal concentration capacity",
+    "dosage_regimen": {
+      "adult": "IM, SC, IV: The usual dose is 1 to 4 mcg given once daily",
+      "pediatric": "IM, SC: Doses from 0.4 mcg may be used",
+      "infant": "IM, SC: 2 mcg"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary",
+      "renal_impairment_pediatric": "No dosage adjustment necessary",
+      "hepatic_impairment_adult": "No dosage adjustment necessary",
+      "hepatic_impairment_pediatric": "No dosage adjustment necessary"
+    },
+    "contraindications": [
+      "Known hypersensitivity to desmopressin acetate or to any of the excipients",
+      "Moderate to severe renal impairment defined as a creatinine clearance below 50 mL/min",
+      "Hyponatremia or a history of hyponatremia",
+      "Known or suspected syndrome of inappropriate antidiuretic hormone (SIADH) secretion",
+      "Polydipsia",
+      "Concomitant use with loop diuretics or systemic or inhaled glucocorticoids",
+      "During illnesses that can cause fluid or electrolyte imbalance",
+      "Heart failure or uncontrolled hypertension",
+      "Desmopressin should not be prescribed to patients over the age of 65 for the treatment of nocturia associated with multiple sclerosis"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Abdominal pain (2%), nausea (2%), dizziness (intranasal, sublingual: 2% to 3%), headache (intranasal, oral, sublingual: 2% to 5%)",
+      "risk_x_avoid_combination": [
+        "Hypertension (2% to 3%)",
+        "Abdominal pain (2%), nausea (2%)"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Abdominal pain (2%), nausea (2%)"
+      ]
+    },
+    "monitoring_parameters": "Blood Pressure",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Hypertension (2% to 3%)",
+        "Abdominal pain (2%), nausea (2%)"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Abdominal pain (2%), nausea (2%)"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Subcutaneous, Intramuscular, Intravenous, Oral, Sublingual, Nasal",
+    "warnings_precautions": [
+      "Xerostomia (sublingual: 12% to 14%)",
+      "Hypertension (2% to 3%)",
+      "Abdominal pain (2%), nausea (2%)"
+    ],
+    "storage": null,
+    "id": 13
+  },
+  {
+    "category": null,
+    "name": "LEVOTHYROXINE",
+    "abbreviation": null,
+    "generic_name": "Levothyroxine",
+    "dosage_form_strengths": [
+      "25mcg",
+      "50mcg",
+      "100mcg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Thyroid Product",
+    "atc_code": null,
+    "indications": "Control of hypothyroidism, congenital hypothyroidism in infants, acquired hypothyroidism in children and juvenile myxoedema.",
+    "dosage_regimen": {
+      "adult": "50 to 100 mcg daily",
+      "pediatric": "25-50 mcg daily",
+      "renal_impairment_adult": "25 mcg daily",
+      "renal_impairment_pediatric": "50 mcg on alternate days",
+      "hepatic_impairment_adult": "25 mcg daily",
+      "hepatic_impairment_pediatric": "50 mcg on alternate days"
+    },
+    "contraindications": [
+      "Uncorrected adrenal insufficiency",
+      "Subclinical thyrotoxicosis",
+      "Untreated pituitary insufficiency",
+      "Acute myocardial infarction, acute myocarditis, or acute pancarditis"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Cardiovascular effects: Potentially life-threatening cardiovascular effects may occur with levothyroxine. The effects commonly result from overtreatment but can also occur with initiation of levothyroxine, especially in patients with severe hypothyroidism or in patients with a history of cardiovascular disease or arrhythmias."
+    },
+    "monitoring_parameters": "Monitor closely for under/overtreatment.",
+    "drug_interactions": {
+      "Sodium Iodide I131": "Consider therapy modification",
+      "Bile Acid Sequestrants": "Consider therapy modification",
+      "Calcium Polystyrene Sulfonate": "Consider therapy modification",
+      "Calcium Salts": "Consider therapy modification",
+      "Iron Preparations": "Consider therapy modification",
+      "Lanthanum": "Consider therapy modification",
+      "Magnesium Salts": "Consider therapy modification",
+      "Multivitamins/Minerals": "Consider therapy modification",
+      "Orlistat": "Consider therapy modification",
+      "Patiromer": "Consider therapy modification",
+      "Polaprezinc": "Consider therapy modification",
+      "Raloxifene": "Consider therapy modification",
+      "Sevelamer": "Consider therapy modification",
+      "Sodium Polystyrene Sulfonate": "Consider therapy modification",
+      "Sucroferric Oxyhydroxide": "Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Use of levothyroxine is a preferred agent as thyroid replacement therapy during lactation."
+    },
+    "administration": "Administer consistently in the morning on an empty stomach, at least 30 to 60 minutes before food or caffeine-containing liquids.",
+    "warnings_precautions": [
+      "Disease-related concerns: Adrenal insufficiency: Use with caution in patients with adrenal insufficiency; symptoms may be exaggerated or aggravated. Treatment with glucocorticoids should precede levothyroxine therapy in patients with adrenal insufficiency. Use is contraindicated in patients with uncorrected adrenal insufficiency.",
+      "Benign thyroid nodules: Appropriate use: Routine use of T4 for TSH suppression is not recommended in patients with benign thyroid nodules. Treatment should never be fully suppressive (TSH <0.1 milliunits/L)."
+    ],
+    "storage": null,
+    "id": 14
+  },
+  {
+    "category": null,
+    "name": "Testosterone",
+    "abbreviation": null,
+    "generic_name": "Testosterone",
+    "dosage_form_strengths": [
+      "250mg/ml",
+      "1000mg/4ml",
+      "750mg/3ml"
+    ],
+    "route_of_administration": "IM",
+    "pharmacologic_category": "Androgen",
+    "atc_code": null,
+    "indications": "Hypogonadism due to androgen deficiency in men",
+    "dosage_regimen": {
+      "adult": "250mg every 2 to 3 weeks",
+      "pediatric": "1000 mg; repeat dose after 6 weeks, and then every 10-14 weeks thereafter"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to any component of the formulation",
+      "Androgen-dependent carcinoma",
+      "Marked cardiac, hepatic, or renal disease",
+      "Liver tumors",
+      "Thrombophilia",
+      "Pregnancy; breastfeeding; not indicated for use in women"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Cardiovascular: Hypertension (including exacerbation of hypertension: ≤13%)"
+    },
+    "monitoring_parameters": "Serum testosterone levels, Liver function test, Lipid profile, Hemoglobin and hematocrit",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Dehydroepiandrosterone"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Cyclosporine (Systemic), Vitamin K Antagonists (e.g., warfarin)"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "IM",
+    "warnings_precautions": [
+      "Cardiovascular events: Testosterone can cause blood pressure increases that can increase the risk of major adverse cardiovascular events (MACE).",
+      "In patients suffering from severe cardiac, hepatic, or renal insufficiency or ischemic heart disease: Testosterone may cause severe complications characterized by edema with or without congestive cardiac failure. In such cases, discontinue immediately.",
+      "Clotting disorders: there have been reports of thrombotic events (e.g. deep-vein thrombosis, pulmonary embolism, ocular thrombosis) in patients with risk factors for venous thromboembolism (VTE) during testosterone therapy. In thrombophilic patients, VTE cases have been reported even under anticoagulation treatment.",
+      "Serious Pulmonary Oil Microembolism (POME) reactions, involving urge to cough, dyspnea, chest pain, dizziness, and syncope occurred rarely.",
+      "Hypercalcemia: May cause hypercalcemia in patients with prolonged immobilization or cancer.",
+      "Carcinogenicity: Cases of benign and malignant liver tumors or prostate hyperplasia have been observed after the use of Testosterone.",
+      "Caution in epilepsy and migraine: may be aggravated.",
+      "Abuse and dependence: Particularly by using doses that are higher than recommended.",
+      "Tes",
+      "Hazardous agent (NIOSH 2016 [group 3]): Use appropriate precautions for receiving, handling, administration, and disposal."
+    ],
+    "id": 15
+  },
+  {
+    "category": "Antidiabetic Agent, Alpha-Glucosidase Inhibitor",
+    "name": "Acarbose",
+    "abbreviation": "ACARbose",
+    "generic_name": "Acarbose",
+    "dosage_form_strengths": [
+      "25mg",
+      "50mg",
+      "100mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antidiabetic Agent, Alpha-Glucosidase Inhibitor",
+    "atc_code": "A10BF01",
+    "indications": "Treatment of type 2 diabetes mellitus in combination or as monotherapy, adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus",
+    "dosage_regimen": {
+      "adult": "25 mg 3 times daily with the start of each main meal (may start once daily)",
+      "pediatric": "50 mg 3 times daily is reached after 4–8-week interval to achieve the desired 1-hour postprandial glucose concentration (i.e. <180 mg/dL) and tolerance"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustments available",
+      "renal_impairment_pediatric": "No dosage adjustments available",
+      "hepatic_impairment_adult": "No dosage adjustments available",
+      "hepatic_impairment_pediatric": "No dosage adjustments available"
+    },
+    "contraindications": [
+      "Hypersensitivity to Acarbose or any component of the formulation",
+      "Diabetic ketoacidosis",
+      "Cirrhosis",
+      "Hepatic or renal severe impairment",
+      "Inflammatory bowel disease, colonic ulceration, partial intestinal obstruction, patients predisposed to intestinal obstruction; chronic intestinal diseases associated with marked disorders of digestion or absorption; conditions that may deteriorate as a result of increased gas formation in the intestine",
+      "Pregnancy",
+      "Lactation"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gastrointestinal: Diarrhea (IR tablet: 53%; ER tablet: 10%), flatulence (12%), nausea and vomiting (IR tablet: 26%; ER tablet: 7%)",
+      "1% to 10%": "Cardiovascular: Chest discomfort, flushing, palpitations",
+      "2% to 10%": "Dermatologic: Diaphoresis",
+      "9%": "Neuromuscular & skeletal: Asthenia (9%), myalgia",
+      "7%": "Respiratory: Dyspnea, flu-like symptoms, upper respiratory tract infection"
+    },
+    "monitoring_parameters": "Glycosylated hemoglobin levels HbA1c",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Not recommended due to lack of data",
+      "lactation": "Not recommended due to lack of data"
+    },
+    "id": 16
+  },
+  {
+    "category": null,
+    "name": "ALOGLIPTIN",
+    "abbreviation": null,
+    "generic_name": "ALOGLIPTIN",
+    "dosage_form_strengths": [
+      "6.25 mg",
+      "12.5 mg",
+      "25 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antidiabetic Agent, Dipeptidyl Peptidase 4 (DPP-4) Inhibitor",
+    "ATC_code": "A10BH04",
+    "indications": "Improve glycemic control in adults with type 2 diabetes mellitus in adjunct to diet and exercise.",
+    "dosage_regimen": {
+      "adult": "25mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "12.5mg once daily",
+      "renal_impairment_pediatric": "6.25mg once daily",
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "History of serious hypersensitivity to alogliptin or any of the excipients"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hypoglycemia (2% to 5%)",
+      "Nervous system: Headache (4%)\",\n    ": "enal: Decreased creatinine clearance (2%), renal function abnormality (3%)",
+      "Respiratory: Nasopharyngitis (5%), upper respiratory tract infection (5%)\",\n    \"Monitoring Parameters": "Bloos glucose and glycosylated hemoglobin. Renal function prior to therapy and periodically thereafter. Hepatic function if clinically indicated. Drug Interactions: Risk D: Consider therapy modification Insulins, Sulfonylureas. Pregnancy and Lactation: Pregnancy: Limited data. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity. Lactation: No data. Assess benefit to potential risk. Administration: Oral administration Can be taken with or without food. N.B Refer to manufacturer PIL if there are specific considerations. Warnings/\": \"Pancreatitis: There have been postmarketing reports of acute pancreatitis. Patients should be informed about symptom of acute pancreatitis which is persistent, severe abdominal pain, which may radiate to the back. If pancreatitis is suspected, alogliptin should be discontinued and do not restart if pancreatitis is confirmed. Caution should be exercised in patients with a history of pancreatitis. Heart failure: Consider the risks and benefits of alogliptin prior to initiating treatment in patients at risk for heart failure such as those with a prior history of heart failure and a history of renal impairment. Hypersensitivity reaction: Serious reactions have been spontaneously reported including anaphylactic reactions, angioedema and exfoliative skin conditions including Stevens-Johnson syndrome and erythema multiforme. Hepatic effects: Postmarketing reports of hepatic failure, sometimes fatal. Causality cannot be excluded. If liver injury is detected, alogliptin should be interrupted and assess patient forcauses. Do not restart I liver injury is confirmed with no other etiology. Bullous pemphigoid: There have been postmarketing reports of bullous pemphigoid in patients taking DPP-4 inhibitors. Tell patients to report development of blisters or erosions. If bullous pemphigoid is suspected, alogliptin should be discontinued. Hypoglycemia: A lower dose of insulin or other antidiabetic products (such as metformin or thiazolidinedione) may be considered to reduce the risk of hypoglycaemia when used in combination with alogliptin. Arthralgia: Severe and disabling arthralgia has been reported in patients taking DPP-4 inhibitors. Consider alogliptin therapy as a possible cause for severe joint pain and consider discontinuation. Storage: Store between 15° to 30°C. N.B Refer to manufacturer PIL if there are specific considerations. ",
+      "drug_interactions": [
+        "Risk D: Consider therapy modification Insulins, Sulfonylureas"
+      ],
+      "pregnancy_lactation": {
+        "pregnancy": null,
+        "lactation": null
+      },
+      "administration": "Oral administration Can be taken with or without food. N.B Refer to manufacturer PIL if there are specific considerations. Warnings/\": \"Pancreatitis: There have been postmarketing reports of acute pancreatitis. Patients should be informed about symptom of acute pancreatitis which is persistent, severe abdominal pain, which may radiate to the back. If pancreatitis is suspected, alogliptin should be discontinued and do not restart if pancreatitis is confirmed. Caution should be exercised in patients with a history of pancreatitis. Heart failure: Consider the risks and benefits of alogliptin prior to initiating treatment in patients at risk for heart failure such as those with a prior history of heart failure and a history of renal impairment. Hypersensitivity reaction: Serious reactions have been spontaneously reported including anaphylactic reactions, angioedema and exfoliative skin conditions including Stevens-Johnson syndrome and erythema multiforme. Hepatic effects: Postmarketing reports of hepatic failure, sometimes fatal. Causality cannot be excluded. If liver injury is detected, alogliptin should be interrupted and assess patient forcauses. Do not restart I liver injury is confirmed with no other etiology. Bullous pemphigoid: There have been postmarketing reports of bullous pemphigoid in patients taking DPP-4 inhibitors. Tell patients to report development of blisters or erosions. If bullous pemphigoid is suspected, alogliptin should be discontinued. Hypoglycemia: A lower dose of insulin or other antidiabetic products (such as metformin or thiazolidinedione) may be considered to reduce the risk of hypoglycaemia when used in combination with alogliptin. Arthralgia: Severe and disabling arthralgia has been reported in patients taking DPP-4 inhibitors. Consider alogliptin therapy as a possible cause for severe joint pain and consider discontinuation. Storage: Store between 15° to 30°C. N.B Refer to manufacturer PIL if there are specific considerations. ",
+      "warnings_precautions": [
+        "Pancreatitis: There have been postmarketing reports of acute pancreatitis. Patients should be informed about symptom of acute pancreatitis which is persistent, severe abdominal pain, which may radiate to the back. If pancreatitis is suspected, alogliptin should be discontinued and do not restart if pancreatitis is confirmed. Caution should be exercised in patients with a history of pancreatitis. Heart failure: Consider the risks and benefits of alogliptin prior to initiating treatment in patients at risk for heart failure such as those with a prior history of heart failure and a history of renal impairment. Hypersensitivity reaction: Serious reactions have been spontaneously reported including anaphylactic reactions, angioedema and exfoliative skin conditions including Stevens-Johnson syndrome and erythema multiforme. Hepatic effects: Postmarketing reports of hepatic failure, sometimes fatal. Causality cannot be excluded. If liver injury is detected, alogliptin should be interrupted and assess patient forcauses. Do not restart I liver injury is confirmed with no other etiology. Bullous pemphigoid: There have been postmarketing reports of bullous pemphigoid in patients taking DPP-4 inhibitors. Tell patients to report development of blisters or erosions. If bullous pemphigoid is suspected, alogliptin should be discontinued. Hypoglycemia: A lower dose of insulin or other antidiabetic products (such as metformin or thiazolidinedione) may be considered to reduce the risk of hypoglycaemia when used in combination with alogliptin. Arthralgia: Severe and disabling arthralgia has been reported in patients taking DPP-4 inhibitors. Consider alogliptin therapy as a possible cause for severe joint pain and consider discontinuation. Storage: Store between 15° to 30°C. N.B Refer to manufacturer PIL if there are specific considerations. "
+      ],
+      "storage": "Store between 15° to 30°C. N.B Refer to manufacturer PIL if there are specific considerations. "
+    },
+    "id": 17
+  },
+  {
+    "category": null,
+    "name": "Linagliptin",
+    "abbreviation": null,
+    "generic_name": "Linagliptin",
+    "dosage_form_strengths": [
+      "5mg",
+      "5mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antidiabetic Agent, Dipeptidyl Peptidase 4 (DPP-4) Inhibitor",
+    "ATC": "A10BH05",
+    "indications": "Improve glycemic control in adults with type 2 diabetes mellitus in adjunct to diet and exercise",
+    "dosage_regimen": {
+      "adult": "5mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustment is required",
+      "hepatic_impairment_adult": "No dose adjustment is required"
+    },
+    "contraindications": [
+      "Hypersensitivity to linagliptin or any of the excipients",
+      "Adverse Drug Reactions"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "1% to 10%"
+    },
+    "monitoring_parameters": "Bloos glucose and glycosylated hemoglobin",
+    "drug_interactions": {
+      "Risk D": "Consider therapy modification",
+      "CYP3A4 Inducers": [
+        "Barbiturates (phenobarbital), Carbamazepine, Phenytoin, Rifampicin",
+        "Insulins P -glycoprotein/ABCB1 Inducers",
+        "Sulfonylureas"
+      ],
+      "Pregnancy and Lactation": {
+        "Pregnancy": "Limited data. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity.",
+        "Lactation": "Assesses benefit to potential risk."
+      }
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Limited data. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity.",
+      "lactation": "No data. Assesses benefit to potential risk."
+    },
+    "administration": "Oral administration: Can be taken with or without food",
+    "warnings_precautions": [
+      "Pancreatitis: There have been postmarketing reports of acute pancreatitis. Patients should be informed about symptom of acute pancreatitis which is persistent, severe abdominal pain, which may radiate to the back. If pancreatitis is suspected, linagliptin should be discontinued and do not restart if pancreatitis is confirmed. Caution should be exercised in patients with a history of pancreatitis.",
+      "Hypoglycemia: A lower dose of insulin or other antidiabetic products"
+    ],
+    "storage": "Store between 15° to 30°C.",
+    "id": 18
+  },
+  {
+    "category": null,
+    "name": "Saxagliptin",
+    "abbreviation": null,
+    "generic_name": "Saxagliptin",
+    "dosage_form_strengths": [
+      "2.5 mg",
+      "5 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antidiabetic Agent, Dipeptidyl Peptidase 4 (DPP-4) Inhibitor",
+    "ATC": "A10BH03",
+    "indications": "Improve glycemic control in adults with type 2 diabetes mellitus in adjunct to diet and exercise.",
+    "dosage_regimen": {
+      "adult": "2.5 mg or 5 mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustment is required",
+      "renal_impairment_pediatric": "No dose adjustment is required",
+      "hepatic_impairment_adult": "No dose adjustment is required",
+      "hepatic_impairment_pediatric": "No dose adjustment is required"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Nervous system: Headache (7%)"
+    },
+    "monitoring_parameters": "Bloos glucose and glycosylated hemoglobin. Renal function prior to initiation and periodically thereafter.",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Limited data. Studies in animals have shown reproductive toxicity at high doses. Should not be used during pregnancy unless clearly necessary.",
+      "lactation": "No data. Assess benefit to potential risk."
+    },
+    "administration": "Oral administration: Tablets can be taken with or without a meal. Tablets must not be split or cut.",
+    "warnings_precautions": [
+      "Pancreatitis: There have been postmarketing reports of acute pancreatitis. Patients should be informed about symptom of acute pancreatitis which is persistent, severe abdominal pain, which may radiate to the back. If pancreatitis is suspected, saxagliptin should be discontinued and do not restart if pancreatitis is confirmed. Caution should be exercised in patients with a history of pancreatitis.",
+      "Hypoglycemia: A lower dose of insulin or other antidiabetic products (such as sulphonylurea) may be considered to reduce the risk of hypoglycemia when used in combination with saxagliptin.",
+      "Heart failure: Consider the risks and benefits of saxagliptin prior to initiating treatment in patients at risk for heart failure such as those with a prior history of heart failure and a history of renal impairment.",
+      "Hypersensitivity reaction: Serious reactions have been spontaneously reported including anaphylactic reactions, angioedema and exfoliative skin conditions including Stevens-Johnson syndrome and erythema multiforme.",
+      "Bullous pemphigoid: There have been postmarketing reports of bullous pemphigoid in patients taking DPP-4 inhibitors including saxagliptin. Tell patients to report development of blisters or erosions. If bullous pemphigoid is suspected, saxagliptin should be discontinued.",
+      "Arthralgia: Severe and disabling arthralgia has been reported in patients taking DPP-4 inhibitors. Consider saxagliptin therapy as a possible cause for severe joint pain and consider discontinuation."
+    ],
+    "storage": "Store between 15°-30°C.",
+    "id": 19
+  },
+  {
+    "category": null,
+    "name": "Sitagliptin",
+    "abbreviation": null,
+    "generic_name": "Sitagliptin",
+    "dosage_form_strengths": [
+      "50mg",
+      "100mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antidiabetic Agent, Dipeptidyl Peptidase 4 (DPP-4) Inhibitor",
+    "ATC": "A10BH01",
+    "indications": "Improve glycemic control in adults with type 2 diabetes mellitus in adjunct to diet and exercise",
+    "dosage_regimen": {
+      "adult": "100mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "50mg once daily",
+      "renal_impairment_pediatric": "25mg once daily",
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "1% to 10%"
+    },
+    "monitoring_parameters": "Bloos glucose and glycosylated hemoglobin. Renal function prior to therapy and in and periodically thereafter.",
+    "drug_interactions": {
+      "Risk D": "Consider therapy modification",
+      "Risk X_avoid_combination": [
+        "Insulins, Sulfonylureas"
+      ],
+      "Risk_d_consider_therapy_modification": [
+        "Insulins, Sulfonylureas"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Limited data. Studies in animals have shown reproductive toxicity at high doses. Should not be used during pregnancy unless clearly necessary."
+    },
+    "administration": "Tablets can be taken with or without food.",
+    "warnings_precautions": [
+      "Pancreatitis: There have been postmarketing reports of acute pancreatitis. Patients should be informed about symptom of acute pancreatitis which is persistent, severe abdominal pain, which may radiate to the back. If pancreatitis is suspected, sitagliptin should be discontinued and do not restart if pancreatitis is confirmed. Caution should be exercised in patients with a history of pancreatitis.",
+      "Hypoglycemia: When Sitagliptin is used in combination with a sulphonylurea or with insulin, a lower dose of the sulphonylurea or insulin may be considered to reduce the risk of hypoglycemia. while the dose of metformin should be maintained if combined with sitagliptin.",
+      "Heart failure: Consider the risks and benefits of sitagliptin prior to initiating treatment in patients at risk for heart failure such as those with a prior history of heart failure and a history of renal impairment. Consider sitagliptin therapy as a possible cause for severe joint pain and consider discontinuation.",
+      "Hypersensitivity reaction: Serious reactions have been spontaneously reported including anaphylactic reactions, angioedema and exfoliative skin conditions including Stevens-Johnson syndrome and erythema multiforme. Tell patients to report development of blisters or erosions. If bullous pemphigoid is suspected, sitagliptin should be discontinued."
+    ],
+    "storage": "Store between 15°-30°C.",
+    "id": 20
+  },
+  {
+    "category": null,
+    "name": "VILDAGLIPTIN",
+    "abbreviation": null,
+    "generic_name": "Vildagliptin",
+    "dosage_form_strengths": [
+      "50 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antidiabetic Agent, Dipeptidyl Peptidase 4 (DPP-4) Inhibitor",
+    "atc_code": null,
+    "indications": "Improve glycemic control in adults with type 2 diabetes mellitus in adjunct to diet and exercise",
+    "dosage_regimen": {
+      "adult": "50mg twice daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "50 mg once daily",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Cardiovascular: Peripheral edema. Endocrine & metabolic: Hypoglycemia. Hypersensitivity reaction (2%; including facial edema and urticaria). Nervous system: headache, dizziness. Respiratory: Nasopharyngitis. Gastrointestinal: Constipation, nausea, gastro-oesophageal reflux disease, diarrhea, abdominal pain, vomiting. Skin and subcutaneous tissue disorders: Hyperhidrosis, rash, pruritis, dermatitis. Musculoskeletal: Arthralgia, myalgia."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "Risk D: Consider therapy modification Sulfonylureas.\",\n    ": "isk D: Consider therapy modification Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists."
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "id": 21
+  },
+  {
+    "category": null,
+    "name": "DULAGLUTIDE",
+    "abbreviation": null,
+    "generic_name": null,
+    "dosage_form_strengths": [
+      "0.75mg/0.5ml",
+      "1.5mg/0.5ml"
+    ],
+    "route_of_administration": "SC",
+    "pharmacologic_category": "Antidiabetic Agent, Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist",
+    "atc_code": null,
+    "indications": "Biological medicine should be prescribed and dispensed by brand name. Treatment of Diabetes mellitus, type 2: as an adjunctive agent or alternative monotherapy [if metformin inappropriate]",
+    "dosage_regimen": {
+      "adult": "0.75 mg once weekly; may increase to 1.5 mg once weekly if needed. May be increased in 4-week intervals to 3mg or further increased to 4.5mg maximum dose to achieve targeted glycemic goals.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment is necessary. Caution.",
+      "renal_impairment_pediatric": "No dosage adjustment is necessary. Caution.",
+      "hepatic_impairment_adult": "No dosage adjustment is necessary. Caution.",
+      "hepatic_impairment_pediatric": "No dosage adjustment is necessary. Caution."
+    },
+    "contraindications": [
+      "Hypersensitivity to Dulaglutide or any component of the formulation. • Medullary thyroid carcinoma or family history, or thyroid C-cell tumors. • Multiple Endocrine Neoplasia syndrome type 2 (MEN 2)",
+      "Pregnancy: Avoid. Toxicity in animal studies. Should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.",
+      "Lactation: Avoid. No human data."
+    ],
+    "adverse_drug_reactions": {
+      ">10%": [
+        "Endocrine & metabolic: Hypoglycemia (≤77%; highest incidence seen with adjunctive use of insulin or sulfonylureas; severe hypoglycemia: ≤3%; highest incidence seen with adjunctive use of prandial insulin).",
+        "Gastrointestinal: Diarrhea, vomiting (9%-13%), nausea (12%-21%). 1% to 10%",
+        "Cardiovascular: First-degree atrioventricular block (2%), prolongation P-R interval on ECG (3%), sinus tachycardia (6%), sustained tachycardia (2%).",
+        "Endocrine & metabolic: Diabetic retinopathy (2%; more common in patients with a history of diabetic retinopathy at baseline).",
+        "Gastrointestinal: Abdominal distension (2%-3%), abdominal pain (7%-9%), constipation (4%), decreased appetite (5%-9%), dyspepsia (4%-6%), eructation (2%), flatulence (3%), gastroesophageal reflux disease (2%).",
+        "Immunologic: Antibody development (children, adolescents, and adults: 2% to 6%; neutralizing: ≤1%).",
+        "Local: Injection-site reaction (adults: <1%; children and adolescents: 4%)",
+        "Nervous system: Fatigue (4% to 6%)."
+      ],
+      "Risk X: Avoid combination Liraglutide, Semaglutide.\",\n    ": "isk D: Consider therapy modification Insulins, Meglitinides, Sincalide, Sulfonylureas."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Liraglutide, Semaglutide."
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Insulins, Meglitinides, Sincalide, Sulfonylureas."
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Avoid.",
+      "lactation": "Avoid. No human data."
+    },
+    "administration": "SC: Administer once weekly at any time of day with or without food. Inject subcutaneously in the abdomen, thigh, or upper arm.",
+    "warnings_precautions": [
+      "Acute kidney injury: may cause loss of fluids (dehydration) which may cause kidney problems to get worse. Monitor renal function in patients with renal impairment reporting severe adverse gastrointestinal reactions.",
+      "Hypersensitivity reactions: Rapid or delayed, including anaphylaxis and angioedema. Discontinue and seek medical advice.",
+      "Medullary thyroid carcinoma: Dulaglutide may cause thyroid C-cell tumors at clinically relevant doses. Counsel patients regarding the potential risk of MTC with the use of Dulaglutide and inform them of symptoms of thyroid tumors (e.g., mass in the neck, dysphagia, dyspnea, persistent hoarseness).",
+      "Pancreatitis: Discontinue if symptoms of acute pancreatitis occur, such as persistent, severe abdominal pain. Do not restart if pancreatitis is confirmed.",
+      "Cardiovascular effects: Increased resting heart rate has been observed in placebo-controlled trials; monitoring is recommended.",
+      "Severe gastrointestinal disease: Gastrointestinal symptoms are the most common adverse reactions. Increased risk with higher doses and Rapid titration. Has not been studied in these patients including pre-existing gastroparesis therefore not recommended in these patients.",
+      "Severe renal impairment: Not recommended for use in patients with end-stage renal disease due to limited experience.",
+      "Diabetic Ketoacidosis: Serious and life-threatening cases have been reported in patients on a combination of Dulaglutide and insulin, particularly after discontinuation or rapid dose reduction of concomitant insulin. Stepwise dose reduction of insulin should be done with careful blood glucose self-monitoring."
+    ],
+    "id": 22
+  },
+  {
+    "category": null,
+    "name": "Exenatide",
+    "abbreviation": null,
+    "generic_name": "Exenatide",
+    "dosage_form_strengths": [
+      "Powder for Suspension for Injection in prefilled pen (extended-release): 2mg"
+    ],
+    "route_of_administration": "SC",
+    "pharmacologic_category": "Antidiabetic Agent, Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist",
+    "atc_code": null,
+    "indications": "Diabetes mellitus, type 2, Management (extended-release): As an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients ≥10 years of age and combination with glucose-lowering medicinal products including basal insulin.",
+    "dosage_regimen": {
+      "adult": "2 mg once weekly without regard to meals. If changing the day of administration is necessary, allow at least 3 days between 2 doses."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary; use caution, and monitor for hypovolemia.",
+      "renal_impairment_pediatric": "No dosage adjustment necessary.",
+      "hepatic_impairment_adult": "No dose adjustment is necessary.",
+      "hepatic_impairment_pediatric": "No dose adjustment is necessary."
+    },
+    "contraindications": [
+      "Hypersensitivity to Exenatide or any component of the formulation.",
+      "History of or family history of medullary thyroid carcinoma.",
+      "Multiple endocrine neoplasia syndrome type 2.",
+      "Severe renal impairment (GFR < 30mL/min).",
+      "Adverse Drug Reactions >10%"
+    ],
+    "adverse_drug_reactions": {
+      ">10%": [
+        "Gastrointestinal: Diarrhea, nausea.",
+        "Immunologic: Antibody development (antibody titers commonly decrease with continued use, though a small percentage of patients had increased titers; an attenuated glycemic response may be seen with antibody formation).",
+        "Local: Injection-site nodule, injection-site reaction.",
+        "Endocrine & metabolic: Hypoglycemia.",
+        "Gastrointestinal: Constipation, dyspepsia, gallbladder disease, vomiting.",
+        "Local: Erythema at the injection site, injection-site pruritus.",
+        "Nervous system: Dizziness, headache."
+      ],
+      "1% to 10%": [
+        "Gastrointestinal symptoms: Symptoms may be dose-related and may decrease in frequency/severity with gradual titration and continued use."
+      ]
+    },
+    "monitoring_parameters": "Serum glucose. Kidney function, volume status, weight. Triglycerides.",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Not recommended. No human data. Agents other than exenatide are currently recommended to treat diabetes mellitus in pregnancy.",
+      "lactation": "Not recommended. No human data. Consider benefits and risks."
+    },
+    "id": 23
+  },
+  {
+    "category": null,
+    "name": "Liraglutide",
+    "abbreviation": null,
+    "generic_name": "Liraglutide",
+    "dosage_form_strengths": [
+      "6 mg/mL"
+    ],
+    "route_of_administration": "SC",
+    "pharmacologic_category": "Antidiabetic Agent, Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist",
+    "atc_code": null,
+    "indications": "Treatment of diabetes mellitus, type 2: as an adjunct to diet and exercise for adults, adolescents, and children aged 10 years and above.",
+    "dosage_regimen": {
+      "adult": "0.6 mg once daily for 1 week, then increase to 1.2 mg once daily; if optimal glycemic response is not achieved after an additional week of treatment, may increase further to 1.8 mg once daily."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to Liraglutide or any component of the formulation.",
+      "Medullary thyroid carcinoma or family history, or thyroid C-cell tumors.",
+      "Multiple Endocrine Neoplasia syndrome type 2 (MEN 2)."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Increased heart rate (>10 bpm from baseline: 34%; >20 bpm from baseline: 5%)."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Glucagon-Like Peptide-1 Agonists, Semaglutide."
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Insulins, Meglitinides, Sincalide, Sulfonylureas."
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "SC",
+    "warnings_precautions": [
+      "Hazardous agent (NIOSH 2016 [group 2]): Black Box warning for thyroid C-cell tumors, with supporting evidence in laboratory studies; also, in laboratory studies, teratogenic at or below the Maximum Recommended Human Dose (MRHD).",
+      "Acute kidney injury: May cause loss of fluids (dehydration) which may cause kidney problems to get worse. Monitor renal function in patients with renal impairment reporting severe adverse gastrointestinal reactions."
+    ],
+    "storage": "Store between 2°C to 8°C. Do not freeze (discard if freezing occurs). Protect from heat and light. After initial use of the pen, the pen can be stored for 30 days between (15°C to 30°C) or in a refrigerator (2°C to 8°C).",
+    "id": 24
+  },
+  {
+    "category": null,
+    "name": "Semaglutide",
+    "abbreviation": null,
+    "generic_name": "Semaglutide",
+    "dosage_form_strengths": [
+      "0.25 mg",
+      "0.5 mg",
+      "1 mg"
+    ],
+    "route_of_administration": "Oral, SC",
+    "pharmacologic_category": "Antidiabetic Agent, Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist",
+    "atc_code": null,
+    "indications": "N.B. Biological medicine should be prescribed and dispensed by brand name.",
+    "dosage_regimen": {
+      "adult": "0.25 mg once weekly for 4 weeks, then increased by doubling in 4-week intervals up to 1 mg once weekly if necessary",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to Semaglutide or any component of the formulation",
+      "Medullary thyroid carcinoma or family history, or thyroid C-cell tumors",
+      "Multiple Endocrine Neoplasia syndrome type 2 (MEN 2)"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gastrointestinal: Abdominal pain (adolescents and adults: 6% to 20%), constipation (oral: 5% to 6%; SC: adolescents: 6%; adults: 3% to 24%), diarrhea (oral: 9% to 10%; SC: adolescents and adults: 9% to 30%), nausea (oral: 11% to 20%; SC: adolescents and adults: 16% to 44%), vomiting (oral: 6% to 8%; SC: adolescents: 36%, adults: 5% to 24%).",
+      "Nervous system: Fatigue (SC: 11%), headache (SC: adolescents and adults: 14% to 17%)\",\n    ": "espiratory: Nasopharyngitis (SC: adolescents: 12%).",
+      "Cardiovascular: Hypotension (SC: adolescents and adults: 1% to 2%; including orthostatic hypotension).\",\n    ": "ermatologic: Alopecia (SC: adolescents and adults: 3% to 4%), skin rash (SC: adolescents: 3%), urticaria (SC: adolescents: 3%)."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral, SC",
+    "warnings_precautions": [
+      "Acute kidney injury: may cause loss of fluids (dehydration) which may cause kidney problems to get worse. Monitor renal function in patients with renal impairment reporting severe adverse gastrointestinal reactions",
+      "Hypersensitivity reactions: rapid or delayed, including anaphylaxis and angioedema. Discontinue and seek medical advice.",
+      "Medullary thyroid carcinoma: Semaglutide may cause thyroid C-cell tumors at clinically relevant doses. Counsel patients regarding the potential risk of MTC with the use of Semaglutide and inform them of symptoms of thyroid tumors (e.g., mass in the neck, dysphagia, dyspnea, persistent hoarseness).",
+      "Pancreatitis: Discontinue if symptoms of acute pancreatitis occur, such as persistent, severe abdominal pain. Do not restart if pancreatitis is confirmed",
+      "Diabetic retinopathy: Monitor patients with a history of diabetic retinopathy. Complications may occur.",
+      "Cardiovascular effects: Increased resting heart rate has been observed in placebo-controlled trials; monitoring is recommended.",
+      "Severe gastrointestinal disease: Gastrointestinal symptoms are the most common adverse reactions. Risk with higher doses and Rapid titration.",
+      "Severe hepatic impairment and renal impairment: Use with caution due to limited experience.",
+      "Infection: Should not be used for more than one person. Always remove the injection needle after each injection and store the pen without a needle attached to prevent the risk of infection.",
+      "Diabetic Ketoacidosis: Serious and life-threatening cases have been reported in patients on a combination of the GLP-1 receptor Agonists and insulin, particularly after discontinuation or rapid dose reduction of concomitant insulin.",
+      "Storage • Injections: Before initial use, store at 2°C to 8°C. After initial use, store at 2°C to 8°C or 15°C to 30°C for up to 56 days; discard after 56 days. Do not freeze (discard if freezing occurs) or store directly adjacent to the refrigerator cooling element.",
+      "Tablets: store at 15°C to 30°C.",
+      "N.B. Refer to manufacturer PIL if there are specific considerations."
+    ],
+    "id": 25
+  },
+  {
+    "category": null,
+    "name": "GLIMEPIRIDE",
+    "abbreviation": null,
+    "generic_name": "GLIMEPIRIDE",
+    "dosage_form_strengths": [
+      "1 mg",
+      "2 mg",
+      "3 mg",
+      "4 mg",
+      "6 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antidiabetic Agent, Sulfonylurea",
+    "ATC": "A10BB12",
+    "indications": "Diabetes mellitus, type 2, treatment: As an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.",
+    "dosage_regimen": {
+      "adult": "1 to 2 mg once daily, administered with breakfast or the first main meal.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "1 mg once daily; dose titration and maintenance dosing should be conservative to avoid hypoglycemia.",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "1 mg once daily; titrate carefully due to the potential for increased hypoglycemia in patients with hepatic impairment.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to Glimepride, other sulfonylureas or sulfonamides, or any component of the formulation.",
+      "Diabetic ketoacidosis.",
+      "Diabetes mellitus type 1.",
+      "Severe renal or hepatic impairment."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hypoglycemia (4% to 20%).",
+      "1% to 10%": "Miscellaneous: Accidental injury (6%).",
+      "2% to 10%": "Gastrointestinal: Nausea (5%).",
+      "1% to 2%": "Hepatic: Increased serum ALT (2%).",
+      "1% to 5%": "Respiratory: Flu-like symptoms (5%)."
+    },
+    "monitoring_parameters": "Blood glucose, Signs and symptoms of hypoglycemia.",
+    "drug_interactions": {
+      "Risk X: Avoid combination": [
+        "Aminolevulinic Acid (Systemic), Mitiglinide, Mecamylamine."
+      ],
+      "Risk D: Consider therapy modification": [
+        "Alpha-Glucosidase Inhibitors, Colesevelam, Dipeptidyl Peptidase-IV",
+        "Glucagon-Like Peptide-1 Agonists, Metreleptin",
+        "Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitors",
+        "Thiazolidinediones."
+      ],
+      "Pregnancy and Lactation": {
+        "Pregnancy": "No human data.",
+        "Lactation": "Not recommended due to the potential for hypoglycemia in infants."
+      }
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": "Not recommended due to the potential for hypoglycemia in infants."
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Hypoglycemia: All sulfonylurea drugs are capable of producing severe hypoglycemia. It is also more likely in elderly patients, malnourished or debilitated patients, and in patients with severe renal and hepatic impairment, adrenal and/or pituitary insufficiency; use with caution.",
+      "Hemolytic Anemia: Treatment of patients with glucose 6-phosphate dehydrogenase (G6PD) deficiency with sulfonylurea agents can lead to hemolytic anemia. Caution and consider a non-sulfonylurea alternative.",
+      "Awareness: Patients should be informed about the importance of adherence to dietary instructions, of a regular exercise program, and of regular testing of glucose levels.",
+      "Hypersensitivity reactions: Rashes, pruritus and photosensitivity. Severe manifestations of hypersensitivity include cholestatic jaundice, leucopenia, thrombocytopenia, aplastic anemia, agranulocytosis, hemolytic anemia, erythema multiforme, Stevens-Johnson syndrome and exfoliative dermatitis.",
+      "Weight gain: Increased appetite and weight gain may occur.",
+      "Renal impairment: The metabolism and excretion may be slowed and may accumulate in advanced renal insufficiency. Use is not recommended in severe kidney disease.",
+      "Hepato-biliary disorders: Cholestasis, jaundice, and hepatitis have been reported rarely; ",
+      "Discontinue treatment if cholestatic jaundice appears.",
+      "Blood and lymphatic system disorders: Rare reports of anemia, thrombocytopenia, leukopenia, and granulocytopenia. Reversible on discontinuation.",
+      "Cytochrome P450 2C9 (CYP2C9). Glimepiride metabolism is known to be influenced by the concomitant administration of CYP2C9 inducers (e.g. Rifampicin) or inhibitors (e.g. Fluconazole)."
+    ],
+    "Storage": "Store between 15°C and 30°C.",
+    "id": 26
+  },
+  {
+    "category": null,
+    "name": "GLIPIZIDE",
+    "abbreviation": null,
+    "generic_name": null,
+    "dosage_form_strengths": [
+      "Tablets",
+      "Combination with metformin"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antidiabetic Agent, Sulfonylurea",
+    "atc_code": null,
+    "indications": "Diabetes mellitus, type 2, management in adults: Adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.",
+    "dosage_regimen": {
+      "adult": "5 mg daily, given before breakfast or lunch",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "May start at conservative doses due to risk of hypoglycemia",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "May start at conservative doses due to risk of hypoglycemia",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance, other sulfonylureas or sulfonamides or to any of the excipients",
+      "Type 1 diabetes mellitus",
+      "Diabetic ketoacidosis",
+      "Severe renal, hepatic or thyroid impairment",
+      "Pregnancy and lactation"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hypoglycemia (3%)",
+      "Gastrointestinal: Abdominal pain (1%), constipation (<3%), diarrhea (1% to 5%), dyspepsia (<3%), flatulence (3%), nausea (<3%), vomiting (<3%)\",\n    ": "ypersensitivity: Hypersensitivity reaction (<2%; including eczema, erythema of skin, maculopapular rash, pruritus, urticaria)"
+    },
+    "monitoring_parameters": "Blood glucose, signs and symptoms of hypoglycemia",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    \"Aminolevulinic Acid (Systemic), Mecamylamine, Miconazole, Mitiglinide\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Contraindicated",
+      "lactation": "No data"
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Hypoglycemia: All sulfonylurea drugs are capable of producing severe hypoglycemia. It is also more likely in elderly patients, malnourished or debilitated patients, and in patients with severe renal and hepatic impairment, adrenal and/or pituitary insufficiency; use with caution",
+      "Hemolytic Anemia: Treatment of patients with glucose 6-phosphate dehydrogenase (G6PD) deficiency with sulfonylurea agents can lead to hemolytic anemia. Caution and consider a non-sulfonylurea alternative",
+      "Stress-related states: It may be necessary to discontinue therapy due to lower effectiveness and administer insulin if the patient is exposed to stress (fever, trauma, infection, surgery)"
+    ],
+    "id": 27
+  },
+  {
+    "category": null,
+    "name": "PIOGLITAZONE",
+    "abbreviation": null,
+    "generic_name": "PIOGLITAZONE",
+    "dosage_form_strengths": [
+      "15 mg",
+      "30 mg",
+      "45 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antidiabetic Agent, Thiazolidinedione",
+    "ATC_code": "A10BG03",
+    "indications": "Improvent of glycemic control in adults with type 2 diabetes mellitus as an adjunct to diet and exercise (as second or third line)",
+    "dosage_regimen": {
+      "adult": "15 or 30mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustments needed",
+      "renal_impairment_pediatric": "No data",
+      "hepatic_impairment_adult": "Use is not recommended",
+      "hepatic_impairment_pediatric": "Use is not recommended"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients",
+      "Cardiac failure or history of cardiac failure (NYHA stages I to IV)",
+      "Hepatic impairment",
+      "Diabetic ketoacidosis",
+      "Current bladder cancer or a history of bladder cancer",
+      "Uninvestigated macroscopic haematuria"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Cardiovascular: Edema (3% to 27%; including exacerbation of edema)",
+      "Endocrine and metabolic: Hypoglycemia (27%)\",\n    ": "espiratory: Upper respiratory tract infection (13%)",
+      "Cardiovascular: Heart failure (8%; including worsening of heart failure)\",\n    ": "ervous system: Headache (9%)",
+      "Neuromuscular & skeletal: Back pain (6%), bone fracture (females: 5%; males: 2%), myalgia (5%)\",\n    ": "espiratory: Pharyngitis (5%), sinusitis (6%)"
+    },
+    "monitoring_parameters": "Bloos glucose and glycosylated hemoglobin. Baseline liver disease. Pioglitazone should not be initiated if ALT > 2.5 X",
+    "drug_interactions": {
+      "Risk D": "Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Limited data. Foetal growth restriction was apparent in animal studies. Use is not recommended.",
+      "lactation": "No data. Use is not recommended."
+    },
+    "administration": "Oral Administeration: Pioglitazone tablets are taken orally once daily with or without food, and swallowed with a glass of water.",
+    "warnings_precautions": [
+      "Fluid retention and cardiac failure: Pioglitazone can cause fluid retention, which may exacerbate or precipitate heart failure. For patients with at least one risk factor (e.g. prior myocardial infarction or symptomatic coronary artery disease or the elderly), physicians should start with the lowest dose and increased gradually. Concomitant administration with insulin may increase the risk of oedema.",
+      "Bladder cancer: May increase the risk of bladder cancer. Advise patients to promptly seek the medical advice if macroscopic hematuria or other symptoms such as dysuria or urinary urgency develop during treatment.",
+      "Hepatic effects: Postmarketing reports of hepatic failure, sometimes fatal. If liver injury is detected, promptly interrupt and do not restart if no other probable cause.",
+      "Fractures: Increased incidence in female patients. Apply standards of care with the long-term use for assessing and maintaining bone health.",
+      "Weight gain: A dose related weight gain is observed, which may be due to fat accumulation and in some cases associated with fluid retention. Careful monitoring is needed as it may be a sign of heart failure."
+    ],
+    "storage": "Store between 15 and 30oC. Protect from moisture.",
+    "id": 28
+  },
+  {
+    "category": null,
+    "name": "CARBIMAZOLE",
+    "abbreviation": null,
+    "generic_name": "CARBIMAZOLE",
+    "dosage_form_strengths": [
+      "Tablet",
+      null
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antithyroid Agent",
+    "atc_code": null,
+    "indications": "Anti-thyroid agents in adults and children in all conditions where reduction of thyroid function is required, such as hyperthyroidism, preparation for thyroidectomy in hyperthyroidism, and therapy before and concomitant with radio-iodine treatment.",
+    "dosage_regimen": {
+      "adult": "20 to 60 mg/day given in 2 to 3 divided doses. Continue until the patient becomes euthyroid usually after 4 to 8 weeks.",
+      "pediatric": "15 mg/day; adjust dose according to the response."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustments needed. Use caution (half-life may be prolonged).",
+      "renal_impairment_pediatric": "No dosage adjustments needed. Use caution (half-life may be prolonged).",
+      "hepatic_impairment_adult": "Mild to moderate hepatic impairment: No dosage adjustments needed, use caution (half-life may be prolonged). Severe hepatic impairment: Use is contraindicated.",
+      "hepatic_impairment_pediatric": "Mild to moderate hepatic impairment: No dosage adjustments needed, use caution (half-life may be prolonged). Severe hepatic impairment: Use is contraindicated."
+    },
+    "contraindications": [
+      "Hypersensitivity to Carbimazole or any component of the formulation.",
+      "Severe blood disorders.",
+      "Severe hepatic impairment.",
+      "Adverse Drug Reactions",
+      "Pregnancy and Lactation"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Nausea, headache, arthralgia, mild gastric distress, skin rashes and pruritus."
+    },
+    "monitoring_parameters": "CBC with differential (baseline and when clinical evidence of infection). Liver function test at baseline and if symptoms of liver injury occur. Prothrombin time (periodically and prior to surgery). Thyroid function tests. Creatine kinase (as clinically indicated).",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "BCG (Intravesical), Cladribine, Dipyrone, Sodium Iodide I131."
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Deferiprone, Theophylline."
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Pregnancy: Studies in pregnant women have demonstrated a risk to the fetus. Carbimazole should be used in pregnancy only when propylthiouracil is not suitable. The lowest dose possible should be used, and this can often be discontinued three to four weeks before term, in order to reduce the risk of neonatal complications.",
+      "lactation": "Lactation: the lowest effective dose is used. neonatal development should be closely monitored."
+    },
+    "id": 29
+  },
+  {
+    "category": null,
+    "name": "Levonorgestrel",
+    "abbreviation": null,
+    "generic_name": "Levonorgestrel",
+    "dosage_form_strengths": [
+      "Tablets: 0.030 mg, 0.75 mg, 1.5 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Contraceptive; Progestin",
+    "atc_code": null,
+    "indications": "Emergency contraception (0.75 mg, 1.5mg): Emergency contraception within 72 hours of unprotected sexual intercourse or failure of a contraceptive method.",
+    "dosage_regimen": {
+      "adult": "1.5 mg for 1 dose, taken as soon as possible after coitus, preferably within 12 hours and no later than after 72 hours.",
+      "pediatric": "1 tablet (0.75 mg) as a first dose as soon as possible after intercourse (i.e., preferably within 12 to 24 hours after the event). (The efficacy lasts for up to 5 days). Must give a second dose 12 hours after the initial dose."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "1.5 mg",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or any of the excipients.",
+      "Known or suspected pregnancy.",
+      "Presence or history of active severe hepatic disease or liver tumors.",
+      "History of or existing thromboembolic processes (e.g. stroke, myocardial infarction).",
+      "Known or suspected sex-steroid-influenced malignancies (e.g. current or history of breast cancer).",
+      "Undiagnosed abnormal vaginal bleeding.",
+      "Severe diabetes with vascular changes.",
+      "Hypersensitivity to the active substance or to any of the excipients.",
+      "Diabetes.",
+      "Use with caution in patients with diseases that may be exacerbated by fluid retention.",
+      "Hepatic disorders.",
+      "Visual disorders.",
+      "Storage"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Irregular menses (26%; including delayed menstruation, heavy menstrual bleeding [14%], hypomenorrhea [13%], and spotting)."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Encorafenib",
+        "Erdafitinib",
+        "Fexinidazole",
+        "Fusidic Acid (Systemic)",
+        "Mobocertinib",
+        "Omaveloxolone",
+        "Pexidartinib",
+        "Repotrectinib",
+        "Taurursodiol",
+        "Tranexamic Acid",
+        "Ulipristal."
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": "Available data show no adverse effects on infant growth and development."
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Thromboembolic disorders: There may be a slightly, but not statistically significant increased risk of venous thromboembolism (deep venous thrombosis, pulmonary embolism) associated with the use of progestogen-only contraception.",
+      "Bleeding irregularities: Vaginal bleeding including spotting, menorrhagia and/or metrorrhagia and amenorrhea. They occur in ≥ 10 % of users.",
+      "Ectopic pregnancy: Levonorgestrel is not recommended for patients with a history of ectopic pregnancy. The possibility of ectopic pregnancy should be considered in patients with lower abdominal pain.",
+      "Persistent ovarian cysts: May occur during the use. Some follicles are accompanied by pelvic pain or dyspareunia. In most cases, the enlarged follicles disappear spontaneously during two to three months of observation.",
+      "Depressed mood and depression are well-known undesirable effects of hormonal contraception.",
+      "Liver tumor: In rare cases benign, and in even rarer cases, malignant liver tumors have been observed after the use of hormonal contraceptives.",
+      "Breast tumors: There is a small increase in the risk of having breast cancer diagnosed in women using, or who have recently used oral contraceptives.",
+      "Obese patients can generally use any type of contraceptive but Levonorgestrel may be less efficacious in obese women.",
+      "Diabetes: May impair glucose tolerance; use caution in patients with diabetes or prediabetes.",
+      "Use with caution in patients with diseases that may be exacerbated by fluid retention.",
+      "Hepatic disorders: Levonorgestrel may be poorly metabolized in patients with hepatic impairment.",
+      "Visual disorders: Discontinue if sudden disturbances of vision or hearing or other perceptual disorders occured."
+    ],
+    "Storage": "Store between 15°C and 30°C.",
+    "id": 30
+  },
+  {
+    "category": null,
+    "name": "Fludrocortisone",
+    "abbreviation": null,
+    "generic_name": "Fludrocortisone",
+    "dosage_form_strengths": [
+      "Tablets: 0.1 mg.",
+      "Tablets: 10mg."
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Corticosteroid, Systemic",
+    "atc_code": null,
+    "indications": "Primary adrenal insufficiency (Addison disease): Partial replacement therapy for primary adrenocortical insufficiency. Classic congenital adrenal hyperplasia treatment (salt-losing adrenogenital syndrome).",
+    "dosage_regimen": {
+      "adult": "Oral: 0.05-0.2mg, up to 0.3 mg daily. If hypertension develops, reduce the dose to 0.05mg.",
+      "pediatric": "Contra-indications: • Hypersensitivity to Fludrocortisone or any component of the formulation. • Systemic infections. Adverse Drug Reactions: Adverse Reactions (Significant) Considerations"
+    },
+    "id": 31
+  },
+  {
+    "category": null,
+    "name": "GLUCAGON",
+    "abbreviation": null,
+    "generic_name": "GLUCAGON",
+    "dosage_form_strengths": [
+      "Lyophilized Powder: 1 mg/ml"
+    ],
+    "route_of_administration": "IV, IM, SC",
+    "pharmacologic_category": "Antidote, Hypoglycemia; Diagnostic Agent",
+    "atc_code": "H04AA01",
+    "indications": "Treatment of severe hypoglycemia in pediatric and adult patients with diabetes; As a diagnostic aid for use during radiologic examinations to temporarily inhibit movement of the gastrointestinal tract in adult patients.",
+    "dosage_regimen": {
+      "adult": "IM, SC, IV: 1 mg; may repeat in 15 minutes as needed",
+      "pediatric": "IM, SC, IV: 0.5 mg; may repeat in 15 minutes as needed"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustments needed",
+      "renal_impairment_pediatric": "No dosage adjustments needed",
+      "hepatic_impairment_adult": "No dosage adjustments needed",
+      "hepatic_impairment_pediatric": "No dosage adjustments needed"
+    },
+    "contraindications": [
+      "Hypersensitivity to Glucagon or any component of the formulation",
+      "Glucagonoma when used as a diagnostic aid",
+      "Insulinoma",
+      "Pheochromocytoma",
+      "Insulin"
+    ],
+    "adverse_drug_reactions": {
+      "Nausea (IV: 26% to 30%), vomiting (IV: 15% to 16%)\",\n    ": "eadache (IV: 5% to 18%)",
+      "1% to 10%\",\n    ": "mmunologic: Antibody development (2%)"
+    },
+    "monitoring_parameters": "Blood glucose levels; Blood Pressure, ECG, heart rate (when used as a diagnostic aid); Signs or symptoms of a hypersensitivity reaction",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "IV, IM, SC",
+    "warnings_precautions": [
+      "Pheochromocytoma: Glucagon may cause the release of catecholamines, resulting in an increase in blood pressure. The use of glucagon is contraindicated in patients with this condition. If the patient develops a substantial increase in blood pressure and a previously undiagnosed pheochromocytoma is suspected, 5 to 10 mg of phentolamine mesylate, administered intravenously, has been shown to be effective in lowering blood pressure.",
+      "Insulinoma: Exogenous Glucagon may cause an initial rise in blood glucose followed by rebound hypoglycemia. The use of glucagon is contraindicated in patients with this condition. If a patient develops symptoms of hypoglycemia after a dose of Glucagon for Injection, give glucose orally or intravenously.",
+      "Glucagonoma: Glucagon administered to patients with glucagonoma may cause secondary hypoglycemia. Test patients suspected of having glucagonoma for blood levels of glucagon prior to use as a diagnostic aid as Glucagon is contraindicated in this condition."
+    ],
+    "storage": "Before reconstitution, store between (2°C to 8°C). Do not freeze. Protect from light.",
+    "id": 32
+  },
+  {
+    "category": null,
+    "name": "Clomiphene",
+    "abbreviation": null,
+    "generic_name": "Clomiphene",
+    "dosage_form_strengths": [
+      "50mg",
+      "100mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Ovulation Stimulator; Selective Estrogen Receptor Modulator (SERM)",
+    "atc_code": null,
+    "indications": "Treatment of ovulatory dysfunction in women desiring pregnancy",
+    "dosage_regimen": {
+      "adult": "50mg once daily for 5 days, to be started at any time if no recent uterine bleeding, or on or around the fifth day of cycle",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity",
+      "Abnormal uterine bleeding",
+      "Hepatic disease or history hepatic disease",
+      "Ovarian cyst not due to polycystic ovarian syndrome",
+      "Hormone dependent tumors (e.g. Pituitary tumor)",
+      "Pregnancy (Category X)",
+      "Uncontrolled thyroid or adrenal dysfunction"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Ovary enlargement (14%)",
+      "1% to 10%": "Central nervous system: Headache (1%)",
+      "Endocrine & metabolic: Hot flash (10%)\",\n    ": "astrointestinal: Abdominal distention (≤6%), abdominal distress (≤6%), bloating (≤6%), nausea (≤2%), vomiting (≤2%)",
+      "Genitourinary: Breast disease (discomfort: 2%), abnormal uterine bleeding (1%)\",\n    ": "phthalmic: Visual disturbance (2%)"
+    },
+    "id": 33
+  },
+  {
+    "category": null,
+    "name": "FOLLITROPIN ALFA",
+    "abbreviation": null,
+    "generic_name": "Follitropin Alfa",
+    "dosage_form_strengths": [
+      "75 I.U/VIAL",
+      "150 I.U/VIAL",
+      "225 I.U/VIAL",
+      "300 I.U/0.5 ml",
+      "900 I.U/1.5ml"
+    ],
+    "route_of_administration": "SC",
+    "pharmacologic_category": "Gonadotropin; Ovulation Stimulator",
+    "ATC_code": "G03GA05",
+    "indications": "Induction of ovulation and pregnancy in oligo-anovulatory infertile women for whom the cause of infertility is functional and not due to primary ovarian failure. Development of multiple follicles in ovulatory infertile women as part of Assisted Reproductive Technology (ART)(such as in vitro fertilization). Spermatogenesis induction: Induction of spermatogenesis in men with azoospermia and primary and secondary hypogonadotropic hypogonadism in whom the cause of infertility is not due to primary testicular failure.",
+    "dosage_regimen": {
+      "adult": "75 units daily for 14 days in the first cycle; dose increased according to ovarian response with increments of up to 37.5 units every 7 days (max. 300 units daily)",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Prior hypersensitivity to recombinant FSH products or one of their excipients. High levels of FSH indicating primary testicular failure. Uncontrolled thyroid, pituitary, or adrenal dysfunction. Sex hormone-dependent tumors of the reproductive tract and accessory organs (breast, ovaries, prostate, uterus). Tumors of the pituitary gland or hypothalamus. Abnormal uterine bleeding of undetermined origin. Ovarian cyst or enlargement of undetermined origin.",
+      "Ovarian torsion. Multi-fetal pregnancy. Congenital malformation. Ectopic Pregnancy. Spontaneous Abortion. Ovarian Neoplasms. Porphyria."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hypersensitivity Reactions and Anaphylaxis. Ovarian Hyperstimulation Syndrome. Pulmonary and Vascular Complications. Ovarian Torsion. Abnormal Ovarian Enlargement. Multi-fetal Gestation and Birth. Embryofetal Toxicity. Ectopic Pregnancy. Spontaneous Abortion. Ovarian Neoplasms. Serum testosterone levels and sperm count. >10% Dermatologic: Acne vulgaris (males: 27%). Endocrine & metabolic: Ovarian cyst (4% to 15%). Gastrointestinal: Abdominal pain (5% to 23%), enlargement of abdomen (14%). Local: Pain at the injection site (males: 11%; females: 5% to 6%). Nervous system: Headache (10% to 27%). 1% to 10% Dermatologic: Seborrhea (males: 5%). Endocrine & metabolic: Decreased libido (males: 3%), gynecomastia (males: 6%), intermenstrual bleeding (5%), ovarian hyperstimulation syndrome (5% to 7%). Gastrointestinal: Diarrhea (4%), flatulence (4% to 6%), nausea (4% to 8%). Genitourinary: Pelvic pain (7%). Local: Bruising at injection site (10%), inflammation at injection site (2% to 4%), injection site reaction (4%), swelling at injection site (3%). Nervous system: Fatigue (males: 10%), pain (5%). Monitoring Parameters: Pelvic exam, Pelvic ultrasound. Pregnancy testing. Serum concentrations of estradiol, gonadotropin, progesterone and/or testosterone. Thyroid function tests (TFTs). Ovulation. Weight."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "GnRH agonist or antagonist may increase the needed dose of Follitropin alfa to induce the required ovarian effect."
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Consider dose adjustments after 5 days based on the patient's response; adjust subsequent dosage every 3 to 5 days by ≤75 to 150 units additionally at each adjustment."
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": null,
+    "warnings_precautions": [
+      "Pulmonary and Vascular Complications: Serious pulmonary conditions (for example, atelectasis, acute respiratory distress syndrome and exacerbation of asthma) have been reported in women treated with gonadotropins. Thromboembolism: Patients with risk factors for thromboembolic events, such as personal or family history, obesity or thrombophilia may have an increased risk of venous or arterial thromboembolic events, during or following treatment with gonadotrophins. Hypersensitivity Reactions and Anaphylaxis: If occurs, discontinue treatment and initiate appropriate therapy including supportive measures. Abnormal Ovarian Enlargement: To minimize the hazards associated with this case, individualize treatment and use the lowest effective dose. Use of ultrasound monitoring of ovarian response and/or measurement of serum estradiol levels is important to minimize the risk of ovarian stimulation. Ovarian Hyperstimulation Syndrome OHSS: is an ovarian enlargement case marked by increasing degree of severity, high serum sex steroids, and an accumulation of fluid in the peritoneal and pleural cavities. And in severe cases: abdominal pain, abdominal distension, weight gain, dyspnoea, oliguria, and gastrointestinal symptoms, may be complicated rarely by ovarian torsion or thromboembolic events such as pulmonary embolism, ischaemic stroke, or myocardial infarction. Stop gonadotropins in severe cases and hospitalize the patient if needed. Treatment is primarily symptomatic and includes fluid and electrolyte management, analgesics, and prevention of thromboembolic complications. Ovarian Torsion: Ovarian torsion has been reported after treatment with gonadotropins. Early diagnosis and immediate detorsion limit damage to the ovary due to reduced blood supply."
+    ],
+    "storage": {
+      "vials": "Refrigerated or at room temperature between 2°C to 25°C.",
+      "prefilled pen": "Refrigerated (2°C-8°C). Do not freeze.",
+      "multidose vials": "Refrigeration or at room temperature for a period according to the product."
+    },
+    "id": 34
+  },
+  {
+    "category": null,
+    "name": "Urofollitropin",
+    "abbreviation": null,
+    "generic_name": "Urofollitropin",
+    "dosage_form_strengths": [
+      "75 I.U., 150 I.U.",
+      null,
+      null
+    ],
+    "route_of_administration": "IM. SC.",
+    "pharmacologic_category": "Gonadotropin; Ovulation Stimulator",
+    "atc_code": null,
+    "indications": "Sterility in women: Induction of ovulation in anovulation cases (including polycystic ovarian syndrome, PCOS) in women who have been unresponsive to treatment with clomiphene citrate. Development of multiple follicles in ovulatory infertile women as part of Assisted Reproductive Technology (such as in vitro fertilization).",
+    "dosage_regimen": {
+      "adult": "75-150 IU daily is administered within the first seven days of menstrual cycle. Increase dose by (37.5 to 75 IU) gradually, in order to achieve an adequate but not excessive response. Maximum daily dosages should generally not exceed 450 IU.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "There are no dosage adjustments",
+      "renal_impairment_pediatric": "There are no dosage adjustments",
+      "hepatic_impairment_adult": "There are no dosage adjustments",
+      "hepatic_impairment_pediatric": "There are no dosage adjustments"
+    },
+    "contraindications": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Headache, hot flashes, Ovarian Hyperstimulation Syndrome, pain, respiratory disorder, abdominal cramps, abdominal fullness or enlargement, headache and nausea"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Pregnancy and lactation",
+      "lactation": null
+    },
+    "administration": "IM",
+    "warnings_precautions": [
+      "Thromboembolism: Patients with risk factors for thromboembolic events, such as personal or family history, obesity, or thrombophilia may have an increased risk of venous or arterial thromboembolic events, during or following treatment with gonadotropins. Consider the benefit risk ratio.",
+      "Hypersensitivity Reactions and Anaphylaxis: If occurs, discontinue treatment and initiate appropriate therapy including supportive measures",
+      "Ovarian Hyperstimulation Syndrome OHSS: is an ovarian enlargement case marked by increasing degree of severity, high serum sex steroids, and an accumulation of fluid in the peritoneal and pleural cavities. And in severe cases: abdominal pain, abdominal distension, weight gain, dyspnoea, oliguria, and gastrointestinal symptoms, may be complicated rarely by ovarian torsion or thromboembolic events such as pulmonary embolism, ischaemic stroke, or myocardial infarction. Stop gonadotropins in severe cases and hospitalize the patient if needed. Treatment is primarily symptomatic and includes fluid and electrolyte management, analgesics, and prevention of thromboembolic complications. Monitoring of stimulation cycles by ultrasound scans as well as estradiol measurements are recommended to identify risk factors.",
+      "Multi-fetal pregnancy: Advise the woman and her partner of the potential risk before beginning therapy.",
+      "Congenital malformation: The prevalence of congenital malformations after ART may be slightly higher than after spontaneous conceptions. This is thought to be due to differences in parental characteristics (e.g. maternal age, sperm characteristics) and multiple pregnancies. ",
+      "Ectopic Pregnancy: Women with a history of tubal disease are at risk of ectopic pregnancy. The prevalence of ectopic pregnancy after ART was reported to be higher than in the general population. ",
+      "Abortion: The risk of spontaneous abortion (miscarriage) is increased with gonadotropin products."
+    ],
+    "storage": "Do not store above 25°C. Protect from light.",
+    "id": 35
+  },
+  {
+    "category": null,
+    "name": "BROMOCRIPTINE",
+    "abbreviation": null,
+    "generic_name": null,
+    "dosage_form_strengths": [
+      "oral"
+    ],
+    "route_of_administration": null,
+    "pharmacologic_category": null,
+    "atc_code": null,
+    "indications": null,
+    "dosage_regimen": {
+      "adult": null,
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": null,
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": null,
+    "administration": null,
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 36
+  }
+]

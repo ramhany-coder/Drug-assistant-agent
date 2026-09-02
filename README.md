@@ -7,6 +7,9 @@
 [![Privacy: Presidio Image PII Redaction](https://img.shields.io/badge/Privacy-Presidio%20Image%20PII%20Redaction-green.svg)]()
 [![Multimodal: Text + Image](https://img.shields.io/badge/Multimodal-Text%20%2B%20Image-blueviolet.svg)]()
 [![CI: pytest](https://img.shields.io/badge/CI-pytest%20on%20GitHub%20Actions-2088FF.svg)]()
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B.svg)](https://egyptian-drug-assistant-chatbot.streamlit.app/)
+
+**[Try the live demo →](https://egyptian-drug-assistant-chatbot.streamlit.app/)**
 
 A production-shaped, multilingual, multimodal **agentic retrieval pipeline** over Egypt's commercial drug catalogue (25,000+ products), built as a portfolio piece to demonstrate how I design and implement real agentic AI systems end to end — orchestration, retrieval, privacy, resilience, observability, and deployment.
 
@@ -50,6 +53,8 @@ Structured metadata extraction, catalogue search, compound resolution, and respo
 The final response is generated directly in the user's detected language, so nothing needs translating back
 ```
 An unreadable or ambiguous photo doesn't fall through to a guessed search — `query_merger` can short-circuit straight to `END` with a clarification message rendered in the user's own detected language (English / Egyptian Arabic / MSA / Arabizi templates).
+
+`translator_to_eng` and `early_responser` are both conversation-aware: they read `chat_hist`, a list of prior turns each shaped `{"eng_query": "...", "response": "..."}` (the English query already produced for that turn and the answer given for it — never the raw untranslated transcript). The translator uses it only to infer language on an ambiguous one-word follow-up and to splice a missing drug name into a bare ellipsis ("و الجرعة؟"); the responder uses it to resolve pronouns and follow-ups like "and the price?" against what was already asked and answered. Neither ever treats prior history as a source of drug facts — only live retrieval `content` is grounding.
 
 ### 4. Structured Extraction over Free-Text Search
 Rather than embedding the query and searching semantically, `meta_data_extractor` asks an LLM to pull out exactly the fields the catalogue is actually indexed on — `commercial_name_en/ar`, `scientific_name`, `manufacturer`, `drug_class`, `route`, and a `price_egp` expression (a bound like `<20` / `10-30`, or a sort directive `asc`/`desc`). `meta_data_filter` then runs each populated field as its own catalogue lookup and OR's the results together, so a query that could mean either a brand or an ingredient isn't forced to guess which.
@@ -111,7 +116,7 @@ This graph is built with **LangGraph** (`api/graph_builder.py: GraphBuilder.buil
 
 | Node (`api/workflow.py`) | Module | Role |
 |---|---|---|
-| `translator_to_eng` | `agents/translatore_to_eng` | Translate the query/caption to canonical English and detect the user's language |
+| `translator_to_eng` | `agents/translatore_to_eng` | Translate the query/caption to canonical English and detect the user's language, using `chat_hist` (`eng_query`/`response` pairs) to resolve an ambiguous short input or a bare follow-up ellipsis |
 | `image_pii` | `agents/image_pii` | Presidio-based OCR + NER image redaction, fail-closed |
 | `image_describer` | `agents/image_describer` | Vision-LLM structured description of the redacted photo (package / blister / bottle / prescription / shelf / other) |
 | `query_merger` | `agents/query_merger` | Fuses the image description with any caption into one search query, or routes to a localized clarification response |
@@ -119,7 +124,7 @@ This graph is built with **LangGraph** (`api/graph_builder.py: GraphBuilder.buil
 | `meta_data_filter` | `agents/meta_data_fiter/agent` | Two-stage hybrid search over the commercial catalogue |
 | `compound_mapper` | `agents/compound_mapper` | Dict-lookup resolution of ingredient strings to academic `generic_name`s (build-time artefact, no LLM) |
 | `retrieve_academic` | `agents/retreivale` | Attaches each resolved compound to its academic monograph |
-| `early_responser` | `agents/early_responser` | Grounded, catalogue-cited answer synthesis in the user's own language |
+| `early_responser` | `agents/early_responser` | Grounded, catalogue-cited answer synthesis in the user's own language, using `chat_hist` to resolve what a follow-up query refers to |
 
 ---
 
@@ -188,6 +193,8 @@ This graph is built with **LangGraph** (`api/graph_builder.py: GraphBuilder.buil
 ---
 
 ## Running It Locally
+
+A hosted version of this app is live at **https://egyptian-drug-assistant-chatbot.streamlit.app/** — no setup required. The steps below are for running it yourself.
 
 ### Prerequisites
 - Python 3.12

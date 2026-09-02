@@ -1,0 +1,862 @@
+[
+  {
+    "category": null,
+    "name": "Ferrous Fumarate",
+    "abbreviation": null,
+    "generic_name": "Ferrous Fumarate",
+    "dosage_form_strengths": [
+      "Tablets: 200 mg (equivalent to 65.57 mg elemental iron)",
+      "Syrup: 140 mg/5ml (equivalent to 45 mg elemental iron)"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Iron Preparations",
+    "atc_code": "B03AA02",
+    "indications": "Prophylaxis and treatment of iron deficiency states; For prophylaxis during pregnancy during second and third trimester (a combination with folic acid is recommended).",
+    "dosage_regimen": {
+      "adult": "Iron deficiency anemia (100–200 mg elemental iron daily): tablets 200 mg 2–3 times daily or syrup 10 ml once or twice daily. Prevention of iron deficiency (60–120 mg elemental iron daily): tablets 200 mg once or twice daily or syrup 10 ml once daily. Elderly and pregnant women (second trimester onward) use adult dose.",
+      "pediatric": "Full‑term infants and young children: 0.5 ml/kg/day divided 2–3 times daily (max 20 ml/day). Premature infants (≤3 kg): 0.5 ml/day."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients.",
+      "Paroxysmal nocturnal hemoglobinuria.",
+      "Hemosiderosis, haemochromatosis.",
+      "Active peptic ulcer.",
+      "Repeated blood transfusions.",
+      "Regional enteritis and ulcerative colitis.",
+      "Must not be used in anemias other than those due to iron deficiency."
+    ],
+    "adverse_drug_reactions": {
+      ">10%": "Gastrointestinal: Constipation, darkening of stools, nausea, stomach cramps, vomiting.",
+      "1% to 10%": "Gastrointestinal: Dental discoloration, diarrhea, heartburn. Genitourinary: Urine discoloration."
+    },
+    "monitoring_parameters": "No monitoring parameters needed.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Baloxavir",
+        "Marboxil",
+        "Dimercaprol",
+        "Levonadifloxacin",
+        "Unithiol"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Alpha-Lipoic Acid",
+        "Antacids",
+        "Bictegravir",
+        "Bisphosphonate Derivatives",
+        "Cabotegravir",
+        "Cefdinir",
+        "Deferiprone",
+        "Dolutegravir",
+        "Eltrombopag",
+        "Elvitegravir",
+        "Entacapone",
+        "Ferric Hydroxide",
+        "Polymaltose Complex",
+        "Levodopa",
+        "Levothyroxine",
+        "Methyldopa",
+        "Penicillamine",
+        "Phosphate Supplements",
+        "Polyethylene Glycol-Electrolyte Solution",
+        "Quinolones",
+        "Raltegravir",
+        "Roxadustat",
+        "Tetracyclines",
+        "Trientine",
+        "Vadadustat"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Can be used during pregnancy if clinically indicated. Use during the first trimester should be avoided unless evidence of iron deficiency. While taking iron as prophylaxis during 2nd and 3rd trimester is acceptable.",
+      "lactation": "Can be used during lactation if clinically indicated."
+    },
+    "administration": "Oral administration. Administer with a full glass of water. Due to the risk of mouth ulcerations and tooth discolouration, tablets should not be sucked, chewed or kept in the mouth, but swallowed whole with water. N.B. Refer to manufacturer PIL if there are specific considerations.",
+    "warnings_precautions": [
+      "Duration of treatment of uncomplicated iron deficiency anemia can be treated 3 months after reversal of anemia (up to 6 months total).",
+      "Patients with microcytic anemia resistant to treatment with iron alone should be screened for Vitamin B12 or folate deficiency.",
+      "Prolonged or excessive use in children without medical supervision may lead to toxic accumulation.",
+      "Some post-gastrectomy patients have poor absorption of iron.",
+      "Caution is advised when prescribing iron preparations to individuals with a history of peptic ulcers.",
+      "Overdose: Early signs and symptoms include nausea, vomiting, abdominal pain and diarrhea. In more serious cases, cool peripheries, hypotension and metabolic acidosis. In serious cases there can be recurrence of vomiting and gastrointestinal bleeding, 12 hours after ingestion. Shock can result from hypovolemia or direct cardiotoxicity. Monitoring, whole bowel irrigation, adequate hydration and use of deferoxamine or sodium bicarbonate may be beneficial."
+    ],
+    "storage": "Store between 15-300C.",
+    "id": 1
+  },
+  {
+    "category": "Iron Preparations",
+    "name": "IRON SUCROSE",
+    "abbreviation": null,
+    "generic_name": "Iron Sucrose",
+    "dosage_form_strengths": [
+      "Solution for slow IV injection and infusion: 100 mg elemental iron/5 ml"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Iron Preparations",
+    "atc_code": "B03AC",
+    "indications": "Treatment of iron deficiency in patients who cannot tolerate or benefit from oral preparations (e.g. active inflammatory bowel disease, chronic kidney disease).",
+    "dosage_regimen": {
+      "adult": "Usual dose: 100-200 mg iron, one to three times a week depending on the hemoglobin level.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustments are necessary.",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "There are no dosage adjustments available. Only be administered after careful risk/benefit assessment. Caution.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or any of the excipients.",
+      "Known serious hypersensitivity to other parenteral iron products.",
+      "Non-iron deficiency anemia (e.g. hemolytic anemia).",
+      "Iron overload or disturbances in utilization of iron (e.g. haemochromatosis, hemosiderosis)."
+    ],
+    "adverse_drug_reactions": {
+      ">10%": "Cardiovascular: Hypotension; Gastrointestinal: Nausea; Nervous system: Headache; Neuromuscular & skeletal: Muscle cramps; Respiratory: Nasopharyngitis, pharyngitis, sinusitis, upper respiratory tract infection",
+      "1% to 10%": "Cardiovascular: Arteriovenous fistula site complication (thrombosis), chest pain, heart failure, hypertension, peripheral edema; Dermatologic: Pruritus; Endocrine & metabolic: Hyperglycemia, hypervolemia, hypoglycemia; Gastrointestinal: Abdominal pain, diarrhea, dysgeusia, peritonitis, vomiting; Infection: Sepsis; Local: Infusion-site reaction; Nervous system: Asthenia, dizziness; Neuromuscular & skeletal: Arthralgia, back pain, gout, limb pain, myalgia; Ophthalmic: Conjunctivitis; Otic: Otalgia; Respiratory: Cough, dyspnea, nasal congestion, viral respiratory infection; Miscellaneous: Fever"
+    },
+    "monitoring_parameters": "Hypersensitivity reactions during and following each administration; Iron status: Hemoglobin and hematocrit, reticulocyte count, serum ferritin, serum iron.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Bromperidol",
+        "Levonadifloxacin"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Amifostine",
+        "Obinutuzumab"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "No data in the first trimester. No safety concerns for use during second and third trimester. Can be used after evaluation of risk/benefit. The unborn baby should be monitored for bradycardia during administration.",
+      "lactation": "Limited data. Low secretion of iron into the milk. Risk/benefit should be evaluated."
+    },
+    "administration": "IV Administration Intravenous drip infusion. Dilute immediately prior to infusion with 0.9% sodium chloride (NaCl) solution.",
+    "warnings_precautions": [
+      "Hypersensitivity: Severe and fatal anaphylactic reactions have been reported with sudden onset of respiratory difficulty or cardiovascular collapse. May progress to Kounis syndrome. Observe for at least 30 minutes; discontinue if signs appear. Risk higher in patients with immune or inflammatory conditions and known allergies; use with caution.",
+      "Infusion reactions: Leakage at the injection site may lead to pain, inflammation and brown discoloration of the skin. Caution.",
+      "Hepatic impairment: Use with extreme caution in patients with serious hepatic impairment.",
+      "Acute or chronic infection: Use with extreme caution. Administration of parenteral iron should be stopped in patients with bacteremia.",
+      "Rapid infusion: Hypotensive episodes may occur if intravenous injection is administered too rapidly."
+    ],
+    "storage": "Store below 25°C; do not freeze. After dilution it should be used immediately.",
+    "id": 2
+  },
+  {
+    "category": null,
+    "name": "FOLIC ACID",
+    "abbreviation": null,
+    "generic_name": "Folic acid",
+    "dosage_form_strengths": [
+      "Tablet 0.5 mg",
+      "Tablet 0.8 mg",
+      "Tablet 1 mg",
+      "Tablet 5 mg",
+      "Capsule 0.5 mg",
+      "Capsule 2.5 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Water soluble vitamin",
+    "atc_code": "B03BB01",
+    "indications": "Treatment of megaloblastic anemia due to folate deficiency; Prophylaxis of drug induced folate deficiency; Prophylaxis against folate deficiency in chronic hemolytic states or in renal dialysis; Prevention of neural tube defects for women planning a pregnancy and known to be at risk.",
+    "dosage_regimen": {
+      "adult": "Treatment of folate-deficient megaloblastic anemia: 5 mg once daily for 4 months, up to 15 mg daily for malabsorption states, maintenance 5 mg every 1-7 days. Drug‑induced folate deficiency: same regimen. Prophylaxis in chronic hemolytic states or renal dialysis: 5 mg every 1-7 days. Pregnant women – prophylactic dose prior to conception: 0.4‑0.5 mg daily for the first 12 weeks; higher‑risk neural‑tube‑defect prophylaxis: 5 mg daily before conception and through the first trimester; established folate deficiency in pregnancy: 5 mg daily to term.",
+      "pediatric": "Child 1‑18 years with folate‑deficient megaloblastic anemia: 5 mg daily for 4 months, maintenance 5 mg every 1‑7 days. Hemolytic anemia/metabolic disorders: child 1‑12 years 2.5‑5 mg once daily; child 12‑18 years 5‑10 mg once daily. Prophylaxis in renal dialysis: child 1‑12 years 250 µg/kg (max 10 mg) once daily; children 12‑18 years 5‑10 mg once daily."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "There are no dosage adjustments.",
+      "renal_impairment_pediatric": "There are no dosage adjustments.",
+      "hepatic_impairment_adult": "There are no dosage adjustments.",
+      "hepatic_impairment_pediatric": "There are no dosage adjustments."
+    },
+    "contraindications": [
+      "Hypersensitivity to folic acid or any component of the formulation.",
+      "Malignant disease unless megaloblastic anemia due to folate deficiency is an important complication.",
+      "Long-term folate therapy (3 months or longer) is contraindicated in any patient with untreated cobalamin deficiency.",
+      "Not to be given alone in the treatment of Addisonian pernicious anemia and other vitamin B12 deficiency states."
+    ],
+    "adverse_drug_reactions": {
+      "Cardiovascular": "Flushing.",
+      "Central nervous system": "Malaise.",
+      "Dermatologic": "Erythema, pruritus, skin rash.",
+      "Hypersensitivity": "Hypersensitivity reaction.",
+      "Gastrointestinal disorders": "Anorexia, nausea, abdominal distension and flatulence.",
+      "Immune system disorders": "Allergic reactions, comprising erythema, rash, pruritus, urticaria, dyspnea.",
+      "Respiratory": "Bronchospasm."
+    },
+    "monitoring_parameters": "There are no specific monitoring parameters.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Pafolacianine",
+        "Raltitrexed"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Pyrimethamine",
+        "Sulfadoxine"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "No known hazards to folic acid use in pregnancy. Supplements of folic acid are often beneficial during pregnancy.",
+      "lactation": "No adverse effects have been observed in breast fed infants whose mothers were receiving folic acid."
+    },
+    "administration": "Oral: Use with or without meals.",
+    "warnings_precautions": [
+      "Hydroxocobalamin deficiency: Patients with vitamin B12 deficiency should not be treated with folic acid unless administered with adequate amounts of hydroxocobalamin, as it can mask the symptoms while the subacute irreversible damage to the nervous system will continue.",
+      "In undiagnosed megaloblastic anemia including in infancy, pernicious anemia or macrocytic anemia of unknown etiology: Folic acid should only be administered with adequate amounts of hydroxocobalamin.",
+      "Folate dependent tumors: Caution should be exercised when administering folic acid to patients who may have folate dependent tumors."
+    ],
+    "storage": "Store between 15°C to 30°C. Protect from light.",
+    "id": 3
+  },
+  {
+    "category": null,
+    "name": "Hydroxocobalamin",
+    "abbreviation": null,
+    "generic_name": "Hydroxocobalamin",
+    "dosage_form_strengths": [
+      "500 mcg/ml",
+      "1000 mcg/2ml",
+      "1000 mcg/ml",
+      "1500 mcg/ml"
+    ],
+    "route_of_administration": "IM",
+    "pharmacologic_category": "Vitamin, Water Soluble",
+    "atc_code": "B03BA03",
+    "indications": "Treatment of Addisonian Pernicious anemia; Prophylaxis and treatment of other macrocytic anemias associated with Vitamin B12 deficiency; Treatment of Tobacco amblyopia; Treatment of Leber’s optic atrophy.",
+    "dosage_regimen": {
+      "adult": "Addisonian pernicious anemias and other macrocytic anemias without neurological involvement: Initial IM 250–1000 mcg every other day for 1–2 weeks, then 250 mcg weekly until blood count normal; Maintenance IM 1 mg every 2–3 months. Addisonian pernicious anemia and other macrocytic anemias with neurological involvement: Initial IM 1 mg every other day until improvement; Maintenance IM 1 mg every 2 months. Prophylaxis of macrocytic anemia associated with Vitamin B12 deficiency: IM 1 mg every 2–3 months. Tobacco amblyopia and Leber’s optic atrophy: Initial IM 1 mg or more daily for 2 weeks, then twice weekly while improving; Maintenance IM 1 mg monthly.",
+      "pediatric": "Addisonian pernicious anemias and other macrocytic anemias without neurological involvement: Initial IM 250–1000 mcg every other day for 1–2 weeks, then 250 mcg weekly until blood count normal; Maintenance IM 1 mg every 2–3 months. Addisonian pernicious anemia and other macrocytic anemias with neurological involvement: Initial IM 1 mg every other day until improvement; Maintenance IM 1 mg every 2 months. Prophylaxis of macrocytic anemia associated with Vitamin B12 deficiency: IM 1 mg every 2–3 months. Tobacco amblyopia and Leber’s optic atrophy: Initial IM 1 mg or more daily for 2 weeks, then twice weekly while improving; Maintenance IM 1 mg monthly."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "There are no dosage adjustments.",
+      "renal_impairment_pediatric": "There are no dosage adjustments.",
+      "hepatic_impairment_adult": "There are no dosage adjustments.",
+      "hepatic_impairment_pediatric": "There are no dosage adjustments."
+    },
+    "contraindications": [
+      "Hypersensitivity to Hydroxocobalamin or any component of the formulation.",
+      "Hydroxocobalamin should not be used for the treatment of megaloblastic anemia of pregnancy unless vitamin B12 deficiency has been demonstrated."
+    ],
+    "adverse_drug_reactions": {
+      "Frequency not defined": "Dermatologic: Pruritus, skin rash (transient); Gastrointestinal: Diarrhea (mild, transient); Hypersensitivity: Anaphylaxis; Local: Pain at injection site; Miscellaneous: Swelling."
+    },
+    "monitoring_parameters": "Vitamin B12 levels and peripheral blood counts regularly; serum potassium periodically; platelet counts during therapy, particularly in the first 48 hours; serum iron and folate prior to therapy.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [],
+      "risk_d_consider_therapy_modification": []
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "No adequate human data. Hydroxocobalamin injection should not be used for the treatment of megaloblastic anemia of pregnancy unless vitamin B12 deficiency has been demonstrated.",
+      "lactation": "Hydroxocobalamin is present in breast milk. This is unlikely to harm the infant, and may be beneficial if the mother and infant are vitamin B12 deficient."
+    },
+    "administration": "Administer solution by IM injection only.",
+    "warnings_precautions": [
+      "Hypokalemia, cardiac arrhythmia and sudden death may occur in severe megaloblastic anemia; monitor potassium level periodically.",
+      "Thrombocytosis may be caused by treatment of megaloblastic anemia; monitor platelet count periodically.",
+      "Folic acid and iron levels should be monitored prior to therapy; if folate levels are low, folic acid should also be administered; previously unrecognized folate deficiency may be masked."
+    ],
+    "storage": "Solution for IM injection: Store between 15°C to 30°C. Protect from light.",
+    "id": 4
+  },
+  {
+    "category": null,
+    "name": "HEPARIN CALCIUM",
+    "abbreviation": null,
+    "generic_name": "Heparin Calcium",
+    "dosage_form_strengths": [
+      "solution for injection",
+      "solution for injection"
+    ],
+    "route_of_administration": "SC, IV",
+    "pharmacologic_category": "Anticoagulant",
+    "atc_code": null,
+    "indications": "Prophylaxis of deep vein thrombosis and pulmonary embolism; Treatment of deep vein thrombosis, pulmonary embolism, unstable angina pectoris and acute peripheral arterial occlusion; Prophylaxis of mural thrombosis following myocardial infarction; In extracorporeal circulation and hemodialysis.",
+    "dosage_regimen": {
+      "adult": "Initial: SC: 5,000 units 2-hours prior to operation. Followed by: SC: 5,000 units every 8 -12 hours, for 7 -10 days or until the patient is fully ambulant.",
+      "pregnant": "SC: 5,000-10,000 units every 12 hours, adjusted according to APTT or anti-Xa assay.",
+      "pediatric": "Loading dose: IV: 5,000 units (10,000 unit in severe pulmonary embolism). Maintenance: SC: 10,000-20,000 units every 12 hours.",
+      "renal_impairment_adult": "Maintenance: SC: 10,000-20,000 units every 12 hours.",
+      "renal_impairment_pediatric": "Maintenance: SC: 5,000-10,000 units every 12 hours.",
+      "hepatic_impairment_adult": "Maintenance: IV infusion: 1,000-2,000 units/hour.",
+      "hepatic_impairment_pediatric": "Maintenance: IV infusion: 5,000-10,000 units every 4 hours."
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the other excipients.",
+      "Current or history of immune-mediated HIT.",
+      "An uncontrolled bleeding state, except when this is due to disseminated intravascular coagulation (menstruation is not a contra-indication)."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Transient alopecia.",
+      "risk_x_avoid_combination": [
+        "Antiplatelets",
+        "Caplacizumab",
+        "Desirudin",
+        "Dipyridamole",
+        "Ozagrel",
+        "Urokinase."
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Antiplatelets",
+        "Caplacizumab",
+        "Desirudin",
+        "Dipyridamole",
+        "Ozagrel",
+        "Urokinase."
+      ]
+    },
+    "monitoring_parameters": "CBC prior to therapy and regularly during treatment. Level of anticoagulation can be monitored by anti-Factor Xa activity if needed in prophylaxis therapy. APTT: baseline and daily laboratory monitoring, ideally at the same time each day (withdraw 4 -6 hours after treatment initiation) is essential during full-dose Heparin treatment. Dosage is considered adequate when the activated partial thromboplastin time (aPTT) is 1.5 to 2.5 times midpoint of normal range or control value.",
+    "drug_interactions": {
+      "risk_x": [
+        "Alteplase",
+        "Andexanet Alfa",
+        "Apixaban",
+        "Corticorelin",
+        "Dabigatran",
+        "Defibrotide",
+        "Edoxaban",
+        "Hemin",
+        "Mifepristone",
+        "Omacetaxine",
+        "Oritavancin",
+        "Rivaroxaban",
+        "Streptokinase",
+        "Telavancin",
+        "Vorapaxar."
+      ],
+      "risk_d": [
+        "Antiplatelets",
+        "Caplacizumab",
+        "Desirudin",
+        "Dipyridamole",
+        "Ozagrel",
+        "Urokinase."
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "SC, IV",
+    "warnings_precautions": [
+      "Thrombocytopenia: It can occur mostly 5 to 9 days following the onset of heparin therapy. Treatment should be stopped immediately if platelet count falls below 100,000/mm^3 and, if necessary, administer an alternative anticoagulant and evaluate for HIT and HITT.",
+      "HIT and Heparin-Induced Thrombocytopenia and Thrombosis (HITT): A serious antibody-mediated reaction caused by irreversible aggregation of platelets can occur up to several weeks after discontinuation of heparin. This may lead to organ infarction, limb ischemia, or death.",
+      "Hyperkalemia: Heparin may suppress aldosterone production. Reversible hyperkalemia may occur, especially in patients with diabetes, renal impairment, history of metabolic acidosis, history of hyperkalemia, or taking concomitant potassium-sparing medication; Monitor prior and regularly thereafter if treatment is prolonged beyond about 7 days.",
+      "Spinal/Epidural anaesthesia or lumbar puncture: Extreme care and monitoring if heparin used in the context of peri-dural or spinal anesthesia due to risk of spinal or epidural hematoma and neurologic impairment.",
+      "Heparin resistance: Patients with altered Heparin responsiveness or resistance may require disproportionately higher doses of Heparin.",
+      "Increased resistance occurs in fever, thrombosis, thrombophlebitis, infections with thrombosing tendencies, cancer and during pregnancy or the post-partum period.",
+      "Hypersensitivity reactions: Patients with documented hypersensitivity to Heparin should be given the drug only in clearly life-threatening situations.",
+      "Osteoporosis: May occur following long-term administration of high doses of Heparin (more than 10,000 I.U. per day of heparin over three months or longer)."
+    ],
+    "interactions": null,
+    "id": 5
+  },
+  {
+    "category": null,
+    "name": "HEPARIN SODIUM",
+    "abbreviation": null,
+    "generic_name": "Heparin sodium",
+    "dosage_form_strengths": [
+      "1000 I.U./ml",
+      "5000 I.U./1 ml"
+    ],
+    "route_of_administration": "IV, SC",
+    "pharmacologic_category": "Anticoagulant",
+    "atc_code": null,
+    "indications": "Prophylaxis of DVT and PE, treatment of DVT and PE, treatment of unstable angina pectoris and acute peripheral arterial occlusion, prophylaxis of mural thrombosis following myocardial infarction, prevention of clotting in cardiac surgery",
+    "dosage_regimen": {
+      "adult": "IV: 5,000 units 2 hours pre-operatively, followed by 5,000 units every 8-12 hours, for 7-10 days or until the patient is fully ambulant",
+      "pediatric": "Loading dose: IV: 50 units/kg, Maintenance: IV infusion: 15-25 units/kg/hour, or SC: 250 units/kg every 12 hours, or IV injection: 100 units/kg every 4 hours"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "IV, SC",
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 6
+  },
+  {
+    "category": null,
+    "name": "APIXABAN",
+    "abbreviation": null,
+    "generic_name": "APIXABAN",
+    "dosage_form_strengths": [
+      "Tablets 2.5 mg, 5 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Anticoagulant; Anticoagulant, Factor Xa Inhibitor; DOAC.",
+    "atc_code": null,
+    "indications": "Preventin of stroke and systemic embolism in patients with NVAF; Prevention of VTE in patients who have undergone hip or knee replacement surgery; Treatment of DVT and PE, and for the reduction in the risk of recurrent DVT and PE.",
+    "dosage_regimen": {
+      "adult": "5mg twice daily for long term",
+      "pediatric": "2.5mg twice daily in patients with NVAF and at least two of the following conditions: age ≥ 80 years, body weight ≤ 60 kg, or serum creatinine ≥ 1.5 mg/dL"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "2.5mg twice daily",
+      "renal_impairment_pediatric": "2.5mg twice daily",
+      "hepatic_impairment_adult": "2.5mg twice daily",
+      "hepatic_impairment_pediatric": "2.5mg twice daily"
+    },
+    "contraindications": [
+      "Active pathological bleeding; Hypersensitivity to the active substance or to any of the excipients; Hepatic disease associated with coagulopathy and clinically relevant bleeding risk; Risk factor for major bleeding; Concomitant treatment with any other anticoagulant agent; Premature discontinuation of any oral anticoagulant in the absence of adequate alternative anticoagulation increases the risk of thrombotic events; Surgery and invasive procedures; Interaction with other medicinal products affecting hemostasis"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hemorrhagic risk; Hematologic & oncologic: Hemorrhage (≤ 15%; major hemorrhage: ≤ 2%; clinically relevant nonmajor hemorrhage: 4%); 1% to 10%: Endocrine & metabolic: Heavy menstrual bleeding (1%); Gastrointestinal: Gingival hemorrhage (≤1%), nausea (3%); Genitourinary: Hematuria (≤2%); Hematologic & oncologic: Anemia (3%), bruise (1% to 2%), hematoma (1% to 2%), rectal hemorrhage (≤1%); Respiratory: Epistaxis (≤4%), hemoptysis (≤1%);",
+      "risk_x_avoid_combination": [
+        "Abciximab",
+        "Alteplase",
+        "Anticoagulants",
+        "Apalutamide",
+        "Dabigatran Etexilate",
+        "Defibrotide",
+        "Edoxaban",
+        "Inducers of CYP3A4 (Strong) and P-glycoprotein",
+        "Hemin",
+        "Mifepristone",
+        "Omacetaxine",
+        "Rivaroxaban",
+        "St John's Wort",
+        "Streptokinase",
+        "Tenecteplase",
+        "Vorapaxar"
+      ]
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Abciximab",
+        "Alteplase",
+        "Anticoagulants",
+        "Apalutamide",
+        "Dabigatran Etexilate",
+        "Defibrotide",
+        "Edoxaban",
+        "Inducers of CYP3A4 (Strong) and P-glycoprotein",
+        "Hemin",
+        "Mifepristone",
+        "Omacetaxine",
+        "Rivaroxaban",
+        "St John's Wort",
+        "Streptokinase",
+        "Tenecteplase",
+        "Vorapaxar"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Hemorrhagic risk; Patients are to be carefully observed for signs of bleeding. Apixaban administration should be discontinued if severe haemorrhage occurs. Care should be taken in patients with an increased bleeding risk. Elderly patients and low weight patients (≤ 60 kg) have increased hemorrhagic risk. Patients with Prosthetic Heart Valves; Acute PE in hemodynamically unstable patients or patients who require thrombolysis or pulmonary embolectomy; Patients with antiphospholipid syndrome"
+    ],
+    "storage": "15°C and 30°C",
+    "id": 7
+  },
+  {
+    "category": null,
+    "name": "Warfarin",
+    "abbreviation": null,
+    "generic_name": "Warfarin",
+    "dosage_form_strengths": [
+      "Tablet: 1,2,3,5 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Anticoagulant, Vitamin K Antagonist",
+    "atc_code": null,
+    "indications": "Prophylaxis and treatment of venous thrombosis and pulmonary embolism. Prophylaxis and treatment of thromboembolic complications associated with atrial fibrillation and/or prosthetic heart valves and vessels. Reduction in the risk of death, recurrent myocardial infarction, and thromboembolic events such as stroke or systemic embolization after myocardial infarction.",
+    "dosage_regimen": {
+      "adult": "Initial dosage: 2-10 mg, according to the patient’s weight, age and general health. Maintenance dose: Based on the effect of the initial dose on INR on day 3. Vary from less than 1.25 mg to 25 mg warfarin daily in some patients.",
+      "pediatric": "Initial: 0.2mg/kg then adjust according to INR (similar to adults). Maintainance dose decreases with increasing age.",
+      "elderly": "Initial: 2- 7.5 mg, which is then adjusted based on INR.",
+      "Notes": "In adult patients having concomitant treatment with heparin or LMWH, it is possible to start with lower dose (2-7.5 mg warfarin per day) and to first check the INR value on days 3−4."
+    },
+    "contraindications": [
+      "Hypersensitivity to the active ingredient or to any of the excipients.",
+      "Hemorrhagic stroke.",
+      "Clinically significant bleeding.",
+      "Within 72 hours of major surgery with risk of severe bleeding.",
+      "Use of products containing St John’s wort (Hypericum perforatum) and other drugs where interactions may lead to a significantly increased risk of bleeding.",
+      "Use during the first trimester and the last four weeks of pregnancy and within 48 hours postpartum.",
+      "Severely impaired hepatic function.",
+      "Unsupervised patients with conditions associated with potential high level of non-compliance.",
+      "Patients at serious risk of haemorrhage, such as: Patients with haemorrhagic disorders, gastrointestinal, urogenital or respiratory bleeding tendency, oesophageal varices, arterial aneurysm, spinal puncture, peptic ulcer disease, severe wounds (including surgical wounds), bacterial endocarditis, malignant hypertension.",
+      "Pregnant women with mechanical heart valves: Warfarin may cause fetal harm; however, the benefits may outweigh the risks."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gangrene of skin and/or subcutaneous tissues, skin necrosis."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Abciximab",
+        "Alteplase",
+        "Defibrotide",
+        "Hemin",
+        "Mifepristone",
+        "Omacetaxine",
+        "Oxatomide",
+        "Streptokinase",
+        "Tenecteplase",
+        "Vorapaxar"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Allopurinol",
+        "Amiodarone",
+        "Androgens",
+        "Barbiturates",
+        "Caplacizumab",
+        "Carbamazepine",
+        "Cholestyramine Resin",
+        "Cimetidine",
+        "CYP2C9 Inducers (Moderate)",
+        "Desirudin",
+        "Fenofibrate and Derivatives",
+        "Fibric Acid Derivatives",
+        "Fluconazole",
+        "Fluorouracil Products",
+        "Fusidic Acid (Systemic)",
+        "Ginkgo Biloba",
+        "Imatinib",
+        "Ivosidenib",
+        "Lornoxicam",
+        "Menatetrenone",
+        "Metronidazole (Systemic)",
+        "Miconazole (Topical)",
+        "Nafcillin",
+        "Nonsteroidal Anti-Inflammatory Agents (Nonselective)",
+        "Rifamycin Derivatives",
+        "Salicylates",
+        "Sodium Zirconium Cyclosilicate",
+        "St John's Wort",
+        "Sulfonamide Antibiotics",
+        "Tamoxifen."
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Risk of hemorrhage: Risk factors for bleeding include high intensity of anticoagulation (INR >4.0), age ≥65, highly variable INRs, history of gastrointestinal bleeding, uncontrolled hypertension, cerebrovascular disease, serious heart disease, risk of falling, anaemia, malignancy, trauma, renal insufficiency, concomitant drugs.",
+      "Tissue necrosis: Necrosis or gangrene of skin or other tissues can occur, with severe cases requiring debridement or amputation.",
+      "Calciphylaxis: A rare syndrome of vascular calcification with cutaneous necrosis, associated with high mortality.",
+      "Acute kidney injury may occur during episodes of excessive anticoagulation and hematuria.",
+      "Systemic atheroemboli and cholesterol microemboli: Some cases have progressed to necrosis or death.",
+      "HIT: Initial therapy with warfarin in HIT has resulted in cases of amputation and death.",
+      "Pregnant women with mechanical heart valves: Warfarin may cause fetal harm; however, the benefits may outweigh the risks."
+    ],
+    "storage": null,
+    "id": 8
+  },
+  {
+    "category": "Drug",
+    "name": "EMICIZUMAB",
+    "abbreviation": "EMIC",
+    "generic_name": "EMICIZUMAB",
+    "dosage_form_strengths": [
+      "30 mg/ml",
+      "105 mg/0.7ml",
+      "60 mg/0.4 ml",
+      "150mg/ml"
+    ],
+    "route_of_administration": "SC",
+    "pharmacologic_category": "Antihemophilic Agent; Monoclonal Antibody",
+    "atc_code": "B02BX06",
+    "indications": "Routine prophylaxis of bleeding episodes in patients (all age groups) with hemophilia A (congenital factor VIII deficiency) with or without factor VIII inhibitors.",
+    "dosage_regimen": {
+      "adult": "3 mg/kg once weekly for the first 4 weeks, followed by 1.5 mg/kg once every week, or 3 mg/kg once every two weeks, or 6 mg/kg once every four weeks",
+      "pediatric": "25-50 IU per kg administered 2 to 3 times weekly",
+      "renal_impairment_adult": "No dosage adjustment is needed",
+      "renal_impairment_pediatric": "No dosage adjustment is needed",
+      "hepatic_impairment_adult": "No dosage adjustment is needed",
+      "hepatic_impairment_pediatric": "No dosage adjustment is needed"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients"
+    ],
+    "adverse_drug_reactions": {
+      ">10%": "Local: Injection-site reaction (22%, including bruising, discomfort, erythema, hematoma, induration, pruritus, pain, rash, swelling, urticaria). Nervous system: Headache (15%). Neuromuscular & skeletal: Arthralgia (15%). 1% to 10%: Gastrointestinal: Diarrhea (6%). Immunologic: Antibody development (5%). Miscellaneous: Fever (6%)."
+    },
+    "monitoring_parameters": "Monitor for thrombotic microangiopathy and thrombotic events if aPTCC is administered with emicizumab.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Activated prothrombin complex concentrate (aPCC): Laboratory testing and limitations of dose may be needed. Refer to Warnings/Precautions."
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Immunogenicity: Anti-emicizumab antibodies (including neutralizing antibodies) have developed in treated patients. In case of clinical signs of loss of efficacy, promptly assess the etiology and consider a change in treatment if neutralizing antibodies are suspected."
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Pregnancy: No data. Should be used during pregnancy only if the potential benefit for the mother outweighs the risk to the fetus.",
+      "lactation": "Lactation: No data. Consider benefit and risk before discontinue breast-feeding or discontinue treatment."
+    },
+    "administration": "SC",
+    "warnings_precautions": [
+      "Biological product: The name and the batch number of the administered product should be clearly recorded.",
+      "Bypassing agents: Treatment with bypassing agents should be discontinued the day before starting emicizumab therapy.",
+      "Thrombotic Microangiopathy and thromboembolism associated with emicizumab and aPCC: Thrombotic microangiopathy and thrombotic events were developed when on average a cumulative amount of >100 U/kg/24 hours of activated prothrombin complex concentrate (aPCC) was administered for 24 hours or more to patients receiving emicizumab prophylaxis.",
+      "Patients receiving emicizumab should be monitored for the development of thromboembolism when administering with aPCC. The physician should immediately discontinue aPCC and interrupt emicizumab therapy if clinical symptoms, and/or laboratory findings consistent with thrombotic events occur, and manage as clinically indicated. Improvement was seen within one month."
+    ],
+    "storage": "Store between 2°C to 8°C. Do not freeze. Protect from light. Do not shake.",
+    "id": 9
+  },
+  {
+    "category": null,
+    "name": "CYANOCOBALAMIN",
+    "abbreviation": null,
+    "generic_name": "Cyanocobalamin (Vitamin B12)",
+    "dosage_form_strengths": [
+      "1 mg/ml",
+      "1 mg/ml",
+      "0.5 mg",
+      "1 mg",
+      "1 mg",
+      "1 mg"
+    ],
+    "route_of_administration": [
+      "IM",
+      "Nasal",
+      "Oral"
+    ],
+    "pharmacologic_category": "Vitamin, Water Soluble",
+    "ATC": "B03BA01",
+    "indications": "Treatment of Vitamin B12 deficiency, prevention of vitamin B12 deficiency, prophylaxis and treatment of macrocytic anemias associated with vitamin B12 deficiency",
+    "dosage_regimen": {
+      "adult": "50-150 mcg or more daily",
+      "pediatric": "2000 mcg twice daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustments needed",
+      "renal_impairment_pediatric": "No dosage adjustments needed",
+      "hepatic_impairment_adult": "No dosage adjustments needed",
+      "hepatic_impairment_pediatric": "No dosage adjustments needed"
+    },
+    "contraindications": [
+      "Hypersensitivity to cyanocobalamin (vitamin B12), cobalt, or any component of the formulation"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Headache (IM: 20%; intranasal: 4%)",
+      "Infection (12% to 13%)\",\n    ": "euromuscular & skeletal: Asthenia (IM: 16%; intranasal: 4%)",
+      "Central nervous system: Paresthesia (4%)\",\n    ": "astrointestinal: Glossitis (nasal: 4%), nausea (4%)",
+      "Respiratory: Rhinitis (4% to 8%)\",\n    ": "ardiovascular: Cardiac failure, thrombosis (peripheral)",
+      "Dermatologic: Pruritus, skin rash (transient)\",\n    ": "ndocrine & metabolic: Hypokalemia",
+      "Gastrointestinal: Diarrhea\",\n    ": "ematologic & oncologic: Polycythemia vera, thrombocythemia",
+      "Hypersensitivity: Anaphylactic shock (IM)\",\n    ": "espiratory: Pulmonary edema"
+    },
+    "monitoring": {
+      "Vitamin B12 levels and peripheral blood counts": "1 month after initiating therapy, then every 3-6 months thereafter",
+      "Serum potassium levels periodically during therapy": "periodically during therapy",
+      "Platelet count periodically during therapy": "periodically during therapy"
+    },
+    "id": 10
+  },
+  {
+    "category": null,
+    "name": "Rivaroxaban",
+    "abbreviation": null,
+    "generic_name": "Rivaroxaban",
+    "dosage_form_strengths": [
+      "Tablets 2.5 mg, 10 mg, 15 mg, 20 mg",
+      "Orally disintegrating Tablets:10mg, 15mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Anticoagulant, Factor Xa Inhibitor; DOAC.",
+    "atc_code": null,
+    "indications": "In Nonvalvular atrial fibrillation to reduce risk of stroke and systemic embolism. Treatment, prevention and reduction risk of recurrence of DVT or PE. To reduce the risk of major atherothrombotic events in adult patients after an acute coronary syndrome (ACS) with elevated cardiac biomarkers. To reduce the risk of major atherothrombotic events in patients with coronary artery disease (CAD) or symptomatic peripheral artery disease (PAD) at high risk of ischaemic events. Treatment of VTE and reduction in the risk of recurrent VTE in pediatric patients from birth to less than 18 years. Thromboprophylaxis in pediatric patients 2 years and older with congenital heart disease after the Fontan procedure.",
+    "dosage_regimen": {
+      "adult": "15 or 20 mg, once daily with food",
+      "pediatric": "15 mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "20 mg once daily",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Nausea, abdominal pain, headache, fatigue, dizziness, and other symptoms"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Warfarin",
+        "Aspirin"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Heparin"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 11
+  },
+  {
+    "category": null,
+    "name": "TRANEXAMIC ACID",
+    "abbreviation": null,
+    "generic_name": "TRANEXAMIC ACID",
+    "dosage_form_strengths": [
+      "100 mg/ml",
+      "500 mg/5 ml",
+      "500 mg",
+      "650 mg"
+    ],
+    "route_of_administration": "IV, Oral",
+    "pharmacologic_category": "Antifibrinolytic Agent; Antihemophilic Agent; Hemostatic Agent; Lysine",
+    "atc_code": null,
+    "indications": "Tranexamic acid is indicated in adults and children from one year in prevention and treatment of haemorrhages (short term) due to general or local fibrinolysis.",
+    "dosage_regimen": {
+      "adult": "General fibrinolysis (Standard dose)",
+      "pediatric": "General fibrinolysis (Standard dose)"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "10 mg/kg every 12 hours",
+      "renal_impairment_pediatric": "10 mg/kg every 24 hours",
+      "hepatic_impairment_adult": "5 mg/kg every 24 hours OR 10 mg/kg every 48 hours",
+      "hepatic_impairment_pediatric": "650 mg once a day"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or any of the excipients",
+      "Severe renal failure because of risk of accumulation",
+      "Active thromboembolic disease",
+      "History of venous or arterial thrombosis",
+      "Fibrinolytic conditions following consumption coagulopathy",
+      "History of convulsions"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gastrointestinal: Abdominal pain (20%)"
+    },
+    "id": 12
+  },
+  {
+    "category": null,
+    "name": "Tirofiban",
+    "abbreviation": null,
+    "generic_name": "Tirofiban",
+    "dosage_form_strengths": [
+      "12.5 mg/50 ml (0.25/ml), 12.5 mg/250 ml (0.05/ml)",
+      "Concentrate for Solution for I.V Infusion: 12.5 mg/50 ml (0.25/ml), 12.5 mg/250 ml (0.05/ml)"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Antiplatelet Agent, Glycoprotein IIb/IIIa Inhibitor",
+    "atc_code": null,
+    "indications": "Reduce the rate of thrombotic cardiovascular events (combined endpoint of death, myocardial infarction, refractory ischemia/repeat cardiac procedure) in adult patients with non-ST elevation acute coronary syndrome (NSTEACS).",
+    "dosage_regimen": {
+      "adult": "Initial: IV bolus: 25 mcg/kg given over 3 – 5 minutes, followed by a continuous infusion at a rate of 0.15 mcg/kg/min for 12-24, and up to 48 hours. Early invasive strategy for NSTE-ACS (but not planned to undergo angiography for at least 4 hours and up to 48 hours after diagnosis. Initial: IV infusion: 0.4 mcg/kg/min for 30 minutes. Maintenance infusion rate of 0.1 mcg/kg/min for at least 48 hours. Infusion of tirofiban and unfractionated heparin may be continued during coronary angiography and should be maintained for at least 12 hours and up to 24 hours after angioplasty/atherectomy.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Reduce to 50%",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to tirofiban or any of the excipients. Active or recent internal bleeding, major surgical procedure or severe physical trauma within the previous month. Known history of intracranial disease (e.g. neoplasm, arteriovenous malformation, aneurysm).",
+      "Malignant hypertension. Severe liver failure."
+    ],
+    "adverse_drug_reactions": [
+      "Cardiovascular: Bradycardia (4%), coronary artery dissection (5%), edema (≤2%), vasodepressor syncope (2%). Dermatologic: Diaphoresis (2%). Genitourinary: Pelvic pain (6%). Hematologic & oncologic: Thrombocytopenia (≤2%). Nervous system: Dizziness (3%). Neuromuscular & skeletal: Lower extremity pain (3%). Miscellaneous: Swelling (≤2%).",
+      "Monitoring Parameters: CBC prior to therapy and within 2-6 hours after start of therapy with tirofiban and at least once daily thereafter while on therapy. Activated thromboplastin time (APTT) prior to therapy and repeatedly to adjust dose. Renal and hepatic functions."
+    ],
+    "monitoring_parameters": [
+      "CBC prior to therapy and within 2-6 hours after start of therapy with tirofiban and at least once daily thereafter while on therapy. Activated thromboplastin time (APTT) prior to therapy and repeatedly to adjust dose. Renal and hepatic functions."
+    ],
+    "drug_interactions": [
+      "Risk X: Avoid combination Abrocitinib. Risk D: Consider therapy modification Caplacizumab Fondaparinux"
+    ],
+    "pregnancy_and_lactation": [
+      "Pregnancy: Limited data. Published data cannot definitively establish the association or absence of risk. Consider benefit and risk. Lactation: Limited data. Not recommended during breastfeeding due to potential fetal risk."
+    ],
+    "administration": "IV infusion: Dilution with saline or dextrose 5% is needed before use. May be administered with heparin though the same infusion tube.",
+    "id": 13
+  },
+  {
+    "category": null,
+    "name": "DEFERASIROX",
+    "abbreviation": null,
+    "generic_name": "DEFERASIROX",
+    "dosage_form_strengths": [
+      "film coated tablets",
+      "dispersible tablets for oral suspension"
+    ],
+    "route_of_administration": "oral",
+    "pharmacologic_category": "Chelating agent",
+    "ATC_code": "V03AC03",
+    "indications": "Treatment of chronic iron overload due to blood transfusions (≥7 ml/kg/month of packed red blood cells) in patients 2 years of age and older. Treatment of chronic iron overload non-transfusion-dependent -thalassemia syndromes when deferoxamine therapy is contraindicated in patients aged 10 years and older with a liver iron (Fe) concentration (LIC) of at least 5 mg Fe per gram of dry weight (Fe/g dw) and a serum ferritin greater than 300 mcg/L.",
+    "dosage_regimen": {
+      "adult": "14 mg/kg starting after taking 20 units (about 100 ml/kg of packed red blood cells) or when serum ferritin >1,000 µg/l. Or initial daily dose of 21 mg/kg may be considered if receiving more than 14 ml/kg/month of packed red blood cells (approximately >4 units/month for an adult). Or 7 mg/kg daily may be considered for patients who do not require reduction of body iron levels and who are also receiving less than 7 ml/kg/month of packed red blood cells (approximately <2 units/month for an adult).",
+      "pediatric": "7 mg/kg when liver iron concentration (LIC) ≥5 mg Fe/g dw or Serum ferritin >800 µg/l. Adjust dose every 3-6 months (every month for pediatric). Dose adjustments may be made in steps of 3.5 to 7 mg/kg (increase dose if liver iron concentration ≥7 mg Fe/g dw or Serum ferritin >2000 µg/l or decrease if liver iron concentration <7 mg Fe/g dw or Serum ferritin ≤2000 µg/l).",
+      "non-transfusion-dependent thalassemia syndromes": "7 mg/kg/day when liver iron concentration (LIC) ≥5 mg Fe/g dw or Serum ferritin >800 µg/l. Adjust dose every 3-6 months (every month for pediatric). Dose adjustments may be made in steps of 3.5 to 7 mg/kg (increase dose if liver iron concentration ≥7 mg Fe/g dw or Serum ferritin >2000 µg/l or decrease if liver iron concentration <7 mg Fe/g dw or Serum ferritin ≤2000 µg/l).",
+      "renal impairment": "Contraindicated. If CrCl < 90 ml/min and serum creatinine >33% above pretreatment average at two consecutive visits: Reduction of daily dose by 7 mg/kg/day is required. Interrupt after dose reduction if remitted CrCl < 90 ml/min or serum creatinine >33% above pretreatment average.",
+      "hepatic impairment": "Contra-Indications: Hypersensitivity to the active substance or to any of the excipients. Combination with other drugs may increase the risk of adverse effects. Contraindicated in patients with moderate hepatic impairment (Child Pugh Class B) and severe hepatic impairment (Child-Pugh Class C)."
+    },
+    "id": 14
+  },
+  {
+    "category": null,
+    "name": "STREPTOKINASE",
+    "abbreviation": null,
+    "generic_name": null,
+    "dosage_form_strengths": null,
+    "route_of_administration": null,
+    "pharmacologic_category": null,
+    "atc_code": null,
+    "indications": null,
+    "dosage_regimen": {
+      "adult": null,
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": null,
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 15
+  }
+]

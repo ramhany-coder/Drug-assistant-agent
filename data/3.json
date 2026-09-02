@@ -1,0 +1,2473 @@
+[
+  {
+    "category": null,
+    "name": "CYCLOPHOSPHAMIDE",
+    "abbreviation": null,
+    "generic_name": "CYCLOPHOSPHAMIDE",
+    "dosage_form_strengths": [
+      "Powder for injection: 200 mg, 1 gm.",
+      "Tablets: 50 mg."
+    ],
+    "route_of_administration": "IV, Oral",
+    "pharmacologic_category": "Alkylating Agent (Nitrogen Mustard); Antineoplastic agent, Immunosuppressant agent, Antirheumatic agent.",
+    "atc_code": "L01AA01",
+    "indications": "Chronic or Acute Lymphocytic Leukemia; Hodgkin’s lymphoma, non-Hodgkin’s lymphoma, and multiple myeloma; Metastatic ovarian, and breast, carcinoma; Adjuvant treatment of breast carcinoma; Ewing’s sarcoma; Small cell lung cancer; Advanced or metastatic neuroblastoma; Life-threatening autoimmune diseases: severe progressive forms of lupus nephritis and Wegener’s granulomatosis; Mycosis fungoides; Nephrotic syndrome in pediatrics",
+    "dosage_regimen": {
+      "adult": "3 – 6 mg/kg body weight (= 120 – 240 mg/m2 body surface area).",
+      "pediatric": "10 – 15 mg/kg body weight (= 400 – 600 mg/m2 body surface area), with therapy-free intervals of 2 to 5 days.",
+      "high-dose- intermittent treatment": "20 – 40 mg/kg body weight (= 800 – 1600 mg/m2 body surface area), with therapy-free intervals of 21 to 28 days."
+    },
+    "contraindications": [
+      "Hypersensitivity to Cyclophosphamide, any of the formulation components.",
+      "Acute infections.",
+      "Severe myelosuppression.",
+      "Urinary outflow obstruction, Urinary tract infection, or Acute urothelial toxicity.",
+      "Breastfeeding."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Bone marrow suppression and infection; Cardiotoxicity; Hemorrhagic cystitis; Hepatotoxicity; Pulmonary toxicity"
+    },
+    "monitoring_parameters": "CBC with differential; Kidney function test; Monitor signs and symptoms of (hemorrhagic cystitis, urinalysis, cardiotoxicity, pulmonary toxicity, hepatic toxicity, infections); Pregnancy test.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Aprepitant",
+        "Bupropion",
+        "Busulfan",
+        "Ciprofloxacin",
+        "Chloramphenicol",
+        "Azole-antimycotics",
+        "CYP2B6 and CYP3A4 inhibitors",
+        "Prasugrel",
+        "Sulfonamides",
+        "Ondansetron",
+        "Grapefruit"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Azathioprine",
+        "Busulfan",
+        "Ciprofloxacin",
+        "Chloramphenicol",
+        "Azole-antimycotics",
+        "CYP2B6 and CYP3A4 inhibitors",
+        "Prasugrel",
+        "Sulfonamides",
+        "Ondansetron",
+        "Grapefruit"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "There is positive evidence of human fetal risk in particularly during the first trimester. Women and men should use effective methods of contraception during these periods and after 6 -12 months of discontinuation. The potential benefit of the treatment should be weighed against the potential risk for the fetus.",
+      "lactation": "Contraindicated. Should be terminated before initiating Cyclophosphamide therapy as this drug can cause toxicities to infants."
+    },
+    "administration": "IV, Oral",
+    "warnings_precautions": [
+      "Hypersensitivity to Cyclophosphamide, any of the formulation components.",
+      "Acute infections.",
+      "Severe myelosuppression.",
+      "Urinary outflow obstruction, Urinary tract infection, or Acute urothelial toxicity.",
+      "Breastfeeding."
+    ],
+    "storage": "Storage: None",
+    "id": 1
+  },
+  {
+    "category": null,
+    "name": "IFOSFAMIDE",
+    "abbreviation": null,
+    "generic_name": "Ifosfamide",
+    "dosage_form_strengths": [
+      "Powder for solution for I.V. Injection or infusion: 1gm, 2gm"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Antineoplastic Agent, Alkylating Agent (Nitrogen Mustard)",
+    "atc_code": "L01AA06",
+    "indications": "N.B. Refer to literature and specific protocols for all indications.",
+    "dosage_regimen": {
+      "adult": "1,200 mg/m2/day for 5 days every 3 weeks or after hematologic recovery, for 4 cycles.",
+      "pediatric": "5 g/m2 over 24 hours."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "80%",
+      "renal_impairment_pediatric": "75%",
+      "hepatic_impairment_adult": "70%",
+      "hepatic_impairment_pediatric": "70%"
+    },
+    "contraindications": [
+      "Known hypersensitivity to administration of Ifosfamide.",
+      "Bladder obstruction",
+      "Urinary tract obstruction",
+      "Severe myelosuppression.",
+      "Severe renal or hepatic impairment"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Neurotoxicity, encephalopathy, Nephrotoxicity, Myelosuppression >10%"
+    },
+    "monitoring_parameters": "CBC with differential, Liver and Kidney functions, Urine output and urine analysis, Monitor serum and urine chemistries including phosphorus and potassium regularly, Monitor for signs/symptoms of neurotoxicity, pulmonary toxicity, urotoxicity/hemorrhagic cystitis, and secondary malignancies.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Abrocitinib",
+        "Baricitinib",
+        "BCG (Intravesical)",
+        "BCG Products",
+        "Brivudine",
+        "Cladribine",
+        "Dengue Tetravalent Vaccine (Live)",
+        "Deucravacitinib",
+        "Dipyrone",
+        "Fexinidazole",
+        "Fusidic Acid (Systemic)",
+        "Mumps- Rubella- or Varicella-Containing Live Vaccines",
+        "Nadofaragene Firadenovec",
+        "Natalizumab",
+        "Pimecrolimus",
+        "Poliovirus Vaccine (Live/Trivalent/Oral)",
+        "Ritlecitinib",
+        "Ruxolitinib (Topical)",
+        "Tacrolimus (Topical)",
+        "Talimogene Laherparepvec",
+        "Tertomotide",
+        "Tofacitinib",
+        "Typhoid Vaccine",
+        "Upadacitinib",
+        "Vaccines (Live)",
+        "Yellow Fever Vaccine"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Consider therapy modification"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Avoid particularly in the first trimester. Fetal growth retardation and neonatal malformations occurred.",
+      "lactation": "Not recommended during Ifosfamide treatment; due to the potential for serious adverse reactions."
+    },
+    "administration": "To prevent bladder toxicity, should be given with mesna and extensive hydration consisting of at least 2 liters of oral or intravenous fluid per day.",
+    "warnings_precautions": [
+      "Myelosuppression: Ifosfamide-induced myelosuppression can cause leukopenia, neutropenia, and thrombocytopenia. The nadir of the leukocyte counts may be approximately during the second week after administration. The use of a hematopoiesis-stimulating agent may be considered. Myelosuppression can be considered."
+    ],
+    "id": 2
+  },
+  {
+    "category": null,
+    "name": "CARBOPLATIN",
+    "abbreviation": null,
+    "generic_name": "Carboplatin",
+    "dosage_form_strengths": [
+      "10 mg",
+      "50 mg",
+      "150 mg",
+      "450 mg"
+    ],
+    "route_of_administration": "Intravenous",
+    "pharmacologic_category": "Antineoplastic Agent, Alkylating Agent, Platinum Analog",
+    "atc_code": null,
+    "indications": "N.B. Refer to literature and specific protocols for all indications.",
+    "dosage_regimen": {
+      "adult": "400 mg/m2, for previously untreated patients with normal kidney functions, given as a single intravenous infusion over 15 to 60 minutes."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Maximum dose of Carboplatin for AUC 4 is 600mg, Maximum dose of Carboplatin for AUC 5 is 750mg, Maximum dose of Carboplatin for AUC 6 is 900mg."
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance, any of the excipients, or other Platinum-containing compounds.",
+      "Patients with severe myelosuppression.",
+      "Patients with pre-existing severe renal impairment unless benefits outweigh the risks.",
+      "Patients with bleeding tumors.",
+      "Concomitant use with yellow fever vaccine."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Symptoms may vary in severity and include pruritus, rash, palmar erythema, fever, chills, rigors, swelling (face, tongue, and infusion arm), GI upset, dyspnea, wheezing, tachycardia, and hypertension or hypotension."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Abrocitinib",
+        "Baricitinib",
+        "BCG (Intravesical)",
+        "BCG Products",
+        "Brivudine",
+        "Cladribine",
+        "Dengue Tetravalent Vaccine (Live)",
+        "Deucravacitinib",
+        "Dipyrone",
+        "Fexinidazole",
+        "Filgotinib",
+        "Mumps- Rubella- or Varicella-Containing Live Vaccines",
+        "Nadofaragene Firadenovec",
+        "Natalizumab",
+        "Phenytoin",
+        "Fosphenytoin",
+        "Pimecrolimus",
+        "Poliovirus Vaccine (Live/Trivalent/Oral)",
+        "Ruxolitinib (Topical)",
+        "Tacrolimus (Topical)",
+        "Talimogene Laherparepvec",
+        "Tertomotide",
+        "Tofacitinib",
+        "Typhoid Vaccine",
+        "Upadacitinib Vaccines (Live)",
+        "Yellow Fever Vaccine."
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Coccidioides immitis Skin Test",
+        "COVID-19 Vaccine (Adenovirus Vector)",
+        "COVID-19 Vaccine (mRNA)",
+        "Deferiprone Denosumab",
+        "Influenza Virus Vaccines",
+        "Leflunomide",
+        "Lenograstim",
+        "Lipegfilgrastim",
+        "Palifermin",
+        "Polymethylmethacrylate",
+        "Rabies Vaccine",
+        "Ropeginterferon Alfa-2b",
+        "Sipuleucel-T",
+        "Sorafenib",
+        "Taxane Derivatives",
+        "Topotecan",
+        "Vaccines (Inactivated/Non-Replicating)."
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Solution For I.V Infusion: 10 mg, 50 mg, 150 mg, 450 mg",
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 3
+  },
+  {
+    "category": null,
+    "name": "CISPLATIN",
+    "abbreviation": null,
+    "generic_name": "Cisplatin",
+    "dosage_form_strengths": [
+      "10mg/10ml",
+      "10mg/20ml",
+      "50mg/50ml",
+      "50mg/100ml"
+    ],
+    "route_of_administration": "Intravenous",
+    "pharmacologic_category": "Antineoplastic Agent, Alkylating Agent; Platinum Analog",
+    "atc_code": "L01XA01",
+    "indications": "Advanced or metastasized cases of: Testicular cancer, Ovarian cancer, Bladder carcinoma, Squamous cell carcinoma of the head and neck, non-small cell lung carcinoma, and small cell lung carcinoma; Treatment of cervical carcinoma in combination with other chemotherapeutics or with radiotherapy; Other indications: Adrenocortical carcinoma, anal carcinoma, biliary tract cancer, breast cancer, endometrial carcinoma, esophageal cancer, gastric cancer, gestational trophoblastic neoplasia, Hodgkin lymphoma, pleural mesothelioma, multiple myeloma, neuroendocrine tumors, non-Hodgkin lymphoma, pancreatic cancer, penile cancer, primary CNS lymphoma, prostate cancer, thymic carcinoma, thymomas adenocarcinoma.",
+    "dosage_regimen": {
+      "adult": "50 to 120 mg/m2 every 3 to 4 weeks",
+      "pediatric": "15 to 20 mg/m2/day for 5 days, every 3 to 4 weeks"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary",
+      "renal_impairment_pediatric": "No dosage adjustment necessary",
+      "hepatic_impairment_adult": "No dosage adjustment necessary",
+      "hepatic_impairment_pediatric": "No dosage adjustment necessary"
+    },
+    "contraindications": [
+      "Severe hypersensitivity to Cisplatin or other platinum-containing compounds",
+      "Pre-existing renal impairment or hearing impairment",
+      "Patients who are myelosuppressed or dehydrated"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Nephrotoxicity",
+      "Ototoxicity (up to 31%)": "Ototoxicity",
+      "Neurotoxicity": "Neurotoxicity",
+      "High Emetogenic effects": "High Emetogenic effects",
+      "Electrolyte disturbances": "Electrolyte disturbances",
+      "Myelosuppression": "Myelosuppression",
+      "Sensitivity reactions >10%": "Central nervous system: Neurotoxicity (peripheral neuropathy is dose and duration dependent)",
+      "Gastrointestinal": "Gastrointestinal: Nausea and vomiting (76% to 100%)",
+      "Genitourinary": "Genitourinary: Nephrotoxicity (28% to 36%; acute renal failure and chronic renal insufficiency)",
+      "Hematologic & oncologic": "Hematologic & oncologic: Anemia (≤40%), leukopenia (25% to 30%; nadir: Day 18 to 23; recovery: By day 39; dose-related), thrombocytopenia (25% to 30%; nadir: Day 18 to 23; recovery: By day 39; dose-related)",
+      "Hepatic": "Hepatic: Increased liver enzymes"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "Risk X: Avoid combination": [
+        "Aminoglycosides, Abrocitinib, Baricitinib, BCG Products, Cladribine, Dengue Tetravalent Vaccine (Live), Deucravacitinib, Dipyrone, Fexinidazole, Filgotinib, Mumps- Rubella- or Varicella-Containing Live Vaccines, Nadofaragene Firadenovec, Natalizumab, Netilmicin (Ophthalmic), Pimecrolimus, Poliovirus Vaccine (Live/Trivalent/Oral), Ritlecitinib, Ruxolitinib (Topical), Tacrolimus (Topical), Talimogene Laherparepvec, Tertomotide, Tofacitinib, Typhoid Vaccine, Upadacitinib Vaccines (Live), Yellow Fever Vaccine"
+      ],
+      "Risk D: Consider therapy modification": [
+        "Coccidioides immitis Skin Test, COVID-19 Vaccine (Adenovirus Vector), COVID-19 Vaccine (mRNA), Deferiprone, Denosumab, Influenza Virus Vaccines, Leflunomide, Lenograstim, Lipegfilgrastim, Palifermin, Polymethylmethacrylate, Rabies Vaccine, Ropeginterferon Alfa-2b, Sipuleucel-T, Taxane Derivatives, Topotecan, Vaccines (Inactivated/Non-Replicating)"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": null,
+    "warnings_precautions": [
+      "Local: Local irritation"
+    ],
+    "storage": null,
+    "id": 4
+  },
+  {
+    "category": null,
+    "name": "OXALIPLATIN",
+    "abbreviation": null,
+    "generic_name": null,
+    "dosage_form_strengths": [
+      "50mg",
+      "100mg"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Antineoplastic Agent, Alkylating Agent; Platinum Analog.",
+    "ATC_code": "L01XA03",
+    "indications": "Adjuvant treatment of stage III colon cancer (in combination with infusion fluorouracil and leucovorin) after complete resection of primary tumor; Treatment of advanced colorectal cancer (in combination with infusion fluorouracil and leucovorin); Other indications: Biliary tract cancer, chronic lymphocytic leukemia, esophageal cancer, gastric cancer, neuroendocrine tumors, non-Hodgkin lymphomas, ovarian cancer, pancreatic cancer, small bowel adenocarcinoma, and testicular cancer.",
+    "dosage_regimen": {
+      "adult": "IV: 85 mg/m2 on day 1 every 2 weeks (in combination with infusional fluorouracil/leucovorin) for up to 12 cycles.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Avoid severe impairment.",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "No dosage adjustment provided.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hematological: Postpone treatment If hematological toxicity occurs (neutrophils < 1.5x10^9 /L or platelets < 50x10^9 /L), resume when acceptable."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hematological: Postpone treatment If hematological toxicity occurs (neutrophils < 1.5x10^9 /L or platelets < 50x10^9 /L), resume when acceptable."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Hematological: Postpone treatment If hematological toxicity occurs (neutrophils < 1.5x10^9 /L or platelets < 50x10^9 /L), resume when acceptable."
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Hematological: Postpone treatment If hematological toxicity occurs (neutrophils < 1.5x10^9 /L or platelets < 50x10^9 /L), resume when acceptable."
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "IV",
+    "warnings_precautions": [
+      "Avoid severe impairment.",
+      "Hematological: Postpone treatment If hematological toxicity occurs (neutrophils < 1.5x10^9 /L or platelets < 50x10^9 /L), resume when acceptable."
+    ],
+    "storage": null,
+    "id": 5
+  },
+  {
+    "category": null,
+    "name": "FLUOROURACIL",
+    "abbreviation": null,
+    "generic_name": "Fluorouracil",
+    "dosage_form_strengths": [
+      "Powder for Solution for I.V Infusion",
+      "Concentrate solution for infusion"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Antineoplastic Agent, Alkylating Agent; Platinum Analog",
+    "atc_code": null,
+    "indications": "Adjuvant treatment of stage III colon cancer (in combination with infusion fluorouracil and leucovorin) after complete resection of primary tumor; treatment of advanced colorectal cancer (in combination with infusion fluorouracil and leucovorin); other indications: biliary tract cancer, chronic lymphocytic leukemia, esophageal cancer, gastric cancer, neuroendocrine tumors, non-Hodgkin lymphomas, ovarian cancer, pancreatic cancer, small bowel adenocarcinoma, and testicular cancer",
+    "dosage_regimen": {
+      "adult": "85 mg/m2 on day 1 every 2 weeks (in combination with infusional fluorouracil/leucovorin) for up to 12 cycles",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Peripheral neuropathy, Myelosuppression, Hypersensitivity"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "BCG (Intravesical) Cladribine, Dipyrone, Fexinidazole"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Deferiprone, Lenograstim, Lipegfilgrastim, Palifermin, Ropeginterferon Alfa-2b, Taxane Derivatives, Topotecan"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "IV",
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 6
+  },
+  {
+    "category": null,
+    "name": "Dacarbazine",
+    "abbreviation": null,
+    "generic_name": "Dacarbazine",
+    "dosage_form_strengths": [
+      "Powder for solution: 100mg, 200mg",
+      "Solution for injection (IV, IM, SC, Intrathecal): 50mg/2ml, 5000 mg/50ml",
+      "Lyophilized Powder: 50mg"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Antineoplastic Agent, Alkylating Agent",
+    "atc_code": "L01AX04",
+    "indications": "Hodgkin lymphoma, Melanoma, metastatic malignant melanoma, Soft-tissue sarcomas",
+    "dosage_regimen": {
+      "adult": "375 mg/m2 IV day on days 1 and 15 every 4 weeks in combination with other effective drugs",
+      "pediatric": "250 mg/m2 IV once daily for 5 days repeated every 3 weeks"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment is necessary",
+      "renal_impairment_pediatric": "Consider reducing the dose to 70% of the usual dose",
+      "hepatic_impairment_adult": "Consider reducing the dose to 70% of the usual dose",
+      "hepatic_impairment_pediatric": "Consider reducing the dose to 70% of the usual dose"
+    },
+    "contraindications": [
+      "Dacarbazine (DTIC) hypersensitivity",
+      "Adverse Drug Reactions: Bone marrow suppression: Hemopoietic depression is the most common toxicity; Hepatic effects: Hepatic necrosis has been reported; Carcinogenic/teratogenic: This agent has a carcinogenic and teratogenic effect"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Bone marrow suppression: Hemopoietic depression is the most common toxicity"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Abrocitinib",
+        "Baricitinib",
+        "BCG (Intravesical)",
+        "Cladribine",
+        "Dengue Tetravalent Vaccine (Live)",
+        "Deucravacitinib",
+        "Dipyrone",
+        "Fexinidazole",
+        "Filgotinib",
+        "Natalizumab",
+        "Pimecrolimus",
+        "Poliovirus Vaccine (Live/Trivalent/Oral)",
+        "Ruxolitinib (Topical)",
+        "Tacrolimus (Topical)",
+        "Talimogene Laherparepvec",
+        "Tertomotide",
+        "Tofacitinib",
+        "Typhoid Vaccine",
+        "Upadacitinib"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "COVID-19 Vaccine (Adenovirus Vector)",
+        "COVID-19 Vaccine (mRNA)"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "IV",
+    "warnings_precautions": [
+      "Anaphylaxis: This may occur following dacarbazine administration",
+      "Bone marrow suppression: Hematologic toxicity is the most common dacarbazine toxicity",
+      "Extravasation: Dacarbazine is an irritant; local reactions may occur",
+      "Hepatotoxicity: Hepatotoxicity usually occurs with combination chemotherapy but may occur with Dacarbazine alone"
+    ],
+    "storage": null,
+    "id": 7
+  },
+  {
+    "category": null,
+    "name": "Fludarabine",
+    "abbreviation": null,
+    "generic_name": "Fludarabine",
+    "dosage_form_strengths": [
+      "50mg",
+      "50mg/2mL",
+      "10mg"
+    ],
+    "route_of_administration": "IV, Oral",
+    "pharmacologic_category": "Antimetabolite (Purine Analog), Antineoplastic agent",
+    "ATC_code": "L01BB05",
+    "indications": "B-cell chronic lymphocytic leukemia (CLL), Waldenström Macroglobulinemia, Acute Myeloid Leukemia in adults",
+    "dosage_regimen": {
+      "adult": "25 mg/m2 over 30 minutes daily for five consecutive days every 28 days",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Reduce dose to 20 mg/m2",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity reactions to Fludarabine or any components of the formulation",
+      "Renal impaired patients with a creatinine clearance of less than 30 ml/minute",
+      "In patients with decompensated hemolytic anemia"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Bone marrow suppression, Autoimmune effects, Neurotoxicity, >10%"
+    },
+    "monitoring_parameters": "CBC with differential and platelet count, Liver function test, Kidney function test, Serum uric acid",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Abrocitinib",
+        "Baricitinib",
+        "BCG (Intravesical)",
+        "Cladribine",
+        "Deucravacitinib",
+        "Fexinidazole",
+        "Filgotinib",
+        "Mumps-Rubella-or-Varicella-Containing Live Vaccines",
+        "Natalizumab",
+        "Pentostatin",
+        "Pimecrolimus",
+        "Poliovirus Vaccine",
+        "Tertomotide",
+        "Upadacitinib",
+        "Yellow Fever Vaccine"
+      ],
+      "risk_d": "Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "IV, Oral",
+    "warnings_precautions": [
+      "Neurologic Toxicities (Dose-Dependent)",
+      "Bone Marrow Suppression",
+      "Autoimmune Reactions"
+    ],
+    "storage": null,
+    "id": 8
+  },
+  {
+    "category": null,
+    "name": "Mercaptopurine",
+    "abbreviation": null,
+    "generic_name": "Mercaptopurine",
+    "dosage_form_strengths": [
+      "Tablets 50 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antimetabolite (Purine Analog); Antineoplastic Agent, Immunosuppressant",
+    "atc_code": "L01BB02",
+    "indications": "Acute lymphoblastic leukemia; Acute promyelocytic leukemia (Acute myeloid leukemia M3)",
+    "dosage_regimen": {
+      "adult": "1.5 to 2.5 mg/kg once daily (50 to 75 mg/m2 once daily)",
+      "pediatric": "1.5 to 2.5 mg/kg once daily (50 to 75 mg/m2 once daily)"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "N/A",
+      "renal_impairment_pediatric": "N/A",
+      "hepatic_impairment_adult": "N/A",
+      "hepatic_impairment_pediatric": "N/A"
+    },
+    "contraindications": [
+      "Hypersensitivity to mercaptopurine or any component of the formulation"
+    ],
+    "adverse_drug_reactions": {
+      "Myelosuppression": "Hepatotoxicity; Immunosuppression; Macrophage Activation Syndrome; >10%",
+      "Hepatotoxicity": "Bone marrow suppression; Hepatotoxicity; Hepatic necrosis (may be fatal); Hepatic encephalopathy",
+      "Immunosuppression": "Bone marrow suppression; Hepatotoxicity; Macrophage Activation Syndrome; Immunosuppression",
+      "Macrophage Activation Syndrome": "Macrophage Activation Syndrome (MAS); Discontinue Mercaptopurine if MAS develops or is suspected",
+      "Metabolism and nutrition disorders": "Administration of purine analogues, Azathioprine and Mercaptopurine, may interfere with the niacin pathway, potentially leading to nicotinic acid deficiency (pellagra)",
+      "Secondary malignancy": "Immunosuppressive agents, including mercaptopurine, are associated with the development of lymphoproliferative disorders and other malignancies, notably skin cancers, sarcomas and uterine cervical cancer in situ",
+      "Renal impairment": "Reduce initial dose or extend dosing interval in patients with preexisting liver disease or receiving other potentially hepatotoxic therapy"
+    },
+    "monitoring_parameters": "CBC with differential; Liver function test (transaminases, alkaline phosphatase, and bilirubin) at weekly intervals at the beginning and monthly intervals thereafter; Renal function test",
+    "drug_interactions": {
+      "Risk X": [
+        "Abrocitinib",
+        "Azathioprine",
+        "Baricitinib",
+        "BCG (Intravesical)",
+        "Brivudine",
+        "Cladribine",
+        "Dengue Tetravalent",
+        "Vaccine (Live)",
+        "Deucravacitinib",
+        "Dipyrone",
+        "Febuxostat",
+        "Fexinidazole",
+        "Filgotinib",
+        "Mumps- Rubella- or Varicella-Containing Live Vaccines",
+        "Nadofaragene Firadenovec",
+        "Natalizumab",
+        "Pimecrolimus",
+        "Poliovirus Vaccine (Live/Trivalent/Oral)",
+        "Ribavirin",
+        "Ritlecitinib",
+        "Ruxolitinib (Topical)",
+        "Tacrolimus (Topical)",
+        "Talimogene",
+        "Laherparepvec",
+        "Tertomotide",
+        "Tofacitinib",
+        "Typhoid Vaccine",
+        "Upadacitinib",
+        "Vaccines (Live)",
+        "Yellow Fever Vaccine"
+      ],
+      "Risk D": [
+        "Allopurinol",
+        "Coccidioides immitis Skin Test",
+        "COVID-19 Vaccine (Adenovirus Vector)",
+        "COVID-19 Vaccine (mRNA)",
+        "Deferiprone",
+        "Denosumab",
+        "Influenza Virus Vaccines",
+        "Leflunomide",
+        "Lenograstim",
+        "Lipegfilgrastim",
+        "Methotrexate",
+        "Palifermin",
+        "Polymethylmethacrylate",
+        "Ropeginterferon Alfa-2b",
+        "Sipuleucel-TVaccines (Inactivated/Non-Replicating)"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Avoid",
+      "lactation": "Not recommended due to the potential of serious adverse reactions in nursing infants, women should discontinue breastfeeding during therapy"
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Bone marrow suppression; Hepatotoxicity; Immunosuppression; Macrophage Activation Syndrome; >10%; Metabolism and nutrition disorders; Secondary malignancy; Renal impairment"
+    ],
+    "storage": "Storage: Use appropriate precautions for receiving, handling, storage, preparation, dispensing, transporting, administration, and disposal",
+    "id": 9
+  },
+  {
+    "category": null,
+    "name": "CAPECITABINE",
+    "abbreviation": null,
+    "generic_name": "CAPECITABINE",
+    "dosage_form_strengths": [
+      "Tablets: 500 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Pyrimidine Analogue, Antimetabolite, Antineoplastic Agent",
+    "ATC_code": "L01BC06",
+    "indications": "Colon cancer: Adjuvant therapy for patients with stage III; Metastatic Colorectal Cancer; Metastatic Breast Cancer: In combination with docetaxel after failure of prior anthracycline-containing therapy; Metastatic Breast Cancer or Locally advanced: As monotherapy after failure of Taxanes and an anthracycline-containing chemotherapy regimen or for whom further anthracycline therapy is not indicated; Advanced Gastric cancer: First line in combination with a platinum-based regimen",
+    "dosage_regimen": {
+      "adult": "1250 mg/m2 twice daily for 2 weeks, followed by a 1-week rest period, given as 3-week cycles",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 10
+  },
+  {
+    "category": null,
+    "name": "GEMCITABINE",
+    "abbreviation": null,
+    "generic_name": "Gemcitabine",
+    "dosage_form_strengths": [
+      "Powder for Solution for I.V Infusion: 1 gm, 200 mg",
+      "Concentrate for Solution For I.V Infusion: 200 mg/5ml, 1000 mg/100ml, 1000mg/26.316ml, 2000 mg/50 ml"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Antineoplastic Agent, Antimetabolite (Pyrimidine Analog)",
+    "atc_code": null,
+    "indications": "Bladder cancer, locally advanced or metastatic, in combination with Cisplatin; Pancreatic Cancer: locally advanced or metastatic adenocarcinoma of the pancreas; Non-small cell lung cancer: locally advanced, or metastatic, as first-line treatment (in combination with cisplatin); Ovarian cancer: locally advanced or metastatic, in combination with Carboplatin, in patients with relapsed disease following a recurrence -free interval of at least 6 months after platinum-based, first-line therapy; Breast cancer: unresectable, locally recurrent, or metastatic breast cancer in combination with paclitaxel, following adjuvant/neoadjuvant chemotherapy",
+    "dosage_regimen": {
+      "adult": "1250 mg/m2 over 30 minutes on Days 1 and 8 of each 21-day cycle",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hypersensitivity, Myelosuppression, Hepatic Toxicity, Pulmonary Toxicity and Respiratory Failure, Hemolytic Uremic Syndrome, Cardiovascular: Peripheral edema (20%), edema (≤13%)",
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "IV",
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 11
+  },
+  {
+    "category": "Antineoplastic Agent, Antimicrotubular; Taxane Derivative",
+    "name": "Paclitaxel",
+    "abbreviation": "PACLITAXEL",
+    "generic_name": "Paclitaxel",
+    "dosage_form_strengths": [
+      "Concentrate for solution for Infusion (6mg/ml)",
+      "30mg/5ml, 150ml/25ml, 300mg/25ml, 300/50ml"
+    ],
+    "route_of_administration": "Intravenous",
+    "pharmacologic_category": "Antineoplastic Agent, Antimicrotubular; Taxane Derivative",
+    "atc_code": "L01CD01",
+    "indications": "Breast cancer : Adjuvant treatment of node-positive breast cancer (as sequential therapy following anthracycline-containing combination chemotherapy); Kaposi sarcoma (AIDS-related): Second-line treatment of AIDS-related Kaposi sarcoma; Non-small cell lung cancer: First-line treatment of non-small cell lung cancer (in combination with cisplatin) in patients who are not candidates for potentially curative surgery and/or radiation therapy; Ovarian cancer : Subsequent therapy for treatment of advanced ovarian cancer; (in combination with cisplatin); Primary peritoneal cancer; Fallopian tube cancer",
+    "dosage_regimen": {
+      "adult": "175 mg/m2 over 3 hours every 3 weeks for 4 cycles (Breast cancer); 220 mg/m2 administered intravenously over a period of 3 hours, every 3 weeks, 24 hours after doxorubicin 50mg/m2 (Breast cancer); 175 mg/m2 administered intravenously over a period of 3 hours, every 3 weeks, 24 hours in combination with trastuzumab (Breast cancer)",
+      "pediatric": "135 mg/m2 over 24 hours every 3 weeks (Kaposi sarcoma); 135 mg/m2 over 24 hours administered every 3 weeks (Kaposi sarcoma); 100 mg/m2 over 24 hours administered every 2 weeks (AIDS-related Kaposi sarcoma)",
+      "hepatic_impairment_adult": "135 mg/m2 over 3 hours every 3 weeks or 100 mg/m2 over 3 hours every 2 weeks (AIDS-related Kaposi sarcoma)",
+      "hepatic_impairment_pediatric": "90 mg/m2 over 24 hours every 3 weeks (AIDS-related Kaposi sarcoma)"
+    },
+    "contraindications": [
+      "Hypersensitivity to Paclitaxel, or any component of the formulation; Do not initiate or repeat treatment of solid tumors in patients with neutrophil counts < 1,500/mm3 (< 1000/mm3 for Kaposi sarcoma); Do not initiate or repeat treatment of solid tumors in patients with platelets counts < 100,000/mm³ (< 75,000/mm³ for KS patients)",
+      "Pregnancy: Paclitaxel can cause fetal harm when administered to a pregnant woman; Female and male patients should use contraceptions for at least 6 months after treatment with Paclitaxel; Paclitaxel produced impairment of fertility in male and female rats"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Peripheral neuropathy: Dose related. In severe cases, a dose reduction of 20% (25% for KS patients) is recommended for all subsequent courses of paclitaxel.",
+      "≥10%": "Respiratory: Pneumonia"
+    },
+    "frequency_not_defined": [
+      "Gastrointestinal: Peritonitis",
+      "Infection: Sepsis",
+      "Local: Erythema at injection site, skin discoloration at injection site, swelling at injection site, tenderness at injection site"
+    ],
+    "extravasation_management": "Stop infusion immediately and disconnect (leave cannula/needle in place); gently aspirate extravasated solution (do NOT flush the line); remove needle/cannula; initiate antidote (hyaluronidase) if appropriate; remove needle/cannula; ele",
+    "id": 12
+  },
+  {
+    "category": null,
+    "name": "VINCRISTINE",
+    "abbreviation": null,
+    "generic_name": "Vincristine",
+    "dosage_form_strengths": [
+      "1mg/ml",
+      "2mg/2ml",
+      "1mg"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Antineoplastic Agent, Antimicrotubular, Vinca Alkaloid",
+    "ATC_code": "L01CA02",
+    "indications": "Leukaemias, malignant lymphomas, multiple myeloma, solid tumours, paediatric solid tumours, idiopathic thrombocytopenic purpura, central nervous system tumours, Thymomas",
+    "dosage_regimen": {
+      "adult": "1.4 to 1.5 mg/m2 at weekly intervals up to a maximum weekly dose of 2 mg",
+      "pediatric": "1.4 to 2 mg/m2 given on a weekly basis with a maximum weekly dose of 2 mg",
+      "children weighing 10 kg or less": "0.05 mg/kg administered as a weekly intravenous injection"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Patients with the demyelinating form of Charcot-Marie-Tooth syndrome",
+      "Hypersensitivity to vincristine sulfate or to any of the excipients"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hair loss, neuromuscular symptoms, paralytic ileus"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Fexinidazole, Fusidic Acid (Systemic)",
+        "Strong CYP3A4 Inhibitors (e.g. Clarithromycin, Itraconazole, Ketoconazole, Paconazole, Lenograstim, Lipegfilgrastim, Palifermin, Phenytoin)"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Strong CYP3A4 Inhibitors (e.g. Clarithromycin, Itraconazole, Ketoconazole, Paconazole, Lenograstim, Lipegfilgrastim, Palifermin, Phenytoin)"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "IV",
+    "warnings_precautions": [
+      "Warm dry compresses for 20 minutes 4 times daily for 1-2 days",
+      "Local injection of hyaluronidase with the application of heat can be used to minimize discomfort and the possibility of tissue damage",
+      "Emetogenicity Minimal emetic risk: <10% frequency of emesis"
+    ],
+    "storage": null,
+    "id": 13
+  },
+  {
+    "category": "Antineoplastic Agent, Antimicrotubular, Vinca Alkaloid",
+    "name": "Vinorelbine",
+    "abbreviation": "V",
+    "generic_name": "Vinorelbine",
+    "dosage_form_strengths": [
+      "Concentrate for Solution For I.V Infusion: 10 mg/ml, 50mg/5ml",
+      "Capsule: 20mg, 30mg"
+    ],
+    "route_of_administration": "Vinorelbine must only be administered by the intravenous route. The use of intrathecal route is contra-indicated.",
+    "pharmacologic_category": "Antineoplastic Agent, Antimicrotubular, Vinca Alkaloid",
+    "atc_code": "L01CA04",
+    "indications": "Breast cancer, metastatic in which chemotherapy with anthracycline and taxane has failed or is inadequate. Non-small cell lung cancer, metastatic or locally advanced (as monotherapy and in combination with cisplatin). Hodgkin lymphoma, Cervical cancer, Malignant pleural mesothelioma, Ovarian cancer, Salivary gland cancer, Soft tissue sarcoma",
+    "dosage_regimen": {
+      "adult": "Intravenous: 25-30 mg/m² once weekly. For non-small cell lung cancer, as combination therapy: frequency of administration is reduced e.g. day 1 and 5 every 3 weeks or day 1 and 8 every 3 weeks according to treatment protocol. Maximum tolerated dose per administration: 35.4 mg/m² or 60 mg.",
+      "pediatric": "Initial 60mg/m² once weekly for 3 weeks then increase to 80mg2 once weekly (only if neutrophil has not fallen during the initial treatment below 500/mm3 or more than once between 500 and 1000/mm3). Maximum Oral tolerated dose: 120 mg per week (at 60 mg/m2) and 160 mg per week (at 80 mg/m2)",
+      "renal_impairment_adult": "No dosage adjustment is necessary.",
+      "renal_impairment_pediatric": "No dosage adjustment is necessary.",
+      "hepatic_impairment_adult": "Severe liver impairment: Not recommended. May give 20mg/m2 and close monitoring of hematological parameters.",
+      "hepatic_impairment_pediatric": "No dosage adjustment is necessary."
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or other vinca alkaloids, or to any of the excipients",
+      "Neutrophil count < 1,000/mm³ or severe current or recent infection (within the last 2 weeks)",
+      "Thrombocyte count below 100,000/mm³ and severe hepatic insufficiency may be considered as contraindication."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Neutropenia (80% to 85%; grades 3/4: 29% to 69%), leukopenia (81% to 83%; grades 3/4: 12% to 32%), anemia (77%; grades 3/4: 1% to 9%). Hepatic: Increased serum aspartate aminotransferase (54%)."
+    },
+    "monitoring_parameters": "Liver function test",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Abrocitinib, Baricitinib, BCG (Intravesical), BCG Products, Brivudine, Cladribine, Deucravacitinib, Dipyrone, Fexinidazole, Filgotinib Mumps- Rubella- or Varicella-Containing Live Vaccines, Nadofaragene Firadenovec, Natalizumab, Pimecrolimus, Poliovirus Vaccine (Live/Trivalent/Oral), Ritlecitinib, Tacrolimus (Topical), Talimogene Laherparepvec, Tertomotide, Tofacitinib, Typhoid Vaccine, Upadacitinib, Vaccines (Live), Yellow Fever Vaccine."
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Coccidioides immitis Skin Test, COVID-19 Vaccine (Adenovirus Vector), COVID-19 Vaccine (mRNA), Deferiprone, Denosumab, Influenza Virus Vaccines, Leflunomide, Lenograstim, Lipegfilgrastim, Palifermin, Polymethylmethacrylate, Rabies Vaccine, Ropeginterferon Alfa-2b, Sipuleucel-T, Vaccines (Inactivated/Non-Replicating)."
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Contraindicated. Vinorelbine may cause fetal harm if administered during pregnancy. Patients should use effective contraception during vinorelbine treatment and for 3- 6 months after discontinue therapy.",
+      "lactation": "Not recommended due to the potential for serious adverse reactions in the breastfed infant."
+    },
+    "administration": "IV, Oral",
+    "warnings_precautions": [
+      "Bone marrow suppression: Fatal severe myelosuppression may occur.",
+      "Neutropenia, thrombocytopenia, and anemia may occur with vinorelbine; neutropenia is the major dose-limiting toxicity (grade 3 or 4 neutropenia has commonly occurred). Neutropenia may result in hospitalization (for fever) and/or sepsis. The neutrophil nadir occurs between 7 to 10 days after administration, and recovery occurs within the following 5 to 7 days.",
+      "Hepatic impairment: Drug-induced liver injury (elevated AST and bilirubin) occur in patients receiving Vinorelbine injection. If there is significant hepatic impairment the dose should be reduced. Caution and careful hematological monitoring are necessary. Vinorelbine should not be given concomitantly with radiotherapy if the treatment field includes the liver.",
+      "Pulmonary toxicity: including bronchospasm – especially if used concomitantly with mitomycin C. Appropriate precautionary measures should be considered. Patients should be informed that they should contact the physician in case of dyspnea."
+    ],
+    "extravasation": "Vinorelbine is vesicant and must be administered intravenously with care to avoid extravasation and local irritation. If extravasation occurred, infusion must be stopped immediately, the vein flushed through with sodium chloride (0.9 %) solution and the rest of the dose should be administered in another vein. Extravasation management: Apply warm dry compresses for 20 minutes 4 times daily for 1-2 days. Local injection of hyaluronidase with the application of heat can be used to minimize discomfort and the possibility of tissue damage. A dose of 1–6 ml of 150 U/ml hyaluronidase solution is injected through the existing IV line as 1 ml of hyaluronidase solution for each 1 ml of extravasated drug.",
+    "emetogenicity": "Minimal emetic risk (<10% frequency of emesis).",
+    "id": 14
+  },
+  {
+    "category": "Antineoplastic Agent, Anthracycline, Topoisomerase II Inhibitor",
+    "name": "Epirubicin",
+    "abbreviation": "EPIRUBICIN",
+    "generic_name": "Epirubicin",
+    "dosage_form_strengths": [
+      "2 mg/ml",
+      "10 mg",
+      "50 mg"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Antineoplastic Agent, Anthracycline, Topoisomerase II Inhibitor",
+    "indications": "Breast cancer, adjuvant treatment: Used as a component of adjuvant therapy in patients with evidence of axillary node tumor involvement following resection of primary breast cancer. Ovarian, gastric, lung and colorectal carcinomas. Malignant lymphomas, leukaemias and multiple myeloma. Bladder cancer. Small cell lung cancer.",
+    "dosage_regimen": {
+      "adult": "100 to 120 mg/m^2 per 3- or 4-week treatment cycle as follows: CEF-120 regimen: IV: 60 mg/m^2 on days 1 and 8 every 28 days for 6 cycles in combination with cyclophosphamide and fluorouracil. FEC-100 regimen: IV: 100 mg/m^2 on day 1 every 21 days for 6 cycles in combination with cyclophosphamide and fluorouracil. Bladder cancer, non-muscle-invasive Intravesical instillation: 50 or 80 mg as a single instillation (retained for 1 hour) within 6 hours postoperatively after transurethral resection.",
+      "pediatric": "60 mg/m^2 on days 1 and 8 every 28 days for 6 cycles in combination with cyclophosphamide and fluorouracil"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary",
+      "renal_impairment_pediatric": "Consider lower doses",
+      "hepatic_impairment_adult": "Consider lower doses",
+      "hepatic_impairment_pediatric": "Consider lower doses"
+    },
+    "contraindications": [
+      "Severe hypersensitivity to epirubicin, other anthracyclines, anthracenediones, or any component of the formulation",
+      "Severe myocardial insufficiency, recent myocardial infarction, or severe arrhythmias",
+      "Previous treatment with anthracyclines up to the maximum cumulative dose",
+      "Severe persistent drug-induced myelosuppression",
+      "Severe hepatic impairment (Child-Pugh class C or serum bilirubin >5 mg/dL)"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Cardiac toxicity: Congestive heart failure, can occur with Epirubicin. The risk of cardiomyopathy is proportional to the cumulative exposure, with incidence rates from 3.3% at a cumulative dose of 900 mg/m^2. The risk of cardiomyopathy is further increased with concomitant cardiotoxic therapy. Assess heart function before and regularly during and after treatment with Epirubicin.",
+      "Congestive heart failure": "15% to 22%; grades 3/4: ≤2%"
+    },
+    "monitoring_parameters": "CBC with differential, ECG or multi-gated radionuclide angiography (MUGA), Liver function test, Pregnancy testing",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Abrocitinib",
+        "Baricitinib",
+        "BCG Products",
+        "Bevacizumab",
+        "Cimetidine",
+        "Cladribine",
+        "Deucravacitinib",
+        "Dipyrone",
+        "Fexinidazole",
+        "Filgotinib",
+        "Natalizumab",
+        "Pimecrolimus",
+        "Poliovirus Vaccine (Live/Trivalent/Oral)",
+        "Ruxolitinib (Topical)",
+        "Tacrolimus (Topical)",
+        "Tertomotide",
+        "Tofacitinib",
+        "Typhoid Vaccine",
+        "Upadacitinib",
+        "Vaccines (Live)",
+        "Yellow Fever Vaccine"
+      ],
+      "risk_d": [
+        "Consider therapy modification"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Pregnancy should be avoided by females of reproductive potential during epirubicin treatment and for at least 6 months after the last dose.",
+      "lactation": "It is not known if Epirubicin is present in human breast milk. Due to the potential for serious adverse reactions in the breastfed infant, breastfeeding is not recommended during treatment and for ≥7 days after the last epirubicin dose."
+    },
+    "administration": "IV",
+    "warnings_precautions": [
+      "Injection site reaction",
+      "Local: Injection site reaction",
+      "Ophthalmic: Conjunctivitis",
+      "Respiratory: Dyspnea, pulmonary edema"
+    ],
+    "central_nervous_system": {
+      "fever": "1% to 5%"
+    },
+    "dermatologic": {
+      "alopecia": "70% to 96%",
+      "skin rash": "1% to 9%",
+      "skin changes": "1% to 5%"
+    },
+    "endocrine_metabolic": {
+      "amenorrhea": "69% to 72%",
+      "hot flash": "5% to 39%"
+    },
+    "gastrointestinal": {
+      "nausea and vomiting": "83% to 92%; grades 3/4: 22% to 25%",
+      "mucositis": "9% to 59%; grades 3/4: ≤9%",
+      "diarrhea": "7% to 25%",
+      "anorexia": "2% to 3%",
+      "abdominal pain": "2% to 3%",
+      "esophagitis": "2% to 3%",
+      "neutropenic enterocolitis": "2% to 3%",
+      "stomatitis": "2% to 3%",
+      "toxic megacolon": "2% to 3%"
+    },
+    "genitourinary": {
+      "menopause": "Premature or early"
+    },
+    "hematologic_oncologic": {
+      "neutropenia": "54% to 80%; grades 3/4: 11% to 67%; nadir: 10 to 14 days; recovery: by day 21",
+      "leukopenia": "50% to 80%; grades 3/4: 2% to 59%",
+      "anemia": "13% to 72%; grades 3/4: ≤6%",
+      "thrombocytopenia": "5% to 49%; grades 3/4: ≤5%",
+      "febrile neutropenia": "grades 3/4: ≤6%",
+      "acute lymphocytic leukemia": "grades 3/4: ≤6%",
+      "acute myelocytic leukemia": "grades 3/4: ≤6%",
+      "myelodysplastic syndrome": "grades 3/4: ≤6%"
+    },
+    "hepatic": {
+      "ascites": "1% to 5%",
+      "hepatomegaly": "1% to 5%",
+      "increased serum transaminases": "1% to 5%"
+    },
+    "hypersensitivity": {
+      "hypersensitivity reaction": "15% to 22%; grades 3/4: ≤2%"
+    },
+    "infection": {
+      "infection": "15% to 22%; grades 3/4: ≤2%"
+    },
+    "local": {
+      "injection site reaction": "3% to 20%; grades 3/4: <1%"
+    },
+    "ophthalmic": {
+      "conjunctivitis": "1% to 15%"
+    },
+    "respiratory": {
+      "dyspnea": "1% to 5%",
+      "pulmonary edema": "1% to 5%"
+    },
+    "miscellaneous": {
+      "fever": "1% to 5%"
+    },
+    "id": 15
+  },
+  {
+    "category": null,
+    "name": "Mitoxantrone",
+    "abbreviation": null,
+    "generic_name": "Mitoxantrone",
+    "dosage_form_strengths": [
+      "20mg/10ml",
+      "12mg/m2 daily for five consecutive days"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": null,
+    "atc_code": null,
+    "indications": "Metastatic Breast Cancer, Non-Hodgkin’s Lymphoma, Acute myeloid leukemia in adults including Myelogenic, promyelocytic, monocytic, and erythroid acute leukemias, Chronic myeloid leukemia: Remission-induction treatment of blast crisis (in combination regimens), Prostate cancer: In combination with corticosteroids for palliation of advanced castrate-resistant or advanced hormone-refractory prostate cancer, Multiple sclerosis: Secondary (chronic) progressive, progressive relapsing, or worsening relapsing-remitting multiple sclerosis for reducing neurologic disability and/or the frequency of clinical relapses",
+    "dosage_regimen": {
+      "adult": "Metastatic Breast Cancer, Non-Hodgkin’s Lymphoma: Single Agent Therapy IV: 14 mg/m2 single dose, repeated at 21-day intervals. N.B. Reduced initial dose (12 mg/m2 or less) may be used in inadequate bone marrow reserves patients. Combination therapy IV: Initial: 7 to 12 mg/m2 depending on combinations and frequency of doses. Subsequent dosing If WBC nadir < 1,500 µl or platelet nadir < 50,000 µl: Decrease by 2 mg/m2 from prior dose given after recovery. If WBC nadir < 1,000 µl or platelet nadir < 25,000 µl: Decrease by 4 mg/m2 from prior dose given after recovery.",
+      "Acute myeloid leukemia": "Single Agent Therapy IV: 12 mg/m2 daily for five consecutive days (total of 60 mg/m2). Combination therapy Induction: IV infusion: 12 mg/m2 daily on Days 1 to 3, with Cytarabine 100 mg/m2 given as a continuous 24-hour infusion on Days 1 till day 7. Consolidation: IV continuous infusion: Mitoxantrone 12 mg/m2 daily on Days 1 and 2, and Cytarabine 100 mg/m2 given as a continuous 24-hour infusion on Days 1 till day 5. The first course of consolidation may be given approximately 6 weeks after the final induction course; the second course is generally administered 4 weeks after the first.",
+      "Chronic myeloid leukemia: Remission-induction treatment of blast crisis (in combination regimens)": "Single Agent Therapy IV: 14 mg/m2 single dose, repeated at 21-day intervals. N.B. Reduced initial dose (12 mg/m2 or less) may be used in inadequate bone marrow reserves patients. Combination therapy Initial: 7 to 12 mg/m2 depending on combinations and frequency of doses. Subsequent dosing If WBC nadir < 1,500 µl or platelet nadir < 50,000 µl: Decrease by 2 mg/m2 from prior dose given after recovery. If WBC nadir < 1,000 µl or platelet nadir < 25,000 µl: Decrease by 4 mg/m2 from prior dose given after recovery.",
+      "Prostate cancer": "In combination with corticosteroids for palliation of advanced castrate-resistant or advanced hormone-refractory prostate cancer",
+      "Multiple sclerosis": "Secondary (chronic) progressive, progressive relapsing, or worsening relapsing-remitting multiple sclerosis for reducing neurologic disability and/or the frequency of clinical relapses",
+      "Pediatric Dosing": "Safety and efficacy in pediatrics have not been established.",
+      "Monitoring Parameters": "CBC with differential platelet count, and hemoglobin with each dose. Liver function test. Electrolytes, Serum uric acid. Baseline evaluation of left ventricular ejection fraction (LVEF) and cardiac signs (by history, physical examination and ECG) for all patients, and prior to each dose for MS patients then yearly after stopping treatment. Monitor for hypersensitivity reactions; monitor the infusion site for signs of inflammation."
+    },
+    "drug_interactions": {
+      "Abrocitinib, Baricitinib, BCG Products, Brivudine, Cladribine, Dengue Tetravalent Vaccine (Live), Deucravacitinib, Dipyrone, Etrasimod, Fexinidazole, Filgotinib, Mumps- Rubella- or Varicella-Containing Live Vaccines, Nadofaragene Firadenovec, Natalizumab, Pimecrolimus, Poliovirus Vaccine (Live/Trivalen)": "Risk X: Avoid combination: Abrocitinib, Baricitinib, BCG Products, Brivudine, Cladribine, Dengue Tetravalent Vaccine (Live), Deucravacitinib, Dipyrone, Etrasimod, Fexinidazole, Filgotinib, Mumps- Rubella- or Varicella-Containing Live Vaccines, Nadofaragene Firadenovec, Natalizumab, Pimecrolimus, Poliovirus Vaccine (Live/Trivalen)"
+    },
+    "id": 16
+  },
+  {
+    "category": "generic_name",
+    "name": "Flutamide",
+    "abbreviation": "FLUTAMIDE",
+    "generic_name": "Flutamide",
+    "dosage_form_strengths": [
+      "250mg",
+      "Tablets"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antineoplastic Agent, Antiandrogen",
+    "ATC": "L02BB01",
+    "indications": "Prostate cancer that may be locally advanced or has metastasized (spread to other parts of the body)",
+    "dosage_regimen": {
+      "adult": "250 mg 3 times daily (every 8 hours) in combination with a luteinizing hormone-releasing hormone agonist"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment is necessary in patients with chronic renal insufficiency",
+      "renal_impairment_pediatric": "No dosage adjustment is necessary in patients with chronic renal insufficiency",
+      "hepatic_impairment_adult": "Mild to moderate impairment: No dosage available. May not be needed. Severe impairment: Use is contraindicated if jaundice develops, or serum ALT or AST exceeds 2 to 3 x ULN.",
+      "hepatic_impairment_pediatric": "No dosage adjustment is necessary in patients with chronic renal insufficiency"
+    },
+    "contraindications": [
+      "Hypersensitivity to flutamide or any component of the formulation",
+      "Severe hepatic impairment (evaluate baseline hepatic enzymes before treatment)",
+      "Adverse Drug Reactions",
+      "Gynecomastia: Gynecomastia may occur in patients receiving flutamide in combination with medical castration"
+    ],
+    "adverse_drug_reactions": {
+      ">10%": [
+        "Endocrine & metabolic: Hot flash (46% to 61%), galactorrhea (9% to 42%), decreased libido (36%), increased lactate dehydrogenase (transient; mild)",
+        "Gastrointestinal: Diarrhea (12% to 40%), vomiting (11% to 12%)",
+        "Genitourinary: Impotence (33%), cystitis (16%), breast tenderness",
+        "Hematologic & oncologic: Rectal hemorrhage (14%), flare tumor",
+        "Hepatic: Increased serum AST (transient; mild)"
+      ],
+      "1% to 10%": [
+        "Cardiovascular: Edema (4%), hypertension (1%)",
+        "Central nervous system: Anxiety, confusion, depression, dizziness, drowsiness, "
+      ]
+    },
+    "monitoring_parameters": "Liver function test",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Indium 111 Capromab Pendetide",
+        "Gallium Ga 68 PSMA-11, Flotufolastat F18, Piflufolastat F18"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Gallium Ga 68 PSMA-11, Flotufolastat F18, Piflufolastat F18"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Flutamide is not indicated for use in females",
+      "lactation": "Flutamide is not indicated for use in females"
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Concerns related to adverse effects",
+      "Aniline toxicity: 4-nitro-3-fluoro-methylaniline is a flutamide metabolite. Patients with G6PD deficiency, hemoglobin M disease, and/or smokers are at risk of toxicities associated with aniline exposure, including methemoglobinemia, hemolytic anemia, and cholestatic jaundice; consider monitoring methemoglobin levels.",
+      "Gynecomastia: Gynecomastia may occur in patients receiving flutamide in combination with medical castration.",
+      "Hepatic failure: [US Boxed Warning]: reports of hospitalization and death (rare) due to liver failure have been reported with flutamide. Evidence of hepatic injury, hepatic encephalopathy, and death related to acute hepatic failure. Hepatotoxicity was reversible after discontinuation in some cases. Closely monitor LFTs. Use is contraindicated in patients with severe hepatic impairment.",
+      "Disease-related concerns",
+      "Cardiovascular disease: Androgen-deprivation therapy may increase the risk for cardiovascular disease."
+    ],
+    "storage": "Store from 15°C to 30°C. Dispense with a child-resistant closure in a tight, light-resistant container.",
+    "patient_counselling": [
+      "If you have diarrhea with this drug, talk with your doctor. Decrease dairy products.",
+      "Increased sensitivity to ultraviolet (UV) light resulting in an exaggerated sunburn-like reaction accompanied by stinging sensations and urticaria.",
+      "May induce hepatotoxicity, abnormal appetite, Hair loss, cardiac disease (oedema).",
+      "Check CBC as you told. Anemia is induced.",
+      "Call doctor right away if Signs of methemoglobinemia appeared like a blue or gray color of the lips, nails, or skin; a heartbeat that does not feel normal; seizures; severe dizziness or passing out; severe headache; feeling very sleepy; feeling tired or weak; or shortness of breath."
+    ],
+    "id": 17
+  },
+  {
+    "category": null,
+    "name": "TAMOXIFEN",
+    "abbreviation": null,
+    "generic_name": "TAMOXIFEN",
+    "dosage_form_strengths": [
+      "Tablets 1 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antineoplastic Agent, Aromatase Inhibitor",
+    "atc_code": null,
+    "indications": "Breast cancer in postmenopausal women: • Locally advanced or metastatic breast cancer hormone receptor-positive. • Adjuvant treatment of hormone receptor-positive early breast cancer. • Treatment of advanced breast cancer with disease progression following tamoxifen therapy.",
+    "dosage_regimen": {
+      "adult": "1 mg once daily; continue until tumor progression to complete a total of 5 to 10 years of adjuvant endocrine therapy."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Not recommended.",
+      "renal_impairment_pediatric": "Not recommended.",
+      "hepatic_impairment_adult": "Not recommended.",
+      "hepatic_impairment_pediatric": "Not recommended."
+    },
+    "contraindications": [
+      "Hypersensitivity to Anastrozole or any component of the formulation",
+      "Premenopausal women"
+    ],
+    "adverse_drug_reactions": {
+      "Significant Considerations": [
+        "Bone mineral density loss/increased fracture risk: Decreased bone mineral density from baseline ~7% loss after 5 years have been reported",
+        "Ischemic cardiovascular events: in patients with preexisting cardiovascular disease and long duration (more than 3 years)",
+        "Musculoskeletal effects: new onset or exacerbation of existing arthralgia, joint stiffness, and/or ostealgia. >10%"
+      ]
+    },
+    "monitoring_parameters": "Bone mineral density at baseline and periodically thereafter. Total cholesterol and LDL. Pregnancy test (prior to treatment in females of reproductive potential). Monitor adherence.",
+    "drug_interactions": {
+      "Risk X: Avoid combination": [
+        "Estrogen Derivatives, Tamoxifen"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Pregnancy: Anastrozole may cause fetal harm if exposure occurs during pregnancy. May impair fertility in females of reproductive potential.",
+      "lactation": "Lactation: Due to the potential for serious adverse reactions in the breastfed infant, breastfeeding is not recommended during therapy or for 2 weeks after the last Anastrozole dose."
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Disease-related concerns: • Hepatic impairment: Plasma concentrations in patients with stable hepatic cirrhosis were within the range of concentrations seen in normal subjects across all clinical trials. Has not been studied in patients with severe hepatic impairment.",
+      "Special populations: • Premenopausal females: Aromatase inhibitors (including anastrozole) should not be used as monotherapy in premenopausal females with breast cancer.",
+      "Premenopausal females with metastatic breast cancer should be offered ovarian suppression or ablation along with hormonal therapy"
+    ],
+    "storage": "Store at 20°C to 25°C. No precautions needed for light protection.",
+    "patient_counselling": {
+      "Keys": [
+        "Have your scheduled CBC and bone density testing.",
+        "This drug lowers the estrogen in your body, which may cause weak bones which increase liability of fractures. Consider daily oral supplements of calcium and vitamin D for the duration of the therapy.",
+        "May cause hypercholesterolemia.",
+        "This drug is teratogenic and carcinogenic."
+      ]
+    },
+    "id": 18
+  },
+  {
+    "category": null,
+    "name": "EXEMESTANE",
+    "abbreviation": null,
+    "generic_name": "EXEMESTANE",
+    "dosage_form_strengths": [
+      "25mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antineoplastic Agent, Aromatase Inhibitor",
+    "atc_code": null,
+    "indications": "Breast cancer (in postmenopausal patients): • Adjuvant treatment of estrogen receptor–positive early breast cancer in postmenopausal patients who have received 2 to 3 years of tamoxifen (for completion of a total of 5 consecutive years of adjuvant hormonal therapy). • Treatment of advanced breast cancer in postmenopausal patients after tamoxifen therapy fail. May be used in combinations.",
+    "dosage_regimen": {
+      "adult": "25 mg once daily (following 2 to 3 years of tamoxifen therapy) for a total duration of 5 years of endocrine therapy (in the absence of recurrence or contralateral breast cancer).",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No adjustment necessary. Use with caution.",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "No adjustment necessary. Use with caution.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      ">10%": [
+        "Cardiovascular: Hypertension (5% to 15%).",
+        "Dermatologic: Alopecia (15%), hyperhidrosis (4% to 12%).",
+        "Endocrine & metabolic: Hot flash (13% to 33%).",
+        "Gastrointestinal: Nausea (9% to 18%)."
+      ],
+      ">10% (continued)": [
+        "Cardiovascular: Acute myocardial infarction (≤2%), angina pectoris (≤2%), chest pain (2% to 5%), edema (≤7%), ischemic heart disease (≤2%), lower extremity edema (≤ 7%), peripheral edema (≤7%).",
+        "Dermatologic: Dermatitis (8%), pruritus (2% to 5%), skin rash (2% to 5%)",
+        "Endocrine & metabolic: Increased gamma-glutamyl transferase (grades 3/4: 3%), weight gain (8%).",
+        "Gastrointestinal: Abdominal pain (6%), anorexia (6%), constipation (5%), diarrhea (4% to 10%), dyspepsia (2% to 5%), increased appetite (3%), vomiting (7%).",
+        "Genitourinary: Urinary tract infection (2% to 5%).",
+        "Hematologic & oncologic: Lymphedema (2% to 5%).",
+        "Hepatic: Increased serum bilirubin (5% to 7%).",
+        "Infection: Infection (2% to 5%).",
+        "Nervous system: Anxiety (10%), carpal tunnel syndrome (2%), confusion (2% to 5%), dizziness (8% to 10%), hypoesthesia (2% to 5%), paresthesia (3%), tumor pain (8%)",
+        "Neuromuscular & skeletal: Asthenia (6%), back pain (9%), limb pain (9%), muscle cramps (2%), myalgia (6%), osteoarthritis (6%), osteoporosis (5%), pathological fracture (4%), skeletal pain (2% to 5%).",
+        "Ophthalmic: Visual disturbance (5%).",
+        "Renal: Increased serum creatinine (6%).",
+        "Respiratory: Bronchitis (2% to 5%), cough (6%), dyspnea (10%), flu-like symptoms (6%), pharyngitis (2% to 5%), rhinitis (2% to 5%), sinusitis (2% to 5%), upper respiratory tract infection (2% to 5%).",
+        "Miscellaneous: Fever (5%)."
+      ]
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "Risk X: Avoid combination": [
+        "Estrogen Derivatives, St John's Wort"
+      ],
+      "Risk D: Consider therapy modification": [
+        "Barbiturates (phenobarbital), Carbamazepine, Phenytoin, Rifampicin"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": null,
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 19
+  },
+  {
+    "category": "Lenalidomide",
+    "name": "Lenalidomide",
+    "abbreviation": "LENALIDOMIDE",
+    "generic_name": "Lenalidomide",
+    "dosage_form_strengths": [
+      "Capsules: 5mg, 10mg, 15mg, 25mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Angiogenesis Inhibitor; Antineoplastic Agent",
+    "ATC_code": "L04AX04",
+    "indications": "Multiple Myeloma; Follicular lymphoma; Marginal Zone Lymphoma; Mantle cell lymphoma; Transfusion-dependent anemia; Mantle cell lymphoma relapsed or progressed after two prior therapies; Marginal zone lymphoma previously treated",
+    "dosage_regimen": {
+      "adult": "25 mg once daily on days 1 -21 of repeated 28-day cycles",
+      "pediatric": "10 mg once daily on days 1 to 21 of repeated 28-day cycles"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "40 mg orally once daily on days 1, 8, 15 and 22 of repeated 28-day cycles",
+      "renal_impairment_pediatric": "15 mg orally once daily on days 1 to 14 of each 21-day cycle in combination with bortezomib and dexamethasone",
+      "hepatic_impairment_adult": "40 mg orally once daily on days 1 to 4, 9 to 12, and 17 to 20 of each 28-day cycle for the first 4 cycles of therapy and then 40 mg once daily on days 1 to 4 every 28 days",
+      "hepatic_impairment_pediatric": "15 mg every other day on days 1 -14 of each 21-day cycle in combination with bortezomib and dexamethasone"
+    },
+    "contraindications": [
+      "Absolute Neutrophil Count (ANC) is < 1.0 x 10^9/L, and/or platelet counts are < 75 x 10^9/L"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hematologic Toxicities; Multiple myeloma; at lower dose level (dose level -1) when returns to ≥ 30 x 10^9/L; at lower dose level (dose level -1) when returns to ≥ 50 x 10^9/L; at lower dose level (dose level -1) when returns to ≥ 30 x 10^9/L; at lower dose level (dose level -1) when returns to ≥ 50 x 10^9/L"
+    },
+    "monitoring_parameters": "Renal Function",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Dexamethasone; Bortezomib; Melphalan and Prednisone"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Lenalidomide; Dexamethasone; Bortezomib; Melphalan and Prednisone"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Not recommended",
+      "lactation": "Not recommended"
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Dermatologic toxicity; Tumor flare reaction"
+    ],
+    "storage": "Not specified",
+    "id": 20
+  },
+  {
+    "category": null,
+    "name": "PEGFILGRASTIM",
+    "abbreviation": null,
+    "generic_name": "PEGFILGRASTIM",
+    "dosage_form_strengths": [
+      "6mg/0.6ml"
+    ],
+    "route_of_administration": "SC",
+    "pharmacologic_category": "Colony Stimulating Factor; Hematopoietic Agent",
+    "ATC_code": "L03AA13",
+    "indications": "Reduction in the duration of neutropenia and the incidence of febrile neutropenia in adult patients treated with cytotoxic chemotherapy for malignancy (with the exception of chronic myeloid leukemia and myelodysplastic syndromes)",
+    "dosage_regimen": {
+      "adult": "6 mg dose (a single pre-filled syringe) is recommended for each chemotherapy cycle, given at least 24 hours after cytotoxic chemotherapy.",
+      "pediatric": "No overall differences in safety were identified between adult and pediatric patients based on post-marketing data and scientific literature."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustments needed in any degree of kidney impairment.",
+      "renal_impairment_pediatric": "No dose adjustments available. Not studied.",
+      "hepatic_impairment_adult": "No dose adjustments available. Not studied.",
+      "hepatic_impairment_pediatric": "Not studied."
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients",
+      "Adverse Drug Reactions >10%"
+    ],
+    "adverse_drug_reactions": {
+      ">10%": "Neuromuscular and skeletal: Ostealgia (31%).",
+      "1% to 10%": "Neuromuscular and skeletal: Limb pain (9%).",
+      "Postmarketing": "Cardiovascular: Capillary leak syndrome, hypersensitivity angiitis, vasculitis (aortitis).",
+      "Dermatologic": "Sweet’s syndrome",
+      "Hematologic and oncologic": "Sickle cell crisis, splenic rupture, splenomegaly, thrombocytopenia.",
+      "Hypersensitivity": "Anaphylaxis, severe hypersensitivity reaction.",
+      "Local": "Injection site reaction.",
+      "Renal": "Glomerulonephritis.",
+      "Respiratory": "Acute respiratory distress syndrome, pulmonary alveolar hemorrhage.",
+      "Monitoring": "Parameters • CBC • Platelets"
+    },
+    "monitoring_parameters": "• CBC • Platelets",
+    "drug_interactions": {
+      "Risk X: Avoid combination": [
+        "Betibeglogene Autotemcel",
+        "Exagamglogene Autotemcel",
+        "Lovotibeglogene Autotemcel",
+        "Tisagenlecleucel"
+      ],
+      "Risk D: Consider therapy modification": [
+        "Belotecan Bleomycin Topotecan"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Pregnancy: No adequate human data. Potential risk.",
+      "lactation": "Lactation: There is insufficient data. A risk to the newborns or infants cannot be excluded."
+    },
+    "administration": "Administration: SC",
+    "warnings_precautions": [
+      "Traceability of the biological product: The name and the batch number of the administered product should be clearly recorded.",
+      "Fatal splenic rupture: Evaluate patients who report left upper abdominal or shoulder pain for an enlarged spleen or splenic rupture. May be asymptomatic and can be fatal.",
+      "Pulmonary adverse effects: Evaluate patients who develop cough, fever and dyspnea and radiological lung infiltrates or respiratory distress for acute respiratory distress syndrome (ARDS). Discontinue Pegfilgrastim in patients with ARDS and appropriate treatment should be given.",
+      "Serious allergic reactions, including anaphylaxis: Permanently discontinue Filgrastim in patients with serious allergic reactions.",
+      "Fatal sickle cell crises: Caution in patients with sickle cell trait or sickle cell disease. Discontinue Filgrastim if sickle cell crisis occurs.",
+      "Glomerulonephritis: Evaluate and consider dose-reduction or interruption of Pegfilgrastim if developed. Urinalysis monitoring is recommended.",
+      "Myelodysplastic syndrome or Chronic myeloid leukemia: The safety and efficacy of Pegfilgrastim administration in patients with myelodysplastic syndrome, or chronic myelogenous leukemia have not been established.",
+      "Myelodysplastic Syndrome (MDS) and Acute Myeloid Leukemia (AML): Monitor patients with breast and lung cancer using Pegfilgrastim in conjunction with chemotherapy and/or radiotherapy for signs and symptoms of MDS/AML.",
+      "Malignant cell growth: Granulocyte colony-stimulating factor can promote growth of myeloid cells and some non-myeloid cells in vitro.",
+      "Thrombocytopenia: Regular monitoring of platelet count and hematocrit is recommended.",
+      "Capillary leak syndrome: Has been reported after granulocyte-colony-stimulating factor administration. Can be life-threatening if treatment is delayed. It is characterized by hypotension, hypoalbuminemia, edema and hemoconcentration."
+    ],
+    "storage": "Store between 20C and 8C. Do not freeze. Protect from light. Do not shake.",
+    "id": 21
+  },
+  {
+    "category": null,
+    "name": "MESNA",
+    "abbreviation": null,
+    "generic_name": "Mesna",
+    "dosage_form_strengths": [
+      "200mg/2ml",
+      "400mg/4ml"
+    ],
+    "route_of_administration": "IV, Oral",
+    "pharmacologic_category": "Antidote; Chemoprotective Agent",
+    "atc_code": "V03AF01",
+    "indications": "Mesna is used as a prophylactic agent against Oxazaphosphorine (Ifosfamide or Cyclophosphamide)-induced hemorrhagic cystitis in doses considered to be urotoxic.",
+    "dosage_regimen": {
+      "adult": "IV bolus 40% (w/w) of Ifosfamide or Cyclophosphamide dose given at (0, 3, 6 and 9 hours). (Total dose = 160% (w/w) of the Oxazaphosphorine dose).",
+      "pediatric": "IV infusion 40% (w/w) of Ifosfamide or Cyclophosphamide dose given at (0, 3, 6 and 9 hours). (Total dose = 160% (w/w) of the Oxazaphosphorine dose)."
+    },
+    "contraindications": [
+      "Known hypersensitivity to Mesna or any component of the formulation"
+    ],
+    "adverse_drug_reactions": {
+      "Cardiovascular": "Flushing",
+      "Central nervous system": "Dizziness, drowsiness, headache, hyperesthesia, rigors",
+      "Dermatologic": "Skin rash",
+      "Gastrointestinal": "Anorexia, constipation, diarrhea, dysgeusia (with oral administration), flatulence, nausea, unpleasant taste (with oral administration), vomiting",
+      "Local": "Injection site reaction",
+      "Neuromuscular & skeletal": "Arthralgia, back pain",
+      "Ophthalmic": "Conjunctivitis",
+      "Respiratory": "Cough, flu-like symptoms, pharyngitis, rhinitis",
+      "Miscellaneous": "Fever"
+    },
+    "monitoring_parameters": "Monitor urine for the presence of hematuria and proteinuria.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Mesna",
+        "Ifosfamide",
+        "Cyclophosphamide"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Mesna"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "If Oxazaphosphorine therapy taken during pregnancy then Mesna should be administered to reduce hemorrhagic cystitis. No evidence of embryotoxic or teratogenic effects of Mesna in animals.",
+      "lactation": "Women should not breastfeed during therapy."
+    },
+    "administration": "IV bolus, may also be administered by short infusion or continuous infusion (maintain continuous infusion for 12 to 24 hours after completion of Ifosfamide infusion).",
+    "warnings_precautions": [
+      "Hematuria",
+      "Hypersensitivity Reactions",
+      "Benzyl Alcohol Toxicity"
+    ],
+    "storage": "Store between (20°C to 25°C). Protect from light.",
+    "id": 22
+  },
+  {
+    "category": null,
+    "name": "TOPOTECAN",
+    "abbreviation": null,
+    "generic_name": "Topotecan",
+    "dosage_form_strengths": [
+      "Lyophilized powder for I.V infusion: 4mg",
+      "Concentrate for Solution for I.V Infusion: 4mg (1mg/ml)"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Camptothecin; Antineoplastic Agent, Topoisomerase I Inhibitor.",
+    "atc_code": "L01CE01",
+    "indications": "Ovarian cancer, metastatic; Small cell lung cancer relapsed or progressive; Carcinoma of the cervix, recurrent after radiotherapy, and for patients with Stage IVB disease; Ewing Sarcoma, Soft tissue sarcoma.",
+    "dosage_regimen": {
+      "adult": "IV: 1.5 mg/m2/day for 5 consecutive days every 21 days, continue until disease progression or unacceptable toxicity",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Severe hypersensitivity to Topotecan or any component of the formulation; Severe bone marrow depression prior to starting first course, as evidenced by baseline neutrophils <1.5 x 10^9/l and/or a platelet count of <100 x 10^9/l"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Bone Marrow Suppression; Neutropenic Colitis; Interstitial Lung Disease; Extravasation; Central nervous system: Fatigue; Dermatologic: Alopecia; Gastrointestinal: Nausea, diarrhea, vomiting, anorexia; Hematologic & oncologic: Anemia, neutropenia, thrombocytopenia, febrile neutropenia, neutropenic infection."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "BCG (Intravesical), BCRP/ABCG2 Inhibitors, Chloramphenicol (Systemic), Cladribine, Dipyrone, Fexinidazole, Lasmiditan, Leniolisib, Pacritinib, P-glycoprotein/ABCB1 Inhibitors, Sparsentan, Taurursodiol, Velpatasvir, Voxilaprevir."
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Deferiprone, Erdafitinib, Fosphenytoin-Phenytoin, Granulocyte Colony-Stimulating Factors, Lenograstim, Lipegfilgrastim, Palifermin, Platinum Derivatives, Ropeginterferon Alfa-2b."
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "IV",
+    "warnings_precautions": [
+      "Bone marrow suppression; Neutropenic fever; Sepsis (sometimes fatal); Anemia (grades 3 or 4); Frequently monitor blood counts. Only give to patients with baseline neutrophils ≥1,500/mm3, platelets ≥100,000/mm3 and a hemoglobin level of ≥9 g/dl."
+    ],
+    "storage": null,
+    "id": 23
+  },
+  {
+    "category": null,
+    "name": "CHLORAMBUCIL",
+    "abbreviation": null,
+    "generic_name": "Chlorambucil",
+    "dosage_form_strengths": [
+      "2mg",
+      "tablet"
+    ],
+    "route_of_administration": "oral",
+    "pharmacologic_category": "Antineoplastic Agent, Alkylating Agent (Nitrogen Mustard)",
+    "atc_code": "L01AA02",
+    "indications": "Hodgkin’s disease, certain forms of non-Hodgkin’s lymphoma e.g. lymphosarcoma, giant follicular lymphoma. Chronic lymphocytic leukemia. Waldenstrom's macroglobulinemia.",
+    "dosage_regimen": {
+      "adult": "0.2 mg/kg/day for 4-8 weeks",
+      "pediatric": "0.1-0.2 mg/kg/day for 4-8 weeks"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "0.1 mg/kg/day",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to chlorambucil or any of the excipients",
+      "Prior resistance for chlorambucil"
+    ],
+    "adverse_drug_reactions": {
+      "≥10%": "Blood and lymphatic system: Leukopenia, neutropenia, thrombocytopenia, pancytopenia, or bone marrow suppression",
+      "≥1%": "Neoplasms benign, malignant, and unspecified (including cysts and polyps): Acute secondary hematologic malignancies (especially leukemia and myelodysplastic syndrome), particularly after long-term treatment",
+      "Blood and lymphatic system: Anemia\",\n    ": "ervous system: Convulsions in children with nephrotic syndrome",
+      "Gastrointestinal disorders: Gastrointestinal disorders such as nausea and vomiting, diarrhea, and mouth ulceration\",\n    ": "entral nervous system: Drug fever, peripheral neuropathy",
+      "Dermatologic: Allergic skin reaction, skin rash, urticaria\",\n    ": "ndocrine & metabolic: Amenorrhea",
+      "Gastrointestinal: Diarrhea (infrequent), nausea (infrequent), oral mucosa ulcer (infrequent), vomiting (infrequent)\",\n    ": "enitourinary: Azoospermia, cystitis (sterile), infertility"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Abrocitinib, Baricitinib, BCG (Intravesical), BCG Products, Brivudine, Cladribine, Dengue Tetravalent Vaccine (Live), Deucravacitinib, Dipyrone, Fexinidazole, Filgotinib, Mumps- Rubella- or Varicella-Containing Live Vaccines, Nadofaragene Firadenovec, Natalizumab, Pimecrolimus, Poliovirus Vaccine (Live/Trivalent/Oral), Ritlecitinib, Ruxolitinib (Topical), Tacrolimus (Topical), Talimogene Laherparepvec, Tertomotide, Tofacitinib, Typhoid Vaccine, Upadacitinib, Vaccines (Live), Yellow Fever Vaccine"
+      ],
+      "pregnancy_lactation": {
+        "pregnancy": null,
+        "lactation": null
+      },
+      "administration": "Oral",
+      "warnings_precautions": [
+        "Bone marrow suppression: Chlorambucil may cause severe bone marrow suppression but is usually reversible",
+        "Secondary malignancy: Chlorambucil is a human carcinogen",
+        "Seizures: Reported in patients with nephrotic syndrome, high pulse doses and a history of seizure disorder are at higher risk of seizures. Use with caution in these patients"
+      ],
+      "storage": null
+    },
+    "id": 24
+  },
+  {
+    "category": null,
+    "name": "Melphalan",
+    "abbreviation": null,
+    "generic_name": "Melphalan",
+    "dosage_form_strengths": [
+      "Tablet: 2 mg.",
+      "Oral: 0.15-0.25 mg/kg/day in divided doses for 4 days. Repeat at intervals of six weeks.",
+      "Oral: 6mg daily for 2-3 weeks (adjust the dose if needed on weekly blood count results) then rest period for up to 4 weeks. When white blood cell and platelet counts are rising, use a maintenance dose of 2 mg daily.",
+      "Oral: 10 mg/day for 7 to 10 days. Continuous maintenance therapy: 2 mg/day is instituted when the white blood cell count is greater than 4,000 cells/mcL and the platelet count is greater than 100,000 cells/mcL.",
+      "Oral: 0.15 mg/kg/day for 7 days. Rest period 2-6 weeks. The maintenance dose is 0.05 mg/kg/day or less and is adjusted according to the blood count.",
+      "Oral: 0.2 mg/kg/day for 5 days, repeat every 4 to 8 weeks or as soon as the bone marrow has recovered"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antineoplastic Agent, Alkylating Agent (Nitrogen Mustard)",
+    "atc_code": null,
+    "indications": "Multiple myeloma, Advanced ovarian cancer, Polycythemia rubra vera, Advanced breast cancer",
+    "dosage_regimen": {
+      "adult": "0.15-0.25 mg/kg/day in divided doses for 4 days. Repeat at intervals of six weeks.",
+      "pediatric": "6mg daily for 2-3 weeks (adjust the dose if needed on weekly blood count results) then rest period for up to 4 weeks. When white blood cell and platelet counts are rising, use a maintenance dose of 2 mg daily.",
+      "renal_impairment_adult": "0.05 mg/kg/day or less and is adjusted according to the blood count.",
+      "renal_impairment_pediatric": "0.05 mg/kg/day or less and is adjusted according to the blood count.",
+      "hepatic_impairment_adult": "0.05 mg/kg/day or less and is adjusted according to the blood count.",
+      "hepatic_impairment_pediatric": "0.05 mg/kg/day or less and is adjusted according to the blood count."
+    },
+    "contraindications": [
+      "History of severe hypersensitivity to Melphalan."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Anemia (≥50%), decreased neutrophils (≥50%), decreased platelet count (≥50%), decreased white blood cell count (≥50%), febrile neutropenia (41%; grades 3/4: 28%), lymphocytopenia (≥50%)."
+    },
+    "monitoring_parameters": "CBC with differential platelet count, and hemoglobin.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Abrocitinib, Baricitinib, BCG Products, Brivudine, Cladribine, Dengue Tetravalent Vaccine (Live), Deucravacitinib, Dipyrone, Etrasimod, Fexinidazole, Filgotinib, Mumps- Rubella- or Varicella-Containing Live Vaccines, Nadofaragene Firadenovec, Natalizumab, Pimecrolimus, Poliovirus Vaccine (Live/Trivalent/Oral), Ritlecitinib, uxolitinib (Topical), Tacrolimus (Topical), Talimogene Laherparepvec, Tertomotide, Tofacitinib, Typhoid Vaccine, Upadacitinib, Vaccines (Live), Yellow Fever Vaccine."
+      ],
+      "pregnancy_lactation": {
+        "pregnancy": "Melphalan can cause fetal harm when administered to a pregnant woman."
+      },
+      "administration": "Take melphalan on an empty stomach, with a full glass of water, at the same time each day. If this upsets your stomach, you may take melphalan with food and tell your doctor.",
+      "warnings_precautions": [
+        "Bone marrow suppression: Severe bone marrow suppression can lead to infection or bleeding. Use with caution in patients with prior bone marrow suppression, impaired renal function (consider dose reduction), or who have received prior (or concurrent) chemotherapy or irradiation.",
+        "GI toxicity: GI toxicities, including nausea, vomiting, diarrhea, and mucositis are common, particularly when used in high doses for conditioning regimens. Nutritional support and/or analgesics may be necessary in patients with severe mucositis.",
+        "Secondary malignancy: Melphalan is considered potentially leukemogenic in humans. Secondary malignancies (including acute myeloid leukemia, myeloproliferative disease, and carcinoma) have been reported (some patients were receiving combination chemotherapy or radiation therapy)."
+      ],
+      "storage": "Store at 2°C to 8°C. Protect from light."
+    },
+    "id": 25
+  },
+  {
+    "category": "Antineoplastic Agent, Antimetabolite (Antifolate)",
+    "name": "Pemetrexed",
+    "abbreviation": "Pem",
+    "generic_name": "Pemetrexed",
+    "dosage_form_strengths": [
+      "500 mg/20 ml",
+      "1000 mg/40 ml",
+      "100 mg",
+      "500 mg"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Antineoplastic Agent, Antimetabolite (Antifolate)",
+    "atc_code": "L01BA04",
+    "indications": "Malignant pleural mesothelioma: Treatment of chemotherapy naïve patients with unresectable malignant pleural mesothelioma (in combination with Cisplatin). Non-small cell lung cancer (NSCLC) • Used for locally advanced or metastatic non-squamous non-small cell lung cancer (as first line in combination with Cisplatin or second line as monotherapy). • In combination with Pembrolizumab and Platinum chemotherapy, for the initial treatment of patients with metastatic non-squamous non-small cell lung cancer, with no EGFR or ALK genomic tumor aberrations.",
+    "dosage_regimen": {
+      "adult": "500 mg/m2 over 10 minutes on the first day of each 21-day cycle until disease progression or unacceptable toxicity",
+      "pediatric": "N/A"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "N/A",
+      "renal_impairment_pediatric": "N/A",
+      "hepatic_impairment_adult": "N/A",
+      "hepatic_impairment_pediatric": "N/A"
+    },
+    "contraindications": [
+      "Severe hypersensitivity to pemetrexed or any component of the formulation"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Anorexia (19% to 22%), diarrhea (5% to 13%; grades 3/4: 1%), nausea (12% to 31%; grades 3/4: ≤3%), stomatitis (≤15%; grades 3/4: ≤1%), vomiting (6% to 16%; grades 3/4: 2%).",
+      "Hematologic & oncologic: Anemia (15% to 19%; grades 3/4: 3% to 5%), neutropenia (6% to 11%; grades 3/4: 3% to 5%).\",\n    ": "ervous system: Fatigue (18% to 34%).",
+      "Respiratory: Pharyngitis (≤15%).\",\n    ": "ardiovascular: Edema (5%).",
+      "Dermatologic: Alopecia (6%), erythema multiforme (<5%), pruritus (7%).\",\n    ": "astrointestinal: Abdominal pain (1% to 5%), constipation (6%).",
+      "Hematologic & oncologic: Febrile neutropenia (<5%), thrombocytopenia (8%; grades 3/4: 2%).\",\n    ": "epatic: Increased serum alanine aminotransferase (8% to 10%), increased aspartate aminotransferase (7% to 8%).",
+      "Hypersensitivity: Hypersensitivity reaction (<5%).\",\n    ": "nfection: Infection (5%).",
+      "Nervous system: Neuropathy (sensory: 9%; motor: <5%).\",\n    ": "phthalmic: Conjunctivitis (≤5%), increased lacrimation (1% to <5%)."
+    },
+    "monitoring_parameters": "Complete blood count",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Abrocitinib",
+        "Baricitinib",
+        "BCG (Intravesical)",
+        "Brivudine",
+        "Cladribine",
+        "Dengue Tetravalent Vaccine (Live)",
+        "Deucravacitinib",
+        "Dipyrone",
+        "Etrasimod",
+        "Fexinidazole",
+        "Filgotinib",
+        "Mumps- Rubella- or Varicella-Containing Live Vaccines",
+        "Nadofaragene Firadenovec",
+        "Natalizumab",
+        "Pimecrolimus",
+        "Poliovirus Vaccine (Live/Trivalent/Oral)",
+        "Ritlecitinib",
+        "Ruxolitinib (Topical)",
+        "Tacrolimus (Topical)",
+        "Talimogene Laherparepvec",
+        "Taurursodiol",
+        "Tertomotide",
+        "Tofacitinib",
+        "Typhoid Vaccine",
+        "Upadacitinib",
+        "Vaccines (Live)",
+        "Yellow Fever Vaccine"
+      ],
+      "risk_d": [
+        "Coccidioides immitis Skin Test",
+        "COVID-19 Vaccine (Adenovirus Vector)",
+        "COVID-19 Vaccine (mRNA)",
+        "Deferiprone",
+        "Denosumab",
+        "Ibuprofen",
+        "Influenza Virus Vaccines",
+        "Leflunomide",
+        "Lenograstim",
+        "Lipegfilgrastim",
+        "Methotrexate",
+        "Palifermin",
+        "Polymethylmethacrylate",
+        "Ropeginterferon Alfa-2b",
+        "Sipuleucel-T",
+        "Vaccines (Inactivated/Non-Replicating)"
+      ]
+    },
+    "pregnancy_and_lactation": {
+      "pregnancy": "No human data. Animal studies have shown reproductive toxicity.",
+      "lactation": "Pregnancy: No human data. Lactation: No data. Lactation must be discontinued during Pemetrexed therapy."
+    },
+    "administration_hazardous_agent": "Use appropriate precautions for receiving, handling, storage, preparation, dispensing, transporting, administration, and disposal.",
+    "iv_infusion": "Infuse over 10 minutes on the first day of each 21-day cycle.",
+    "combination_treatments": [
+      "When used in combination with platinum-based therapy (Cisplatin or Carboplatin), administer Pemetrexed before the platinum. Patients should receive adequate antiemetic treatment and appropriate hydration prior to and/or after receiving treatment. • Administer pemetrexed after Pembrolizumab if administered on the same day."
+    ],
+    "id": 26
+  },
+  {
+    "category": null,
+    "name": "AZACITIDINE",
+    "abbreviation": null,
+    "generic_name": "Azacitidine",
+    "dosage_form_strengths": [
+      "100mg",
+      "100mg"
+    ],
+    "route_of_administration": "SC or IV injection",
+    "pharmacologic_category": "Antimetabolite; Antineoplastic Agent, DNA Methylation Inhibitor",
+    "atc_code": "L01BC07",
+    "indications": "N.B. Refer to literature and specific protocols for all indications.",
+    "dosage_regimen": {
+      "adult": "75 mg/m2 daily for 7 days",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to Azacitidine or any component of the formulation",
+      "Advanced malignant hepatic tumors",
+      "Breast-feeding",
+      "Adverse Drug Reactions (>10%)",
+      "Cardiovascular: Chest pain (16%)",
+      "Dermatologic: Ecchymoses (31%), erythema of skin (7% to 17%), pruritus (12%), skin rash (10% to 14%)",
+      "Gastrointestinal: Abdominal pain (13% to 22%), abdominal tenderness (12%), anorexia (21%), constipation (34% to 50%), decreased appetite (13%), diarrhea (36% to 50%; grades 3/4: 5%)",
+      "Hematologic & oncologic: Anemia (25% to 70%; grades 3/4: 4% to 14%), febrile neutropenia (7% to 16%; grades 3/4: 11% to 13%), leukopenia (18% to 48%; grades 3/4: 15%), neutropenia (32% to 74%; grades 3/4: 49% to 61%), petechia (11% to 24%; more common with IV administration)",
+      "Local: Bruising at injection site (5% to 14%), erythema at injection site (35% to 43%), injection-site reaction (14% to 29%), pain at injection site (19% to 23%)",
+      "Nervous system: Anxiety (5% to 13%), asthenia (≤44%), dizziness (11% to 19%), fatigue (≤44%), headache (22%), insomnia (9% to 11%), malaise (11%)",
+      "Neuromuscular & skeletal: Arthralgia (14% to 22%), limb pain (11%), myalgia (16%)",
+      "Respiratory: Dyspnea (5% to 29%), nasopharyngitis (15%), pneumonia (8% to 27%), upper respiratory infection (9% to 13%)"
+    ],
+    "Parameters": "CBC with differential and platelets at baseline and before each cycle, Renal function at baseline and before each cycle, Liver function tests, Electrolytes (serum bicarbonate)",
+    "Drug Interactions": "Risk X: Avoid combination: Abrocitinib, Baricitinib, BCG Products, Brivudine, Cedazuridine, Chikungunya Vaccine (Live), Chloramphenicol (Systemic), Cladribine, Dengue Tetravalent Vaccine (Live), Deucravacitinib, Dipyrone, Etrasimod, Fexinidazole, Filgotinib, Mumps- Rubella- or Varicella-Containing Live Vaccines, Nadofaragene Firadenovec, Natalizumab, Pimecrolimus, Poliovirus Vaccine (Live/Trivalent/Oral), Ritlecitinib, Ruxolitinib (Topical), Tacrolimus (Topical), Talimogene Laherparepvec, Tertomotide, Tofacitinib, Typhoid Vaccine, Upadacitinib, Vaccines (Live), Yellow Fever Vaccine",
+    "drug_interactions": null,
+    "id": 27
+  },
+  {
+    "category": "Unknown",
+    "name": "CYTARABINE",
+    "abbreviation": "CYTAR",
+    "generic_name": "Cytarabine",
+    "dosage_form_strengths": [
+      "Solution for injection",
+      "Lyophilized Powder",
+      "Intravenous (IV)",
+      "Intrathecal",
+      "Subcutaneous"
+    ],
+    "route_of_administration": "Intravenous (IV)",
+    "pharmacologic_category": "Antineoplastic Agent, Antimetabolite (Pyrimidine Analog)",
+    "ATC_code": "L01BC01",
+    "indications": "Acute lymphocytic leukemia, Acute myeloid (non-lymphocytic) leukemia of adults and pediatric patients, Chronic myeloid leukemia: in blast phase, Meningeal leukemia: Intrathecal administration of Cytarabine Injection (preservative free preparations only): Prophylaxis and treatment of meningeal leukemia.",
+    "dosage_regimen": {
+      "adult": "2 mg/kg/day by rapid IV injection daily for ten days. Then may be increased to 4 mg/kg/day until a therapeutic response or toxicity is evident. Or start by 0.5 to 1 mg/kg/day in one-hour infusions, then increase to rate of 2 mg/kg/day until toxicity is observed.",
+      "pediatric": "3-5 mg/kg daily, for five consecutive days, and can be repeated after rest period of 2 to 9 days, until the therapeutic response or toxicity is exhibited."
+    },
+    "contraindications": [
+      "Known hypersensitivity to Cytarabine or to any of the excipients.",
+      "Anemia, leucopenia, and thrombocytopenia of non-malignant etiology unless the benefits outweigh the risk.",
+      "Degenerative and toxic encephalopathies.",
+      "Pregnancy: Avoid. Human Data is not sufficient. Potential fetal harm and teratogenicity particularly when administered in the first trimester.",
+      "Lactation: Not recommended due to the potential serious adverse reactions in the breastfed infant."
+    ],
+    "adverse_drug_reactions": [
+      "Nausea, vomiting, anorexia, oral and anal inflammation or ulceration, rash, nausea, thrombophlebitis, vomiting, hepatic dysfunction, bleeding, diarrhea, fever."
+    ],
+    "monitoring_parameters": "CBC with differential and platelet count frequently, Monitor for signs/symptoms of bleeding, infection, neutropenic fever, Kidney and Liver function tests (periodic), Serum uric acid (hyperuricemia), Monitor pancreatic function (lipase and amylase)\",\n  \"drug_interactions",
+    "pregnancy_lactation": {
+      "pregnancy": "Avoid.",
+      "lactation": "Not recommended due to the potential serious adverse reactions in the breastfed infant."
+    },
+    "administration": "Intrathecal",
+    "warnings_precautions": [
+      "A Cytarabine syndrome: Characterized by fever, myalgia, bone pain, occasionally chest pain, maculopapular rash, conjunctivitis, and malaise. It usually occurs 6-12 hours following drug administration. Corticosteroids have been shown to be beneficial in treating or preventing this syndrome.",
+      "Eye disorders: Reversible corneal lesion and haemorrhagic conjunctivitis occurred. use prophylactic local corticosteroid eye drops.",
+      "Bone marrow suppression: The severity of these reactions are dose and schedule dependent. Therapy should be suspended or modified when platelet count reaches less than 50,000 or a polymorph nuclear count below 1000 per mm3. Following 5-day injections of 50 mg/m2 to 600 mg/m2, white cell depression follows a biphasic course. There is an initial fall starting the first 24 hours with a nadir at days 7-9 followed by a brief rise. A second and deeper fall reaches nadir at days 15-24. Then there is rapid rise to above baseline in the next 10 days."
+    ],
+    "storage": "Storage: Store intrathecal medications in an isolated location or container clearly marked with a label identifying as \"intrathecal\" use only.",
+    "id": 28
+  },
+  {
+    "category": "Antineoplastic Agent, Antimicrotubular, Taxane Derivative",
+    "name": "Docetaxel",
+    "abbreviation": "DOCETAXEL",
+    "generic_name": "Docetaxel",
+    "dosage_form_strengths": [
+      "Concentrate for Solution For I.V Infusion: 10mg, 20mg, 80mg, 140mg, 160mg",
+      "Route of Administration: IV",
+      "Pharmacologic Category: Antineoplastic Agent, Antimicrotubular, Taxane Derivative",
+      "ATC code: L01CD01",
+      "Indications: Breast cancer, Non-small cell lung cancer, Prostate cancer (castration-resistant), Gastric adenocarcinoma, Head and neck cancer, Other indications",
+      "Dosage Regimen: Premedications are recommended to reduce the incidence and severity of hypersensitivity reactions and fluid retention. Recommended Adult Dosing: Docetaxel is administered as a one-hour infusion every three weeks. Locally advanced or metastatic breast cancer (monotherapy or in combination): 60mg/m2 to 100 mg/m2. Breast cancer as adjuvant: 75mg/m2 administered 1 hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 every 3 weeks for 6 cycles. Non-small cell lung cancer: - NSCLC: after platinum therapy failure: 75 mg/m2 Single Agent - NSCLC: chemotherapy naive: 75 mg/m2 followed by cisplatin 75 mg/m2"
+    ],
+    "dosage_adjustment": {
+      "renal_impairment_adult": "75mg/m2",
+      "renal_impairment_pediatric": "75mg/m2",
+      "hepatic_impairment_adult": "75mg/m2",
+      "hepatic_impairment_pediatric": "75mg/m2"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or any of the excipients",
+      "Baseline neutrophil count of < 1,500 cells/mm3",
+      "Pregnant or breast-feeding",
+      "Severe liver impairment (no data available)"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Dermatologic: Alopecia (56% to 76%, can be permanent), dermatological reaction (20% to 48%; severe dermatological reaction: 5%), nail disease (11% to 41%). Endocrine & metabolic: Fluid retention (26% to 60%). Gastrointestinal: Diarrhea (23% to 43%; severe diarrhea: ≤6%), nausea (34% to 53%; severe nausea: ≤5%), stomatitis (19% to 53%; grades 3/4: 2%), vomiting (22% to 23%; severe vomiting: ≤5%). Hematologic & oncologic: Anemia (65% to 97%; grades 3/4: 8% to 9%), febrile neutropenia (5% to 14%), leukopenia (84% to 99%; grades 3/4: 49%; grade 4: 32% to 44%), neutropenia (84% to 99%; grades 3/4: 65%; grade 4: 75% to 86%; nadir [median]: 7 days, duration [severe neutropenia]: 7 days)",
+      "Hypersensitivity reaction (6% to 21%, including back pain, chest tightness, chills, drug fever, dyspnea, flushing, skin rash; severe hypersensitivity reaction: 3% to 4%). Infection: Infection (1% to 34%; severe infection: 2% to 6%). Nervous system: Central nervous system toxicity (20% to 58%; including dysesthesia: ≤6%, paresthesia: ≤6%). Neuromuscular & skeletal: Asthenia (53% to 66%; severe weakness: 13% to 18%), myalgia (3% to 23%; severe myalgia: 2%), neuromuscular reaction (16%). Respiratory: Pulmonary disease (41%). Miscellaneous: Fever (31% to 35%). 1% to 10%\",\n    ": "ardiovascular: Hypotension (3%). Gastrointestinal: Dysgeusia (6%). Hepatic: Increased serum alkaline phosphatase (7%), increased serum bilirubin (9%). Local: Infusion site reaction (4%; including erythema at injection site, exfoliation of skin, inflammation at injection site, injection site extravasation, local dryness of skin, skin discoloration at injection site, swelling at injection site [vein]). Nervous system: Peripheral motor neuropathy (4%; severe; mainly distal extremity weakness). Neuromuscular and skeletal: Arthralgia (3% to 9%). Monitoring Parameters: CBC with differential, Liver function tests ((bilirubin, AST, ALT, alkaline phosphatase; prior to each cycle), Pregnancy testing, Kidney function, Serum uric acid, Monitor for signs/symptoms of neurosensory symptoms, GI toxicity (eg, diarrhea, stomatitis, enterocolitis, and neutropenic colitis), cutaneous reactions or severe skin toxicity, visual impairment, fluid retention, epiphora, canalicular stenosis, tumor lysis syndrome, and second primary malignancies."
+    },
+    "interactions": [
+      "Abrocitinib, Baricitinib, BCG (Intravesical), BCG Products, Brivudine, Cladribine, Dengue Tetravalent Vaccine (Live), Deucravacitinib, Dipyrone, Fexinidazole, Filgotinib, Fusidic Acid (Systemic), Mumps- Rubella- or Varicella-Containing Live Vaccines, Nadofaragene Firadenovec, Natalizumab, Pimecrolimus, Poliovirus Vaccine (Live/Trivalent/Oral), Ruxolitinib (Topical), Tacrolimus (Topical), Talimogene Laherparepvec, Tertomotide, Tofacitinib, Typhoid Vaccine, Upadacitinib, Vaccines (Live), Yellow Fever Vaccine."
+    ],
+    "risk_x": "Avoid combination",
+    "pregnancy_and_lactation": "Pregnancy: Contraindicated. May cause fetal harm. No human -controlled studies. An effective method of contraception should be used during treatment. May alter male fertility.",
+    "administration_hazardous_agent": "IV",
+    "administration": "IV",
+    "administration_hazardous_agent_group": "NIOSH 2016 [group 1]",
+    "administration_hazardous_agent_name": "Use appropriate precautions for receiving, handling, storage, preparation, dispensing, transporting, administration, and disposal.",
+    "id": 29
+  },
+  {
+    "category": null,
+    "name": "Doxorubicin",
+    "abbreviation": null,
+    "generic_name": "Doxorubicin",
+    "dosage_form_strengths": [
+      "10mg",
+      "20mg",
+      "50mg",
+      "200mg"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Antineoplastic Agent, Anthracyclines, Topoisomerase II Inhibitor",
+    "atc_code": null,
+    "indications": "Hematology: acute lymphoblastic leukemia, Hodgkin lymphoma, non-Hodgkin lymphoma, Multiple myeloma; Breast cancer; Metastatic cases of Ovarian cancer, bone sarcoma, Soft tissue sarcoma, bladder cancer, Wilms tumor, thyroid carcinoma, neuroblastoma, gastric carcinoma, and bronchogenic carcinoma; Endometrial carcinoma; Salivary glands cancer; Head and neck; Adrenocortical carcinoma; Small cell lung cancer",
+    "dosage_regimen": {
+      "adult": "60 to 75 mg/m2 IV as a single dose or in divided doses on 2-3 consecutive days, repeated every 21 days",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Anthracycline hypersensitivity",
+      "Severe hepatic impairment",
+      "Severe myelosuppression",
+      "Severe arrhythmia, heart failure, previous cardiac infarct, acute inflammatory heart disease, or myocardial infarction",
+      "Increased hemorrhagic tendency",
+      "Previous treatment with anthracyclines with maximum cumulative doses"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "alopecia, nausea, and vomiting"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Abrocitinib",
+        "Baricitinib",
+        "BCG (Intravesical)",
+        "BCG Products",
+        "Bevacizumab",
+        "Brivudine",
+        "Cladribine",
+        "CYP2D6 Inhibitors",
+        "CYP3A4 Inducers",
+        "CYP3A4 Inhibitors",
+        "Dengue Tetravalent Vaccine (Live)",
+        "Deucravacitinib",
+        "Dipyrone",
+        "Fexinidazole",
+        "Filgotinib",
+        "Fusidic Acid (Systemic)",
+        "Lasmiditan",
+        "Mumps- Rubella- or Varicella-Containing Live Vaccines",
+        "Nadofaragene Firadenovec",
+        "Natalizumab",
+        "Pacritinib",
+        "P-glycoprotein/ABCB1 Inducers",
+        "P-glycoprotein/ABCB1 Inhibitors",
+        "Pimecrolimus",
+        "Poliovirus Vaccine (Live/Trivalent/Oral)",
+        "Ritlecitinib",
+        "Ruxolitinib (Topical)",
+        "Talimogene",
+        "Laherparepvec",
+        "Taurursodiol",
+        "Tertomotide",
+        "Tofacitinib",
+        "Typhoid Vaccine",
+        "Upadacitinib",
+        "Vaccines (Live) Yellow Fever Vaccine"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": null,
+    "warnings_precautions": [
+      "Secondary malignancy: Acute myelogenous leukemia and myelodysplastic syndrome occur at a higher incidence in patients treated with anthracyclines, including doxorubicin.",
+      "Severe myelosuppression resulting in serious infection, septic shock, requirement for transfusions, hospitalization, and death may occur.",
+      "Myocardial damage may occur including acute left ventricular failure.",
+      "Cumulative total lifetime dose of doxorubicin (including other anthracyclines) should not exceed 450-550 mg/m² body surface area.",
+      "Cumulative dose should not exceed 250mg/m2 in children or patients has other potential risk factors of cardiotoxicity e.g. received prior radiation therapy with monitoring of cardiac functions."
+    ],
+    "storage": null,
+    "id": 30
+  },
+  {
+    "category": null,
+    "name": "Bleomycin",
+    "abbreviation": null,
+    "generic_name": "Bleomycin",
+    "dosage_form_strengths": [
+      "15.000 I.U. Lyophilized Powder Vial",
+      "60 units as a single dose bolus intrapleural injection dissolved in 50 to 100 mL of NS"
+    ],
+    "route_of_administration": "IV, IM, S.C, Intrapleural",
+    "pharmacologic_category": "Antineoplastic Agent, Antibiotic",
+    "atc_code": null,
+    "indications": "Lymphoma (Hodgkin’s and non-Hodgkin’s lymphoma), Squamous cell carcinoma, Metastatic germ cell cancer, Testicular Carcinoma, Malignant pleural effusion",
+    "dosage_regimen": {
+      "adult": "N.B. Different doses and regimens have been used; consult the literature for specific protocols",
+      "pediatric": "N.B. Different doses and regimens have been used; consult the literature for specific protocols"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment required",
+      "renal_impairment_pediatric": "No dosage adjustment required",
+      "hepatic_impairment_adult": "No dosage adjustment required",
+      "hepatic_impairment_pediatric": "50% Dactinomycin dosage reduction has been suggested in patients with hepatic impairment (e.g., any level of elevated hepatic enzymes)"
+    },
+    "contraindications": [
+      "Bleomycin Hypersensitivity",
+      "Idiosyncratic Reaction",
+      "Cardiovascular: Phlebitis",
+      "Central nervous system: Pain at tumor site",
+      "Dermatologic: Hyperpigmentation (50%), atrophic striae (≤50%), erythema (≤50%), exfoliation of the skin (≤50%; particularly on the palmar and plantar surfaces of the hands and feet), hyperkeratosis (≤50%), localized vesiculation (≤50%), skin rash (≤50%), skin sclerosis (≤50%), alopecia (may be dose-related and reversible with discontinuation)",
+      "Endocrine & metabolic: Weight loss",
+      "Gastrointestinal: Stomatitis (≤30%), mucositis (≤30%), anorexia",
+      "Miscellaneous: Febrile reaction (25% to 50%; acute)",
+      "Dermatologic: Onycholysis, pruritus, thickening of skin",
+      "Hypersensitivity: Anaphylactoid reaction (including chills, confusion, fever, hypotension, wheezing; onset may be immediate or delayed for several hours; includes idiosyncratic reaction in 1% of lymphoma patients)"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Severe pulmonary toxicity is the most serious side effect, occurring in approximately 10% of treated patients. It usually appears as pneumonitis, and sometimes progresses to pulmonary fibrosis."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": [
+      "Risk X: Avoid combination",
+      "Brentuximab, Vedotin",
+      "Granulocyte, Colony-Stimulating Factors, Lenograstim, Lipegfilgrastim, Oxygen, Palifermin"
+    ],
+    "pregnancy_lactation": {
+      "pregnancy": "There is a potential risk of embryonic and foetal abnormalities.",
+      "lactation": "Discontinue breast feeding during Bleomycin therapy due to possible harmful effect."
+    },
+    "administration": "IV, IM, S.C, Intrapleural",
+    "warnings_precautions": [
+      "Pulmonary toxicity: Severe pulmonary toxicity is the most serious side effect, occurring in approximately 10% of treated patients. It usually appears as pneumonitis, and sometimes progresses to pulmonary fibrosis.",
+      "Elderly and patients receiving more than 400 units total dose are at higher risk of pulmonary toxicity but may appear in young patients and those treated with low doses.",
+      "Idiosyncratic reaction: A severe idiosyncratic reaction consisting of hypotension, mental confusion, fever, chills, and wheezing has been reported in approximately 1% of lymphoma patients treated with bleomycin."
+    ],
+    "storage": null,
+    "id": 31
+  },
+  {
+    "category": null,
+    "name": "BICALUTAMIDE",
+    "abbreviation": null,
+    "generic_name": "Bicalutamide",
+    "dosage_form_strengths": [
+      "50mg",
+      "150mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antineoplastic Agent, Antiandrogen",
+    "atc_code": null,
+    "indications": "Prostate cancer, metastatic; prostate cancer, locally advanced, high recurrence risk",
+    "dosage_regimen": {
+      "adult": "Prostate cancer, metastatic: Oral: 50 mg once daily; Prostate cancer, locally advanced, high recurrence risk (off-label use): Oral: 150 mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to Bicalutamide or any component of the formulation; Use in women; Adverse Drug Reactions (>10%)"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Cardiovascular: Peripheral edema (13%); Central nervous system: Pain (35%); Endocrine & metabolic: Hot flash (53%), gynecomastia (9%; monotherapy [150 mg]: 38% to 73%); Gastrointestinal: Constipation (22%), nausea (15%), diarrhea (12%), abdominal pain (11%); Genitourinary: Mastalgia (6%; monotherapy [150 mg]: 39% to 85%), pelvic pain (21%), haematuria (12%), nocturia (12%); Hematologic & oncologic: Anemia (11%)"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Concerns related to adverse effects: Gynecomastia: Bicalutamide may cause gynecomastia or breast pain at higher (off-label) doses; Hematologic: Anemia may occur with testosterone suppression; Hepatotoxicity: Cases of death or hospitalization due to severe liver injury have been reported; Hypersensitivity: Angioneurotic edema and urticaria have been reported; Interstitial lung disease: Promptly evaluate any worsening of respiratory symptoms (eg, dyspnea, cough and fever); Disease-related concerns: Cardiovascular disease: Correct electrolytes prior to initiation and consider periodic electrolyte and ECG monitoring; Decreased bone mineral density: In prolonged use of antiandrogen therapy; Diabetes: When used in combination with LHRH agonists, a loss of glycemic control and a decrease in glucose tolerance have been reported in patients with diabetes; Hepatic impairment: Use with caution in moderate to severe impairment; Concurrent drug therapy issues: Warfarin: Monitor PT/INR in patients on concomitant warfarin therapy and adjust warfarin dose as necessary"
+    ],
+    "storage": null,
+    "id": 32
+  },
+  {
+    "category": null,
+    "name": "FULVESTRANT",
+    "abbreviation": null,
+    "generic_name": null,
+    "dosage_form_strengths": [
+      "250 mg/5ml",
+      "250 mg/5ml"
+    ],
+    "route_of_administration": "Intramuscular",
+    "pharmacologic_category": "Antineoplastic Agent, Estrogen Receptor Antagonist",
+    "ATC_code": "L02BA03",
+    "indications": "Treatment of hormone-receptor (HR) positive locally advanced or metastatic breast cancer in postmenopausal patients with disease progression following endocrine therapy.",
+    "dosage_regimen": {
+      "adult": "500 mg on days 1, 15, and 29; Maintenance: 500 mg once monthly"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustments necessary",
+      "renal_impairment_pediatric": "IM 250mg instead of 500mg",
+      "hepatic_impairment_adult": "No data; No dosage adjustments necessary",
+      "hepatic_impairment_pediatric": "IM 250mg instead of 500mg"
+    },
+    "contraindications": [
+      "Known hypersensitivity to Fulvestrant or any component of the formulation.",
+      "Pregnancy or lactation.",
+      "Severe hepatic impairment."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Anemia (4% to 40%; grade 3: ≤2%), Leukopenia (≤5%; grade 3: 1%; grade 4: 1%), Neutropenia (2%; grade 3: 1%; grade 4: <1%), Thrombocytopenia (3%; grade 4: <1%)",
+      "Hematologic and oncologic": "Anemia (4% to 40%; grade 3: ≤2%), Leukopenia (≤5%; grade 3: 1%; grade 4: 1%), Neutropenia (2%; grade 3: 1%; grade 4: <1%), Thrombocytopenia (3%; grade 4: <1%)",
+      "Hepatic": "Increased liver enzymes (>15%), Increased serum alanine aminotransferase (5% to 37%), Increased serum aspartate aminotransferase (5% to 48%)",
+      "Infection": "Infection (25% to 31%)",
+      "Local": "Pain at the injection site (12%)",
+      "Nervous system": "Dizziness (6% to 8%)",
+      "Neuromuscular & skeletal": "Arthralgia (8% to 17%)",
+      "Respiratory": "Cough (5% to 15%), Dyspnea (4% to 12%)",
+      "Cardiovascular": "Peripheral edema (7%)",
+      "Dermatologic": "Alopecia (2% to 6%), Pruritus (6% to 7%), Skin rash (4% to 7%)",
+      "Endocrine and metabolic": "Decreased serum albumin (8%), Decreased serum phosphate (8%), Weight loss (2%)",
+      "Gastrointestinal": "Anorexia (6%), Dysgeusia (3%)",
+      "Hematologic & oncologic": "Leukopenia (≤5%; grade 3: 1%; grade 4: 1%), Neutropenia (2%; grade 3: 1%; grade 4: <1%), Thrombocytopenia (3%; grade 4: <1%)",
+      "Neuromuscular and skeletal": "Asthenia (5% to 6%), Back pain (8% to 9%), Limb pain (6% to 7%), Musculoskeletal pain (6%), Myalgia (7%), Ostealgia (9%)"
+    },
+    "monitoring_parameters": "Liver function tests.",
+    "drug_interactions": {
+      "Risk D": {
+        "Fluoroestradiol F18": "Contraindicated",
+        "Pregnancy and Lactation": "Contraindicated",
+        "Pregnancy": "Contraindicated",
+        "Lactation": "Contraindicated",
+        "Administration": "For IM administration only"
+      }
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Contraindicated",
+      "lactation": "Contraindicated"
+    },
+    "administration": "Intramuscular",
+    "warnings_precautions": [
+      "Blood Disorder: As Fulvestrant is taken by intramuscular injection, it should be used cautiously when treating individuals with bleeding diatheses, thrombocytopenia, or those undergoing anticoagulant therapy.",
+      "Thromboembolic Events: Thromboembolic events have been reported in Fulvestrant clinical trials and are frequently found in patients with advanced breast cancer.",
+      "Injection Reactions: With Fulvestrant injection, injection site-related symptoms such as sciatica, neuralgia, neuropathic pain, and peripheral neuropathy have been documented.",
+      "Combination with alcohols: Each injection contains 500 mg of alcohol (ethanol) equivalent to 100 mg/ml (10% w/v) ethanol. Co-administration with medicines containing e.g. propylene glycol or ethanol may lead to accumulation of ethanol and induce adverse effects.",
+      "Bone effect: A potential risk for osteoporosis.",
+      "Interference with estradiol antibody assays",
+      "Storage and Light",
+      "Sensitivity",
+      "Patient Counselling",
+      "Keys",
+      "Follow your doctor’s advised treatment schedule.",
+      "This drug may affect certain lab tests.",
+      "This drug may cause harm to an unborn baby.",
+      "Contraception methods should be used for at least 1 year after the last dose.",
+      "FULVESTRANT"
+    ],
+    "id": 33
+  },
+  {
+    "category": null,
+    "name": "Letrozole",
+    "abbreviation": null,
+    "generic_name": "Letrozole",
+    "dosage_form_strengths": [
+      "2.5 mg tablets",
+      null
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antineoplastic agent, aromatase inhibitor",
+    "atc_code": null,
+    "indications": "Breast cancer in postmenopausal patients, adjuvant treatment of women with hormone receptor positive (HR+) early breast cancer, extended adjuvant treatment of hormone-dependent early breast cancer in women who have received prior standard adjuvant tamoxifen therapy for 5 years, first-line treatment in women with hormone-dependent advanced breast cancer, advanced breast cancer in women with natural or artificially induced postmenopausal status after relapse or disease progression, efficacy has not been demonstrated in patients with hormone receptor negative breast cancer",
+    "dosage_regimen": {
+      "adult": "Oral tablets without regard to meals",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Known hypersensitivity to letrozole or any component of the formulation",
+      "Premenopausal status",
+      "Pregnancy or lactation"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Bone mineral density loss/increased fracture risk: Letrozole is associated with a decreased bone mineral density (BMD), in postmenopausal females, an increased risk of osteoporosis and bone fracture should be considered with administration.",
+      "Ischemic heart disease: (Angina pectoris and acute myocardial infarction (MI) have occurred.)\",\n    ": "usculoskeletal effects: (including new onset or exacerbation of existing arthralgia, joint stiffness, and/or ostealgia)",
+      "Cardiovascular: Edema (7% to 18%), flushing (50%).\",\n    ": "ermatologic: Diaphoresis (24%), night sweats (15%).",
+      "Endocrine & metabolic: Hot flash (19% to 34%), hypercholesterolemia (52%), weight gain (13%).\",\n    ": "astrointestinal: Nausea (9% to 17%).",
+      "Nervous system: Dizziness (3% to 14%), fatigue (10% to 13%).\",\n    ": "euromuscular & skeletal: Arthralgia (≤25%), arthritis (≤25%), asthenia (6% to 34%), back pain (5% to 18%), bone fracture (10% to 15%), ostealgia (5% to 22%), osteoporosis (5% to 15%).",
+      "Respiratory: Cough (13%), dyspnea (6% to 18%).\",\n    \"1% to 10%\",\n    ": "ardiovascular: Acute myocardial infarction (1% to 2%), angina pectoris (1%), cardiac failure (1% to 2%), cerebrovascular accident (≤3%), chest pain (6% to 8%), chest wall pain (6%), hemorrhagic stroke (≤2%), hypertension (6% to 8%), peripheral edema (5%), thromboembolism (≤3%; including portal vein thrombosis, pulmonary embolism, thrombophlebitis, venous thrombosis), thrombotic stroke (≤2%), transient ischemic attacks (≤3%).",
+      "Dermatologic: Alopecia (3%).\",\n    ": "ndocrine & metabolic: Weight loss (6% to 7%).",
+      "Gastrointestinal: Anorexia (≤4%), constipation (2% to 10%), diarrhea (8%), vomiting (3% to 7%).\",\n    ": "enitourinary: Mastalgia (2% to 7%), urinary tract infection (6%), vaginal hemorrhage (5%), vaginal irritation (5%).",
+      "Hematologic & oncologic: Lymphedema (7%; post-mastectomy), second primary malignant neoplasm (2% to 5%).\",\n    ": "nfection: Infection (7%), influenza (6%).",
+      "Nervous system: Depression (5%), headache (4% to 8%), hemiparesis (≤2%), insomnia (6% to 7%), lethargy (6% to 7%), malaise (6% to 10%), pain (5%).\",\n    ": "euromuscular & skeletal: Limb pain (4% to 10%), myalgia (7% to 9%), osteopenia (4%).",
+      "Ophthalmic: Cataract (2%).\",\n    ": "enal: Renal disease (5%)."
+    },
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Tamoxifen: it decreases the serum level of Letrozole which decreases its effect."
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Pregnancy and lactation"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Bone Effects: Consideration should be given to monitoring bone mineral density.",
+      "Cholesterol: Consideration should be given to monitoring serum cholesterol.",
+      "Amongst patients who had baseline values of total serum cholesterol within the normal range, increase in total serum cholesterol higher than 1.5 times the ULN were observed in 5.4% of the patients in the letrozole arm, compared with 1.1% in the tamoxifen arm.",
+      "Storage and Light Sensitivity",
+      "Patient Counselling"
+    ],
+    "id": 34
+  },
+  {
+    "category": null,
+    "name": "Goserelin",
+    "abbreviation": null,
+    "generic_name": "Goserelin",
+    "dosage_form_strengths": [
+      "10.8 mg",
+      "3.6 mg",
+      "3.6 mg"
+    ],
+    "route_of_administration": "Subcutaneous",
+    "pharmacologic_category": "Antineoplastic Agent, Gonadotropin-Releasing Hormone Agonist",
+    "ATC_code": "L02AE03",
+    "indications": "Prostate cancer, breast cancer, endometriosis, uterine fibroids, assisted reproduction",
+    "dosage_regimen": {
+      "adult": "3.6 mg injected into the anterior abdominal wall, every 4 weeks"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to Goserelin or any component of the formulation",
+      "Pregnancy"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Cardiovascular: Peripheral edema (females: 21%; males: 1% to 5%), vasodilation (females: 57%). Dermatologic: Acne vulgaris (females: 42%), diaphoresis (females: 16% to 45%; males: 6%), seborrhea (females: 26%). Endocrine & metabolic: Decreased libido (females: 48% to 61%), hot flash (females: 70% to 96%; males: 60% to 62%), increased libido (females: 12%). Gastrointestinal: Abdominal pain (1% to 11%), nausea (5% to 11%). Genitourinary: Breast atrophy (females: 33%), breast hypertrophy (females: 18%), decrease in erectile frequency (18%), dyspareunia (females: 14%), genitourinary signs and symptoms (lower; males: 18%), sexual disorder (males: 21%), vaginitis (75%). Hematologic & oncologic: Tumor flare. Infection: Infection (females: 13%). Nervous system: Asthenia (5% to 11%), depression (females: 54%; males: 1% to 5%), emotional lability (females: 60%), headache (females: 32% to 75%; males: 1% to 5%), insomnia (5% to 11%), pain (8% to 17%). Neuromuscular & skeletal: Decreased bone mineral density. 1% to 10% Cardiovascular: Acute myocardial infarction (males: 1% to 5%), angina pectoris (males: 1% to 5%), cardiac arrhythmia (males: 1% to 5%), chest pain (1% to 5%), pulmonary embolism (males: 1% to 5%), tachycardia (females: 1% to 5%), varicose veins (males: 1% to 5%). Dermatologic: Alopecia (females: 1% to 5%), ecchymoses (females: 1% to 5%), hair disease (females: 4%), pruritus (2%), skin discoloration (females: 1% to 5%), skin rash (6%), xeroderma (females: 1% to 5%). Endocrine & metabolic: Diabetes mellitus (males: 1% to 5%), gynecomastia (males: 8%), hirsutism (females: 7%), hyperglycemia (males: 1% to 5%), weight gain (3%). Gastrointestinal: Anorexia (5%), constipation (1% to 5%), diarrhea (1% to 5%), dyspnea (males: 1% to 5%), hematemesis (males: 1% to 5%), increased appetite (females: 2%), vomiting (4%), xerostomia (females: 1% to 5%). Genitourinary: Bladder neoplasm (males: 1% to 5%), breast swelling (males: 1% to 5%), breast tenderness (males: 1% to 5%), dysmenorrhea (1% to 5%), hematuria (males: 1% to 5%), impotence (males: 1% to 5%), mastalgia (7%), pelvic pain (6% to 9%), urinary frequency (1% to 5%), urinary incontinence (males: 1% to 5%), urinary retention (males: 1% to 5%), urinary tract abnormality (males: 1% to 5%), urinary tract infection (1% to 5%), urinary tract obstruction (males: 1% to 5%), urination disorder (males: 1% to 5%), uterine hemorrhage (6%), vaginal hemorrhage (1% to 5%), vulvovaginitis (5%). Hematologic & oncologic: Anemia (males: 1- 5%), hemorrhage (females: 1-5%). Hypersensitivity: Hypersensitivity reaction (females: 1% to 5%). Infection: Herpes simplex infection (males: 1% to 5%), sepsis (males: 1% to 5%). Local: Application-site reaction (females: 6%). Nervous system: Abnormality in thinking (females: 1% to 5%), anxiety (1% to 5%), cerebral ischemia (males: 1% to 5%), cerebrovascular accident (males: 1% to 5%), chills (males: 1% to 5%), dizziness (5% to 6%), drowsiness (females: 1% to 5%), fatigue (females: ≤5%), hypertonia (females: 1%), lethargy (≤8%), malaise (females: ≤5%), migraine (females: 7%), nervousness (females: 3% to 5%), paresthesia (1% to 5%), voice disorder (females: 3%). Neuromuscular & skeletal: Arthralgia (females: 1% to 5%), arthropathy (females: 1% to 5%), back pain (4% to 7%), gout (males: 1% to 5%), lower limb cramp (females: 2%), myalgia (females: 3%), ostealgia (males: 6%). Ophthalmic: Amblyopia (females: 1%- 5%), dry eye syndrome (females: 1%- 5%). Renal: Renal insufficiency (males: 1% to 5%). Respiratory: Bronchitis (females: 1% to 5%), chronic obstructive pulmonary disease (males: 5%), cough (1% to 5%), dyspnea (males: 1% to 5%), epistaxis (females: 1% to 5%), flu-like symptoms (5%), pharyngitis (females: 5%), pneumonia (males: 1% to 5%), rhinitis (females: 1% to 5%), sinusitis (females: 1% to 5%), upper respiratory tract infection (males: 7%). Miscellaneous: Fever (1% to 5%)."
+    },
+    "id": 35
+  },
+  {
+    "category": null,
+    "name": "FILGRASTIM",
+    "abbreviation": null,
+    "generic_name": "Filgrastim",
+    "dosage_form_strengths": [
+      "300 mcg/0.5ml",
+      "300 mcg/1ml",
+      "480 mcg/0.5ml",
+      "0.6 mg/ml",
+      "300 mcg/ml"
+    ],
+    "route_of_administration": "SC, IV",
+    "pharmacologic_category": "Colony Stimulating Factor; Hematopoietic Agent",
+    "atc_code": null,
+    "indications": "In patients treated with chemotherapy for malignancy (except chronic myeloid leukemia and myelodysplastic syndromes) for reduction in the duration of neutropenia and the incidence of febrile neutropenia; In patients acutely exposed to myelosuppressive doses of radiation to increase survival; In patients undergoing myeloablative therapy followed by bone marrow transplantation (at high risk of prolonged severe neutropenia) for reduction in the duration and clinical sequelae of neutropenia; In symptomatic patients with congenital neutropenia, cyclic neutropenia, or idiopathic neutropenia to reduce the incidence and duration of sequelae of severe neutropenia; In patients with advanced HIV infection, for treatment of persistent neutropenia (ANC ≥ 1.0 × 10^9 /l) when other options to manage neutropenia are inappropriate; In mobilize autologous hematopoietic progenitor cells into the peripheral blood for collection by leukapheresis.",
+    "dosage_regimen": {
+      "adult": "5 mcg/kg/day OR 230 mcg/m2/day",
+      "pediatric": "1mcg/kg/day, with titration up to a maximum of 4mcg/kg/day until a normal neutrophil count is reached"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustment needed",
+      "renal_impairment_pediatric": "No dose adjustment needed",
+      "hepatic_impairment_adult": "No dose adjustment needed",
+      "hepatic_impairment_pediatric": "No dose adjustment needed"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Cardiovascular: Chest pain (13%)",
+      "Dermatologic: Skin rash (14%)\",\n    ": "astrointestinal: Nausea (43%)",
+      "Hematologic & oncologic: Thrombocytopenia (infants, children, adolescents, and adults: 34% to 38%)\",\n    ": "epatic: Increased serum alkaline phosphatase (6% to 11%)",
+      "Nervous system: Dizziness (14%), fatigue (20%), pain (12%)\",\n    ": "euromuscular & skeletal: Back pain (15%), ostealgia (3% to 30%)",
+      "Respiratory: Cough (14%), dyspnea (13%)\",\n    ": "iscellaneous: Fever (infants, children, adolescents, and adults: 8% to 48%)",
+      "1% to 10%": "Cardiovascular: Hypertension (≥5%)."
+    },
+    "monitoring_parameters": "CBC with differential, Platelet count",
+    "drug_interactions": {
+      "Betibeglogene Autotemcel, Exagamglogene Autotemcel, Lovotibeglogene Autotemcel, Tisagenlecleucel": "Risk X: Avoid combination:",
+      "Belotecan, Bleomycin, Topotecan": "Risk D: Consider therapy modification:",
+      "Pregnancy and Lactation": {
+        "Pregnancy": "Not recommended. No adequate human data. No major differences were seen between treated and untreated women with respect to pregnancy outcome and newborn complications in small studies. Not recommended during pregnancy.",
+        "Lactation": "No adequate data. A risk to the newborns/infants cannot be excluded."
+      },
+      "Administration Preparation of administration": {
+        "Allow product to reach room temperature prior to use; after removal from refrigerator wait a minimum of 30 minutes; discard after out of the refrigerator >24 hours. Make sure the medicine is clear and colorless.\",\n      ": "V: Filgrastim should be diluted in 5% glucose solution to a final concentration NOT less than 5 mcg/mL. Do not dilute with saline at any time because the product may precipitate. Only clear solutions without particles should be used. Filgrastim diluted to concentrations from 5 mcg/mL to 15 mcg/mL should be protected from adsorption to plastic materials by the addition of Albumin (Human) to a final concentration of 2 mg/mL."
+      },
+      "Administration": "IV"
+    },
+    "warnings_precautions": [
+      "Fatal splenic rupture: Evaluate patients who report left upper abdominal or shoulder pain for an enlarged spleen or splenic rupture. May be asymptomatic and can be fatal. Therefore, spleen size should be carefully monitored (e.g. clinical examination, ultrasound).",
+      "Pulmonary adverse effects: Evaluate patients who develop cough, fever and dyspnea and radiological lung infiltrates or respiratory distress for acute respiratory distress syndrome (ARDS). Discontinue Filgrastim in patients with ARDS and appropriate treatment should be given.",
+      "Serious allergic reactions, including anaphylaxis: Permanently discontinue Filgrastim in patients with serious allergic reactions.",
+      "Fatal sickle cell crises: Caution in patients with sickle cell trait or sickle cell disease. Discontinue Filgrastim if sickle cell crisis occur"
+    ],
+    "id": 36
+  },
+  {
+    "category": null,
+    "name": "Zoledronic acid",
+    "abbreviation": null,
+    "generic_name": "Zoledronic acid",
+    "dosage_form_strengths": [
+      "4mg/100ml",
+      "5mg/100ml",
+      "4mg/5ml"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Bisphosphonate Derivative",
+    "atc_code": "M05BA08",
+    "indications": "Tumor-induced hypercalcemia (TIH) in adults, Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumor-induced hypercalcemia) in adult patients with advanced or metastatic malignancies involving bone, Multiple Myeloma, Treatment and prevention of postmenopausal osteoporosis, Treatment to increase bone mass in men with osteoporosis, Treatment and prevention of glucocorticoid-induced osteoporosis, Treatment of Paget’s disease of bone in men and women",
+    "dosage_regimen": {
+      "adult": "4mg",
+      "pediatric": "5mg"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "4mg",
+      "renal_impairment_pediatric": "3.5mg",
+      "hepatic_impairment_adult": "3mg",
+      "hepatic_impairment_pediatric": "3mg"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance, to other Bisphosphonates or to any of the excipients",
+      "Pregnancy and Breast-feeding",
+      "Adverse Drug Reactions"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Renal toxicity: Resulting in renal failure, dialysis, and/or death.",
+      "Mineral and electrolyte abnormalities: Hypocalcemia is reported and has been life-threatening in some cases.\", ": "eurologic adverse events: Tonic clonic seizures, tetany, and numbness, as well as QTc prolongation and cardiac arrhythmias secondary to severe Hypocalcemia.",
+      "Cardiovascular: Hypotension (11%), lower extremity edema (5% to 21%). Dermatologic: Alopecia (12%), dermatitis (11%). Endocrine & metabolic: Dehydration (5% to 14%), hypokalemia (12%), hypomagnesemia (11%), hypophosphatemia (13%), weight loss (16%) Gastrointestinal: Abdominal pain (14% to 16%), anorexia (9% to 22%), constipation (27% to 31%), decreased appetite (13%), diarrhea (17% to 24%), nausea (29% to 46%), vomiting (14% to 32%). Genitourinary: Urinary tract infection (12% to 14%). Hematologic & oncologic: Anemia (22% to 33%), neutropenia (12%), progression of cancer (16% to 20%). Infection: Candidiasis (12%). Nervous system: Agitation (13%), anxiety (11% to 14%), confusion (7% to 13%), depression (14%), dizziness (18%), fatigue (39%), headache (5% to 19%), hypoesthesia (12%), insomnia (15% to 16%), paresthesia (15%), rigors (11%). Neuromuscular & skeletal: Arthralgia (5% to 21%), asthenia (5% to 24%), back pain (15%), limb pain (14%), myalgia (23%), ostealgia (55%), skeletal pain (12%). Renal: Renal insufficiency (8% to 15%; up to 40% in patients with abnormal baseline creatinine). Respiratory: Cough (12% to 22%), dyspnea (22% to 27%). Miscellaneous: Fever (32% to 44%; most common symptom of acute phase reaction). Cardiovascular: Chest pain (5% to 10%). Endocrine & metabolic: Hypermagnesemia (grade 3: 2%), hypocalcemia (5% to 10%). Gastrointestinal: Dyspepsia (10%), dysphagia (5% to 10%), sore throat (8%), stomatitis (8%). Hematologic & oncologic: Granulocytopenia (5% to 10%), pancytopenia (5% to 10%), thrombocytopenia (5% to 10%). Infection: Infection (nonspecific: 5% to 10%). Nervous system: Drowsiness (5% to 10%).\",\n  \"monitoring_parameters": "Renal function test (serum creatinine) before each dose, Monitor electrolyte and minerals during treatment such as serum levels of calcium, phosphate and magnesium (short-term supplemental therapy may be needed).",
+      "drug_interactions": {
+        "Aminoglycosides, Loop Diuretics": "Increased risk of hypocalcemia. Monitor serum Calcium closely.",
+        "Nephrotoxic Drugs": "Caution is indicated when Zoledronic acid is used with other potentially nephrotoxic drugs."
+      },
+      "pregnancy_lactation": {
+        "pregnancy": "Not recommended. There may be a risk of fetal harm (e.g., skeletal and other abnormalities) if a woman becomes pregnant after completing a course of bisphosphonate therapy. No adequate and well controlled studies.",
+        "lactation": "Not recommended due to the potential secretion into breast milk."
+      },
+      "administration Preparation": {
+        "Dilute in 100 mL of sterile 0.9% Sodium Chloride, or 5% Dextrose Injection\",\n    ": "V administration: If refrigerated, allow solution to reach room temperature before administration. Infuse over at least 15 minutes. Infuse in a line separate from other medications. Flush IV line with 10 mL NS flush following infusion. Patients must be appropriately hydrated prior to and following treatment.",
+        "Warnings/Precautions": "Do not co administer with other medicines of the same class, bisphosphonates. Hydration and Electrolyte Monitoring - Patients must be adequately hydrated prior to administration of Zoledronic Acid Injection. Avoid overhydration in patients at risk of cardiac failure. Loop diuretics should not be used until the patient is adequately rehydrated and should be used with caution in combination with Zoledronic Acid Injection in order to avoid hypocalcemia. Serum levels of calcium, phosphate, and magnesium, as well as serum creatinine, should be carefully monitored following initiation of therapy with Zoledronic Acid Injection. If hypocalcemia, hypophosphatemia, or hypomagnesemia occur, short-term supplemental therapy may be necessary. - Renal Impairment - Zoledronic Acid Injection is excreted intact primarily via the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function."
+      },
+      "warnings": [
+        "Do not co administer with other medicines of the same class, bisphosphonates. Hydration and Electrolyte Monitoring - Patients must be adequately hydrated prior to administration of Zoledronic Acid Injection. Avoid overhydration in patients at risk of cardiac failure. Loop diuretics should not be used until the patient is adequately rehydrated and should be used with caution in combination with Zoledronic Acid Injection in order to avoid hypocalcemia. Serum levels of calcium, phosphate, and magnesium, as well as serum creatinine, should be carefully monitored following initiation of therapy with Zoledronic Acid Injection. If hypocalcemia, hypophosphatemia, or hypomagnesemia occur, short-term supplemental therapy may be necessary. - Renal Impairment - Zoledronic Acid Injection is excreted intact primarily via the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function."
+      ]
+    },
+    "id": 37
+  },
+  {
+    "category": null,
+    "name": "Etoposide",
+    "abbreviation": null,
+    "generic_name": "Etoposide",
+    "dosage_form_strengths": [
+      "Concentrate for Solution for I.V Infusion 20mg/1ml, 100mg/5ml",
+      "Capsule: 50mg"
+    ],
+    "route_of_administration": "Oral, IV",
+    "pharmacologic_category": "Antineoplastic Agent, Podophyllotoxin Derivative; Topoisomerase II Inhibitor",
+    "ATC": "L01CB01",
+    "indications": "Small cell lung cancer (Oral and IV): Treatment (first line) of small cell lung cancer; Testicular cancer (IV): Treatment of refractory testicular tumors (injection only); Hodgkin’s lymphoma; Non-Hodgkin’s lymphoma; Acute myeloid leukaemia; Gestational trophoblastic neoplasia; Ovarian cancer",
+    "dosage_regimen": {
+      "adult": "IV: 50-100 mg/m2 once daily on days 1 to 5 in combination with other chemotherapeutic agents, every 3 to 4 weeks",
+      "pediatric": "IV to oral conversion: Due to poor bioavailability, oral doses should be twice the IV dose (and rounded to the nearest 50 mg)"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Reduce dose or discontinue treatment",
+      "renal_impairment_pediatric": "Reduce dose or discontinue treatment",
+      "hepatic_impairment_adult": "Reduce dose or discontinue treatment",
+      "hepatic_impairment_pediatric": "Reduce dose or discontinue treatment"
+    },
+    "contraindications": [
+      "Hypersensitivity to etoposide or any component of the formulation",
+      "Severe leukopenia or thrombocytopenia",
+      "Severe hepatic impairment; severe renal impairment"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Bone marrow suppression: Severe myelosuppression, with resulting infection or bleeding may occur; >10%",
+      "Dermatologic: Alopecia (8% to 66%)\",\n    ": "astrointestinal: Nausea and vomiting (31% to 43%), anorexia (10% to 13%), diarrhea (1% to 13%)",
+      "Hematologic & oncologic: Leukopenia (60% to 91%; grade 4: 3% to 17%; nadir: 7 to 14 days; recovery: by day 20), thrombocytopenia (22% to 41%; grades 3/4: 1% to 20%; nadir: 9 to 16 days; recovery: by day 20)\",\n    ": "ardiovascular: Hypotension (1% to 2%; due to rapid infusion)",
+      "Central nervous system: Peripheral neuropathy (1% to 2%)\",\n    ": "astrointestinal: Stomatitis (1% to 6%), abdominal pain (≤2%)",
+      "Hepatic: Hepatotoxicity (≤3%)\",\n    ": "ypersensitivity: Anaphylactoid reaction (intravenous: 1% to 2%; oral capsules: <1%; including bronchospasm, chills, dyspnea, fever, tachycardia)"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": [
+      "Risk X: Avoid combination",
+      "Abrocitinib, Baricitinib, BCG Products, Brivudine, Chikungunya Vaccine (Live), Chloramphenicol (Systemic), Cladribine, Deucravacitinib, Dipyrone, Etrasimod"
+    ],
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral, IV",
+    "warnings_precautions": [
+      "Bone marrow suppression: Severe myelosuppression with resulting infection or bleeding may occur; Myelosuppression is dose related and dose limiting; Granulocyte and platelet nadirs typically occur 7 to 14 days or 9 to 16 days, respectively, after administration; hematologic recovery usually occurs by day 20",
+      "Extravasation: Etoposide IV is an irritant; tissue irritation and inflammation have occurred following extravasation; Hypersensitivity: May cause anaphylactic-like reactions manifested by chills, fever, tachycardia, bronchospasm, dyspnea, and hypotension; In addition, facial/tongue swelling, coughing, chest tightness, cyanosis, laryngospasm, diaphoresis, hypertension, back pain, loss of consciousness, and flushing have also been reported less commonly; Incidence is primarily associated with IV administration (up to 2%) compared to oral administration (less than 1%)",
+      "Hypotension: Hypotension may occur due to rapid administration; Secondary malignancies: Secondary acute leukemias have been reported with etoposide, either as monotherapy or in combination with other chemotherapy agents; Hypoalbuminemia: Use with caution in patients with low serum albumin; may increase risk for toxicities"
+    ],
+    "emetogenicity": "Parentral: Low emetic risk (10%–30% frequency of emesis); Oral: Moderate to high emetic risk (≥30% frequency of emesis)",
+    "id": 38
+  },
+  {
+    "category": "Antineoplastic Agent; Topoisomerase I Inhibitor",
+    "name": "IRINOTECAN",
+    "abbreviation": "IRI",
+    "generic_name": "IRINOTECAN",
+    "dosage_form_strengths": [
+      "Concentrate for Solution For I.V Infusion: 40mg/2ml, 100mg/5ml",
+      "Route of Administration: IV",
+      "Pharmacologic Category: Antineoplastic Agent; Topoisomerase I Inhibitor",
+      "ATC code: L01CE02",
+      "Indications: Advanced colorectal cancer in adults (as a first line or for recurrent or progressive disease following initial fluorouracil-based treatment)",
+      "Dosage Regimen: N.B. Different doses and regimens have been used; consult the literature for specific protocols",
+      "Adult dosing: In monotherapy (for previously treated patient with fluorouracil-based treatment): 350 mg/m² administered as IV infusion every three weeks; Or 125 mg/m² IV infusion on days 1, 8, 15, 22 then 2-week rest",
+      "In combination therapy (for previously untreated patient): 180 mg/m² administered once every 2 weeks as followed by infusion with Folinic acid and 5-Fluorouracil",
+      "Or 125 mg/m² IV infusion on days 1, 8,15, 22 then 2-week rest"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Antineoplastic Agent; Topoisomerase I Inhibitor",
+    "atc_code": "L01CE02",
+    "indications": "Advanced colorectal cancer in adults (as a first line or for recurrent or progressive disease following initial fluorouracil-based treatment)",
+    "dosage_regimen": {
+      "adult": "350 mg/m² administered as IV infusion every three weeks",
+      "pediatric": "N.B. Refer to protocol used for specific dose modifications"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "N.B. Refer to protocol used for specific dose modifications",
+      "hepatic_impairment_adult": "N.B. Refer to protocol used for specific dose modifications"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients",
+      "Severe bone marrow failure",
+      "Pregnancy",
+      "Bilirubin >3 times the upper limit of the normal range"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Cardiovascular: Vasodilation (9% to 11%)",
+      "Central nervous system: Cholinergic syndrome (47%; includes diaphoresis, flushing, increased peristalsis, lacrimation, miosis, rhinitis, sialorrhea), pain (23% to 24%), dizziness (15% to 21%), insomnia (19%), headache (17%), chills (14%)\",\n    ": "ermatologic: Alopecia (46% to 72%), diaphoresis (16%), skin rash (13% to 14%)",
+      "Endocrine & metabolic: Weight loss (30%), dehydration (15%)\",\n    ": "astrointestinal: Diarrhea (late: 83% to 88%, grades 3/4: 14% to 31%; early: 43% to 51%, grades 3/4: 7% to 22%)",
+      "Nausea (70% to 86%), abdominal pain (57% to 68%), vomiting (62% to 67%), abdominal cramps (57%), anorexia (44% to 55%), constipation (30% to 32%), mucositis (30%), flatulence (12%), stomatitis (12%)\",\n    ": "ematologic & oncologic: Anemia (60% to 97%; grades 3/4: 5% to 7%), leukopenia (63% to 96%, grades 3/4: 14% to 28%), thrombocytopenia (96%, grades 3/4: 1% to 4%), neutropenia (30% to 96%; grades 3/4: 14% to 31%)",
+      "Hepatic: Increased serum bilirubin (84%), increased serum alkaline phosphatase (13%)\",\n    ": "nfection: Infection (14%)",
+      "Neuromuscular & skeletal: Weakness (69% to 76%), back pain (14%)\",\n    ": "espiratory: Dyspnea (22%), cough (17% to 20%), rhinitis (16%)"
+    },
+    "monitoring_parameters": "CBC with differential, Liver function test, Pregnancy test, Monitor for hypersensitivity reactions, infusion site, bowel movements and hydration status, signs/symptoms of pulmonary toxicity",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "regnancy and Lactation: Can cause fetal harm when administered to a pregnant woman. Avoid if either partner is receiving Irinotecan due to embryotoxic and teratogenic properties"
+    },
+    "id": 39
+  },
+  {
+    "category": null,
+    "name": "TEMOZOLOMIDE",
+    "abbreviation": null,
+    "generic_name": "TEMOZOLOMIDE",
+    "dosage_form_strengths": [
+      "Capsules 5mg",
+      "Capsules 20mg",
+      "Capsules 100mg",
+      "Capsules 250mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antineoplastic Agent, Alkylating Agent",
+    "atc_code": null,
+    "indications": "Temozolomide for the treatment of glioblastoma multiforme and malignant gliomas, and for the treatment of melanoma and soft tissue sarcoma.",
+    "dosage_regimen": {
+      "adult": "75 mg/m2 once daily for 42 days concomitant with focal radiotherapy followed by an initial maintenance dose of 150 mg/m2 once daily for Days 1 to 5 of each 28-day cycle for 6 cycles. May increase maintenance dose to 200 mg/m2 for cycles 2 – 6 based on toxicity.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to Temozolomide or any component of the formulation",
+      "Hypersensitivity to dacarbazine"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Cardiovascular: Peripheral edema (11%)",
+      "risk_x_avoid_combination": [
+        "Hypersensitivity to Temozolomide or any component of the formulation",
+        "Hypersensitivity to dacarbazine"
+      ]
+    },
+    "monitoring_parameters": null,
+    "side_effects": {
+      "Cardiovascular": [
+        "Peripheral edema (11%)"
+      ],
+      "Dermatologic": [
+        "Alopecia (55%)",
+        "Skin rash (8% to 13%)"
+      ],
+      "Gastrointestinal": [
+        "Nausea (49% to 53%)",
+        "Vomiting (29% to 42%)",
+        "Constipation (22% to 33%)",
+        "Anorexia (9% to 27%)",
+        "Diarrhea (10% to 16%)"
+      ],
+      "Hematologic & oncologic": [
+        "Lymphocytopenia (grades 3/4: 55%)",
+        "Thrombocytopenia (8%; grades 3/4: 4%)",
+        "Decreased neutrophils (grades 3/4: 14%)",
+        "Leukopenia (grades 3/4: eleven%)"
+      ],
+      "Infection": [
+        "Viral infection (11%)"
+      ],
+      "Nervous system": [
+        "Fatigue (34% to 61%)",
+        "Headache (23% to 41%)",
+        "Seizure (6% to 23%)",
+        "Hemiparesis (18%)",
+        "Dizziness (5% to 12%)",
+        "Ataxia (8% to eleven%)"
+      ],
+      "Neuromuscular & skeletal": [
+        "Asthenia (7%) to (13%)"
+      ],
+      "Miscellaneous": [
+        "Fever (13%)"
+      ]
+    },
+    "other_side_effects": {
+      "Dermatologic": [
+        "Pruritus (5% to 8%)",
+        "Xeroderma (5%)",
+        "Erythema of skin (1%)"
+      ],
+      "Endocrine & metabolic": [
+        "Hypercorticoidism (8%)",
+        "Weight gain (5%)"
+      ],
+      "Gastrointestinal": [
+        "Stomatitis (9%; grades ≥3: 1%)",
+        "Abdominal pain (5% to 9%)",
+        "Dysphagia (7%)",
+        "Dysgeusia (5%)"
+      ],
+      "Genitourinary": [
+        "Urinary incontinence (8%)",
+        "Urinary tract infection (8%)",
+        "Mastalgia (females: 6%)",
+        "Urinary frequency (6%)"
+      ],
+      "Hematologic & oncologic": [
+        "Decreased hemoglobin (grades 3/4: 4%)"
+      ],
+      "Hypersensitivity": [
+        "Hypersensitivity reaction (3%)"
+      ]
+    },
+    "id": 40
+  },
+  {
+    "category": "Antineoplastic Agent, Anthracycline, Topoisomerase II Inhibitor",
+    "name": "Daunorubicin",
+    "abbreviation": "DAUNORUBICIN",
+    "generic_name": "Daunorubicin",
+    "dosage_form_strengths": [
+      "Lyophilized Powder for IV injection: 20mg"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Antineoplastic Agent, Anthracycline, Topoisomerase II Inhibitor",
+    "ATC_code": "L01DB02",
+    "indications": "Acute lymphocytic leukemia (ALL) in children and adults, Acute myeloid leukemia (AML) in adults",
+    "dosage_regimen": {
+      "adult": "Acute lymphocytic leukemia: IV: 45 mg/m2 on days 1, 2, and 3 (in combination with vincristine, prednisone, and asparaginase).",
+      "pediatric": "Infants and Children <2 years or BSA <0.5 m2: IV: 1 mg/kg/dose on day 1 every week for up to 4 to 6 cycles (in combination with vincristine and prednisone).",
+      "children_and_adolescents": "week for up to 4 to 6 cycles (in combination with vincristine and prednisone).",
+      "adults": "Acute lymphocytic leukemia: IV: 45 mg/m2 on days 1, 2, and 3 (in combination with vincristine, prednisone, and asparaginase).",
+      "adults_ge_60": "Acute myeloid leukemia: Adults <60 years of age: Induction: IV: 45 mg/m2 on days 1, 2, and 3 of the first course of induction therapy; subsequent courses: 45 mg/m2 on days 1 and 2 (in combination with cytarabine).",
+      "adults_ge_60_and_older": "Adults ≥60 years of age: Induction: IV: 30 mg/m2 on days 1, 2, and 3 of the first course of induction therapy; subsequent courses: 30 mg/m2 on days 1 and 2 (in combination with cytarabine).",
+      "children_and_adolescents_ge_2": "Children and Adolescents ≥2 years and BSA ≥0.5 m2: IV: 25 mg/m2/dose on day 1 every week for up to 4 to 6 cycles (in combination with vincristine and prednisone)."
+    },
+    "id": 41
+  }
+]

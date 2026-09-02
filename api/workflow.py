@@ -116,6 +116,12 @@ def default_agent_map() -> Dict[str, Any]:
 graph = GraphBuilder(default_agent_map()).build()
 
 
+# query_merger and early_responser only use chat_hist to resolve pronouns/follow-ups
+# ("and the price?"), which only ever point at the last exchange or two -- so keeping
+# the full session history in every prompt just burns tokens for no retrieval benefit.
+MAX_CHAT_HISTORY_MESSAGES = 10
+
+
 def run_pipeline(
     query: Optional[str] = None,
     chat_hist: Optional[List[Any]] = None,
@@ -127,7 +133,8 @@ def run_pipeline(
     plain URL the vision model can fetch; `query` doubles as the photo's caption.
 
     Raises PipelineStageError (see above) if any stage fails."""
-    initial_state = {"query": query, "chat_hist": chat_hist or [], "image": image}
+    trimmed_hist = (chat_hist or [])[-MAX_CHAT_HISTORY_MESSAGES:]
+    initial_state = {"query": query, "chat_hist": trimmed_hist, "image": image}
     start = time.perf_counter()
 
     try:

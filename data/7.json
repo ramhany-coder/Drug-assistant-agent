@@ -1,0 +1,923 @@
+[
+  {
+    "category": "Cyclin-dependent kinase (CDK) inhibitors",
+    "name": "Abemaciclib",
+    "abbreviation": null,
+    "generic_name": "Abemaciclib",
+    "dosage_form_strengths": [
+      "Tablet 50 mg",
+      "Tablet 100 mg",
+      "Tablet 150 mg",
+      "Tablet 200 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antineoplastic Agent, Cyclin-Dependent Kinase Inhibitor.",
+    "atc_code": "L01EF03.",
+    "indications": "Advanced or metastatic Breast cancer; Locally advanced or metastatic HR‑positive, HER2‑negative breast cancer in combination with an aromatase inhibitor as initial endocrine‑based therapy, or with fulvestrant after progression on endocrine therapy, or as monotherapy in women with disease progression following endocrine therapy and prior chemotherapy in the metastatic setting; Early Breast cancer at high risk; Adjuvant treatment of HR‑positive, HER2‑negative, node‑positive early breast cancer at high risk of recurrence (in combination with endocrine therapy [an aromatase inhibitor or tamoxifen]) in adults at high risk of recurrence.",
+    "dosage_regimen": {
+      "adult": "Combination therapy (with fulvestrant, tamoxifen, or an aromatase inhibitor): 150 mg twice daily; Monotherapy (progressive disease following endocrine therapy and prior chemotherapy): 200 mg twice daily.",
+      "pediatric": "The safety and efficacy of abemaciclib in children and adolescents aged less than 18 years have not been established; no data are available."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Mild or moderate renal impairment: No dose adjustment is necessary. Severe renal impairment: No data. Caution. Close monitoring for toxicity.",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [],
+    "adverse_drug_reactions": {},
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [],
+      "risk_d_consider_therapy_modification": []
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": null,
+    "warnings_precautions": [],
+    "storage": null,
+    "id": 1
+  },
+  {
+    "category": "HER2 tyrosine kinase inhibitors",
+    "name": "Lapatinib",
+    "abbreviation": null,
+    "generic_name": "Lapatinib",
+    "dosage_form_strengths": [
+      "Tablets: 250 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antineoplastic Agent, Anti-HER2; Epidermal Growth Factor Receptor (EGFR) Inhibitor, Tyrosine Kinase Inhibitor.",
+    "atc_code": "L01EH01.",
+    "indications": "Metastatic or advanced breast cancer whose tumors overexpress HER2. In combination with capecitabine for patients with advanced or metastatic disease with progression following prior therapy, including anthracyclines, taxanes, and trastuzumab. In combination with trastuzumab for patients with hormone receptor‑negative metastatic disease that has progressed on prior trastuzumab therapy(ies) in combination with chemotherapy. In combination with an aromatase inhibitor for postmenopausal women with hormone receptor‑positive metastatic disease, for whom hormonal therapy is indicated and not currently intended for chemotherapy.",
+    "dosage_regimen": {
+      "adult": "Lapatinib/capecitabine: 1250 mg (five tablets) once daily continuously on an empty stomach; Lapatinib/trastuzumab: 1000 mg (four tablets) once daily continuously on an empty stomach; Lapatinib/aromatase inhibitor: 1500 mg (six tablets) once daily continuously on an empty stomach",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Mild to moderate renal impairment: No dosage adjustment is necessary. Severe impairment: Caution. No experience.",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "Mild impairment: No dose adjustment necessary.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [],
+    "adverse_drug_reactions": {},
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [],
+      "risk_d_consider_therapy_modification": []
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": null,
+    "warnings_precautions": [],
+    "storage": null,
+    "id": 2
+  },
+  {
+    "category": null,
+    "name": "Imatinib",
+    "abbreviation": null,
+    "generic_name": "Imatinib",
+    "dosage_form_strengths": [
+      "100 mg",
+      "400 mg",
+      "340 mg/m2"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antineoplastic Agent, BCR-ABL Tyrosine Kinase Inhibitor",
+    "atc_code": null,
+    "indications": "Newly diagnosed Philadelphia chromosome positive chronic myeloid leukaemia (Ph+ CML), Ph+ CML in chronic phase (CP) after failure of interferon-alpha therapy, or in accelerated phase (AP) or blast crisis (BC), relapsed or refractory Philadelphia chromosome-positive acute lymphoblastic leukemia Ph+ ALL as monotherapy, newly diagnosed acute lymphoblastic leukemia (Ph+ ALL) integrated with chemotherapy, myelodysplastic/myeloproliferative diseases (MDS/MPD) associated with platelet-derived growth factor receptor (PDGFR) gene rearrangements, advanced hypereosinophilic syndrome (HES) and/or chronic eosinophilic leukemia (CEL) with FIP1L1-PDGFRα rearrangement, treatment of adult patients with Kit (CD 117) positive unresectable and/or metastatic malignant gastrointestinal stromal tumours (GIST), adjuvant treatment of adult patients who are at significant risk of relapse following resection of Kit (CD117) positive GIST, adult patients with aggressive systemic mastocytosis (ASM) without the D816V c-Kit mutation or with c-Kit mutational status unknown, treatment of adult patients with unresectable dermatofibrosarcoma protuberans (DFSP) and adult patients with recurrent and/or metastatic DFSP who are not eligible for surgery",
+    "dosage_regimen": {
+      "adult": "400 mg/day (may be increased up to 800 mg/day) continued until disease progression",
+      "pediatric": "340-570 mg/m2/day (not to exceed 800 mg)",
+      "adults with Ph+ CML chronic phase": "400 mg/day (may be increased up to 800 mg/day) continued until disease progression",
+      "adults with Ph+ CML AP or BC": "600-800 mg/day continued until disease progression",
+      "adults with Ph+ ALL": "600 mg/day duration may vary according to the program",
+      "adults with MDS/MPD": "400 mg/day until disease progression",
+      "adults with ASM": "100-400 mg/day continued as long as the patient continues to benefit",
+      "adults with HES/CEL": "100-400 mg/day continued as long as the patient continues to benefit",
+      "adults with DFSP": "800 mg/day",
+      "adults with metastatic and/or unresectable GIST": "400 mg/day continued until disease progression",
+      "pediatrics": "Dosing for children should be based on body surface area (mg/m2). There is no experience with children under 1 year of age. Dosage can be reduced if not tolerated. If tolerated, the dose can be increased for lack of efficacy.",
+      "adults with Kit positive unresectable and/or metastatic malignant gastrointestinal stromal tumours (GIST)": "stop imatinib until ANC ≥ 1 x 10 9 /l and platelets ≥ 20 x 10 9 /l, then resume treatment at 200 mg/m2",
+      "adults with aggressive systemic mastocytosis (ASM) without the D816V c-Kit mutation or with c-Kit mutational status unknown": "stop imatinib until ANC ≥ 1 x 10 9 /l and platelets ≥ 20 x 10 9 /l, then resume treatment at 200 mg/m2",
+      "adults with unresectable dermatofibrosarcoma protuberans (DFSP)": "stop imatinib until ANC ≥ 1.5 x 10 9 /l and platelets ≥ 75 x 10 9 /l, then resume treatment at 600 mg",
+      "adults with recurrent and/or metastatic DFSP": "stop imatinib until ANC ≥ 1.5 x 10 9 /l and platelets ≥ 75 x 10 9 /l, then resume treatment at 600 mg",
+      "contraindications": [
+        "Hypersensitivity to imatinib or any component of the formulation",
+        "Adverse Drug Reactions >10%"
+      ]
+    },
+    "contraindications": null,
+    "interactions": null,
+    "warnings": null,
+    "notes": null,
+    "id": 3
+  },
+  {
+    "category": null,
+    "name": "Everolimus",
+    "abbreviation": null,
+    "generic_name": "Everolimus",
+    "dosage_form_strengths": [
+      "0.25 mg",
+      "0.75 mg",
+      "5 mg",
+      "10 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antineoplastic Agent, Immunosuppressant Agent; mTOR Kinase Inhibitor",
+    "atc_code": null,
+    "indications": "Kidney and heart transplant, Hepatic transplant, Liver transplantation, Hormone receptor-positive advanced breast cancer, Neuroendocrine tumors of pancreatic origin, Neuroendocrine tumors of gastrointestinal or lung origin, Renal cell carcinoma, Children (1 year of age or older) and adults with Subependymal Giant Cell Astrocytoma (SEGA), Tuberous Sclerosis Complex (TSC)",
+    "dosage_regimen": {
+      "adult": "0.75 mg twice daily as soon as possible after transplantation",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "0.5 mg twice daily",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "0.5 mg twice daily",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to everolimus, sirolimus, or any component of the formulation"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hypertension (17% to 30%), peripheral edema (kidney transplant: 45%; liver transplant: 18% to 20%)",
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "sirolimus",
+        "tacrolimus (reduced doses)",
+        "corticosteroids"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "tacrolimus (reduced doses)",
+        "corticosteroids"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Stomatitis",
+      "Metabolic events (e.g., hyperglycemia, dyslipidemia)",
+      "Other non-hematologic toxicities",
+      "Thrombocytopenia",
+      "Neutropenia",
+      "Febrile neutropenia"
+    ],
+    "storage": null,
+    "id": 4
+  },
+  {
+    "category": null,
+    "name": "Rituximab",
+    "abbreviation": null,
+    "generic_name": "Rituximab",
+    "dosage_form_strengths": [
+      "100 mg/10 mL",
+      "500 mg/50 mL",
+      "1400 mg/11.7 ml"
+    ],
+    "route_of_administration": "IV, SC",
+    "pharmacologic_category": "Antineoplastic Agent, Anti -CD20, Monoclonal Antibody, Antirheumatic, Miscellaneous, Immunosuppressant Agent",
+    "ATC_code": "L01FA01",
+    "indications": "N.B. Refer to literature and specific protocols for all indications used",
+    "dosage_regimen": {
+      "adult": "100 mg/10 mL, 500 mg/50 mL",
+      "pediatric": "1400 mg/11.7 ml"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "100 mg/10 mL, 500 mg/50 mL",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or murine proteins, or any of the excipients",
+      "Active, severe infections or severely immunocompromised state"
+    ],
+    "adverse_drug_reactions": {
+      ">10%": {
+        "Cardiovascular": [
+          "Cardiac disorder",
+          "Flushing",
+          "Hypertension",
+          "Peripheral edema"
+        ],
+        "Dermatologic": [
+          "Night sweats",
+          "Pruritus",
+          "Skin rash"
+        ],
+        "Endocrine and metabolic": [
+          "Hypophosphatemia",
+          "Weight gain"
+        ],
+        "Gastrointestinal": [
+          "Abdominal pain",
+          "Diarrhea",
+          "Nausea"
+        ],
+        "Hematologic and oncologic": [
+          "Anemia",
+          "Febrile neutropenia",
+          "Hypogammaglobulinemia",
+          "Leukopenia",
+          "Lymphocytopenia",
+          "Neutropenia"
+        ]
+      }
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Rituximab",
+        "TNF inhibitor therapies"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Rituximab"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "IV, SC",
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 5
+  },
+  {
+    "category": null,
+    "name": "Cetuximab",
+    "abbreviation": null,
+    "generic_name": "Cetuximab",
+    "dosage_form_strengths": [
+      "100mg (5 mg/ml)",
+      "250mg/m2 once weekly as a 60-minute infusion"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Antineoplastic Agent, Epidermal Growth Factor Receptor (EGFR) Inhibitor, Monoclonal Antibody",
+    "atc_code": null,
+    "indications": "squamous cell cancer of the head and neck, colorectal cancer (K-Ras wild-type, EGFR-expressing, metastatic disease), colorectal cancer (RAS-mutated tumours)",
+    "dosage_regimen": {
+      "adult": "400 mg/m2 once weekly as a 120-minute intravenous infusion",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Severe (grade 3 or 4) hypersensitivity reactions to cetuximab",
+      "Adverse Drug Reactions >10%",
+      "Dermatologic: Acneiform eruption (87%), changes in nails (31%), desquamation (≤95%), pruritus (16% to 47%), radiodermatitis (86%), skin rash (≤95%), xeroderma (57%)",
+      "Endocrine and metabolic: Dehydration (13% to 25%), hypomagnesemia (55%), weight loss (84%)",
+      "Gastrointestinal: Constipation (53%), diarrhea (19% to 42%; grades 3/4: 2%), dyspepsia (14%), nausea (49% to 64%; grades 3/4: 2% to 6%), stomatitis (32%; grades 3/4: 1%), vomiting (29% to 40%; grades 3/4: 2% to 5%), xerostomia (12%)",
+      "Hepatic: Increased serum alanine aminotransferase (43%), increased serum alkaline phosphatase (33%), increased serum aspartate aminotransferase (38%)",
+      "Infection: Infection (13%), infection without neutropenia (38%)",
+      "Local: Application site reaction (18%)",
+      "Nervous system: Anxiety (14%), chills (≤16%), confusion (18%), depression (14%), fatigue (91%), headache (19% to 38%), insomnia (27%), pain (59%), peripheral sensory neuropathy (45%; grades 3/4: 1%), rigors (≤16%)",
+      "Neuromuscular and skeletal: Arthralgia (14%), asthenia (56%), ostealgia (15%)",
+      "Respiratory: Cough (30%), dyspnea (49%), pharyngitis (26%)",
+      "Miscellaneous: Fever (25% to 29%), infusion-related reaction (18%; severe infusion-related reaction: <2%)",
+      "1% to 10%"
+    ],
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "IV",
+    "warnings_precautions": [
+      "Infusion Reactions",
+      "Pulmonary Toxicity",
+      "Dermatologic Toxicity",
+      "Cardiopulmonary Arrest"
+    ],
+    "storage": null,
+    "id": 6
+  },
+  {
+    "category": null,
+    "name": "Bevacizumab",
+    "abbreviation": null,
+    "generic_name": null,
+    "dosage_form_strengths": [
+      "100 mg/4mL",
+      "400 mg/16mL",
+      "7.5 mg/kg",
+      "15 mg/kg",
+      "10 mg/kg"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Antineoplastic Agent, Monoclonal Antibody; Vascular Endothelial Growth Factor (VEGF) Inhibitor",
+    "atc_code": null,
+    "indications": "Metastatic colorectal cancer, Non-small cell lung cancer, Advanced and/or metastatic renal cell carcinoma, Cervical cancer, Epithelial ovarian, fallopian tube, or primary peritoneal cancer, Metastatic breast cancer, Relapsed glioblastoma",
+    "dosage_regimen": {
+      "adult": "5 mg/kg or 10 mg/kg once every 2 weeks",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients",
+      "Adverse Drug Reactions >10%"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "IV",
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 7
+  },
+  {
+    "category": null,
+    "name": "Bortezomib",
+    "abbreviation": null,
+    "generic_name": "Bortezomib",
+    "dosage_form_strengths": [
+      "Powder for solution for SC / IV injection: 3.5 mg",
+      "Solution for injection: 3.5 mg"
+    ],
+    "route_of_administration": "SC / IV",
+    "pharmacologic_category": "Antineoplastic Agent, Proteasome Inhibitor",
+    "atc_code": null,
+    "indications": "Treatment of adult patients with multiple myeloma. Mantle cell lymphoma.",
+    "dosage_regimen": {
+      "adult": "1.3 mg/m2 twice weekly in cycles 1-4 of each cycle on days 1, 4, 8, 11, 22, 25, 29, and 32. A treatment cycle is composed of 6 weeks.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustment necessary.",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "0.7 mg/m2 during the first cycle, and consider subsequent dose escalation to 1 mg/m2 or further dose reduction to 0.5 mg/m2 based on patient tolerance.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "SC / IV",
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 8
+  },
+  {
+    "category": null,
+    "name": "Denosumab",
+    "abbreviation": null,
+    "generic_name": "Denosumab",
+    "dosage_form_strengths": [
+      "60 mg",
+      "120 mg"
+    ],
+    "route_of_administration": "SC",
+    "pharmacologic_category": "Bone-Modifying Agent; RANK ligand (RANKL) inhibitor, Monoclonal Antibody",
+    "atc_code": null,
+    "indications": "120 mg; 60 mg",
+    "dosage_regimen": {
+      "adult": "120 mg every 4 weeks",
+      "pediatric": "60 mg once every 6 months"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or any of the excipients",
+      "Hypocalcemia"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "SC",
+    "warnings_precautions": [
+      "Biological product",
+      "Hypocalcemia",
+      "Serious infections, including skin infections",
+      "Storage and Light Sensitivity"
+    ],
+    "storage": "2°C to 8°C, do not freeze, protect from light and heat",
+    "id": 9
+  },
+  {
+    "category": null,
+    "name": "Dasatinib",
+    "abbreviation": null,
+    "generic_name": "Dasatinib",
+    "dosage_form_strengths": [
+      "50 mg",
+      "70 mg",
+      "140 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antineoplastic Agent, BCR-ABL Tyrosine Kinase Inhibitor",
+    "atc_code": "L01EA02",
+    "indications": "Newly diagnosed Philadelphia chromosome-positive (Ph+) chronic myelogenous leukemia (CML) in the chronic phase, chronic, accelerated, or myeloid or lymphoid blast phase CML with resistance or intolerance to prior therapy, including imatinib, Philadelphia chromosome positive (Ph+) acute lymphoblastic leukaemia (ALL), Ph+ CML in chronic phase, newly diagnosed Ph+ ALL in combination with chemotherapy",
+    "dosage_regimen": {
+      "adult": "100 mg once daily",
+      "pediatric": "140 mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment is necessary",
+      "renal_impairment_pediatric": "No dosage adjustment is necessary",
+      "hepatic_impairment_adult": "No dosage adjustment is necessary",
+      "hepatic_impairment_pediatric": "No dosage adjustment is necessary"
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Myelosuppression"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 10
+  },
+  {
+    "category": "Antineoplastic Agent, BCR-ABL Tyrosine Kinase Inhibitor",
+    "name": "Nilotinib",
+    "abbreviation": "Nilotinib",
+    "generic_name": "Nilotinib",
+    "dosage_form_strengths": [
+      "Capsules: 150mg, 200mg"
+    ],
+    "Administration": "Oral",
+    "Pharmacologic Category": "Antineoplastic Agent, BCR-ABL Tyrosine Kinase Inhibitor",
+    "ATC": "L01EA03",
+    "Indications": "Chronic myeloid leukemia, Philadelphia chromosome positive (Ph+ CML)",
+    "Dosage Regimen": {
+      "Adult": "300 mg twice daily",
+      "Pediatric": "230 mg/m2 twice daily, rounded to the nearest 50 mg dose (to a maximum single dose of 400 mg)"
+    },
+    "Dosage Adjustment": {
+      "Renal Impairment": "No dose modifications needed. Not studied but not renally excreted.",
+      "Hepatic Impairment": "Dose adjustment is not necessary. Caution.",
+      "Cardiac Disorders": "Caution. Patients with uncontrolled or significant cardiac disease were excluded from studies."
+    },
+    "Contraindications": [
+      "Newly diagnosed chronic phase CML in chronic phase (CP) and accelerated phase (AP) Ph+ CML resistant to or intolerant to prior tyrosine-kinase inhibitor therapy (imatinib).",
+      "Chronic or accelerated phase CML resistant or intolerant to prior therapy, chronic or accelerated phase CML",
+      "Elevated serum lipase for Grade 3-4"
+    ],
+    "Adverse Drug Reactions": {
+      "<frequency bucket as written in the text>": "Elevated serum lipase for Grade 3-4"
+    },
+    "Monitoring Parameters": "No dose modifications needed. Not studied but not renally excreted.",
+    "Drug Interactions": {
+      "Risk_x_avoid_combination": [
+        "Elevated serum lipase for Grade 3-4"
+      ],
+      "Risk_d_consider_therapy_modification": [
+        "Elevated serum lipase for Grade 3-4"
+      ]
+    },
+    "Pregnancy Lactation": {
+      "Pregnancy": "No dose modifications needed. Not studied but not renally excreted.",
+      "Lactation": "No dose modifications needed. Not studied but not renally excreted."
+    },
+    "Warnings Precautions": [
+      "Caution. Patients with uncontrolled or significant cardiac disease were excluded from studies.",
+      "Elevated serum lipase for Grade 3-4"
+    ],
+    "Platelets": {
+      "Threshold": "75 x 10^9/L",
+      "Modification": "If blood counts remain low for greater than 2 weeks, reduce the dose to 400 mg once daily for adults or to 230 mg/m2 once daily for pediatrics. If clinically appropriate, re-escalation of the dose to the starting dose may be considered."
+    },
+    "id": 11
+  },
+  {
+    "category": null,
+    "name": "Ibrutinib",
+    "abbreviation": null,
+    "generic_name": "Ibrutinib",
+    "dosage_form_strengths": [
+      "Capsules: 140 mg",
+      "Capsules: 240 mg",
+      "Capsules: 280 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antineoplastic Agent, Tyrosine Kinase Inhibitor",
+    "atc_code": null,
+    "indications": "Relapsed or refractory mantle cell lymphoma (MCL) in adults (as a single agent), Chronic lymphocytic leukemia (CLL) with 17p deletion in adults, Waldenström macroglobulinemia (WM) in adults.",
+    "dosage_regimen": {
+      "adult": "560 mg once daily",
+      "pediatric": "240 mg/m2 once daily (up to a dose of 420 mg)"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "420 mg once daily",
+      "renal_impairment_pediatric": "240 mg/m2 once daily (up to a dose of 420 mg)",
+      "hepatic_impairment_adult": "140 - 280 mg once daily",
+      "hepatic_impairment_pediatric": "70 - 140 mg once daily"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or any of the excipients"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Cardiovascular: Hypertension (11% to 16%; cumulative rate increased over time), peripheral edema (12% to 22%), sinus tachycardia (11%). Dermatologic: Pruritus (13%), skin infection (15% to 18%), skin rash (12% to 25%). Endocrine and metabolic: Hypokalemia (12% to 15%)."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Concomitant use with moderate CYP3A4 inhibitors: 280 mg once daily",
+        "Concomitant use with strong CYP3A4 inhibitors: 140 mg once daily or withheld for up to 7 days"
+      ]
+    },
+    "gastrointestinal": {
+      "abdominal pain": "13% to 23%",
+      "constipation": "12% to 22%",
+      "decreased appetite": "16%",
+      "diarrhea": "13% to 23%"
+    },
+    "id": 12
+  },
+  {
+    "category": null,
+    "name": "Ribociclib",
+    "abbreviation": null,
+    "generic_name": "Ribociclib",
+    "dosage_form_strengths": [
+      "200 mg",
+      "400 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antineoplastic Agent, Cyclin-Dependent Kinase Inhibitor",
+    "ATC_code": "L01EF02",
+    "indications": "N.B. Refer to the literature and specific protocols for all indications used.",
+    "dosage_regimen": {
+      "adult": "600 mg once daily for 21 consecutive days followed by 7 days off treatment (28-day cycle).",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "200 mg",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "400 mg",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      null,
+      null
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        null,
+        null
+      ],
+      "risk_d_consider_therapy_modification": [
+        null,
+        null
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      null,
+      null
+    ],
+    "storage": null,
+    "id": 13
+  },
+  {
+    "category": "Erlotinib",
+    "name": "ERLOTINIB",
+    "abbreviation": "ERLOTINIB",
+    "generic_name": "Erlotinib",
+    "dosage_form_strengths": [
+      "Tablet: 100 mg, 150 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Epidermal Growth Factor Receptor (EGFR) Inhibitor; Tyrosine Kinase Inhibitor",
+    "ATC_code": "L01EB02",
+    "indications": "Non-Small Cell Lung Cancer (NSCLC), Pancreatic cancer",
+    "dosage_regimen": {
+      "adult": "150 mg, Oral",
+      "pediatric": "Use of erlotinib in pediatric patients is not recommended"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustment is necessary",
+      "renal_impairment_pediatric": "No dose adjustment is necessary",
+      "hepatic_impairment_adult": "No dose adjustment is necessary",
+      "hepatic_impairment_pediatric": "No dose adjustment is necessary"
+    },
+    "contraindications": [
+      "Hypersensitivity to erlotinib or any of the excipients"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Cardiovascular: Chest pain (18%), Dermatologic: Paronychia (14%), Pruritus (13% to 16%), Skin rash (60% to 85%; including acne vulgaris, bullous dermatitis [≤1%], Dermal ulcer, Desquamation, Eczema, Exfoliative dermatitis [≤1%], Folliculitis, Furuncle, Hyperpigmentation, Palmar-plantar erythrodysesthesia, Skin fissure), Xeroderma (12% to 21%)"
+    },
+    "monitoring_parameters": "Serum electrolytes, including potassium; Renal functions; Hepatic functions; INR regularly in patients taking warfarin or other coumarin -derivative anticoagulants; Monitored carefully for symptoms of ILD or ocular toxicity",
+    "drug_interactions": "Risk X: Avoid the combination Fexinidazole, Inhibitors of the Proton Pump (PPIs and PCABs); Risk D: Consider therapy modification; Antacids, Atogepant, Ciprofloxacin (Synergistic effect)",
+    "interactions": "Risk X: Avoid the combination Fexinidazole, Inhibitors of the Proton Pump (PPIs and PCABs); Risk D: Consider therapy modification; Antacids, Atogepant, Ciprofloxacin (Synergistic effect)",
+    "id": 14
+  },
+  {
+    "category": null,
+    "name": "GEFITINIB",
+    "abbreviation": null,
+    "generic_name": "GEFITINIB",
+    "dosage_form_strengths": [
+      "250 mg",
+      "tablets"
+    ],
+    "route_of_administration": "oral",
+    "pharmacologic_category": "Antineoplastic Agent, Epidermal Growth Factor Receptor (EGFR) Inhibitor; Tyrosine Kinase Inhibitor.",
+    "ATC_code": "L01EB01",
+    "indications": "N.B. Refer to the literature and specific protocols for all indications.",
+    "dosage_regimen": {
+      "adult": "250 mg tablet once a day, until disease progression or unacceptable toxicity.",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or any of the excipients.",
+      "Adverse Drug Reactions >10%"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Dermatologic: Dermatologic reaction (47%). Gastrointestinal: Decreased appetite (17%)",
+      "diarrhea": 3,
+      "Genitourinary": "Proteinuria (35%). Hepatic: Increased serum alanine aminotransferase (11% to 38%)",
+      "skeletal": "Asthenia (17%). 1% to 10% Dermatologic: Alopecia (5%)",
+      "metabolic": "Dehydration (2%). Gastrointestinal: Stomatitis (7%)",
+      "oncologic": "Hemorrhage (4%; including epistaxis",
+      "Hepatic": "Increased serum bilirubin (3%). Hypersensitivity: Angioedema (≤1%)",
+      "Ophthalmic": "Blepharitis (≤6%)",
+      "Renal": "Increased serum creatinine (2%). Respiratory: Acute respiratory distress syndrome (≤1%)"
+    },
+    "contra-indications": [
+      "Hypersensitivity to the active substance or any of the excipients.",
+      "Adverse Drug Reactions >10%"
+    ],
+    "endocrine_and_metabolic": [
+      "dehydration (2%)"
+    ],
+    "gastrointestinal": [
+      "stomatitis (7%)",
+      "xerostomia (2%)",
+      "hemorrhage (4%; including epistaxis, hematuria)"
+    ],
+    "hematologic_and_oncologic": [
+      "hemorrhage (4%; including epistaxis, hematuria)"
+    ],
+    "hypersensitivity": [
+      "angioedema (≤1%)",
+      "hypersensitivity reaction (≤1%)"
+    ],
+    "ophthalmic": [
+      "blepharitis (≤6%)",
+      "conjunctivitis (≤6%)",
+      "dry eye syndrome (≤6%)"
+    ],
+    "renal": [
+      "increased serum creatinine (2%)"
+    ],
+    "respiratory": {
+      "acute respiratory distress syndrome (≤1%)\",\n    \"interstitial pulmonary disease (≤1%)\",\n    \"pneumonitis (≤1%)\",\n    \"pulmonary fibrosis (≤1%)\",\n    ": "ulmonary inf"
+    },
+    "id": 15
+  },
+  {
+    "category": null,
+    "name": "SORAFENIB",
+    "abbreviation": null,
+    "generic_name": "SORAFENIB",
+    "dosage_form_strengths": [
+      "Tablets: 200 mg, 400 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": null,
+    "atc_code": null,
+    "indications": "Unresectable hepatocellular carcinoma (HCC), Advanced renal cell carcinoma (RCC) patients with advanced renal cell carcinoma who have failed prior interferon -alpha or interleukin -2-based therapy or who are not suitable for such therapy, Locally recurrent or metastatic, progressive, differentiated thyroid carcinoma refractory to radioactive iodine treatment",
+    "dosage_regimen": {
+      "adult": "400 mg twice daily on an empty stomach",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hypertension (9% to 41%), Dermatologic: Alopecia (14% to 67%), palmar -plantar erythrodysesthesia (21% to 69%), pruritus (14% to 20%), skin rash (including desquamation; 19% to 40%), xeroderma (10% to 13%), Endocrine and metabolic: Hypoalbuminemia (59%), hypocalcemia (12% to 36%), hypophosphatemia (35% to 45%), increased amylase (30% to 34%), increased thyroid stimulating hormone level (>0.5 mU/L: 41%), weight loss (10% to 49%)",
+      "Cardiovascular: Hypertension (9% to 41%)\",\n    ": "ermatologic: Alopecia (14% to 67%), palmar -plantar erythrodysesthesia (21% to 69%), pruritus (14% to 20%), skin rash (including desquamation; 19% to 40%), xeroderma (10% to 13%)",
+      "Endocrine and metabolic: Hypoalbuminemia (59%), hypocalcemia (12% to 36%), hypophosphatemia (35% to 45%), increased amylase (30% to 34%), increased thyroid stimulating hormone level (>0.5 mU/L: 41%), weight loss (10% to 49%)\",\n    ": "astrointestinal: Abdominal pain (11% to 31%), anorexia (16% to 29%), constipation (14% to 16%), decreased appetite (30%), diarrhea (43% to 68%), gastrointestinal hemorrhage, increased serum lipase (40% to 41%), nausea (21% to 24%), stomatitis (24%; grades 3/4: 2%), vomit ing (11% to 16%)",
+      "Hematologic and oncologic: Anemia, hemorrhage (15% to 17%; grades 3/4: 2%), increased INR (42%; grades 3/4: 4%), leukopenia, lymphocytopenia (23% to 47%; grades 3/4: 13%), neutropenia (18%; grades 3/4: 5%), thrombocytopenia (12% to 46%; grades 3/4: 1% to 4%)\",\n    ": "epatic: Hepatic insufficiency (11%), increased serum alanine aminotransferase (59%), increased serum aspartate aminotransferase (54%)",
+      "Infection: Infection\",\n    ": "ervous system: Fatigue (37% to 46%), headache (10% to 17%), mouth pain (14%), pain (including tumor pain), peripheral sensory neuropathy (13%), voice disorder (13%)",
+      "Neuromuscular and skeletal: Asthenia (12%), limb pain (15%), ostealgia\",\n    ": "espiratory: Dyspnea (14%), respiratory tract hemorrhage"
+    },
+    "miscellaneous": null,
+    "id": 16
+  },
+  {
+    "category": null,
+    "name": "SUNITINIB",
+    "abbreviation": null,
+    "generic_name": "Sunitinib",
+    "dosage_form_strengths": [
+      "12.5mg",
+      "25mg",
+      "37.5mg",
+      "50mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antineoplastic Agent, BCR-ABL Tyrosine Kinase Inhibitor, Vascular endothelial growth factor (VEGF) inhibitor",
+    "ATC_code": "L01EX01",
+    "indications": "Gastrointestinal stromal tumour (GIST), Renal cell carcinoma (RCC), Pancreatic neuroendocrine tumours (pNET)",
+    "dosage_regimen": {
+      "adult": "50 mg once daily for 4 weeks of a 6 -week treatment cycle (4 weeks on, 2 weeks off)"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No initial dose adjustment is recommended at any stage of renal impairment",
+      "renal_impairment_pediatric": "No initial dose adjustment is recommended at any stage of renal impairment",
+      "hepatic_impairment_adult": "Mild or moderate impairment: No initial dose adjustment. Severe hepatic impairment: Not studied. Use is not recommended",
+      "hepatic_impairment_pediatric": "Mild or moderate impairment: No initial dose adjustment. Severe hepatic impairment: Not studied. Use is not recommended"
+    },
+    "contraindications": [
+      "Gastrointestinal stromal tumour (GIST), Renal cell carcinoma (RCC), Pancreatic neuroendocrine tumours (pNET)"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hypertension, Hemorrhagic Events"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Hypertension, Hemorrhagic Events"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Hypertension, Hemorrhagic Events"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Cardiac disorders",
+      "Proteinuria"
+    ],
+    "storage": null,
+    "id": 17
+  },
+  {
+    "category": null,
+    "name": "Pertuzumab",
+    "abbreviation": null,
+    "generic_name": "Pertuzumab",
+    "dosage_form_strengths": [
+      "Concentrate Solution for IV Infusion: 420 mg",
+      "Solution for subcutaneous injection: 1200 mg pertuzumab/600 mg trastuzumab",
+      "Concentrate Solution for IV Infusion: 30000 units, 600 mg pertuzumab/600 mg trastuzumab",
+      "Concentrate Solution for IV Infusion: 20000 units"
+    ],
+    "route_of_administration": "IV, SC",
+    "pharmacologic_category": "Antineoplastic Agent, Anti-HER2, Monoclonal Antibody",
+    "atc_code": null,
+    "indications": "Locally advanced, inflammatory HER2-positive breast cancer (Neoadjuvant treatment), Early-stage HER2-positive breast cancer at high risk of recurrence (Adjuvant or neoadjuvant treatment), Metastatic HER2-positive breast cancer patients who have not received prior anti-HER2 therapy or chemotherapy for metastatic disease",
+    "dosage_regimen": {
+      "adult": "IV formulation",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "IV, SC",
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 18
+  },
+  {
+    "category": null,
+    "name": "NIVOLUMAB",
+    "abbreviation": null,
+    "generic_name": "Nivolumab",
+    "dosage_form_strengths": [
+      "40mg/4ml",
+      "100mg/10ml"
+    ],
+    "route_of_administration": "IV",
+    "pharmacologic_category": "Anti-PD-1 Monoclonal Antibody, Immune Checkpoint Inhibitor, Antineoplastic Agent",
+    "ATC_code": "L01FF01",
+    "indications": "Melanoma in adults and pediatric (12 years and older), Non-small cell lung cancer (NSCLC), Malignant pleural mesothelioma (MPM), Renal cell carcinoma (RCC), Classical Hodgkin lymphoma (cHL), Squamous cell cancer of the head and neck (SCCHN), Urothelial carcinoma, Oesophageal cancer, Gastric cancer, gastroesophageal junction cancer, and esophageal adenocarcinoma.",
+    "dosage_regimen": {
+      "adult": "N.B. Different doses and regimens have been used; consult the literature for specific protocols.",
+      "pediatric": "N.B. Different doses and regimens have been used; consult the literature for specific protocols."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "240 mg every 2 weeks or 480 mg every 4 weeks",
+      "renal_impairment_pediatric": "3 mg/kg every 2 weeks or 6 mg/kg every 4 weeks",
+      "hepatic_impairment_adult": "360 mg every 3 weeks",
+      "hepatic_impairment_pediatric": "360 mg every 3 weeks"
+    },
+    "contraindications": [
+      "Weight more than 40 or 50 kg",
+      "Weight is less than 40 or 50 kg"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Expressing PD-L1: IV: 360 mg nivolumab every 3 weeks with ipilimumab 1 mg/kg every 6 weeks until disease progression, unacceptable toxicity, or up to 2 years in patients without disease progression."
+    },
+    "combination_nivolumab_with_ipilimumab": [
+      "Continues until disease progression, unacceptable toxicity, or up to 2 years in patients without disease progression"
+    ],
+    "malignant_pleural_mesothelioma": [
+      "IV: 360 mg every 3 weeks with ipilimumab 1 mg/kg every 6 weeks until disease progression, unacceptable toxicity, or up to 2 years in patients without disease progression"
+    ],
+    "renal_cell_carcinoma": {
+      "Monotherapy (after prior therapy): IV: 240 mg every 2 weeks or 480 mg every 4 weeks\",\n    ": "ombination therapy (first line): IV: 3 mg/kg every 3 weeks with ipilimumab 1 mg/kg for 4 doses followed by monotherapy phase as above until disease progression or unacceptable toxicity"
+    },
+    "classical_hodgkin_lymphoma": [
+      "IV: 240 mg every 2 weeks or 480 mg every 4 weeks monotherapy until disease progression or unacceptable"
+    ],
+    "id": 19
+  }
+]

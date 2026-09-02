@@ -1,0 +1,896 @@
+[
+  {
+    "category": null,
+    "name": "Cetirizine",
+    "abbreviation": null,
+    "generic_name": "Cetirizine",
+    "dosage_form_strengths": [
+      "Oral drops: 10 mg/1 ml",
+      "Oral syrup or solution: 1 mg/ml",
+      "Film-coated tablets: 10 mg",
+      "Chewable tablets: 10 mg",
+      "Solution for IV injection: 10 mg",
+      "Ophthalmic solution: 2.4 mg/1 ml"
+    ],
+    "route_of_administration": "Oral, IV, Ophthalmic",
+    "pharmacologic_category": "Histamine H1 antagonist, second generation",
+    "atc_code": "R06AE07",
+    "indications": "Oral (in adults and children 2 years and above), Intravenous (Treatment of acute urticaria in adults and children 6 months of age and older), Ophthalmic (Treatment of ocular itching associated with allergic conjunctivitis)",
+    "dosage_regimen": {
+      "adult": "10 mg once daily",
+      "pediatric": "2.5 mg once to twice daily",
+      "pediatric_2_to_6_years": "2.5 mg once to twice daily",
+      "pediatric_6_to_12_years": "5 mg twice daily (or 10 mg once daily based on severity)",
+      "adolescents_over_12_years": "10 mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustment is needed",
+      "renal_impairment_pediatric": "No dose adjustment is needed",
+      "hepatic_impairment_adult": "No dose adjustment is needed",
+      "hepatic_impairment_pediatric": "No dose adjustment is needed"
+    },
+    "contraindications": [
+      "Known hypersensitivity to cetirizine, levocetirizine, hydroxyzine, or any component of the formulation",
+      "End-stage renal disease (eGFR below 15 ml/min) and patients undergoing hemodialysis",
+      "IV: Pediatric patients less than 6 years with impaired renal or hepatic function"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Nervous system: Drowsiness, headache"
+    },
+    "monitoring_parameters": "Monitor for relief of symptoms, sedation, mental alertness, and anticholinergic effects",
+    "drug_interactions": {
+      "Alcohol (Ethyl), Pitolisant": "Avoid combination",
+      "Benzylpenicilloyl Polylysine, CNS Depressants": "Consider Therapy Modification",
+      "Pregnenolone Acetate, CNS Depressants": "Consider Therapy Modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "No evidence of fetal harm in human or animal studies",
+      "lactation": "Use is not recommended"
+    },
+    "administration": "Oral, IV, Ophthalmic",
+    "warnings_precautions": [
+      "Sedation and somnolence",
+      "Urinary retention"
+    ],
+    "storage": "Storage: None",
+    "id": 1
+  },
+  {
+    "category": null,
+    "name": "FEXOFENADINE",
+    "abbreviation": null,
+    "generic_name": "Fexofenadine",
+    "dosage_form_strengths": [
+      "Film-coated tablets",
+      "Hard gelatin capsules",
+      "Oral suspension"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Histamine H1 antagonist, second generation; piperidine derivative",
+    "ATC_code": "R06AX26",
+    "indications": "Relief of symptoms associated with seasonal allergic rhinitis and allergic rhinitis in adults and children from 2 years of age; relief of symptoms of urticaria in adults and children from 6 months of age; relief of symptoms associated with seasonal allergic rhinitis in adults and children from 12 years of age; relief of symptoms associated with chronic idiopathic urticaria",
+    "dosage_regimen": {
+      "adult": "60 mg twice daily, when required",
+      "pediatric": {
+        "children aged 2 to 11 years": "30 mg (5 ml of the suspension) twice daily, when required",
+        "children aged 6 to 23 months": "15 mg (2.5 ml of the suspension) twice daily, when required"
+      }
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "60 mg every 24 hours",
+      "renal_impairment_pediatric": "60 mg every 24 hours",
+      "hepatic_impairment_adult": "60 mg once daily",
+      "hepatic_impairment_pediatric": "60 mg once daily"
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gastrointestinal: Vomiting (infants and children: 12%)",
+      "Risk X: Avoid combination": "Pitolisant",
+      "Risk D: Consider Therapy Modification": "Antacids, Benzylpenicilloyl Polylysine"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": null,
+    "storage": "Store at 20°C to 25°C",
+    "id": 2
+  },
+  {
+    "category": null,
+    "name": "Omalizumab",
+    "abbreviation": null,
+    "generic_name": "Omalizumab",
+    "dosage_form_strengths": [
+      "75 mg/0.6 ml",
+      "150 mg/1.2 ml"
+    ],
+    "route_of_administration": "Subcutaneous injection",
+    "pharmacologic_category": "Monoclonal Antibody, Anti-Asthmatic",
+    "atc_code": null,
+    "indications": "Asthma, − Treatment of moderate to severe persistent asthma in adults and pediatric patients ≥6 years of age who have a positive skin test or in vitro reactivity to a perennial aeroallergen and whose symptoms are inadequately controlled with inhaled corticosteroids.",
+    "dosage_regimen": {
+      "adult": "75 to 375 mg SC every 2 or 4 weeks",
+      "pediatric": "150 or 300 mg SC every 4 weeks"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "75 to 375 mg SC every 2 or 4 weeks",
+      "renal_impairment_pediatric": "150 or 300 mg SC every 4 weeks",
+      "hepatic_impairment_adult": "75 to 375 mg SC every 2 or 4 weeks",
+      "hepatic_impairment_pediatric": "150 or 300 mg SC every 4 weeks"
+    },
+    "contraindications": [
+      "Severe hypersensitivity reaction to Omalizumab or any component of the formulation"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Local: Injection-site reaction (asthma: 45%, severe 12%; chronic spontaneous urticaria and chronic rhinosinusitis with nasal polyps: 3% to 5%; may include bleeding at injection site, bruising at injection site, burning sensation at injection site, erythema at injection site, induration at injection site, injection-site pruritus, pain at injection site, residual mass at injection site, swelling at injection site, urticaria at injection site, warm sensation at injection site)"
+    },
+    "monitoring_parameters": "Anaphylactic/hypersensitivity reactions (observe patients after the first 3 injections); baseline serum total IgE; monitor for signs of infection.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Loxapine"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Subcutaneous injection",
+    "warnings_precautions": [
+      "Injection-site reaction (asthma: 45%, severe 12%; chronic spontaneous urticaria and chronic rhinosinusitis with nasal polyps: 3% to 5%; may include bleeding at injection site, bruising at injection site, burning sensation at injection site, erythema at injection site, induration at injection site, injection-site pruritus, pain at injection site, residual mass at injection site, swelling at injection site, urticaria at injection site, warm sensation at injection site)"
+    ],
+    "storage": null,
+    "id": 3
+  },
+  {
+    "category": null,
+    "name": "Montelukast",
+    "abbreviation": null,
+    "generic_name": "Montelukast",
+    "dosage_form_strengths": [
+      "Oral granules (in sachets): 4 mg",
+      "Chewable tablets: 4 mg",
+      "Film Coated Tablets: 5 mg",
+      "Oral granules (in sachets): 5 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Leukotriene receptor antagonists",
+    "atc_code": null,
+    "indications": "Prophylaxis and chronic treatment of asthma in patients 12 months of age and older; acute prevention of exercise-induced bronchoconstriction (EIB) in patients 6 years of age and older; relief of symptoms of allergic rhinitis: reserve use for patients who have an inadequate response or intolerance to alternative therapies",
+    "dosage_regimen": {
+      "adult": "10 mg once daily in the evening",
+      "pediatric": "5 mg chewable tablet",
+      "pediatric patients 6 to 14 years of age": "5 mg chewable tablet at least 2 hours before exercise",
+      "pediatric patients 2 to 5 years of age": "4 mg chewable tablet or one packet of 4 mg oral granules daily",
+      "pediatric patients 12 to 23 months 2 years of age": "One packet of 4 mg oral granules daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Dermatologic: Atopic dermatitis (≥2%), dermatitis (2%), skin infection (≥2%), skin rash (2%), urticaria (≥2%), gastrointestinal: Abdominal pain (≥2%), diarrhea (≥2%), dyspepsia (2%), gastroenteritis (2%), nausea (≥2%), tooth infection (≥2%), toothache (2%), genitourinary: Pyuria (1%), Hepatic: Increased serum alanine aminotransferase (≥1%), increased serum aspartate aminotransferase (2%), Infection: Influenza (≥2%), varicella zoster infection (≥2%), viral infection (≥2%), Nervous system: Dizziness (2%), fatigue (≤2%), headache (≥2%), Neuromuscular and skeletal: Asthenia (≤2%), ophthalmic: Conjunctivitis (≥2%), myopia (≥2%),",
+      "risk_x_avoid_combination": [
+        "Loxapine (inhaled only)"
+      ]
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Loxapine (inhaled only)"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral Administration",
+    "warnings_precautions": [
+      "Appropriate use",
+      "Concomitant corticosteroid use",
+      "Neuropsychiatric (NP) events",
+      "Eosinophilia",
+      "Risk in Phenylketonuria Patients"
+    ],
+    "storage": null,
+    "id": 4
+  },
+  {
+    "category": null,
+    "name": "Aminophylline",
+    "abbreviation": null,
+    "generic_name": "Aminophylline",
+    "dosage_form_strengths": [
+      "Ampoule: 250 mg /10 ml"
+    ],
+    "route_of_administration": "I.V.",
+    "pharmacologic_category": "Phosphodiesterase Enzyme Inhibitor, Nonselective",
+    "atc_code": null,
+    "indications": "Relief of bronchospasm associated with asthma and in chronic obstructive pulmonary disease. Disease of the cardiovascular system (e.g., adjunct in the treatment of pulmonary edema or paroxysmal nocturnal dyspnoea caused by left ventricular heart failure).",
+    "dosage_regimen": {
+      "adult": "A loading dose (LD): 6 mg/kg may be given by slow IV injection at a rate not exceeding 25 mg/min. The maintenance dose (MD) for the next 12 hours, depending on the status of the patient, may be considered as follows: Children aged 6 months to 9 years: 1 mg/kg/hour, Children aged 9 years to 16 years and young adult smokers: 0.8 mg/kg/hour, Otherwise, healthy non-smoking adults: 0.5mg/kg/hour, Elderly patients 0.3mg/kg/hour",
+      "pediatric": "1 mg/kg/hour"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "frequency bucket as written in the text": "Central nervous system: Headache, insomnia, irritability, restlessness, seizure, and tremor. Gastrointestinal: Diarrhea, nausea, vomiting. Genitourinary: Diuresis (transient).",
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "I.V.",
+    "warnings_precautions": null,
+    "storage": "Store at a temperature not exceeding 25° C. Protect from light. Do not use if discolored or if crystals are present.",
+    "id": 5
+  },
+  {
+    "category": null,
+    "name": "Beractant",
+    "abbreviation": null,
+    "generic_name": "Beractant",
+    "dosage_form_strengths": [
+      "25 mg/ml (4, 8 ml)"
+    ],
+    "route_of_administration": "Intratracheal administration",
+    "pharmacologic_category": "Lung Surfactant",
+    "atc_code": "R07AA02",
+    "indications": "Prevention and treatment of respiratory distress syndrome (RDS) in premature infants",
+    "dosage_regimen": {
+      "adult": null,
+      "pediatric": "100 mg/kg birth weight (4 mL/kg)"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Bradycardia (transient), Oxygen desaturation"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Intratracheal administration",
+    "warnings_precautions": [
+      "Transient bradycardia, Nosocomial sepsis"
+    ],
+    "storage": null,
+    "id": 6
+  },
+  {
+    "category": null,
+    "name": "LORATADINE",
+    "abbreviation": null,
+    "generic_name": "LORATADINE",
+    "dosage_form_strengths": [
+      "5 mg",
+      "10 mg",
+      "10 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Histamine H1 antagonist, second generation; piperidine derivative",
+    "atc_code": null,
+    "indications": "Symptomatic treatment of allergic rhinitis and chronic idiopathic urticaria in adults and children over the age of 2 years",
+    "dosage_regimen": {
+      "adult": "10 mg once daily",
+      "pediatric": "5 mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "10 mg every 48 hours",
+      "renal_impairment_pediatric": "5 mg every other day",
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Headache (adolescents and adults: 12%)",
+      "1% to 10%": "Cardiovascular: Chest pain (<2%), flushing (<2%), hypertension (<2%), hypotension (<2%), palpitations (<2%), supraventricular tachycardia (<2%), syncope (<2%), tachycardia (<2%).",
+      "Dermatologic: Dermatitis (<2%), diaphoresis (<2%), dry hair (<2%), pruritus (<2%), skin photosensitivity (<2%), skin rash (children: 2% to 3%), xeroderma (<2%).\",\n    ": "ndocrine and metabolic: Decreased libido (<2%), increased thirst (<2%), weight gain (<2%).",
+      "Gastrointestinal: Abdominal pain (children: 2%), altered salivation (<2%), anorexia (<2%), constipation (<2%), diarrhea (children: 2% to 3%), dysgeusia (<2%), dyspepsia (<2%), flatulence (<2%), gastritis (<2%), hiccups (<2%), increased appetite (<2%), loose stools (<2%), nausea (<2%), stomatitis (children: 2% to 3%), vomiting (<2%), xerostomia (adolescents and adults: 3%).\",\n    ": "enitourinary: Altered micturition (<2%), dysmenorrhea (<2%), impotence (<2%), mastalgia (<2%), urinary incontinence (<2%), urinary retention (<2%), urine discoloration (<2%), vaginitis (<2%).",
+      "Hematologic and oncologic: Purpuric disease (<2%)\",\n    ": "ypersensitivity: Angioedema (<2%)",
+      "Infection: Viral infection (children: 2% to 3%)\",\n    ": "ervous system: Agitation (<2%), amnesia (<2%), anxiety (<2%), confusion (<2%), depression (<2%), dizziness (<2%), drowsiness (adolescents and adults: 8%), fatigue (2% to 4%), hypertonia (<2%), hypoesthesia (<2%), insomnia (<2%), irritability (<2%), lack of concentration (<2%), malaise (children: 2%), migraine (<2%), nervousness (children: 4%), nightmares (<2%), paresthesia (<2%), rigors (<2%), vertigo (<2%), voice disorder (children: 2%).",
+      "Neuromuscular and skeletal: Arthralgia (<2%), asthenia (<2%), back pain (<2%), hyperkinetic muscle activity (children: 3%), lower limb cramp (<2%), myalgia (<2%), tremor (<2%).\",\n    ": "phthalmic: Blepharospasm (<2%), blurred vision (<2%), conjunctivitis (children: 2%), eye pain (<2%).",
+      "Otic: Otalgia (children: 2% to 3%), tinnitus (<2%).\",\n    ": "espiratory: Bronchitis (<2%), bronchospasm (<2%), cough (<2%), dry nose (<2%), dyspnea (<2%), epistaxis (children: 2% to 3%), flu-like symptoms (children: 2% to 3%), hemoptysis (<2%), laryngitis (<2%),"
+    },
+    "id": 7
+  },
+  {
+    "category": null,
+    "name": "Ipratropium Bromide",
+    "abbreviation": null,
+    "generic_name": "Ipratropium Bromide",
+    "dosage_form_strengths": [
+      "250 mcg/ml",
+      "500 mcg/2ml",
+      "250 mcg/2ml"
+    ],
+    "route_of_administration": "Oral Inhalation",
+    "pharmacologic_category": "Anticholinergic agent",
+    "ATC_code": "R03BB01",
+    "indications": "Nebulization for treatment of reversible airway obstruction associated with chronic obstructive pulmonary disease (COPD) and acute and chronic asthma.",
+    "dosage_regimen": {
+      "adult": "500 mcg; the time interval between the doses must be determined by the physician.",
+      "pediatric": "250 micrograms up to a total daily dose of 1mg. The physician may determine the time interval between doses."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustments needed (has not been studied)",
+      "renal_impairment_pediatric": "No dose adjustments needed (has not been studied)",
+      "hepatic_impairment_adult": "No dose adjustments needed (has not been studied)",
+      "hepatic_impairment_pediatric": "No dose adjustments needed (has not been studied)"
+    },
+    "contraindications": [
+      "Hypersensitivity to ipratropium, atropine, or any of the excipients."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Respiratory: Bronchitis (10 - 23%), exacerbation of chronic obstructive pulmonary disease (8 - 23%), sinusitis (1 - 11%)."
+    },
+    "monitoring_parameters": "Monitor for symptoms of bronchospasm, hypersensitivity reactions, urinary retention, or glaucoma.",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification",
+      "Methacholine": "Pregnancy and Lactation"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Pregnancy",
+      "lactation": "Lactation"
+    },
+    "administration": "Nebulization solution",
+    "warnings_precautions": [
+      "Adverse effects related issues",
+      "Anaphylaxis and other hypersensitivity reactions: If symptoms develop (e.g., urticaria, angioedema, rash, bronchospasm, oropharyngeal edema, and anaphylaxis), discontinue immediately and consider alternatives.",
+      "Paradoxical bronchospasm: It may develop in some cases. If it occurs, the doctor should consider alternatives."
+    ],
+    "id": 8
+  },
+  {
+    "category": null,
+    "name": "Dextromethorphan",
+    "abbreviation": null,
+    "generic_name": "Dextromethorphan",
+    "dosage_form_strengths": [
+      "Syrup: 200 mg/100ml",
+      "Powder for oral solution: 10 mg/5 g powder",
+      "Oral drops: 10 mg/ml, 15 mg/ml",
+      "Tablets: 10 mg, 15 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antitussive; N-Methyl-D-Aspartate (NMDA) Receptor Antagonist",
+    "ATC_code": "R05DA09",
+    "indications": "Cough suppressant for the relief of acute non-productive (dry, irritant) cough.",
+    "dosage_regimen": {
+      "adult": "10 mg-20 mg every 4-6 hours. Maximum dose: 80 mg/day."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Not studied. Caution in severe renal impairment.",
+      "renal_impairment_pediatric": "Not studied. Caution. Do not exceed the stated dose.",
+      "hepatic_impairment_adult": "Not studied. Caution. Do not exceed the stated dose.",
+      "hepatic_impairment_pediatric": "Not studied. Caution. Do not exceed the stated dose."
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or any of the excipients.",
+      "Patient with, or at risk of developing, respiratory failure.",
+      "Patients taking monoamine oxidase inhibitors (MAOIs) or within 14 days of stopping such treatment.",
+      "Patients taking selective serotonin reuptake inhibitors (SSRI)."
+    ],
+    "adverse_drug_reactions": {
+      "frequency": "Not defined"
+    },
+    "monitoring_parameters": "Monitor for side effects.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Disulfiram, Mavorixafor, Methotrimeprazine, Metronidazole (Systemic),",
+        "Monoamine Oxidase Inhibitors, Secnidazole"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Selective Serotonin Reuptake Inhibitors (Strong CYP2D6 Inhibitors)"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "No human data. Animal studies do not indicate embryofetal toxicity. Consider the potential benefit against any possible hazards before use.",
+      "lactation": "Dextromethorphan and its metabolite are excreted in breast milk in minor quantities. Consider the potential benefit against any possible hazards before use."
+    },
+    "administration": "N.B. Refer to the manufacturer’s PIL for specific considerations.",
+    "warnings": [
+      "Respiratory disorders",
+      "Patients with the following conditions should not use this product, unless directed by a physician: acute or chronic asthma, chronic cough such as in chronic bronchitis or emphysema, or where cough is accompanied by excessive secretions.",
+      "Patient should stop use and ask a healthcare professional if cough lasts more than 7 days, comes back, or is accompanied by a fever, rash, or persistent headache. These could be signs of serious conditions.",
+      "Poor metabolizers of CYP2D6",
+      "Due to that, dextromethorphan is metabolized by hepatic cytochrome P450 2D6; poor metabolizers and patients with concomitant use of CYP2D6 inhibitors may experience exaggerated or prolonged effects of dextromethorphan. Use with caution."
+    ],
+    "id": 9
+  },
+  {
+    "category": null,
+    "name": "Salbutamol",
+    "abbreviation": null,
+    "generic_name": "Salbutamol",
+    "dosage_form_strengths": [
+      "4 mg",
+      "8 mg"
+    ],
+    "route_of_administration": null,
+    "pharmacologic_category": null,
+    "atc_code": null,
+    "indications": null,
+    "dosage_regimen": {
+      "adult": "4 mg 3–4 times a day, maximum single dose 8 mg",
+      "pediatric": "2 mg three or four times daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to salbutamol or any component of the formulations",
+      "Non-I.V. formulations of salbutamol should not be used to stop uncomplicated premature labour or threatened abortion"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "I.V. infusion"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "I.V. infusion"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": null,
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 10
+  },
+  {
+    "category": null,
+    "name": "Terbutaline",
+    "abbreviation": null,
+    "generic_name": "Terbutaline",
+    "dosage_form_strengths": [
+      "Syrup: 1.5 mg/5ml single and in combination, 1.25 mg, 1.5 mg/5ml in combination",
+      "Tablets: 2.5 mg",
+      "Solution for nebulizer: 5mg/2ml"
+    ],
+    "route_of_administration": "Oral, inhalation",
+    "pharmacologic_category": "Beta2-adrenoreceptor agonists",
+    "ATC_code": "Nebulizer solution: R03AC03",
+    "indications": "Relief of severe bronchospasm in bronchial asthma and in chronic bronchitis and other bronchopulmonary disorders in which bronchospasm is present. Prevention of bronchospasm in bronchial asthma.",
+    "dosage_regimen": {
+      "adult": "One or two ampoules (5 or 10mg) 2-4 times daily. Additional doses may be necessary in acute severe asthma.",
+      "pediatric": "Children (>25 kg): One ampoule (5mg). Children (<25 kg): Not recommended."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary",
+      "renal_impairment_pediatric": "No dosage adjustment necessary",
+      "hepatic_impairment_adult": "Significant hepatic dysfunction: Not recommended because of unpredictable conversion to terbutaline.",
+      "hepatic_impairment_pediatric": "Significant hepatic dysfunction: Not recommended because of unpredictable conversion to terbutaline."
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Central nervous system: Nervousness, restlessness",
+      "risk_x_avoid_combination": [
+        "Beta-Blockers (Nonselective), Cocaine (Topical), Linezolid, Methacholine, QT-prolonging Agents (Highest Risk)."
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Beta-Blockers (Nonselective), Cocaine (Topical), Linezolid, Methacholine, QT-prolonging Agents (Highest Risk)."
+      ]
+    },
+    "monitoring_parameters": [
+      "Lactic acidosis and arterial blood gases before increasing the dose",
+      "Forced Expiratory Volume 1 (FEV1), peak flow, and/or other pulmonary function tests; shortness of breath; BP, heart rate; CNS stimulation; serum glucose, serum potassium; monitor for signs and symptoms of pulmonary edema (when used as a tocolytic: suppress uterine contractions). If used for extravasation management, monitor and document the extravasation site.",
+      "N.B. Refer to the manufacturer’s PIL if there are specific considerations for combinations."
+    ],
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "id": 11
+  },
+  {
+    "category": null,
+    "name": "Xylometazoline",
+    "abbreviation": null,
+    "generic_name": "Xylometazoline",
+    "dosage_form_strengths": [
+      "0.05%",
+      "0.1%"
+    ],
+    "route_of_administration": "Nasal",
+    "pharmacologic_category": "Alpha-adrenergic agonist; decongestant; imidazoline derivative",
+    "ATC": "R01AA07",
+    "indications": "Nasal relief of nasopharyngeal congestion, perennial and allergic rhinitis (including hay fever), and sinusitis",
+    "dosage_regimen": {
+      "adult": "2 – 3 drops in each nostril 3 times daily",
+      "pediatric": "1 – 2 drops of 0.05% formulation in each nostril once or twice daily",
+      "geriatric": "Same as adult dosing"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustments required",
+      "renal_impairment_pediatric": "No dose adjustments required",
+      "hepatic_impairment_adult": "No dose adjustments required",
+      "hepatic_impairment_pediatric": "No dose adjustments required"
+    },
+    "contraindications": [
+      "Known hypersensitivity to xylometazoline or any of the excipients of the product",
+      "After trans-nasal or trans-buccal surgeries that expose the dura matter e.g., transsphenoidal hypophysectomy",
+      "Rhinitis sicca",
+      "Closed-angle glaucoma",
+      "Inflammation of the skin and/or mucosa of the nasal vestibule",
+      "Patients with phaeochromocytoma or prostatic hypertrophy"
+    ],
+    "adverse_drug_reactions": {
+      "1% to 10%": "Central nervous system: Headache",
+      "Central nervous system: Gastrointestinal: Nausea\",\n    ": "ocal: Application site burning"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": [
+      "Risk D: Consider therapy modification",
+      "Esketamine, Zavegepant"
+    ],
+    "pregnancy_lactation": {
+      "pregnancy": "There are not enough data, so xylometazoline should not be used during pregnancy due to its vasoconstrictive properties",
+      "Lactation": "No data available about whether xylometazoline is excreted in breast milk, so it should be used with caution and supervision and after healthcare provider consultation"
+    },
+    "administration": [
+      "1. Nasal sprays should be primed before first-time use or if the product has not been used for longer than 7 days, by pumping into the air several times until mist is seen coming out.",
+      "2. The nose should be cleared before use.",
+      "3. The patient should tilt the head slightly to the back and apply the drops or the spray to each nostril.",
+      "4. The tip of the dropper or the spray should be cleaned after use."
+    ],
+    "id": 12
+  },
+  {
+    "category": null,
+    "name": "BECLOMETHASONE DIPROPIONATE",
+    "abbreviation": null,
+    "generic_name": "Beclomethasone Dipropionate",
+    "dosage_form_strengths": [
+      "50 micrograms",
+      "100 mcg per actuation",
+      "42 mg/ 100 ml (each puff contains 42 mcg)",
+      "77 mg/ 100 ml (each puff contains 77 mcg)",
+      "50 micrograms per actuation",
+      "0.25 mg/gm (for non-respiratory use)"
+    ],
+    "route_of_administration": "Nasal, oral spray, topical",
+    "pharmacologic_category": "Corticosteroid, inhalant (oral), nasal",
+    "ATC": "R03BA01, R01AD01, D07AC01",
+    "indications": "Nasal spray: Indicated for the treatment and prevention of seasonal and perennial allergic rhinitis, hay fever, and vasomotor rhinitis. Oral inhalation: Offers preventative management of mild, moderate, or severe asthma in adults or children. Topical cream: For the treatment of the various forms of eczema in children and adults, including atopic and discoid eczemas; primary irritant and allergic dermatitis; psoriasis (excluding widespread plaque psoriasis); neurodermatoses, including lichen simplex; intertrigo; discoid lupus erythematosus.",
+    "dosage_regimen": {
+      "adult": "200 to 400 mcg per day (two sprays into each nostril twice daily). Then a single spray into each nostril twice a day if symptoms are controlled. Maximum daily dose 400 mcg.",
+      "pediatric": "100 micrograms twice daily. Depending on the severity of asthma, the daily dose may be increased up to 400 micrograms administered in two to four divided doses."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment is needed in patients with hepatic or renal impairment",
+      "renal_impairment_pediatric": "No dosage adjustment is needed in patients with hepatic or renal impairment",
+      "hepatic_impairment_adult": "No dosage adjustment is needed in patients with hepatic impairment",
+      "hepatic_impairment_pediatric": "No dosage adjustment is needed in patients with hepatic impairment"
+    },
+    "contra_indications": "Hypersensitivity to the active substance or to any of the excipients",
+    "adverse_drug_reactions": {
+      "frequency": "Respiratory: Nasopharyngitis (≤24%; children: 2%, nasal inhalation), epistaxis (2% to 11%, nasal inhalation), pharyngitis (3% to 27%, oral inhalation). Central nervous system: Headache (1% to 25%, oral inhalation). Central nervous system: Dizziness (≤5%), headache (≤5%, nasal inhalation), pain (1% to 5%, oral inhalation), voice disorders (4%, oral inhalation). Endocrine and metabolic (nasal inhalation): Adrenal suppression (at high doses or in susceptible individuals), hypercorticoidism (at high doses or in susceptible individuals). Genitourinary: Dysmenorrhea (1% to 3%, oral inhalation), viral gastroenteritis (children: 1% to 3%, oral inhalation). Infection: Influenza (children: 1% to 3%, oral inhalation). Gastrointestinal: Nausea (≤5%, nasal inhalation) (1% to 3%, oral inhalation), oral candidiasis (nasal inhalation, rare; more likely with aqueous solution) (1% to 8%, oral inhalation), vomiting (children: 3%, oral inhalation). Immunologic: Immunosuppression (nasal inhalation)",
+      "percentage": "Respiratory: Nasopharyngitis (≤24%; children: 2%, nasal inhalation), epistaxis (2% to 11%, nasal inhalation), pharyngitis (3% to 27%, oral inhalation). Central nervous system: Headache (1% to 25%, oral inhalation). Central nervous system: Dizziness (≤5%), headache (≤5%, nasal inhalation), pain (1% to 5%, oral inhalation), voice disorders (4%, oral inhalation). Endocrine and metabolic (nasal inhalation): Adrenal suppression (at high doses or in susceptible individuals), hypercorticoidism (at high doses or in susceptible individuals). Genitourinary: Dysmenorrhea (1% to 3%, oral inhalation), viral gastroenteritis (children: 1% to 3%, oral inhalation). Infection: Influenza (children: 1% to 3%, oral inhalation). Gastrointestinal: Nausea (≤5%, nasal inhalation) (1% to 3%, oral inhalation), oral candidiasis (nasal inhalation, rare; more likely with aqueous solution) (1% to 8%, oral inhalation), vomiting (children: 3%, oral inhalation). Immunologic: Immunosuppression (nasal inhalation)"
+    },
+    "interaction": null,
+    "drug_interactions": null,
+    "side_effects": null,
+    "warnings": null,
+    "id": 13
+  },
+  {
+    "category": null,
+    "name": "Acetylcysteine",
+    "abbreviation": null,
+    "generic_name": "Acetylcysteine",
+    "dosage_form_strengths": [
+      "Granules in sachet for oral solution: 200 mg, 600 mg",
+      "Powder for oral solution: 600 mg",
+      "Effervescent tablet: 600 mg",
+      "Capsule: 600 mg",
+      "Oral syrup: 100 mg/5 ml",
+      "Solution for oral inhalation: 100 mg/ml",
+      "Solution for IV: 2 gm/10 ml, 5 gm/25 ml, 300 mg/3 ml",
+      "Concentrate for solution for IV infusion and inhalation: 1000 mg /5ml"
+    ],
+    "route_of_administration": "IV, Oral, Inhalation",
+    "pharmacologic_category": "Antidote; mucolytic agent",
+    "atc_code": "R05CB01",
+    "indications": "Oral mucolytic adjuvant in the therapy of respiratory disorders associated with thick, viscous mucus hypersecretion. Intravenous treatment of paracetamol overdose in patients: a) Who has taken a staggered overdose irrespective of plasma paracetamol level or b) Where there is any doubt over the time of the overdose, irrespective of plasma paracetamol level, or c) Who present with a plasma paracetamol level on or above a line joining points of 100mg/L at 4h and 15mg/L at 15h Staggered is defined as an overdose where the paracetamol was ingested over a period of 1 hour or more. Dosage Regimen Adult dosing Mucolytic agent Oral: 600 mg once daily or 200 mg three times daily. Based on the evaluation of treatment results, the treating physician may prescribe an increase in dosage. Abundant fluid intake supports the mucolytic effect of acetylcysteine. Duration of therapy depends on the nature and severity of the condition and is determined by the doctor. Inhalation, nebulization (face mask, mouthpiece, tracheostomy) Acetylcysteine 20% solution (dilute with sodium chloride or sterile water for inhalation): 3 to 5 mL given 3 times daily. Second infusion: 50 mg/kg over 4 hours given as a 6.25 mg/mL solution at a rate of 2 mL/kg/h. Third infusion: 100 mg/kg over 16 hours given as a 6.25 mg/mL solution at a rate of 1 mL/kg/h. Dosage Adjustment Renal impairment Insulin-free treatment is recommended for patients with renal impairment. In such cases, the dose should be adjusted according to the patient's actual weight with a ceiling weight of 110 kg. Doses should be administered sequentially with no break between the doses. Pediatric Mucolytic agent Adolescents over the age of 12 years: Oral: 200 mg three times daily. Adolescents 14 years and older: Oral: 600 mg once daily or 200 mg three times daily. Children and adolescents up to 12 years: Oral: Safety and efficacy are not established. Maximum daily dose: 600 mg/day. Treatment of paracetamol overdose Dose and regimen are the same as adults; the quantity of IV fluid should be modified considering age and weight to avoid overload. First infusion: loading dose: 150 mg/kg over 1 hour given as a 50 mg/mL solution at a rate of 3 mL/kg/h. Second infusion: 50 mg/kg over 4 hours given as a 6.25 mg/mL solution at a rate of 2 mL/kg/h. Third infusion: 100 mg/kg over 16 hours given as a 6.25 mg/mL solution at a rate of 1 mL/kg/h. Dosage",
+    "id": 14
+  },
+  {
+    "category": null,
+    "name": "Ambroxol",
+    "abbreviation": null,
+    "generic_name": "Ambroxol",
+    "dosage_form_strengths": [
+      "2.5 mg/spray",
+      "20 mg",
+      "7.5 mg/ml",
+      "30 mg/tablet",
+      "15 mg/5 ml",
+      "75 mg/capsule",
+      "15 mg/5 ml",
+      "7.5 mg/3 days"
+    ],
+    "route_of_administration": "Buccal, Oral",
+    "pharmacologic_category": "Local Anesthetic, Mucolytic Agent",
+    "ATC": "Mucolytic agent (oral): R05CB06, local anesthetic (buccal): RO2AD05",
+    "indications": null,
+    "dosage_regimen": {
+      "adult": "60 to 120 mg/day in 2 to 3 divided doses",
+      "pediatric": "60 to 120 mg/day in 2 to 3 divided doses",
+      "elderly": "60 to 120 mg/day in 2 to 3 divided doses"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment needed",
+      "renal_impairment_pediatric": "No dosage adjustment needed",
+      "hepatic_impairment_adult": "No dosage adjustment needed",
+      "hepatic_impairment_pediatric": "No dosage adjustment needed"
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "1% to 10%": "Gastrointestinal: Dysgeusia, nausea, oral hypoesthesia (including pharyngeal), feeling of numbness in the throat"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 15
+  },
+  {
+    "category": null,
+    "name": "BROMHEXINE",
+    "abbreviation": null,
+    "generic_name": "Bromhexine",
+    "dosage_form_strengths": [
+      "2 mg/ml",
+      "4 mg/5 ml",
+      "8 mg/5 ml",
+      "5 ml"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Mucolytic Agent",
+    "atc_code": null,
+    "indications": "For use as a mucolytic to break down mucus and help clear the chest in conditions accompanied by excessive mucus secretions, such as common cold, influenza, infections of the respiratory tract, or in other conditions where excess mucus is produced.",
+    "dosage_regimen": {
+      "adult": "1 – 2 tablets three times daily",
+      "pediatric": "1 tablet three times daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Use with caution",
+      "renal_impairment_pediatric": "Use with caution",
+      "hepatic_impairment_adult": "Use with caution",
+      "hepatic_impairment_pediatric": "Use with caution"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active ingredient or excipients"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gastrointestinal: Diarrhea, nausea, vomiting, upper abdominal pain, and other mild gastrointestinal side effects."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Risk X: Avoid combination"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Risk D: Consider therapy modification"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Category A",
+      "lactation": "Category A"
+    },
+    "administration": "To be taken orally",
+    "warnings_precautions": [
+      "Use with caution in patients with a history of gastric ulceration because it may disrupt the gastric mucosal barrier.",
+      "Care is also advisable in asthmatic patients.",
+      "Use with caution in severe impairment of the kidney or liver.",
+      "Increased flow of mucus secretions may occur.",
+      "Severe skin reactions/ lesions (Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN), acute generalized exanthematous pustulosis (A)"
+    ],
+    "interactions": {
+      "Risk X: Avoid combination": null,
+      "Risk D: Consider therapy modification": null
+    },
+    "id": 16
+  },
+  {
+    "category": null,
+    "name": "GUAIFENESIN",
+    "abbreviation": null,
+    "generic_name": "Guaifenesin",
+    "dosage_form_strengths": [
+      "Extended-release tablet: 600 mg, 1200 mg",
+      "Tablets: 100 mg, 200 mg, 225 mg, 400 mg",
+      "Capsules: 100 mg",
+      "Oral syrup: 10 mg/5 ml, 30 mg/5 ml, 50 mg/5 ml, 100 mg/5 ml,100 mg/10 ml, 200 mg/5 ml, 200 mg/15 ml, 33.3mg/5ml",
+      "Powder for oral solution: 200 mg/sachet",
+      "Effervescent granules:100mg/sachet",
+      "Rectal suppository: 66.6 mg/suppository"
+    ],
+    "route_of_administration": "Oral, rectal",
+    "pharmacologic_category": "Expectorant",
+    "ATC_code": "R05CA03, R05CA10, R05FA02, R05X",
+    "indications": "Symptomatic relief of productive cough in adults and adolescents above 12 years.",
+    "dosage_regimen": {
+      "adult": "Oral immediate release: 100 - 200 mg, up to 4 times daily. Maximum dose: 1200 mg and not to be more frequently than every 2-4 hours. Oral modified release (600  mg): 1 or 2 extended-release tablets every 12 hours. Do not exceed 4 extended-release tablets in 24 hours (Maximum dose: 2400 mg).",
+      "pediatric": "Oral immediate release: 100 - 200 mg, up to 4 times daily. Maximum dose: 1200 mg and not to be more frequently than every 2-4 hours. Oral modified release (600  mg): 1 or 2 extended-release tablets every 12 hours. Do not exceed 4 extended-release tablets in 24 hours (Maximum dose: 2400 mg).",
+      "children 6-12 years": "Oral solution (20mg/ml): 5 ml up to 4 times/day. Suppository: Above 2 years: 3 suppositories daily.",
+      "children under 12 years": "Oral solution (20mg/ml): 10 ml up to 4 times/day. Tablets are contraindicated. Oral solution is contraindicated in children under 6 years of age.",
+      "Hypersensitivity to any of the ingredients": "Tablets should not be used in children under the age of 12 years. N.B. Refer to the manufacturer’s PIL if there are specific considerations for combinations.",
+      "Central nervous system: Dizziness, drowsiness, headache": "Dizziness, drowsiness, headache"
+    },
+    "adverse_drug_reactions": {
+      "Frequency not defined": "Dizziness, drowsiness, headache"
+    },
+    "monitoring_parameters": "No monitoring data needed.",
+    "drug_interactions": {
+      "Risk X: Avoid combination": [
+        "Disulfiram, Methotrimeprazine, Metronidazole (Systemic), Secnidazole"
+      ]
+    },
+    "pregnancy_and_lactation": {
+      "Pregnancy": "Limited human data. As a result, guaifenesin is not recommended during pregnancy; avoid preparations contains ethanol.",
+      "Lactation": "No data. As a result, guaifenesin is not recommended during lactation; avoid preparations contains ethanol."
+    },
+    "administration": {
+      "Oral administration": "Do not crush, chew, or break the extended-release tablet. Take with a full glass of water. Guaifenesin can be administered without regard to meals.",
+      "Warnings/Precautions": "Respiratory disorders. Patients with the following conditions should not use this product, unless directed by a physician: acute or chronic asthmatic patients."
+    },
+    "warnings": {
+      "Respiratory disorders": "Patients with the following conditions should not use this product, unless directed by a physician: acute or chronic asthmatic patients."
+    },
+    "id": 17
+  },
+  {
+    "category": null,
+    "name": "Theophylline",
+    "abbreviation": null,
+    "generic_name": null,
+    "dosage_form_strengths": [
+      "sustained release tablet: 200 mg, 300 mg",
+      "combinations of theophylline anhydrous"
+    ],
+    "route_of_administration": "oral",
+    "pharmacologic_category": null,
+    "atc_code": null,
+    "indications": "Treatment and prophylaxis of bronchospasm associated with asthma. Chronic obstructive pulmonary disease and chronic bronchitis. Treatment of left ventricular and congestive cardiac failure.",
+    "dosage_regimen": {
+      "adult": "Maintenance dose: 200 mg/12 hours. This may be titrated to either 300 or 400 mg, depending on the therapeutic response.",
+      "pediatric": "Maintenance dose: 9 mg/kg/12 hours. Chronic asthma: 10-16 mg/kg/12 hours."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary",
+      "renal_impairment_pediatric": "No dosage adjustment necessary",
+      "hepatic_impairment_adult": "No dosage adjustment necessary",
+      "hepatic_impairment_pediatric": "No dosage adjustment necessary"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients.",
+      "Patients with porphyria.",
+      "Concomitant administration with ephedrine in children less than 6 years of age (or less than 22 kg).",
+      "Theophylline is contraindicated in children under 6 months of age."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Hypercholesterolemia (including increased HDL cholesterol), increased cortisol (urinary free cortisol excretion), increased free fatty acids."
+    },
+    "monitoring_parameters": "Plasma theophylline concentrations. Heart rate, CNS effects (insomnia, irritability); respiratory rate; arterial or capillary blood gases (if applicable).",
+    "drug_interactions": [
+      "Risk X: Avoid combination",
+      "Acebrophylline, Diazoxide Choline (Extended Release), Doxofylline, Esketamine (Injection), Kratom, Methotrimeprazine, Metronidazole (Systemic), Pipamperone, Rociguat, Secnidazole, Viloxazine."
+    ],
+    "pregnancy_lactation": {
+      "pregnancy": "There are no adequate data from well-controlled studies of the use of Theophylline in pregnant women.",
+      "lactation": "Theophylline is secreted in breast milk and may be associated with irritability in the infant."
+    },
+    "administration": "Oral",
+    "drug_name": "Theophylline",
+    "id": 18
+  },
+  {
+    "category": null,
+    "name": "PIRFENIDONE",
+    "abbreviation": null,
+    "generic_name": "PIRFENIDONE",
+    "dosage_form_strengths": [
+      "Hard Gelatin Capsules: 267 mg",
+      "Hard Gelatin Capsules: 534 mg",
+      "Hard Gelatin Capsules: 801 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Anti-inflammatory Agent; Antifibrotic Agent",
+    "atc_code": null,
+    "indications": "Treatment of idiopathic pulmonary fibrosis (IPF) in adults.",
+    "dosage_regimen": {
+      "adult": "801 mg three times daily (801 mg/day)",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "801 mg three times daily (801 mg/day)",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Dermatologic: Skin rash (30%)",
+      "Gastrointestinal: Abdominal pain (24%), decreased appetite (21%), diarrhea (26%), dyspepsia (19%), gastroesophageal reflux disease (11%), nausea (36%), vomiting (13%)\",\n    ": "ervous system: Dizziness (18%), fatigue (26%), headache (22%)",
+      "Respiratory: Sinusitis (11%), upper respiratory tract infection (27%)\",\n    \"1% to 10%": "Dermatologic: Pruritus (8%), skin photosensitivity (9%)",
+      "Endocrine and metabolic: Weight loss (10%)\",\n    ": "astrointestinal: Dysgeusia (6%)",
+      "Hepatic: Increased serum alanine aminotransferase (≥3 × ULN: ≤4%), increased serum aspartate aminotransferase (≥3 × ULN: ≤4%)\",\n    ": "ervous system: Asthenia (6%), insomnia (10%), noncardiac chest pain (5%)"
+    },
+    "monitoring_parameters": [
+      "Liver function tests (ALT, AST, and bilirubin) should be performed before the initiation of treatment and subsequently at monthly intervals for the first 6 months and then every 3 months thereafter.",
+      "Monitor patient’s weight.",
+      "Monitor serum sodium level."
+    ],
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    \"Aminolevulinic Acid (Systemic), Givosiran, Porfimer, Stiripentol, Temoporfin, Tobacco (Smoked)\",\n    ": "isk D: Consider Therapy Modification"
+    },
+    "pregnancy_and_lactation": {
+      "Pregnancy": null
+    },
+    "id": 19
+  }
+]

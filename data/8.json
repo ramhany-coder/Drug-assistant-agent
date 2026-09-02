@@ -1,0 +1,1429 @@
+[
+  {
+    "category": "Serotonin-4 Agonists",
+    "name": "Prucalopride",
+    "abbreviation": null,
+    "generic_name": "Prucalopride",
+    "dosage_form_strengths": [
+      "Film-coated tablets 1 mg",
+      "Film-coated tablets 2 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Gastrointestinal Agent, Prokinetic; Serotonin 5-HT4 Receptor Agonist",
+    "atc_code": "A06AX05",
+    "indications": "Symptomatic treatment of Chronic Idiopathic Constipation (CIC) in adults in whom laxatives fail to provide adequate relief.",
+    "dosage_regimen": {
+      "adult": "2 mg once daily.",
+      "pediatric": "Prucalopride should not be used in children and adolescents younger than 18 years"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustment for mild to moderate renal impairment; severe renal impairment (CrCl <30 mL/min): 1 mg once daily; ESRD requiring hemodialysis: avoid use.",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "Mild to moderate hepatic impairment: no dose adjustment required; severe hepatic impairment (Child-Pugh class C): start with 1 mg once daily, may increase to 2 mg if required and well tolerated.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to the active ingredient or to any of the excipients.",
+      "Renal impairment requiring dialysis.",
+      "Intestinal perforation or obstruction due to structural or functional disorder of the gut wall, obstructive ileus, severe inflammatory conditions of the intestinal"
+    ],
+    "adverse_drug_reactions": {},
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [],
+      "risk_d_consider_therapy_modification": []
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": null,
+    "warnings_precautions": [],
+    "storage": null,
+    "id": 1
+  },
+  {
+    "category": "GIT medicines",
+    "name": "Itopride",
+    "abbreviation": null,
+    "generic_name": "Itopride",
+    "dosage_form_strengths": [
+      "Tablets 50 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Gastrointestinal Agent, Prokinetic",
+    "atc_code": "A03FA07",
+    "indications": "Treatment of gastrointestinal symptoms of functional, caused by gastric dysmotility and delayed gastric emptying, like sensation of bloating, early satiety, postprandial fullness, upper abdominal pain or discomfort, anorexia, heartburn, nausea, and vomiting: functional non-ulcer dyspepsia or chronic gastritis.",
+    "dosage_regimen": {
+      "adult": "Oral: 50 mg three times daily. Maximum duration: 8 weeks.",
+      "pediatric": "The safety and efficacy of itopride in pediatrics has not been established."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Monitor carefully. Dose may be reduced or discontinued in case of adverse effects.",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "Monitor carefully. Dose may be reduced or discontinued in case of adverse effects.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients.",
+      "Patients in whom increased gastrointestinal motility could be harmful, e.g., in patients with gastrointestinal hemorrhage, mechanical obstruction, or perforation."
+    ],
+    "adverse_drug_reactions": {
+      "0.1-1%": "Endocrine disorders: Hyperprolactinemia. Psychiatric disorders: Irritability. Nervous system disorders: Headache, sleep disorders, dizziness. Gastrointestinal disorders: Diarrhea, constipation, abdominal pain, hypersalivation. Musculoskeletal and connective tissue disorders: Chest or back pain. Renal and urinary disorders: BUN (blood urea nitrogen) and creatinine increased. Miscellaneous: Fatigue."
+    },
+    "monitoring_parameters": "No monitoring data needed.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "narrow therapeutic index medicines",
+        "prolonged-release formulations",
+        "enteric-coated drug formulations"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "anticholinergic agents"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "No data. Only use if therapeutic benefits outweigh possible risks.",
+      "lactation": "No data. Use is not recommended during lactation."
+    },
+    "administration": "Tablets should be swallowed whole with a sufficient amount of liquid. N.B. Refer to the manufacturer’s PIL if there are specific considerations.",
+    "warnings_precautions": [
+      "Cholinergic effects: Itopride potentiates acetylcholine action and can induce side cholinergic effects.",
+      "Safety issues: Data about long-term administration of itopride is not available.",
+      "Effects on the ability to drive and use machines: No effects, but impairment of alertness cannot be excluded since dizziness may occur very rarely."
+    ],
+    "storage": "Store between 15-30 oC. Protect from moisture. Refer to the manufacturer’s PIL if there are specific considerations.",
+    "id": 2
+  },
+  {
+    "category": "GIT medicines",
+    "name": "Glycerin",
+    "abbreviation": null,
+    "generic_name": "Glycerin",
+    "dosage_form_strengths": [
+      "Rectal Suppositories: 1.4 gm, 1.47 gm, 1.61 gm. 70% w/w",
+      "Infantile rectal suppository: 0.7gm"
+    ],
+    "route_of_administration": "Rectal",
+    "pharmacologic_category": "Laxative, Osmotic",
+    "atc_code": "A06AX01",
+    "indications": "For occasional use as a stimulant laxative for the treatment of constipation.",
+    "dosage_regimen": {
+      "adult": "Rectal: 1-2 adults suppositories as needed.",
+      "pediatric": "Rectal: One suppository (1.4 gm) as needed for children; One suppository (0.7 gm) as needed for infants."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to the active ingredient or any of the excipients.",
+      "Intestinal obstruction or blockage."
+    ],
+    "adverse_drug_reactions": {
+      "Frequency not defined": "Gastrointestinal: Abdominal cramps, rectal irritation."
+    },
+    "monitoring_parameters": "No monitoring data needed.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [],
+      "risk_d_consider_therapy_modification": []
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "All medicines should be avoided if possible during pregnancy and lactation. No evidence of harmful effects. Use only under a doctor’s instruction in these conditions.",
+      "lactation": "All medicines should be avoided if possible during pregnancy and lactation. No evidence of harmful effects. Use only under a doctor’s instruction in these conditions."
+    },
+    "administration": "The suppository tip should be moistened with water before use to aid insertion. Not to be swallowed.",
+    "warnings_precautions": [
+      "Adults’ suppositories are not suitable for use by children and infants.",
+      "For occasional use only. Prolonged or excessive use of the product is not recommended.",
+      "Use of this product may interfere with glucose control in diabetic patients.",
+      "If symptoms persist, consult a doctor."
+    ],
+    "storage": "Store at 15°- 30° C. Do not exceed 30° C. Protect from moisture.",
+    "id": 3
+  },
+  {
+    "category": null,
+    "name": "Granisetron",
+    "abbreviation": null,
+    "generic_name": "Granisetron",
+    "dosage_form_strengths": [
+      "1mg/1ml",
+      "3mg/3ml",
+      "1mg/5ml",
+      "34.3 mg",
+      "10-40 μg/kg"
+    ],
+    "route_of_administration": "IV, Oral, Transdermal",
+    "pharmacologic_category": "Antiemetic; Selective 5-HT3 Receptor Antagonist",
+    "atc_code": null,
+    "indications": "Oral; IV; Transdermal",
+    "dosage_regimen": {
+      "adult": "1 mg twice a day or 2 mg once a day",
+      "pediatric": "1 mg twice a day or 2 mg once a day"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to granisetron or any of the excipients or to other 5-HT3 receptor antagonists"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gastrointestinal: Constipation (IV, oral, transdermal: 3% to 22%; including fecal impaction), nausea (20%), vomiting (12%). Local: Injection site reaction (IV: 37% to 62%; including bleeding at injection site [2% to 4%], bruising at injection site [≤45%], erythema at injection site [11% to 17%], hematoma at injection site [≤45%], induration at injection site ≤10%], injection-site infection ≤1%], injection-site nodule [≤18%], injection-site pruritus [≤2%], injection-site scarring [≤2%], irritation at injection site [≤2%], lipohypertrophy at injection site [≤2%], localized vesiculation [≤2%], pain at injection site [3% to 20%], paresthesia [injection site: ≤2%], rash at injection site [≤2%], residual mass at injection site [≤18%], skin discoloration at injection site [≤2%], swelling at injection site [≤10%], tenderness at injection [12%]",
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Apomorphine"
+      ],
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "IV, Oral, Transdermal",
+    "warnings_precautions": [
+      "Cardiovascular events",
+      "Gastrointestinal disorders",
+      "Risk X: Avoid Combination",
+      "Pregnancy and Lactation"
+    ],
+    "storage": null,
+    "id": 4
+  },
+  {
+    "category": null,
+    "name": "DOMPERIDONE",
+    "abbreviation": null,
+    "generic_name": "DOMPERIDONE",
+    "dosage_form_strengths": [
+      "10 mg",
+      "10 ml",
+      "10 mg sachet",
+      "30 mg"
+    ],
+    "route_of_administration": "Oral, Rectal",
+    "pharmacologic_category": null,
+    "atc_code": null,
+    "indications": "Relief of the symptoms of nausea and vomiting",
+    "dosage_regimen": {
+      "adult": "10 mg up to three times per day with a maximum daily dose of 30 mg per day",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to domperidone or to any of the excipients",
+      "Indications in which stimulation of gastric motility is dangerous, e.g., gastrointestinal haemorrhage, mechanical obstruction, or perforation",
+      "Patients with prolactin-releasing pituitary tumors (prolactinoma)",
+      "Patients with moderate or severe hepatic impairment",
+      "Patients who have known existing prolongation of cardiac conduction intervals, particularly QTc, patients with significant electrolyte disturbances, or underlying cardiac diseases such as congestive heart failure",
+      "Co-administration with QT-prolonging drugs, except apomorphine",
+      "Co-administration with ketoconazole, erythromycin, or other potent CYP3A4 inhibitors (regardless of their QT-prolonging effects), such as fluconazole, voriconazole, clarithromycin, and amiodarone",
+      "Confirmed or suspected pheochromocytoma due to the risk of severe hypertension episodes"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "CYP3A4 Inhibitors (Strong)",
+        "Grapefruit Juice",
+        "Haloperidol",
+        "Lefamulin",
+        "Levoketoconazole",
+        "Ondansetron",
+        "Pentamidine (Systemic)",
+        "Pimozide",
+        "Posaconazole",
+        "QT-prolonging Agents (Highest Risk, Moderate Risk)",
+        "QT-prolonging Moderate, strong CYP3A4 Inhibitors",
+        "Sertindole",
+        "Triptorelin"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "CYP3A4 Inhibitors (Moderate)",
+        "Fusidic Acid (Systemic)"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral, Rectal",
+    "warnings_precautions": [
+      "Altered cardiac conduction",
+      "Elevated prolactin levels",
+      "Hepatic impairment",
+      "Renal impairment",
+      "Storage"
+    ],
+    "storage": null,
+    "id": 5
+  },
+  {
+    "category": null,
+    "name": "SIMETHICONE",
+    "abbreviation": null,
+    "generic_name": "SIMETHICONE",
+    "dosage_form_strengths": [
+      "Chewable Tablets: 40 mg, 125 mg",
+      "Oro-dispersible Film: 62.5 mg",
+      "Oral Drops: 20 mg/ 1mL, 40 mg, 66.6 mg/ 1mL",
+      "Oral Suspension: 42 mg/ 5mL",
+      "Oral Emulsion: 100 mg/ 5mL"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antiflatulent",
+    "indications": "Symptomatic relief of flatulence, wind pains, bloating, abdominal distension, and other symptoms associated with intestinal gas.",
+    "dosage_regimen": {
+      "adult": "100- 200 mg taken 3 or 4 times daily or as required",
+      "pediatric": "10 mg three times daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustment necessary. Caution.",
+      "renal_impairment_pediatric": "No dose adjustment necessary. Caution.",
+      "hepatic_impairment_adult": "No dose adjustment necessary. Caution.",
+      "hepatic_impairment_pediatric": "No dose adjustment necessary. Caution."
+    },
+    "contraindications": [
+      "Hypersensitivity to Simethicone or to any of the ingredients",
+      "Narrow-angle glaucoma",
+      "Mechanical stenosis in the gastrointestinal tract",
+      "Paralytic or obstructive ileus",
+      "Megacolon",
+      "Myasthenia gravis"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gastrointestinal: Xerostomia (29% to 67%). Nervous system: Dizziness (12%), drowsiness (8% to 17%). 1% to 10% Nervous system: Agitation (6%), confusion (4%). Ophthalmic: Mydriasis (4%), visual impairment (5%). Respiratory: Pharyngitis (3%)."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Aclidinium, Azelastine (Nasal), Bromperidol, Cimetropium, Dronabinol, Eluxadoline, Flunarizine, Glycopyrrolate (Oral Inhalation), Glycopyrronium (Topical), Ipratropium (Oral Inhalation), Kratom, Levosulpiride, Nabilone, Noscapine, Olopatadine (Nasal), Orphenadrine, Oxatomide, Oxomemazine, Paraldehyde, Potassium Chloride, Potassium Citrate, Pramlintide, Revefenacin, Sofpironium, Thalidomide, Umeclidinium."
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Articaine, Blonanserin, Buprenorphine, Chlormethiazole, Clozapine, Daridorexant, Dexmedetomidine, Droperidol, Flunitrazepam, Hydroxyzine, Lemborexant, Loxapine, Methotrimeprazine, Opioid Agonists, Oxybate Salt Products, Oxycodone, Rivastigmine, Ropeginterferon Alfa-2b, Secretin, Suvorexant, Zolpidem, Zuranolone."
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral Administration",
+    "warnings_precautions": [
+      "Benzyl alcohol and derivatives",
+      "Some dosage forms may contain sodium benzoate/benzoic acid; Store below 30oC. Protect from moisture. Refer to the manufacturer’s PIL if there are specific considerations."
+    ],
+    "storage": null,
+    "id": 6
+  },
+  {
+    "category": null,
+    "name": "Mebeverine",
+    "abbreviation": null,
+    "generic_name": "Mebeverine",
+    "dosage_form_strengths": [
+      "Tablets: 100 mg, 135 mg",
+      "Modified Release capsule or tablet: 200 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antispasmodic Agent, Gastrointestinal",
+    "ATC_code": "A03AA04",
+    "indications": "Symptomatic treatment of irritable bowel syndrome and other included conditions, such as chronic irritable colon, spastic constipation, nervous diahrres, mucous colitis, and spastic colitis.",
+    "dosage_regimen": {
+      "adult": "Immediate release forms: 100-150 mg three times daily, preferably 20 minutes before meals. Modified-release forms (used for irritable bowel syndrome): 200 mg twice daily (morning and evening).",
+      "pediatric": "Children 10 years and above: Oral suspension: 150 mg three times daily, preferably 20 minutes before meals."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment is necessary.",
+      "renal_impairment_pediatric": "No dosage adjustment is necessary.",
+      "hepatic_impairment_adult": "No dosage adjustment is necessary.",
+      "hepatic_impairment_pediatric": "No dosage adjustment is necessary."
+    },
+    "contraindications": [
+      "Hypersensitivity to mebeverine or any component of the formulation"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Allergic reactions, mainly but not exclusively limited to the skin"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Hypersensitivity"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Hypersensitivity"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Limited data. Mebeverine is not recommended during pregnancy.",
+      "lactation": "No data. Mebeverine is not recommended during breastfeeding."
+    },
+    "administration": "Oral administration",
+    "warnings_precautions": [
+      "Mebeverine solid dosage forms are not recommended to be used in children and adolescents < 18 years of age.",
+      "Some formulations may contain fructose, sucrose, or lactose. Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption, or sucrose-isomaltase insufficiency should not take the solid dosage forms of this medicine."
+    ],
+    "storage": "Store at a temperature not exceeding 30 °C.",
+    "id": 7
+  },
+  {
+    "category": null,
+    "name": "DICYCLOMINE",
+    "abbreviation": null,
+    "generic_name": "Dicyclomine (Dicycloverine) hydrochloride",
+    "dosage_form_strengths": [
+      "Oral syrup: 10 mg/5mL",
+      "Tablets: 10 mg, 20 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Anticholinergic Agent",
+    "atc_code": null,
+    "indications": "Antispasmodic for the treatment of functional conditions involving smooth muscle spasm of the GIT.",
+    "dosage_regimen": {
+      "adult": "10 – 20 mg three times daily before or after meals",
+      "pediatric": "Children (2-12 years): 10 mg three times daily",
+      "children (6 months - 2 years)": "Children (6 months - 2 years): 5 – 10 mg three or four times daily, 15 minutes before feeds"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustments. Unlikely to be significantly dialyzable. Not studied.",
+      "renal_impairment_pediatric": "No dosage adjustments. Not studied. Caution.",
+      "hepatic_impairment_adult": "No dosage adjustments. Not studied. Caution.",
+      "hepatic_impairment_pediatric": "No dosage adjustments. Not studied. Caution."
+    },
+    "contraindications": [
+      "Hypersensitivity to active ingredients or any of the excipients.",
+      "Known idiosyncrasies to the active ingredients.",
+      "Infants <6 months of age."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Nausea (14%), xerostomia (33%)."
+    },
+    "monitoring_parameters": "Monitor for anticholinergic effects, intestinal or urinary obstruction, and CNS adverse reactions.",
+    "drug_interactions": {
+      "Risk X: Avoid combination": [
+        "Aclidinium",
+        "Cimetropium",
+        "Dronabinol",
+        "Eluxadoline",
+        "Glycopyrrolate (Oral Inhalation)",
+        "Glycopyrronium (Topical)",
+        "Ipratropium (Oral Inhalation)",
+        "Levosulpiride",
+        "Oxatomide",
+        "Potassium Chloride",
+        "Potassium Citrate",
+        "Pramlintide",
+        "Revefenacin",
+        "Sofpironium",
+        "Tiotropium",
+        "Umeclidinium"
+      ],
+      "Risk D: Consider therapy modification": [
+        "Clozapine",
+        "Rivastigmine",
+        "Secretin",
+        "Sincalide"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Studies have not shown fetal harm upon 40 mg/day in first-trimester pregnant women or higher doses in animals. Dicyclomine should be used during pregnancy only if clearly needed, as teratogenicity cannot be excluded.",
+      "lactation": "No data. Caution due to potential toxicity."
+    },
+    "administration": "Oral Administration",
+    "warnings_precautions": [
+      "Anticholinergic effects",
+      "Anticholinergics may reduce sweating. Fever and heat prostration may occur in high-temperature environments.",
+      "Caution in patients with hiatus hernia associated with reflux esophagitis because anticholinergic drugs may aggravate the condition.",
+      "Treatment with this drug to control diarrhea (an early symptom of intestinal obstruction) would be inappropriate and possibly harmful in this case.",
+      "Neuropsychiatric effects",
+      "May cause psychiatric and cognitive effects. Seizures and impaired mental abilities may occur. Monitor for new or worsening psychiatric symptoms.",
+      "Use with caution with tasks that need alertness as driving.",
+      "Drowsiness, dizziness, and blurred vision may occur.",
+      "Infants",
+      "Serious respiratory reactions, central nervous system symptoms, and deaths have been reported following administration to infants; use in infants <6 months of age is contraindicated."
+    ],
+    "id": 8
+  },
+  {
+    "category": "Proton Pump Inhibitor, Substituted Benzimidazole",
+    "name": "Esomeprazole",
+    "abbreviation": "ESOMEPRAZOLE",
+    "generic_name": "Esomeprazole",
+    "dosage_form_strengths": [
+      "20 mg",
+      "40 mg"
+    ],
+    "route_of_administration": "Oral, IV",
+    "pharmacologic_category": "Proton Pump Inhibitor, Substituted Benzimidazole",
+    "atc_code": "A02BC05",
+    "indications": "Oral, IV",
+    "dosage_regimen": {
+      "adult": "40 mg once daily",
+      "pediatric": "20 mg once daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "20 mg",
+      "renal_impairment_pediatric": "10 mg",
+      "hepatic_impairment_adult": "20 mg",
+      "hepatic_impairment_pediatric": "10 mg"
+    },
+    "contraindications": [
+      "Gastroesophageal Reflux Disease (GERD)",
+      "Gastrointestinal ulcers"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gastrointestinal ulcers"
+    },
+    "monitoring_parameters": "Weight",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "NSAID",
+        "Antibacterial therapeutic regimens"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "NSAID therapy"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "No information available",
+      "lactation": "No information available"
+    },
+    "administration": "Oral, IV",
+    "warnings_precautions": [
+      "Gastrointestinal ulcers",
+      "Bleeding ulcers"
+    ],
+    "storage": "Storage not specified",
+    "id": 9
+  },
+  {
+    "category": "Lactulose",
+    "name": "Lactulose",
+    "abbreviation": "Lactulose",
+    "generic_name": "Lactulose",
+    "dosage_form_strengths": [
+      "Syrup or oral solution: 3.35 gm/5 mL",
+      "Granules in sachet for oral solution: 6 gm/sachet",
+      "Powder for oral solution: 10 gm/sachet"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Ammonium Detoxicant; Laxative, Osmotic",
+    "atc_code": "A06AD11",
+    "indications": "Treatment of constipation.",
+    "dosage_regimen": {
+      "adult": "10-30 gm lactulose (15 – 45 mL/day of oral solution).",
+      "pediatric": "Children (7 – 14 years): Starting dose: 10 gm (15 mL of oral solution). Maintenance dose: 7-10 gm (10 – 15 mL of oral solution). Children (1 – 6 years): Starting and maintenance dose: 3-7 gm (5 – 10 mL of oral solution). Infants < 1 year: Starting and maintenance dose: 3 gm (up to 5 mL).",
+      "renal_impairment_adult": "No dosage adjustment needed.",
+      "renal_impairment_pediatric": "No dosage adjustment needed.",
+      "hepatic_impairment_adult": "No dosage adjustment needed.",
+      "hepatic_impairment_pediatric": "No dosage adjustment needed."
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or any of the excipients.",
+      "Galactosemia.",
+      "Gastrointestinal obstruction.",
+      "Digestive-perforation or risk of digestive perforation."
+    ],
+    "adverse_drug_reactions": {
+      "≥ 10%": [
+        "Gastrointestinal: Diarrhea."
+      ],
+      "1-10%": [
+        "Gastrointestinal: Abdominal pain, flatulence, nausea, vomiting."
+      ],
+      "Monitoring": {
+        "Serum electrolytes (chronic use can cause electrolyte disturbance from fluid loss)": "Electrolyte disturbance from fluid loss.",
+        "Bowel movement frequency": "Frequent bowel movements."
+      },
+      "Drug Interactions": {
+        "Risk X or D drug interactions": "No significant Risk X or D drug interactions."
+      }
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Inadequate data.",
+      "lactation": "Lactulose can be used for lactating mothers as it is poorly absorbed after oral administration."
+    },
+    "administration": "Oral Administration",
+    "warnings_precautions": [
+      "Abdominal symptoms",
+      "Flatulence occurs within the first few days of treatment and resolves after a few days.",
+      "Diabetic patients: The doses used for constipation should not cause a problem for diabetics. However, doses used for hepatic encephalopathy are much larger and should be considered when managing diabetic patients due to the presence of sugars such as lactose, galactose, and fructose in the product."
+    ],
+    "storage": "Store between 15-30°C.",
+    "id": 10
+  },
+  {
+    "category": null,
+    "name": "BISACODYL",
+    "abbreviation": null,
+    "generic_name": "BISACODYL",
+    "dosage_form_strengths": [
+      "Enteric-coated tablet: 5 mg, 10 mg",
+      "Suppository: 5 mg, 10 mg",
+      "Enema: 10 mg/30 mL"
+    ],
+    "route_of_administration": "Oral, Rectal",
+    "pharmacologic_category": "Laxative, Stimulant",
+    "atc_code": "A06AG02",
+    "indications": "Short-term relief of occasional constipation whenever a stimulant laxative is required. Bowel clearance before surgery or radiological investigation (rectal combined with oral).",
+    "dosage_regimen": {
+      "adult": "5 to 10 mg once daily before bedtime",
+      "pediatric": "5 - 10 mg once daily before bedtime"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustments available",
+      "renal_impairment_pediatric": "No dosage adjustments available",
+      "hepatic_impairment_adult": "No dosage adjustments available",
+      "hepatic_impairment_pediatric": "No dosage adjustments available"
+    },
+    "contraindications": [
+      "Hypersensitivity to bisacodyl or any other ingredients in the product",
+      "Ileus or intestinal obstruction",
+      "Acute abdominal conditions, including appendicitis",
+      "Acute inflammatory bowel diseases",
+      "Severe abdominal pain associated with nausea and vomiting",
+      "Patients with severe dehydration"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gastrointestinal: Abdominal cramps, abdominal pain, diarrhea, nausea"
+    },
+    "monitoring_parameters": "No monitoring data needed",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Sodium Sulfate"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Antacids, Polyethylene Glycol"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Limited human data. No reports of undesirable or damaging effects during pregnancy. Use is not recommended, especially in the first trimester, unless considering benefits are considered and any possible risks to the fetus.",
+      "lactation": "Not excreted in breast milk. Nevertheless, use is not recommended during lactation unless considering the benefit and any possible risk to the fetus."
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Use and duration: Bisacodyl should not be taken continuously for more than five days without investigating the cause of constipation to avoid harming the intestinal function. This product should only be used if the effect cannot be achieved by a change of diet or the administration of bulk-forming agents. Stimulant laxatives do not help with weight loss. Prolonged or excessive use may lead to impaired function of the intestine, dependence on laxatives, electrolyte imbalance, and hypokalemia. Dehydration may cause tremors, blurred vision, fainting, or kidney damage. Dehydration often needs medical treatment."
+    ],
+    "storage": "Oral drops between 15°C and 30°C. Store tablets between 15-30°C. Protect from moisture.",
+    "id": 11
+  },
+  {
+    "category": null,
+    "name": "LOPERAMIDE",
+    "abbreviation": null,
+    "generic_name": "Loperamide",
+    "dosage_form_strengths": [
+      "Oro-dispersible tablet: 2 mg",
+      "Oro-dispersible Film: 2 mg",
+      "Capsule: 2 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antidiarrheal",
+    "atc_code": "A07DA03",
+    "indications": "N.B. (Pediatrics and treatment for more than 2 days should be under medical advice and follow-up monitoring).",
+    "dosage_regimen": {
+      "adult": "4 mg, followed by 2 mg after each loose stool. Maximum daily dose: 12-16 mg/day.",
+      "pediatric": "2-4 mg, followed by 2 mg after each loose stool. Maximum daily dose: 8-16 mg/day.",
+      "pediatric 6 to 12 years of age": "Age 6-8 years (20 to 30 kg): 2 mg twice daily. (4 mg a day). Age 8-12 years (greater than 30kg): 2 mg 3 times daily (6 mg a day). Subsequent doses: Oral: 1 mg/10 kg body weight administered only after a loose stool."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment is necessary. Unlikely to be dialyzed.",
+      "renal_impairment_pediatric": "No dosage adjustment is necessary. Unlikely to be dialyzed.",
+      "hepatic_impairment_adult": "No adequate data. Caution. Monitor closely for signs of CNS toxicity.",
+      "hepatic_impairment_pediatric": "No adequate data. Caution. Monitor closely for signs of CNS toxicity."
+    },
+    "contraindications": [
+      "Hypersensitivity to Loperamide or any component of the formulation.",
+      "Children <2 years.",
+      "Abdominal pain without diarrhea.",
+      "Acute dysentery (blood in stools and high fever).",
+      "Acute ulcerative colitis.",
+      "Bacterial intestinal inflammation caused by pathogens invading the intestinal wall (e.g., Salmonella, Shigella, and Campylobacter).",
+      "Diarrhea occurring during or after use of antibiotics (pseudomembranous [antibiotic-associated] colitis).",
+      "If inhibition of peristalsis is to be avoided due to the possible risk of significant sequelae, including ileus, megacolon, and toxic megacolon.",
+      "Abuse and misuse of loperamide as an opioid substitute have been reported in patients with opioid dependence."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Central nervous system: Dizziness (1%). Gastrointestinal: Constipation (2% to 5%), abdominal cramps (≤3%), nausea (≤3%)."
+    },
+    "monitoring_parameters": "Monitor signs of CNS toxicity in patients with hepatic impairment.",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "No adequate data. Consider the risk/benefit ratio. Avoid use during the first trimester of pregnancy, while it may be used during the second and third trimester of pregnancy.",
+      "lactation": "Loperamide is not recommended during lactation as it may appear in breast milk."
+    },
+    "administration": "Oral Administration",
+    "warnings_precautions": [
+      "Cardiac disorders",
+      "Abuse and misuse",
+      "Dehydration",
+      "Gastrointestinal Disorders",
+      "CNS effects"
+    ],
+    "storage": "Store between 15°C and 30°C.",
+    "id": 12
+  },
+  {
+    "category": null,
+    "name": "Aprepitant",
+    "abbreviation": null,
+    "generic_name": "Aprepitant",
+    "dosage_form_strengths": [
+      "Capsule (containing immediate release pellets): 40mg, 125mg",
+      "Capsule: 80mg, 125mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Aprepitant",
+    "atc_code": null,
+    "indications": "Prevention of nausea and vomiting associated with highly and moderately emetogenic cancer chemotherapy in adults and adolescents aged 12 and older; Prevention of postoperative nausea and vomiting in adults",
+    "dosage_regimen": {
+      "adult": "125mg 1 hour before chemotherapy",
+      "pediatric": "80mg once daily (1 hour before chemotherapy, or in the morning if no chemotherapy to be given)"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustment is necessary with renal impairment or for patients undergoing hemodialysis",
+      "renal_impairment_pediatric": "No dose adjustment is needed",
+      "hepatic_impairment_adult": "Mild to moderate impairment: No dose adjustment is needed",
+      "hepatic_impairment_pediatric": "No data available; may require additional monitoring for adverse reactions"
+    },
+    "contraindications": [
+      "Hypersensitivity to aprepitant or any component of the formulation",
+      "Concurrent use with pimozide"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Neutropenia (children and adolescents: 13%; adults: <3%)"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": [
+      "Risk X: Avoid Combination",
+      "Asunaprevir, Budesonide (Topical), CYP3A4 Inducers (Strong), CYP3A4 Inhibitors (Moderate), CYP3A4 Inhibitors (Strong), Domperidone, Elacestrant, Eletriptan, Ensartinib, Flibanserin, Fosaprepitant, Grapefruit Juice, Ivabradine, Lemborexant, Lomitapide, Lonafarnib, Methysergide, Nirogacestat, Nisoldipine, Orelabrutinib, Pacritinib, Pimozide, Repotrectinib, Sertindole, Simeprevir"
+    ],
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Hypersensitivity reaction",
+      "Co-administration with warfarin (a CYP2C9 substrate)",
+      "CYP3A4 interactions",
+      "Hormonal Contraceptives",
+      "Contraindicated with pimozide"
+    ],
+    "storage": "Store between 15°C and 30°C in a dry place",
+    "id": 13
+  },
+  {
+    "category": "Drug Monograph",
+    "name": "ONDANSETRON",
+    "abbreviation": "ODN",
+    "generic_name": "ONDANSETRON",
+    "dosage_form_strengths": [
+      "IV",
+      "IM",
+      "ORTAL",
+      "RECTAL"
+    ],
+    "route_of_administration": [
+      "IV",
+      "IM",
+      "ORTAL",
+      "RECTAL"
+    ],
+    "pharmacologic_category": "Antiemetic; Selective 5-HT3 Receptor Antagonist",
+    "atc_code": "A04AA01",
+    "indications": "Management and prevention of nausea and vomiting associated with emetogenic chemotherapy or radiotherapy in adults (IV, Oral, Rectal) and in children aged ≥6 months (IV, Oral)",
+    "dosage_regimen": {
+      "adult": "8 mg IV immediately before treatment",
+      "pediatric": "8 mg IV immediately before treatment",
+      "adults": "8 mg IV immediately before treatment",
+      "children aged ≥1 month": "4 mg IV over at least 30 seconds (undiluted) before, at, or after induction of anesthesia",
+      "children aged ≥6 months": "8 mg IV immediately before treatment",
+      "children aged 6-17 years": "8 mg IV immediately before treatment",
+      "children aged 1-5 years": "4 mg IV over at least 30 seconds (undiluted) before, at, or after induction of anesthesia",
+      "children aged 5-11 years": "4 mg IV over at least 30 seconds (undiluted) before, at, or after induction of anesthesia",
+      "children aged 1-5 years (IV only)": "4 mg IV immediately before treatment"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustment needed",
+      "renal_impairment_pediatric": "No dose adjustment needed",
+      "hepatic_impairment_adult": "No dose adjustment needed",
+      "hepatic_impairment_pediatric": "No dose adjustment needed"
+    },
+    "contraindications": [
+      "Hypersensitivity to ondansetron or any component of the formulation",
+      "Concomitant use with Apomorphine"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gastrointestinal: Constipation (9% to 11%)",
+      "risk_x_avoid_combination": [
+        "Apomorphine",
+        "Domperidone",
+        "Levoketoconazole",
+        "Pimozide",
+        "Piperaquine",
+        "Sertindole",
+        "Thioridazine"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Amiodarone",
+        "QT-prolonging Agents (Highest Risk)",
+        "QT-prolonging Class IA Antiarrhythmics (Highest Risk)",
+        "QT-prolonging Class III Antiarrhythmics (Highest Risk)"
+      ]
+    },
+    "monitoring_parameters": "Monitor for decreased bowel activity",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Apomorphine",
+        "Domperidone",
+        "Levoketoconazole",
+        "Pimozide",
+        "Piperaquine",
+        "Sertindole",
+        "Thioridazine"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Amiodarone",
+        "QT-prolonging Agents (Highest Risk)",
+        "QT-prolonging Class IA Antiarrhythmics (Highest Risk)",
+        "QT-prolonging Class III Antiarrhythmics (Highest Risk)"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Ondansetron should not be used during the first trimester of pregnancy due to the risk of oral clefts",
+      "lactation": "No human data. Breastfeeding during treatment with ondansetron is not recommended unless the benefits and possible risks are considered"
+    },
+    "administration": "Intramuscular",
+    "warnings_precautions": [
+      "Injection site reaction (4%)"
+    ],
+    "storage": "Should be given undiluted",
+    "id": 14
+  },
+  {
+    "category": "Metoclopramide",
+    "name": "Metoclopramide",
+    "abbreviation": "Metoclopramide",
+    "generic_name": "Metoclopramide",
+    "dosage_form_strengths": [
+      "Tablets, Scored tablet: 10 mg",
+      "Oral solution: 1 mg/1 ml",
+      "Oral drops: 1mg/1 mL, 2 mg/1 ml",
+      "Rectal Suppositories: 10 mg, 20 mg",
+      "Solution for IM or IV Injection: 10 mg/2 ml"
+    ],
+    "route_of_administration": "Oral, Rectal, Parenteral",
+    "pharmacologic_category": "Antiemetic; Dopamine Antagonist; Gastrointestinal Agent, Prokinetic; Serotonin 5-HT4 Receptor Agonist",
+    "ATC_code": "A03FA01",
+    "indications": "Oral, Rectal, Parenteral",
+    "dosage_regimen": {
+      "adult": "10 mg, repeated up to three times daily",
+      "pediatric": "0.1 to 0.15 mg/kg, repeated up to three times daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment necessary",
+      "renal_impairment_pediatric": "No dosage adjustment necessary",
+      "hepatic_impairment_adult": "Dose should be reduced by 50%",
+      "hepatic_impairment_pediatric": "Dose should be reduced by 50%",
+      "contraindications": [
+        "Hypersensitivity to metoclopramide or any component of the formulation",
+        "Circumstances in which gastrointestinal (GI) motility stimulation may be hazardous, such as mechanical GI obstruction, perforation, or hemorrhage",
+        "Pheochromocytoma (confirmed or suspected), due to the risk of severe hypertension episodes",
+        "History of neuroleptic or metoclopramide-induced tardive dyskinesia",
+        "Epilepsy",
+        "Parkinson’s disease",
+        "Combination with levodopa or dopaminergic agonists",
+        "Known history of methemoglobinemia with metoclopramide or NADH cytochrome b5 deficiency",
+        "Use in neonates or children aged < 1 year due to an increased risk of extrapyramidal disorders and methemoglobinemia"
+      ],
+      "adverse_drug_reactions": {
+        "Nervous system: Drowsiness (10% to 70%), dystonic reaction (≤25%; dose and age related)\",\n      ": "ervous system (dose related): Fatigue (10%), lassitude (10%), restlessness (10%)"
+      },
+      "monitoring_parameters": "Kidney functions, Liver functions, Signs of cardiac or nervous disorders"
+    },
+    "drug_interactions": [
+      "Risk X: Avoid combination",
+      "Anti-Parkinson Agents (Dopamine Agonist), Antipsychotic Agents, Cabergoline, Droperidol, Mavorixafor, Metyrosine , Monoamine Oxidase Inhibitors, Promethazine, Rivastigmine, Tetrabenazine, Trimetazidine, Triptorelin"
+    ],
+    "pregnancy_lactation": {
+      "pregnancy": "Metoclopramide can be used during pregnancy if clinically needed, as human data reveal no harm. Administration at the end of pregnancy, extrapyramidal syndrome in the newborn cannot be excluded.",
+      "lactation": "Limited human data. Infants have experienced adverse effects."
+    },
+    "administration": "Oral, Rectal, Parenteral",
+    "warnings_precautions": [
+      "Cardiac Disorders",
+      "Neurological Disorders",
+      "Avoid concomitant use of other drugs known to cause neurological disorders, and avoid use in patients with Parkinson’s Disease. If symptoms occur, metoclopramide should be discontinued, and immediate medical treatment should be started.",
+      "Tardive dyskinesia",
+      "Other Extrapyramidal disorders"
+    ],
+    "storage": "Storage: No specific storage instructions provided",
+    "id": 15
+  },
+  {
+    "category": null,
+    "name": "TRIMEBUTINE",
+    "abbreviation": null,
+    "generic_name": "TRIMEBUTINE",
+    "dosage_form_strengths": [
+      "Oral Suspension: 24 mg/5 mL",
+      "Tablets: 100 mg, 200 mg",
+      "I.M. and I.V. Injection: 50 mg"
+    ],
+    "route_of_administration": "Oral, IM, IV",
+    "pharmacologic_category": "Antispasmodic Agent, Gastrointestinal; Opioid Agonist, Peripherally-Acting",
+    "atc_code": "A03AA05",
+    "indications": "Treatment and relief of pain, transit disorders, and intestinal discomfort associated with functional intestinal disorders.",
+    "dosage_regimen": {
+      "adult": "100 mg every 8 hours taken before meals",
+      "pediatric": "8 to 12 mg/kg/day"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustment needed",
+      "renal_impairment_pediatric": "No dose adjustment needed",
+      "hepatic_impairment_adult": "No dose adjustment needed",
+      "hepatic_impairment_pediatric": "No dose adjustment needed"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active ingredient",
+      "Children under 2 years of age"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gastrointestinal: Constipation (10% to 26%), diarrhea (1% to 27%), dyspepsia (3% to 17%), nausea (5% to 17%)",
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Use with caution in tasks that require mental alertness (e.g., operating machinery or driving), because it may cause CNS depression, which may impair physical or mental abilities",
+      "In IM and IV administration, use with caution in patients with hepatic or kidney impairment"
+    ],
+    "storage": "Store at room temperature of 15°C to 30°C",
+    "id": 16
+  },
+  {
+    "category": null,
+    "name": "Famotidine",
+    "abbreviation": null,
+    "generic_name": "Famotidine",
+    "dosage_form_strengths": [
+      " Tablets: 20 mg, 40 mg",
+      "Oro-dispersible Film: 20 mg, 40 mg",
+      "Powder for Oral Suspension: 40 mg/5 mL",
+      "Effervescence Powder: 20 mg/sachet",
+      "Effervescent Granules: 20 mg/sachet",
+      "Solution for IM, IV injection, and IV infusion: 20 mg",
+      "Concentrate for Solution for IV Injection or Infusion: 20 mg"
+    ],
+    "route_of_administration": "Oral, IV, IM",
+    "pharmacologic_category": "Histamine H2 Antagonist",
+    "atc_code": null,
+    "indications": "Adults (oral or injection), Adults and children over 12 years (oral only), Pediatrics (1 year of age and older) (oral or injection), Pediatrics (from birth to less than 1 year of age) (oral only)",
+    "dosage_regimen": {
+      "adult": "20 mg once daily; or 40 mg twice daily",
+      "pediatric": "0.5 mg/kg twice daily; may be increased to 1 mg/kg twice daily; Maximum: 40 mg per day"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment is necessary",
+      "renal_impairment_pediatric": "No dosage adjustment is necessary",
+      "hepatic_impairment_adult": "No dosage adjustments are needed",
+      "hepatic_impairment_pediatric": "No dosage adjustments are needed"
+    },
+    "contraindications": [
+      "Hypersensitivity to famotidine, other H2 antagonists, or any component of the formulation"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Nervous system: Agitation (infants)"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "No adequate and well-controlled human data. Famotidine is not recommended for use in pregnancy and should be used only if clearly needed.",
+      "lactation": "Famotidine is excreted in human milk. Because of the potential serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or discontinue the drug."
+    },
+    "administration": "Taken once daily before bedtime or twice daily in the morning and before bedtime",
+    "warnings_precautions": [
+      "Kidney impairment: Risk of CNS adverse effects, including confusion, delirium, hallucinations, disorientation, agitation, seizures, and lethargy, and QT prolongation in patients with moderate and severe renal impairment. Reduced doses are needed. Geriatric Use: Use the lowest effective dose for the elderly and monitor renal function. Gastric Neoplasm: The presence of gastric malignancy should be excluded before the use of famotidine for the treatment of gastric ulcers. Symptomatic relief following treatment with famotidine does not preclude the presence of gastric malignancy. In the case of long-standing ulcer disease Abrupt withdrawal after symptom relief should be avoided. Storage: Store between 15°C and 30°C. Protect from light, moisture, and freezing. After reconstitution for oral suspension, store for a limited time in specific conditions."
+    ],
+    "id": 17
+  },
+  {
+    "category": null,
+    "name": "Dexlansoprazole",
+    "abbreviation": null,
+    "generic_name": "Dexlansoprazole",
+    "dosage_form_strengths": [
+      "Delayed-release capsule: 30 mg, 60 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Proton Pump Inhibitor",
+    "atc_code": null,
+    "indications": "Recovery from erosive esophagitis (EE) of all grades. Maintenance of healed EE and alleviation of heartburn. The management of non-erosive gastroesophageal reflux disease (GERD) symptoms.",
+    "dosage_regimen": {
+      "adult": "60 mg once daily up to 8 weeks",
+      "pediatric": "16 weeks"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "30 mg once daily for up to 8 weeks",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients.",
+      "Concomitant use with products that contain rilpivirine."
+    ],
+    "adverse_drug_reactions": {
+      "1% to 10%": "Cardiovascular: Acute myocardial infarction, angina pectoris, bradycardia, cardiac arrhythmia, chest pain, deep vein thrombosis, edema, including oral, facial edema, and pharyngeal edema, hypertension, palpitations, tachycardia.",
+      "Dermatologic: Acne vulgaris, dermatitis, erythema of skin, pruritus, skin lesion, skin rash, sunburn, urticaria\",\n    ": "ndocrine and metabolic: Change in libido, goiter, heavy menstrual bleeding, hot flash, hypercalcemia, hypokalemia, increased serum glucose, increased serum potassium, increased serum total protein, menstrual disease, weight gain.",
+      "Ophthalmic: Eye irritation, swelling of the eye\",\n    ": "tic: Otalgia, tinnitus",
+      "Renal: Increased serum creatinine\",\n    ": "espiratory: Asthma, bronchitis, cough, dyspnea, hyperventilation, nasopharyngitis, oropharyngeal pain, pharyngitis, pulmonary aspiration, respiratory congestion, sinusitis, upper respiratory tract infection"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": [
+      "Risk X: Avoid combination",
+      "Acalabrutinib, Alcohol (Ethyl), Cefditoren, CYP2C19 Inducers (Strong), Dacomitinib, Dasatinib, Dafactinib, Erlotinib, Levoketoconazole, Neratinib, Nilotinib, Nirogacestat, Pazopanib, Pexidartinib, Rilpivirine, Sotorasib, Sparsentan, St John’s Wort, Taletrectinib"
+    ],
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "id": 18
+  },
+  {
+    "category": null,
+    "name": "Lansoprazole",
+    "abbreviation": null,
+    "generic_name": "Lansoprazole",
+    "dosage_form_strengths": [
+      "15 mg",
+      "30 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Proton Pump Inhibitor",
+    "ATC_code": "A02BC03",
+    "indications": "Treatment of duodenal and gastric ulcers, treatment & prophylaxis of reflux esophagitis, eradication of Helicobacter pylori (H. pylori) concurrently given with appropriate antibiotic therapy, treatment of non-steroidal anti-inflammatory drug (NSAID)-associated benign gastric and duodenal ulcers in patients requiring continued NSAID treatment, prophylaxis of NSAID-associated gastric ulcers and duodenal ulcers in patients at risk requiring continued therapy, symptomatic gastroesophageal reflux disease, Zollinger-Ellison syndrome",
+    "dosage_regimen": {
+      "adult": "30 mg once daily up to 4 weeks",
+      "pediatric": "15 mg once daily up to 8 weeks"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "15 mg",
+      "renal_impairment_pediatric": "15 mg",
+      "hepatic_impairment_adult": "30 mg",
+      "hepatic_impairment_pediatric": "30 mg"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients",
+      "Gastrointestinal: Abdominal pain, constipation, diarrhea, nausea",
+      "Nervous system: Dizziness, headache"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gastrointestinal: Abdominal pain, constipation, diarrhea, nausea"
+    },
+    "monitoring_parameters": "Monitor magnesium levels at baseline before treatment and periodically in patients expected to use lansoprazole for long periods, or those taking lansoprazole with other drugs that cause hypomagnesemia.",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Acalabrutinib",
+        "Cefditoren",
+        "CYP2C19 Inducers (Strong)",
+        "Dacomitinib",
+        "Dasatinib",
+        "Dafactinib",
+        "Erlotinib",
+        "Levoketoconazole",
+        "Neratinib",
+        "Nilotinib",
+        "Nirogacestat",
+        "Pazopanib",
+        "Pexidartinib",
+        "Rilpivirine",
+        "Sotorasib",
+        "Sparsentan",
+        "St John's Wort",
+        "Taletrectinib"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Atazanavir",
+        "Belumosudil",
+        "Bosutinib",
+        "Cefuroxime",
+        "Gefitinib",
+        "Itraconazole",
+        "Ketoconazole (Systemic)",
+        "Ledipasvir",
+        "Methotrexate",
+        "Nelfinavir",
+        "Palbociclib",
+        "Posaconazole",
+        "Risedronate",
+        "Secretin",
+        "Selpercatinib",
+        "Sulpiride",
+        "Technetium Tc 99m",
+        "Velpatasvir"
+      ],
+      "pregnancy_lactation": {
+        "pregnancy": "Pregnancy considerations",
+        "lactation": "Pregnancy and lactation"
+      },
+      "administration": "Oro-dispersible Tablets",
+      "warnings_precautions": [
+        "Concerns related to adverse effects",
+        "Gastrointestinal: Abdominal pain, constipation, diarrhea, nausea",
+        "Nervous system: Dizziness, headache",
+        "Monitoring",
+        "Drug Interactions",
+        "Lansoprazole increases the level of Chromogranin A (CgA), which may interfere with tests performed for the exploration of neuroendocrine tumours."
+      ],
+      "storage": "Store at a temperature not exceeding 30 °C, in a dry place"
+    },
+    "id": 19
+  },
+  {
+    "category": "Proton Pump Inhibitor, Substituted Benzimidazole",
+    "name": "Omeprazole",
+    "abbreviation": "OMEPRAZOLE",
+    "generic_name": "Omeprazole",
+    "dosage_form_strengths": [
+      "Lyophilized powder for solution for IV infusion: 40 mg",
+      "Modified release capsule containing pellets: 10 mg, 20 mg, 40 mg",
+      "Enteric-coated capsules 20 mg"
+    ],
+    "route_of_administration": "Oral, IV",
+    "pharmacologic_category": "Proton Pump Inhibitor, Substituted Benzimidazole",
+    "atc_code": "A02BC01",
+    "indications": "Treatment of esophageal reflux disease, including reflux esophagitis; Relief of heartburn and epigastric pain; Treatment and prevention of relapse of duodenal and benign gastric ulcers; Treatment and prophylaxis of NSAID-associated benign gastric ulcers, duodenal ulcers, and gastroduodenal erosions in patients at risk; Relief of associated dyspeptic symptoms; Eradication of Helicobacter pylori in peptic ulcer disease, in combination with antibiotics; Prophylaxis of acid aspiration; Zollinger-Ellison syndrome",
+    "dosage_regimen": {
+      "adult": "10-20 mg once daily; Up to 40 mg once daily in refractory cases; Duration: 4-8 weeks",
+      "pediatric": "0.7-1.4 mg/kg, to a maximum of 40 mg/day, for 4-12 weeks"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustment needed",
+      "renal_impairment_pediatric": "No dose adjustment needed",
+      "hepatic_impairment_adult": "10-20 mg once daily may be sufficient",
+      "hepatic_impairment_pediatric": "No dose adjustment needed"
+    },
+    "contraindications": [
+      "Hypersensitivity to any component of the formulation or to other substituted benzimidazole proton pump inhibitors"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Respiratory: Respiratory system disorder (infants: 42%; children 1 to <2 years: 75%; children ≥2 years and adolescents: 19%)",
+      "Dermatologic: Skin rash (2%)\",\n    ": "astrointestinal: Abdominal pain (5%), constipation (2%), diarrhea (4%),"
+    },
+    "monitoring_parameters": "Magnesium level before initiation of PPI treatment and periodically, especially if taking concomitant digoxin, diuretics, or other drugs known to cause hypomagnesemia.",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    \"Acalabrutinib, Cefditoren, Clopidogrel, CYP2C19 Inducers (Strong), Dacomitinib, Dasatinib, Erlotinib, Levoketoconazole, Neratinib, Nilotinib, Nirogacestat, Pazopanib, Pexidartinib, Rilpivirine, Seladelpar, Sotorasib, Sparsentan, St John's Wort.\",\n    ": "isk D: Consider therapy modification"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Omeprazole can be used during pregnancy when clinically indicated. No evidence of adverse events of omeprazole on pregnancy or the fetus.",
+      "lactation": "Although omeprazole is excreted in breast milk, when used at therapeutic doses, it is unlikely to have an impact on the infant."
+    },
+    "administration": "Oral, IV",
+    "warnings_precautions": [
+      "Gastric malignancy",
+      "Gastrointestinal infections",
+      "Severe Cutaneous Adverse Reactions",
+      "Renal effects",
+      "Hypomagnesemia and Mineral Metabolism"
+    ],
+    "storage": "Swallowed whole with liquid before a meal; do not chew.",
+    "id": 20
+  },
+  {
+    "category": null,
+    "name": "PANTOPRAZOLE",
+    "abbreviation": null,
+    "generic_name": "Pantoprazole",
+    "dosage_form_strengths": [
+      "20 mg",
+      "40 mg",
+      "40 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Proton Pump Inhibitor, Substituted Benzimidazole",
+    "atc_code": null,
+    "indications": "Short-term treatment of reflux symptoms (e.g., heartburn, acid regurgitation) in adults; short-term treatment and maintenance of healing for erosive esophagitis associated with gastroesophageal reflux disease (GERD); long-term management and prevention of relapse in reflux esophagitis; Zollinger-Ellison Syndrome and other pathological hypersecretory conditions; prevention of gastroduodenal ulcers induced by NSAIDs in patients at risk.",
+    "dosage_regimen": {
+      "adult": "20 mg once daily",
+      "pediatric": "20 mg once daily, increasing to 40 mg once daily if a relapse occurs"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to any component of the formulation or to other substituted benzimidazole proton pump inhibitors"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Nervous system: Headache (children, adolescents: >4%; adults: 12%)",
+      "1% to 10%": "Cardiovascular: Edema (≤2%), thrombophlebitis (IV: ≤2%)",
+      "Dermatologic: Pruritus (≤2%), skin photosensitivity (≤2%), skin rash (children, adolescents: >4%; adults: ≤2%), urticaria (children, adolescents, adults: ≤4%)\",\n    \"Endocrine and metabolic": "Increased serum triglycerides (children, adolescents, adults: ≤4%)",
+      "Gastrointestinal": "Abdominal pain (children, adolescents: >4%), constipation (children, adolescents, adults: ≤4%), diarrhea (children, adolescents: >4%; adults: 9%), flatulence (children, adolescents: ≤4%), nausea (children, adolescents: ≤4%), vomiting (children, adolescents, adults: ≥4%), xerostomia (≤2%)",
+      "Hematologic and oncologic": "Leukopenia (≤2%), thrombocytopenia (≤2%)",
+      "Hepatic": "Hepatitis (≤2%), increased liver enzymes (children, adolescents, adults: ≤4%)",
+      "Hypersensitivity": "Facial edema (children, adolescents, adults: ≤4%), hypersensitivity reaction (children, adolescents, adults: ≤4%)",
+      "Nervous system": "Depression (≤2%), dizziness (children, adolescents, adults: ≤4%)",
+      "Neuromuscular and skeletal": "Arthralgia (children, adolescents, adults: ≤4%), increased creatine phosphokinase in blood specimen (children, adolescents, adults: ≤4%), myalgia (children, adolescents, adults: ≤4%)",
+      "Ophthalmic": "Blurred vision (≤2%)",
+      "Respiratory": "Upper respiratory tract infection (children, adolescents: >4%)",
+      "Miscellaneous": "Fever (children, adolescents: >4%; adults: ≤2%)",
+      "Frequency not defined": "Miscellaneous: Laboratory test abnormality (false-positive for THC)"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "Risk X: Avoid combination": [
+        "Acalabrutinib",
+        "Cefditoren",
+        "Dacomitinib",
+        "Dasatinib",
+        "Erlotinib",
+        "Levoketoconazole",
+        "Neratinib",
+        "Nilotinib",
+        "Nirogacestat",
+        "Pazopanib",
+        "Pexidartinib",
+        "Rilpivirine",
+        "Sotorasib"
+      ],
+      "Risk D: Consider therapy modification": [
+        "Atazanavir",
+        "Belumosudil",
+        "Bosutinib",
+        "Cefuroxime",
+        "Gefitinib",
+        "Itraconazole",
+        "Ketoconazole (Systemic)",
+        "Ledipasvir",
+        "Methotrexate",
+        "Nelfinavir",
+        "Palbociclib",
+        "Posaconazole",
+        "Risedronate",
+        "Secretin",
+        "Selpercatinib",
+        "Sulpiride",
+        "Technetium Tc 99m Sestamibi",
+        "Velpatasvir"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral, IV",
+    "warnings_precautions": [
+      "Gastric malignancy: In the presence of any malignancy alarm symptom (e.g., weight loss, dysphagia, recurrent vomiting, hematemesis, or melena) and if a gastric ulcer is suspected, malignancy should be excluded.",
+      "Gastrointestinal infections: Treatment with proton pump inhibitors may lead to a slightly increased risk of gastrointestinal infections such as Clostridium difficile-associated diarrhea, Salmonella, and Campylobacter.",
+      "Subacute cutaneous lupus erythematosus (SCLE): Proton pump inhibitors are associated with very infrequent cases of SCLE occurring within weeks to years after continuous drug therapy.",
+      "Severe Cutaneous Adverse Reactions: Severe cutaneous adverse reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported rarely in association with the use of PPIs.",
+      "Pregnancy and Lactation: Inadequate human data. Pantoprazole is present in human milk. The effect of pantoprazole on infants is unknown.",
+      "Administration: Oral Administration: The tablets should not be chewed or crushed, and should be swallowed whole with liquid with or without food.",
+      "IV Administration: Reconstitute vial with 10 mL of 0.9% Sodium Chloride Injection. The prepared solution may be administered directly or may be further diluted with 100 mL of sodium chloride 0.9 % solution. The product should be administered intravenously over 2 - 15 minutes.",
+      "N.B. Refer to the manufacturer’s PIL if there are specific considerations."
+    ],
+    "id": 21
+  },
+  {
+    "category": null,
+    "name": "Mesalazine",
+    "abbreviation": null,
+    "generic_name": "Mesalazine",
+    "dosage_form_strengths": [
+      "Tablet: 500 mg",
+      "Modified release tablets: 400 mg, 500 mg, 800 mg",
+      "Prolonged release granules: 1 gm, 2 gm, 4 gm",
+      "Capsules Containing extended-release pellets: 500 mg",
+      "Rectal Suppositories: 1 gm",
+      "Rectal Suspension: 1 gm/100mL"
+    ],
+    "route_of_administration": "Oral, rectal",
+    "pharmacologic_category": null,
+    "atc_code": null,
+    "indications": "Oral, rectal",
+    "dosage_regimen": {
+      "adult": "1.5 gm up to 4 gm once daily or divided into 2-4 doses",
+      "pediatric": "30-50 mg/kg/day in divided doses"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Extreme caution. Utilize the lowest effective dose.",
+      "renal_impairment_pediatric": "No dosage adjustments necessary.",
+      "hepatic_impairment_adult": "No dosage adjustments necessary.",
+      "hepatic_impairment_pediatric": "No dosage adjustments necessary."
+    },
+    "id": 22
+  },
+  {
+    "category": null,
+    "name": "Docusate Sodium",
+    "abbreviation": null,
+    "generic_name": "Docusate sodium",
+    "dosage_form_strengths": [
+      "Oral solution or syrup: 12.5 mg/5 mL, 20 mg/5 mL, 50 mg/5 mL",
+      "Capsules: 100 mg",
+      "Rectal micro enema: 120 mg/10 gm",
+      "Ear drops (wax): 5 gm/100 mL"
+    ],
+    "route_of_administration": "Oral, Rectal, Otic",
+    "pharmacologic_category": "Laxative, Stimulant; Stool Softener",
+    "atc_code": "A06AA02",
+    "indications": "Oral: To prevent and treat chronic constipation by softening stool. Rectal: Symptomatic treatment of constipation. Otic: For the softening of earwax to facilitate its removal.",
+    "dosage_regimen": {
+      "adult": "Rectal enema: Adult adults and children 12 years and over - Use one micro-enema. If required, a second micro-enema may be used on the same or the next day. - Rectal micro enema is usually effective in 5 to 20 minutes. Oral: N.B. Doses should be started in high doses, then reduced as the patient's condition improves. Maximum dose: 500 mg. Capsule: Up to 500 mg should be taken daily in divided doses. Solution: 100 to 150mg three times daily, followed by plenty of water or a flavored drink.",
+      "pediatric": "Infants ≥6 months: 12.5 mg three times daily. Children: 12.5 mg – 25 mg three times daily. For barium meals: 75 mg to be taken with a meal."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "There are no dosage adjustments.",
+      "renal_impairment_pediatric": "There are no dosage adjustments.",
+      "hepatic_impairment_adult": "There are no dosage adjustments.",
+      "hepatic_impairment_pediatric": "There are no dosage adjustments."
+    },
+    "contraindications": [
+      "Hypersensitivity to the active ingredient or to any of the excipients.",
+      "Oral and Rectal suppository: Abdominal pain, intestinal obstruction, nausea, and vomiting."
+    ],
+    "adverse_drug_reactions": {
+      "≤ 0.1%": "Gastrointestinal disorders: diarrhea, nausea, abdominal cramps."
+    },
+    "monitoring_parameters": "No monitoring data needed.",
+    "drug_interactions": [
+      "Docusate sodium should not be taken concurrently with mineral oil."
+    ],
+    "pregnancy_lactation": {
+      "pregnancy": "Inadequate data. Use in pregnancy only if the benefits outweigh the risks.",
+      "lactation": "Docusate sodium is excreted in breast milk. A decision on whether to continue or discontinue lactation or therapy should be made. Caution."
+    },
+    "id": 23
+  },
+  {
+    "category": null,
+    "name": "LUBIPROSTONE",
+    "abbreviation": null,
+    "generic_name": "Lubiprostone",
+    "dosage_form_strengths": [
+      "Capsule: 8 mcg, 24 mcg",
+      "Capsule: 140 mg of bismuth subcitrate potas"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Chloride Channel Activator; Gastrointestinal Agent, Miscellaneous",
+    "atc_code": null,
+    "indications": "Treatment of Chronic idiopathic constipation in adults. Opioid-induced constipation in adult patients with chronic non-cancer pain who do not require frequent (e.g. weekly) opioid dosage escalation. Irritable bowel syndrome with constipation in women ≥18 years old.",
+    "dosage_regimen": {
+      "adult": "24 mcg twice daily",
+      "pediatric": "8 mcg twice daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "16 mcg twice daily",
+      "renal_impairment_pediatric": "8 mcg twice daily",
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gastrointestinal: Diarrhea (7% to 12%; severe diarrhea: ≤2%), nausea (8% to 29%, incidence lower in males; older adults: 19%; severe nausea: 1% to 4%). Nervous system: Headache (2% to 11%). 1% to 10% Cardiovascular: Chest discomfort (≤2%), chest pain (≤2%), edema (3%), peripheral edema (1%)."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Levomethadone, Methadone"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Bismuth subcitrate"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Diarrhea",
+      "Avoid use in patients with severe diarrhea. If severe diarrhea occurs during treatment, therapy should be discontinued and the patient should consult their healthcare provider.",
+      "Syncope and Hypotension",
+      "May occur after taking the first dose or with subsequent doses. Generally, resolves before the next dose, but may recur with repeat dosing. The patient should consult their healthcare provider if symptoms occur.",
+      "Dyspnea",
+      "May occur within an hour of the first dose. Generally, resolves within hours, but may recur with repeat dosing. The patient should consult their healthcare provider if symptoms occur."
+    ],
+    "storage": {
+      "Temperature range": "15° to 30°C",
+      "Protection from light": "true",
+      "Protection from extreme temperatures": "true"
+    },
+    "id": 24
+  },
+  {
+    "category": null,
+    "name": "Palonosetron",
+    "abbreviation": null,
+    "generic_name": "Palonosetron",
+    "dosage_form_strengths": [
+      "0.05 mg/mL (1.5 mL, 5 mL)",
+      "0.5 mg"
+    ],
+    "route_of_administration": "IV, Oral",
+    "pharmacologic_category": "Antiemetic; Selective 5-HT3 Receptor Antagonist",
+    "ATC": "A04AA05",
+    "indications": "Oral; IV; Prevention of acute and delayed nausea and vomiting associated with moderately emetogenic cancer chemotherapy in adults; Prevention of acute and delayed nausea and vomiting associated with highly emetogenic cisplatin-based chemotherapy in adults; Prevention of acute nausea and vomiting associated with highly emetogenic cancer chemotherapy (in patients 1 month of age and older); Prevention of acute and delayed nausea and vomiting associated with moderately emetogenic cancer chemotherapy (in patients 1 month of age and older); IV; Prevention of acute nausea and vomiting associated with highly emetogenic cancer chemotherapy (in patients 1 month of age and older); IV",
+    "dosage_regimen": {
+      "adult": "0.25 mg as a single dose over 30 seconds, given 30 minutes before the start of chemotherapy; 0.075 mg as a single dose over 10 seconds immediately before the induction of anesthesia",
+      "pediatric": "20 mcg/kg administered as a single dose over 15 minutes, given 30 minutes before the start of chemotherapy"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dose adjustment is necessary",
+      "renal_impairment_pediatric": "No dose adjustment is necessary",
+      "hepatic_impairment_adult": "No dose adjustment is necessary",
+      "hepatic_impairment_pediatric": "No dose adjustment is necessary"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients"
+    ],
+    "adverse_drug_reactions": {
+      "1% to 10%": "Cardiovascular: Bradycardia (≤1%), distended vein (≤1%), extrasystoles (≤1%), hypertension (≤1%), hypotension (≤1%), sinoatrial nodal rhythm disorder (≤1%), sinus tachycardia (≤1%), supraventricular extrasystole (≤1%), vein discoloration (≤1%)",
+      "Dermatologic: Allergic dermatitis (infants, children, adolescents, and adults: ≤1%), pruritus (≤1%), skin rash (≤1%)\",\n    ": "ndocrine & metabolic: Electrolyte disturbance (≤1%), hot flash (≤1%), hyperglycemia (≤1%), hyperkalemia (≤1%), hypokalemia (≤1%), metabolic acidosis (≤1%)",
+      "Gastrointestinal: Abdominal pain (≤1%; including upper abdominal pain), anorexia (≤1%), constipation (5%), decreased appetite (≤1%), decreased gastrointestinal motility (≤1%), diarrhea (≤1%), dyspepsia (≤1%), flatulence (≤1%), hiccups (≤1%), motion sickness (≤1%), sialorrhea (≤1%), xerostomia (≤1%)\",\n    ": "enitourinary: Glycosuria (≤1%), urinary retention (≤1%)",
+      "Hepatic: Increased liver enzymes (≤1%; including increased serum alanine aminotransferase, increased serum aspartate aminotransferase), increased serum bilirubin (≤1%)\",\n    ": "ervous system: Anxiety (≤1%), asthenia (≤1%), chills (≤1%), dizziness (infants, children, adolescents, and adults: ≤1%), drowsiness (≤1%), euphoria (≤1%), headache (adults: 9%; infants, children, and adolescents <1%), hypersomnia (≤1%), paresthesia (≤1%)",
+      "Neuromuscular & skeletal: Arthralgia (≤1%), laryngospasm (≤1%)\",\n    ": "phthalmic: Amblyopia (≤1%), eye irritation (≤1%)",
+      "Otic: Tinnitus (≤1%)\",\n    ": "espiratory: Flu-like symptoms (≤1%), hypoventilation (≤1%)"
+    },
+    "monitoring": {
+      "Parameters": [
+        "Monitor for decreased bowel activity",
+        "Monitor for signs of serotonin syndrome"
+      ]
+    },
+    "drug_interactions": [
+      "Risk X: Avoid combination Apomorphine"
+    ],
+    "id": 25
+  }
+]

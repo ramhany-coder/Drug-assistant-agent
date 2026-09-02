@@ -7,9 +7,10 @@ from llm.client import fallback_client ,FALLBACK_ORDER
 
 def translator_to_eng (state):
     query = state.get("query")
+    chat_history = state.get("chat_hist")
     message = [
         SystemMessage(content=SYSTEM_PROMPT_TRANSLATOR_TO_ENG),
-        HumanMessage(content=human_prompt_translator_to_eng(query))
+        HumanMessage(content=human_prompt_translator_to_eng(query, chat_history))
     ]
     result = fallback_client.constrained_invoke(message,FALLBACK_ORDER,constraine_model=translator_model)
 

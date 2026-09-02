@@ -46,8 +46,14 @@ RULES
 - Several drugs named: emit only the one the question centres on.
 - Digits inside a brand are not quantities, prices, or strengths.
 - Return the JSON object only.
+```
 
-EXAMPLES (fields not shown are null)
+---
+
+## Worked cases
+
+(fields not shown are null)
+
 "How much does 1 2 3 Extra (1 2 3 إكسترا) cost?"
   {"commercial_name_en":"1 2 3 EXTRA","commercial_name_ar":"1 2 3 إكسترا"}
 "Is 1 2 3 (1 2 3) available as a syrup?"
@@ -65,7 +71,6 @@ EXAMPLES (fields not shown are null)
   {"commercial_name_en":"CATAFLAM","commercial_name_ar":"كتافلام"}
 "Is Ventolin inhaler safe for a 4 year old?"
   {"commercial_name_en":"VENTOLIN","route":"INHALATION"}
-```
 
 ---
 

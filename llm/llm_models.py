@@ -62,6 +62,8 @@ class Llm :
         model=model,
         base_url=settings.OLLAMA_PATH,
         temperature=temp,
+        num_ctx=2048,
+        keep_alive="0s",
         )
 
 

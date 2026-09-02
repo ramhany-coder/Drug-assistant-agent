@@ -352,9 +352,17 @@ with tab_chat:
         st.session_state.messages.append(user_message)
         render_chat_message(user_message)
 
+        # chat_hist is stored as one entry per completed turn: the English query the
+        # translator produced and the response the responder gave for it -- never the
+        # raw role/content transcript -- so downstream agents get a compact,
+        # already-English history instead of re-parsing the user's original script.
         chat_history = [
-            {"role": m["role"], "content": m["content"]}
+            {
+                "eng_query": m["result"].get("eng_query"),
+                "response": m["result"].get("response") or m["content"],
+            }
             for m in st.session_state.messages[:-1]
+            if m["role"] == "assistant" and m.get("result")
         ]
 
         with st.chat_message("assistant", avatar=ASSISTANT_AVATAR):

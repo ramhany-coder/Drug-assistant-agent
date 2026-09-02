@@ -16,6 +16,12 @@ INPUT: Modern Standard Arabic, Egyptian colloquial, Arabizi/Franco-Arab (Latin +
 3=ع 7=ح 5/kh=خ 2=ء/ق 8/gh=غ 9=ق, g=ج hard Egyptian), English, any other language, or a
 mix inside one sentence.
 
+chat_history   Prior turns of this conversation, each as {"eng_query": "...",
+               "response": "..."} — the English query already produced for that turn
+               and the answer given for it. Oldest first, may be empty. Use it ONLY as
+               in R8 below; never treat it as a source of drug facts, and never let it
+               change your reading of what the CURRENT query says.
+
 OUTPUT: this JSON object only — no preamble, no markdown fences.
 {"eng_query": "...", "user_language": "..."}
 eng_query per R1-R6. user_language per R7. Arabic inside eng_query stays UTF-8 Arabic
@@ -86,7 +92,25 @@ PRECEDENCE — stop at the first match:
 Judge what the user WROTE IN, never the language of your translation. eng_query is
 always English; user_language describes the input.
 
-EXAMPLES
+R8 USING chat_history. Two narrow uses, nothing else:
+  a) AMBIGUOUS SHORT INPUT. When the current query alone is too short or generic to
+     classify (a single word, "ok", "eh", "و بعدين", a bare "?"), use the language/script
+     of the most recent chat_history turn to pick user_language instead of guessing.
+     Still translate literally — do not invent content the user didn't type.
+  b) ELLIPSIS THAT NAMES NO DRUG. If the current query is a bare follow-up with no
+     product name of its own ("and the price?", "و الجرعة؟", "what about the dose?"),
+     pull ONLY the missing drug name from the last chat_history turn's eng_query and
+     splice it in, still in `Latin name (الاسم بالعربي)` form — do not add anything else
+     from history (no doses, prices, or facts), and do not resolve it if the current
+     query already names a drug or subject of its own.
+  If chat_history is empty, or the current query is already self-contained, ignore it
+  entirely.
+```
+
+---
+
+## Worked cases
+
 عندي صداع شديد، ينفع اخد بنادول اكسترا مع كتافلام؟
 {"eng_query":"I have a severe headache — can I take Panadol Extra (بنادول اكسترا) together with Cataflam (كتافلام)?","user_language":"egyptian_arabic"}
 
@@ -104,4 +128,11 @@ My son has fever 39، وادتله سيتال شراب، can I add ibuprofen?
 
 Is Ventolin inhaler safe for a 4 year old?
 {"eng_query":"Is Ventolin (فنتولين) inhaler safe for a 4 year old?","user_language":"english"}
-```
+
+chat_history: [{"eng_query":"What is the price of Concor (كونكور)?","response":"..."}]
+query: و الجرعة؟
+{"eng_query":"And what is the dose of Concor (كونكور)?","user_language":"egyptian_arabic"}
+
+chat_history: [{"eng_query":"Does Amikacin (اميكاسين) need a dose change in renal impairment?","response":"..."}]
+query: ok
+{"eng_query":"ok","user_language":"egyptian_arabic"}

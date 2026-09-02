@@ -1,0 +1,885 @@
+[
+  {
+    "category": null,
+    "name": "Clonazepam",
+    "abbreviation": null,
+    "generic_name": "Clonazepam",
+    "dosage_form_strengths": [
+      "Tablet: 0.5 mg, 2 mg",
+      "Orally disintegrating tablets: 0.5mg, 1 mg, 2mg",
+      "Oral drops: 2.5 mg/ml"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Anti-seizure agent, Benzodiazepine",
+    "atc_code": null,
+    "indications": "All clinical forms of epileptic disease and seizures in infants, children and adults.",
+    "dosage_regimen": {
+      "adult": "Seizures: 0.5 mg 2-3 times daily, Maintenance: 4-8 mg/day, Maximum dose: 20 mg/day. Titration increments: 0.5 – 1 mg every 3 days. Panic disorder: 0.25 mg twice daily then titrate to target dose after 3 days. Recommended Maintenance: 1 mg/day. Higher doses are associated with adverse reactions; however, some patients may need higher doses.",
+      "pediatric": "Seizures: 0.25 mg/day, Infants and small children (0 to 5 years): 0.5 mg/day, Older children (5 to 12 years): 0.5 to 1 mg/day, Maintenance: 1 to 3 mg/day. Titration increments: 0.5 – 1 mg every 3 days.",
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to clonazepam or any of the excipients.",
+      "Severe liver disease.",
+      "Acute narrow angle glaucoma.",
+      "Acute pulmonary insufficiency.",
+      "Severe respiratory insufficiency.",
+      "Sleep apnea.",
+      "Myasthenia gravis.",
+      "Pregnancy and lactation: Clonazepam has harmful pharmacological effects on pregnancy and the fetus and possible congenital malformations. During pregnancy, clonazepam may be administered only if the benefits outweigh the risks. Lactation: Infants exposed to clonazepam from breast milk are reported to suffer from sedation, poor feeding, and poor weight gain."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Ataxia (seizure disorder: 30%; panic disorder: 1% to 9%), behavioral problems (seizure disorder: 25%), dizziness (5% to 12%), drowsiness (seizure disorder: 50%; panic disorder: 26% to 50%). 1% to 10% Endocrine & metabolic: Decreased libido (1% to 3%). Gastrointestinal: Abdominal pain (2%), constipation (3% to 5%), decreased appetite (3%). Genitourinary: Dysmenorrhea (3% to 6%), impotence (≤3%), urinary frequency (1% to 2%), urinary tract infection (2%), vaginitis (2% to 4%). Hypersensitivity: Hypersensitivity reaction (2% to 4%). Infection: Influenza (4% to 5%). Nervous system: Confusion (1% to 2%), decreased mental acuity (2% to 4%), delayed ejaculation (1% to 2%), depression (6% to 8%), dysarthria (2% to 4%), emotional lability (2%), fatigue (6% to 9%) (See Table 3), memory impairment (4% to 5%), nervousness (3% to 4%). Neuromuscular & skeletal: Myalgia (2% to 4%). Ophthalmic: Blurred vision (2% to 3%). Respiratory: Bronchitis (2%), cough (2% to 4%), pharyngitis (2% to 3%), rhinitis (2% to 4%), sinusitis (4% to 8%), upper respiratory tract infection (6% to 10%)."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Benzodiazepines with opioids may result in profound sedation, respiratory depression, coma, and death. Benzodiazepines and opioids should be combined only if no other alternatives are available. If benzodiazepines and opioids are prescribed concurrently, they should be used at the lowest effective doses and for the shortest duration. Patients should be evaluated for CNS and respiratory depression."
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Clazadene (nasal), Bromperidol, Flunarizine, Kratom, Nabilone, Olopatadine (nasal), Orphenadrine, Oxomemazine, Oxybate Salt Products, Paraldehyde, Thalidomide (nasal)."
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Risk from concurrent use with CNS depressants and opioids: Profound sedation, respiratory depression, coma, and death. Benzodiazepines and opioids should be combined only if no other alternatives are available. If benzodiazepines and opioids are prescribed concurrently, they should be used at the lowest effective doses and for the shortest duration. Patients should be evaluated for CNS and respiratory depression."
+    ],
+    "storage": null,
+    "id": 1
+  },
+  {
+    "category": null,
+    "name": "LAMOTRIGINE",
+    "abbreviation": null,
+    "generic_name": "Lamotrigine",
+    "dosage_form_strengths": [
+      "25 mg",
+      "50 mg",
+      "100 mg",
+      "200 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antiseizure Agent, Miscellaneous",
+    "atc_code": null,
+    "indications": "Epilepsy, Bipolar disorder, Prevention of depressive episodes in patients with bipolar I disorder who experience predominantly depressive episodes, Maintenance treatment of bipolar I disorder to delay the time to occurrence of mood episodes in patients treated for acute mood episodes with standard therapy",
+    "dosage_regimen": {
+      "adult": "25 mg/day, 50 mg/day, 100 mg/day, 200 mg/day",
+      "pediatric": "0.3 mg/kg/day, 0.6 mg/kg/day, 1-10 mg/kg/day"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "50-100 mg/day every 1-2 week",
+      "renal_impairment_pediatric": "0.6 mg/kg/day every 1-2 week",
+      "hepatic_impairment_adult": "0.6 mg/kg/day every 1-2 week",
+      "hepatic_impairment_pediatric": "1.2 mg/kg/day every 1-2 week"
+    },
+    "contraindications": [
+      "Hypersensitivity to lamotrigine or to any of the excipients"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Nausea (7% to 14%), Cardiovascular: Chest pain, edema, peripheral edema, Dermatologic: Contact dermatitis, diaphoresis, skin rash, xeroderma, Endocrine & metabolic: Increased libido, weight gain, weight loss, Gastrointestinal: Abdominal pain, anorexia, constipation, dyspepsia, flatulence, peptic ulcer, vomiting, xerostomia, Genitourinary: Dysmenorrhea, urinary frequency, Hematologic & oncologic: Rectal hemorrhage, Infection: Infection, Nervous system: Abnormal dreams, abnormality in thinking, agitation, anxiety, ataxia, confusion, depression, dizziness, drowsiness, emotional lability, fatigue, hyperreflexia, hypoesthesia, hyporeflexia, insomnia, irritability, migraine, neurologic abnormality (dyspraxia), pain, paresthesia, suicidal ideation, Neuromuscular & skeletal: Arthralgia, asthenia, back pain, myalgia, neck pain, Ophthalmic: Amblyopia, nystagmus disorder, visual disturbance, Respiratory: Bronchitis, cough, dyspnea, epistaxis, nasopharyngitis, pharyngitis, rhinitis, sinusitis, upper respiratory tract infection, Miscellaneous: Alcohol intolerance, fever",
+      "10%": "Gastrointestinal: Nausea (7% to 14%), Cardiovascular: Chest pain, edema, peripheral edema, Dermatologic: Contact dermatitis, diaphoresis, skin rash, xeroderma, Endocrine & metabolic: Increased libido, weight gain, weight loss, Gastrointestinal: Abdominal pain, anorexia, constipation, dyspepsia, flatulence, peptic ulcer, vomiting, xerostomia, Genitourinary: Dysmenorrhea, urinary frequency, Hematologic & oncologic: Rectal hemorrhage, Infection: Infection, Nervous system: Abnormal dreams, abnormality in thinking, agitation, anxiety, ataxia, confusion, depression, dizziness, drowsiness, emotional lability, fatigue, hyperreflexia, hypoesthesia, hyporeflexia, insomnia, irritability, migraine, neurologic abnormality (dyspraxia), pain, paresthesia, suicidal ideation, Neuromuscular & skeletal: Arthralgia, asthenia, back pain, myalgia, neck pain, Ophthalmic: Amblyopia, nystagmus disorder, visual disturbance, Respiratory: Bronchitis, cough, dyspnea, epistaxis, nasopharyngitis, pharyngitis, rhinitis, sinusitis, upper respiratory tract infection, Miscellaneous: Alcohol intolerance, fever"
+    },
+    "drug_interactions": {
+      "Azelastine (Nasal), Bromperidol, Dofetilide, Flunarizine, Kratom, Nabilone, Olopatadine (Nasal), Orphenadrine, Oxomemazine, Paraldehyde, Thalidomide": "Consider therapy modification"
+    },
+    "risk_x": "Avoid combination",
+    "risk_d": "Consider therapy modification",
+    "id": 2
+  },
+  {
+    "category": null,
+    "name": "Ethosuximide",
+    "abbreviation": null,
+    "generic_name": "Ethosuximide",
+    "dosage_form_strengths": [
+      "Capsule: 250 mg.",
+      "Syrup: 250 mg/5 ml."
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antiseizure Agent, Succinimide",
+    "atc_code": "N03AD01",
+    "indications": "Management of absence seizures (petit mal) and myoclonic seizures",
+    "dosage_regimen": {
+      "adult": "500 mg daily then adjust with increments of 250 mg every 5-7 days until control is achieved",
+      "pediatric": "Initial: 125 mg and adjust with small increments every few days until control is achieved",
+      "maintenance": "Usually 1000 - 1500 mg daily in 2-3 doses. Dose of 2000mg under strict supervision maybe needed"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Use with extreme caution. Regular monitoring of ethosuximide concentrations and blood count as bone marrow depression and thrombocytopenia may occur.",
+      "renal_impairment_pediatric": "Use with extreme caution. Regular monitoring of ethosuximide concentrations and blood count as bone marrow depression and thrombocytopenia may occur.",
+      "hepatic_impairment_adult": "Use with extreme caution. Regular monitoring of ethosuximide concentrations and blood count as bone marrow depression and thrombocytopenia may occur.",
+      "hepatic_impairment_pediatric": "Use with extreme caution. Regular monitoring of ethosuximide concentrations and blood count as bone marrow depression and thrombocytopenia may occur."
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "frequency bucket as written in the text": "Dermatologic: Pruritic erythematous rash, urticaria. Endocrine & metabolic: Hirsutism, increased libido, weight loss. Psychiatric disorders: Paranoid and hallucination symptoms, anxiety, agitation may occur. CNS depression: Patients should be cautioned before performing tasks which need mental alertness. Serious Dermatologic Reactions: Abnormal liver and renal function have been reported. Autoimmune Disorders: Such as Systemic lupus erythematous have been reported with the medication use."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Azelastine (Nasal), Bromperidol, Flunarizine, Kratom, Nabilone, Olopatadine (Nasal), Orphenadrine, Oxomemazine, Paraldehyde, Thalidomide"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Blonanserin, Buprenorphine, Chlormethiazole, Daridorexant, Dexmedetomidine, Droperidol, Flunitrazepam, Hydroxyzine, Lemborexant, Loxapine, Mefloquine, Methotrimeprazine, Metyrapone, Opioid Agonists, Oxybate Salt Products, Oxycodone, Ropeginterferon Alfa -2b, Suvorexant, Zolpidem, Zuranolone"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": null,
+    "storage": "Capsules: Store at 150 C to 300 C. Protect from moisture. Syrup: Store at 15°C to 30°C.",
+    "id": 3
+  },
+  {
+    "category": null,
+    "name": "Lacosamide",
+    "abbreviation": null,
+    "generic_name": "Lacosamide",
+    "dosage_form_strengths": [
+      "Tablet: 50 mg, 100 mg, 200 mg",
+      "Oral Solution: 10 mg/ml",
+      "Solution for I.V. Infusion: 10 mg/ml"
+    ],
+    "route_of_administration": "Oral, IV",
+    "pharmacologic_category": "Antiseizure Agent, Miscellaneous",
+    "atc_code": null,
+    "indications": "Treatment of partial-onset seizures with or without secondary generalization in adults, adolescents and children from 1 month of age (Monotherapy or Adjunct therapy). Treatment of primary generalized tonic-clonic seizures in adults, adolescents and children from 4 years of age with idiopathic generalized epilepsy (Adjunct therapy).",
+    "dosage_regimen": {
+      "adult": "50 mg twice daily or 100 mg twice daily",
+      "pediatric": "1 mg/kg twice a day (up to 6 mg/kg twice a day for patients ≥ 6 kg to < 40 kg)",
+      "adolescent and children dosing (weighing less than 50 kg)": "up to 6 mg/kg twice a day",
+      "adolescent and children dosing (weighing ≥ 50 kg to < 40 kg)": "up to 5 mg/kg twice a day",
+      "adolescent and children dosing (weighing ≥ 40 kg to < 50 kg)": "up to 4 mg/kg twice a day",
+      "adolescent and children dosing (weighing ≥ 20 kg to < 30 kg)": "up to 5 mg/kg twice a day",
+      "adolescent and children dosing (weighing ≥ 6 kg to < 20 kg)": "up to 6 mg/kg twice a day"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients",
+      "Known second- or third-degree atrioventricular (AV) block"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gastrointestinal: Nausea (7% to 11%), Nervous system: Dizziness (16% to 30%), drowsiness (5% to 17%), headache (11% to 14%),"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Azelastine (Nasal), Bromperidol, Flunarizine, Kratom, Nabilone, Noscapine, Olopatadine (Nasal), Orphenadrine, Oxomemazine, Paraldehyde, Thalidomide"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Articaine, Blonanserin, Buprenorphine, Chlormethiazole, Daridorexant, Dexmedetomidine, Droperidol, Flunitrazepam, Hydroxyzine, Lemborexant, Loxapine, Mefloquine, Methotrimeprazine, Metyrapone, Opioid Agonists, Oxybate Salt Products, Oxycodone, Suvorexant, Zolpidem, Zuranolone"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral Administration",
+    "warnings_precautions": [
+      "Suicidal ideation and behavior have been reported in patients treated with antiepileptic medicinal products. Monitor patients for suicidal behavior and ideation and appropriate treatment should be considered if symptoms have developed."
+    ],
+    "storage": "Tablet, oral solution: Store between 15oC and 30oC. Throw away any unused oral solution after first opening the bottle. Do not freeze. Vial: Store between 15oC and 30oC. Do not freeze. Use immediately after opening and dilution (not for more than 4 hours at room temperature).",
+    "id": 4
+  },
+  {
+    "category": null,
+    "name": "VALPROIC ACID",
+    "abbreviation": null,
+    "generic_name": null,
+    "dosage_form_strengths": [
+      "Capsule: 150, 250, 300 mg.",
+      "Syrup: 250 mg/5ml.",
+      "Modified release tablet: 250, 500 mg.",
+      "Oral drops: 200, 300 mg/ml.",
+      "Solution for IV injection: 500 mg/5ml."
+    ],
+    "route_of_administration": "Oral, IV",
+    "pharmacologic_category": "Antimanic Agent; Antiseizure Agent, Miscellaneous; Histone Deacetylase",
+    "atc_code": null,
+    "indications": "For the treatment of all patients of generalized, partial or other epilepsy.",
+    "dosage_regimen": {
+      "adult": "10 – 15 mg/kg/day or 600mg daily for adults, 400 mg for children.",
+      "pediatric": "20 – 30 mg/kg/day body weight or for adults 1000 – 2000 mg up to 2500 mg daily."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Dose adjustment may be needed. Dosing should be modified according to clinical monitoring of the patient.",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "Dose adjustment may be needed. Dosing should be modified according to clinical monitoring of the patient.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Known hypersensitivity to Valproic acid or any of its derivatives.",
+      "active liver disease, or personal or family history of severe hepatic dysfunction.",
+      "Porphyria.",
+      "Urea cycle disorders.",
+      "Pregnancy.",
+      "Known mutations in mitochondrial DNA polymerase γ (POLG) in any age group.",
+      "Suspected POLG mutations in children 2 years of age or younger."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": null
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Azelastine (Nasal), Bromperidol",
+        "Cosyntropin",
+        "Flunarizine",
+        "Kratom",
+        "Nabilone",
+        "Olopatadine (Nasal), Orphenadrine",
+        "Oxomemazine",
+        "Paraldehyde",
+        "Pivmecillinam",
+        "Taurursodiol",
+        "Thalidomide"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Blonanserin",
+        "Buprenorphine",
+        "Carbapenems",
+        "Chlormethiazole",
+        "Cholestyramine Resin",
+        "Daridorexant",
+        "Dexmedetomidine",
+        "Droperidol",
+        "Felbamate",
+        "Flunitrazepam",
+        "Hydroxyzine",
+        "Lemborexant",
+        "Lorazepam",
+        "Loxapine",
+        "Mefloquine",
+        "Metyrapone",
+        "Opioid Agonists",
+        "Oxybate Salts (calcium, Magnesium, Potassium, And Sodium)",
+        "Oxycodone",
+        "Propofol",
+        "Ropeginterferon Alfa-2b",
+        "Rufinamide",
+        "Sodium Oxybate",
+        "Suvorexant",
+        "Zolpidem",
+        "Zuranolone"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": null,
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 5
+  },
+  {
+    "category": "Anticonvulsant, Antiseizure Agent, Benzodiazepine",
+    "name": "Diazepam",
+    "abbreviation": "DIAZEPAM",
+    "generic_name": "Diazepam",
+    "dosage_form_strengths": [
+      "10 mg/2ml",
+      "2mg, 5mg, 10mg"
+    ],
+    "route_of_administration": "IM, IV, Oral, Rectal",
+    "pharmacologic_category": "Anticonvulsant, Antiseizure Agent, Benzodiazepine",
+    "atc_code": "N05BA01",
+    "indications": "Short-term relief of the severe or disabling symptoms of anxiety, as an anti-convulsant in the management of status epilepticus, febrile convulsions and poisoning, alcohol withdrawal syndrome, relief of muscle spasm as in tetanus or cerebral spasticity, insomnia (severe, disabling or subjecting the individual to extreme distress), premedication for procedural anxiety",
+    "dosage_regimen": {
+      "adult": "2 mg to 10 mg, 2 to 4 times daily, according to severity, up to 30 mg daily in divided doses",
+      "pediatric": "1 mg to 2.5 mg, 3 or 4 times daily initially; increase gradually as needed and tolerated"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "not known",
+      "renal_impairment_pediatric": "not known",
+      "hepatic_impairment_adult": "not known",
+      "hepatic_impairment_pediatric": "not known"
+    },
+    "contraindications": [
+      "renal impairment",
+      "hepatic impairment"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "symptomatic relief in acute alcohol withdrawal, nocturnal terrors and somnambulism"
+    },
+    "monitoring_parameters": "not specified",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "risk_d_consider_therapy_modification"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "risk_x_avoid_combination"
+      ]
+    },
+    "precautions": "not specified",
+    "interactions": "not specified",
+    "side_effects": "not specified",
+    "warnings": "not specified",
+    "id": 6
+  },
+  {
+    "category": null,
+    "name": "CARBAMAZEPINE",
+    "abbreviation": null,
+    "generic_name": "CARBAMAZEPINE",
+    "dosage_form_strengths": [
+      "oral suspension",
+      "tablets",
+      "chewable tablets",
+      "modified release tablets",
+      "extended release tablets",
+      "oral solution"
+    ],
+    "route_of_administration": "oral",
+    "pharmacologic_category": "anticonvulsant, miscellaneous",
+    "ATC_code": "N03AF01",
+    "indications": "Epilepsy, Trigeminal Neuralgia, Prophylaxis of manic-depressive psychosis",
+    "dosage_regimen": {
+      "adult": "100-200mg once or twice daily",
+      "pediatric": "10-20mg/kg body weight daily in several divided doses"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustment available",
+      "renal_impairment_pediatric": "No dosage adjustment available",
+      "hepatic_impairment_adult": "No dosage adjustment available",
+      "hepatic_impairment_pediatric": "No dosage adjustment available"
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "No data"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "oral",
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 7
+  },
+  {
+    "category": null,
+    "name": "Oxcarbazepine",
+    "abbreviation": null,
+    "generic_name": "Oxcarbazepine",
+    "dosage_form_strengths": [
+      "Tablet",
+      "Extended-release tablet",
+      "Oral suspension"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Anti-seizure agent",
+    "ATC_code": "N03AF02",
+    "indications": "Immediate-Release Formulations: treatment of partial-onset seizures (monotherapy in patients 4 years of age and older or as adjunctive therapy in patients 2 years and older). Extended-release tablet: treatment of partial-onset seizures in patients 6 years of age and older.",
+    "dosage_regimen": {
+      "adult": "600 mg/day given in 2 divided doses",
+      "pediatric": "8-10 mg/kg/day divided in 2 doses"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Start at half the regular dose (300 mg/day) and increase by 300 – 450 mg every week till optimum response",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to oxcarbazepine or any of the components of the product"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Endocrine & neurological system disorders"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "CYP3A4 inducers including other antiepileptic drugs"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Hypersensitivity to oxcarbazepine or any of the components of the product"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "warnings_precautions": [
+      "Concurrent use with CYP3A4 inducers including other antiepileptic drugs: Dose adjustments for Oxcarbazepine might be necessary. A starting dose of 900 mg/day for adults and 12 – 15 mg/kg/day for pediatrics should be considered."
+    ],
+    "id": 8
+  },
+  {
+    "category": null,
+    "name": "Phenytoin",
+    "abbreviation": null,
+    "generic_name": "Phenytoin",
+    "dosage_form_strengths": [
+      "Capsule: 50mg, 100mg",
+      "Suspension: 30 mg/5ml",
+      "Topical cream: 2 gm/100g",
+      "Topical Spray: 40 mg/150ml",
+      "Injection: 50 mg/ml; 250 mg/5ml"
+    ],
+    "route_of_administration": "Oral, IM, IV, Topical",
+    "pharmacologic_category": "Antiseizure Agent, Hydantoin",
+    "atc_code": null,
+    "indications": "Oral, Parenteral",
+    "dosage_regimen": {
+      "adult": "Initial: 3 to 4mg/kg/day then adjust dose at weekly intervals as required. Maintenance dose (in most cases): 200 to 500 mg daily in single or divided doses.",
+      "pediatric": "Initial: 5mg/kg/day in 2 or 3 divided doses. Maintenance dose: 4 to 8mg/kg daily in divided doses."
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Early signs of toxicity may appear. Monitor free phenytoin levels closely. Dosage adjustments may be necessary.",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": "Early signs of toxicity may appear. Monitor free phenytoin levels closely. Dosage adjustments may be necessary.",
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to phenytoin"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Phenytoin can cause a range of adverse effects, including dizziness, drowsiness, and ataxia. In rare cases, it can cause more serious conditions such as seizures, coma, and even death."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Carbamazepine",
+        "Lamotrigine"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Thyroid hormone replacement therapy"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": "Phenytoin is contraindicated in pregnancy and lactation."
+    },
+    "administration": {
+      "dosage": "Loading dose: IV: 10-15 mg/kg slowly (a rate not exceeding 50 mg/minute in adults to avoid hypotension) Maintenance dose: Oral or IV: 100 mg every 6-8 hours. In geriatric patients with heart disease, it has been recommended that the drug be given at a rate of 50 mg over 2-3 minutes."
+    },
+    "dosage_form": null,
+    "dosage_frequency": null,
+    "dosage_duration": null,
+    "dosage_unit": null,
+    "pharmacokinetics": {
+      "absorption": "Slow absorption, with peak levels reached within 1-2 hours after administration."
+    },
+    "pharmacodynamics": {
+      "mechanism": "Phenytoin works by inhibiting the release of neurotransmitters in the brain, which can help to reduce the frequency and severity of seizures."
+    },
+    "id": 9
+  },
+  {
+    "category": null,
+    "name": "Levetiracetam",
+    "abbreviation": null,
+    "generic_name": "Levetiracetam",
+    "dosage_form_strengths": [
+      "Film coated tablets: 250mg, 500mg, 750mg, 1000mg",
+      "Orally disintegrating tablets: 500mg",
+      "Modified release tablets: 500mg, 750mg, 1000mg, 1500mg",
+      "Syrup: 100mg/ml (100ml, 120ml or 300ml)",
+      "Injection: 500mg/5ml"
+    ],
+    "route_of_administration": "Oral, IV",
+    "pharmacologic_category": "Antiseizure Agent, Miscellaneous",
+    "atc_code": null,
+    "indications": "Monotherapy for partial onset seizures in patients 1 month of age and older (oral immediate release or injection) or 12 years of age and older (oral modified release). Adjunctive therapy for myoclonic seizures in patients 12 years of age and older with juvenile myoclonic epilepsy (oral or injection). Primary generalized tonic-clonic seizures in patients 6 years of age and older with idiopathic generalized epilepsy (oral or injection).",
+    "dosage_regimen": {
+      "adult": "250-500 mg twice daily; increased by 250-500 mg twice daily in 2 weeks intervals to a recommended dose of 1500 mg twice daily",
+      "pediatric": "250-500 mg twice daily; increased by 250-500 mg twice daily in 2 weeks intervals to a recommended dose of 1500 mg twice daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "500 to 1,000 mg once daily",
+      "renal_impairment_pediatric": "250 to 750 mg once daily",
+      "hepatic_impairment_adult": "250 to 500 mg once daily",
+      "hepatic_impairment_pediatric": "250 to 500 mg once daily"
+    },
+    "contraindications": [
+      "Intracranial hypertension"
+    ],
+    "dosage": {
+      "adult": "250-500 mg twice daily; increased by 250-500 mg twice daily in 2 weeks intervals to 1500 mg twice daily",
+      "pediatric": "250-500 mg twice daily; increased by 250-500 mg twice daily in 2 weeks intervals to 1500 mg twice daily"
+    },
+    "loading_dose": "750 mg",
+    "supplemental_dose": "250-500 mg once daily",
+    "discontinuation": "When needed, it is recommended to withdraw levetiracetam gradually with the same dose intervals as initiation.",
+    "id": 10
+  },
+  {
+    "category": null,
+    "name": "Gabapentin",
+    "abbreviation": null,
+    "generic_name": "Gabapentin",
+    "dosage_form_strengths": [
+      "100 mg; 300 mg; 400 mg; 600 mg; 800 mg",
+      "300 mg; 600 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Ant seizure Agent, Miscellaneous; GABA Analog",
+    "ATC": "N02BF01",
+    "indications": "Peripheral Neuropathic Pain treatment in adults such as painful diabetic neuropathy and post-herpetic neuralgia (immediate or extended release)",
+    "dosage_regimen": {
+      "adult": "300 mg three times daily",
+      "pediatric": "40 mg/kg/day three divided doses"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "900 mg/day three times daily",
+      "renal_impairment_pediatric": "40 mg/kg/day three divided doses",
+      "hepatic_impairment_adult": "300 mg three times daily",
+      "hepatic_impairment_pediatric": "40 mg/kg/day three divided doses"
+    },
+    "contraindications": [
+      "Hypersensitivity to gabapentin or any of its components",
+      "Gastrointestinal disturbances (nausea, vomiting, diarrhea) in patients with renal impairment"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Somnolence, peripheral oedema and asthenia"
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Glyburide",
+        "Metformin",
+        "Omeprazole"
+      ],
+      "risk_d_consider_therapy_modification": [
+        "Thyroid hormone replacement therapy"
+      ]
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "Oral",
+    "dosage": {
+      "adult": "300 mg three times daily",
+      "pediatric": "40 mg/kg/day three divided doses"
+    },
+    "alternative_dose_adjustments": {
+      "CrCl (mL/minute)": {
+        "≥ 80": "900-3600",
+        "50 to 79": "600-1800",
+        "30 to 49": "300-900",
+        "15 to 29": "150-600",
+        "<15": "150-300"
+      }
+    },
+    "hemodialysis": {
+      "loading_dose": "300 to 400 mg",
+      "maintenance_dose": "200 to 300 mg following each 4 hours of hemodialysis"
+    },
+    "id": 11
+  },
+  {
+    "category": "Antiseizure Agent, Miscellaneous",
+    "name": "Topiramate",
+    "abbreviation": "TOP",
+    "generic_name": "Topiramate",
+    "dosage_form_strengths": [
+      "Tablets: 25 mg, 50 mg, 100 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Antiseizure Agent, Miscellaneous",
+    "atc_code": "N03AX11",
+    "indications": "Monotherapy in partial seizures or primary generalized tonic-clonic seizures (in patients ≥ 2 years of age). Adjunctive therapy epilepsy (partial onset seizures with or without secondary generalization, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome) (in patients ≥2 years of age). Migraine, prevention: Prophylaxis of migraine in patients ≥ 12 years of age.",
+    "dosage_regimen": {
+      "adult": "100 mg once or twice daily",
+      "pediatric": "25-50 mg nightly for one week, 200-400 mg in two divided doses"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "Reduce dose to 50% of the indication-specific usual dose and titrate more slowly",
+      "renal_impairment_pediatric": "No dose adjustment is needed",
+      "hepatic_impairment_adult": "Caution as the clearance of topiramate is decreased",
+      "hepatic_impairment_pediatric": "No dose adjustment is needed"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients"
+    ],
+    "adverse_drug_reactions": {
+      ">10%": [
+        "Endocrine & metabolic: Decreased serum bicarbonate (children and adolescents: 67%; <17 mEq/L and ≥5 mEq/L decrease from pretreatment: 11%; average decrease of 4 mEq/L at dose of 400 mg/day in adults and 6 mg/kg/day in children), Hyperammonemia (adolescents: 14% to 26%), Weight loss (4% to 17%)"
+      ]
+    },
+    "monitoring_parameters": "Weight (kg)",
+    "drug_interactions": {
+      "risk_x_avoid_combination": [
+        "Nervous system: Dizziness (dose-related) (adolescents and adults: 6% to 14%), Drowsiness (dose-related) (adolescents and adults: 2% to 15%)"
+      ]
+    },
+    "renal_impairment": {
+      "crcl": "<70 mL/minute/1.73 m2",
+      "renal_impairment_adult": "Reduce dose to 50% of the indication-specific usual dose and titrate more slowly",
+      "renal_impairment_pediatric": "No dose adjustment is needed"
+    },
+    "hepatic_impairment": {
+      "mild": "No dose adjustment is needed",
+      "moderate to severe": "Caution as the clearance of topiramate is decreased"
+    },
+    "id": 12
+  },
+  {
+    "category": null,
+    "name": "Amantadine",
+    "abbreviation": null,
+    "generic_name": "Amantadine",
+    "dosage_form_strengths": [
+      "Capsule: 100mg.",
+      "Tablets: 100mg.",
+      "Solution for IV infusion: 200mg/500ml."
+    ],
+    "route_of_administration": "Oral, IV",
+    "pharmacologic_category": "Anti-Parkinson Agent, Dopamine Agonist; Antiviral Agent",
+    "ATC": "N04BB01",
+    "indications": "Treatment of Parkinsonism and drug-induced extrapyramidal reactions. Influenza A virus: Prophylaxis and treatment of signs and symptoms of influenza A virus infection. Herpes zoster. Recommended to elderly or debilitated patients.",
+    "dosage_regimen": {
+      "adult": "100mg once daily increased to 100mg twice daily at the second week.",
+      "pediatric": "100mg once or twice a day"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "100mg every day",
+      "renal_impairment_pediatric": "100mg every 2 to 3 days",
+      "hepatic_impairment_adult": "100mg every day",
+      "hepatic_impairment_pediatric": "100mg on alternate days"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients.",
+      "Untreated angle closure glaucoma.",
+      "Pregnancy.",
+      "Severe renal disease."
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Orthostatic hypotension (13%; including orthostatic dizziness, syncope, presyncope, and hypotension), peripheral edema (16%). Gastrointestinal: Constipation (13%), xerostomia (16%). Nervous system: Dizziness (16%), falling (13%), hallucination (21%).",
+      "risk_x_avoid_combination": [
+        "Cardiovascular: Livedo reticularis (6%). Dermatologic: Dyschromia (3%)."
+      ]
+    },
+    "possible_and_should_be_continued": true,
+    "duration_of_prophylaxis": "as required, mostly for 2-6 weeks.",
+    "duration_of_treatment": "24 to 48 hours after end of signs and symptoms.",
+    "dosing": "Children (10 -15 years): Oral: 100mg once or twice a day.",
+    "alternative_regimens": {
+      "CrCl 30-50 ml/min/1.73m2": "200 mg 1st day followed by 100 mg daily.",
+      "CrCl 15-29 ml/min/1.73m2": "200 mg 1st day followed by 100 mg on alternate days.",
+      "CrCl <15 ml/min/1.73m2": "200 mg every 7 days.",
+      "Hemodialysis": "200 mg every 7 days."
+    },
+    "id": 13
+  },
+  {
+    "category": null,
+    "name": "Rasagiline",
+    "abbreviation": null,
+    "generic_name": "Rasagiline",
+    "dosage_form_strengths": [
+      "0.5 mg",
+      "1 mg"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": "Anti-Parkinson Agent, MAO Type B Inhibitor",
+    "atc_code": "N04BD02",
+    "indications": "Idiopathic Parkinson's disease in adults as monotherapy (without levodopa) or as adjunct therapy (with levodopa) in patients with end of dose fluctuations.",
+    "dosage_regimen": {
+      "adult": "1 mg once daily",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "0.5 mg once daily",
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "id": 14
+  },
+  {
+    "category": null,
+    "name": "Neostigmine",
+    "abbreviation": null,
+    "generic_name": "Neostigmine",
+    "dosage_form_strengths": [
+      "0.5 mg/ml",
+      "1 mg/ml",
+      "2.5 mg/ml"
+    ],
+    "route_of_administration": [
+      "IM",
+      "IV",
+      "SC",
+      "Oral"
+    ],
+    "pharmacologic_category": "Acetylcholinesterase Inhibitor",
+    "atc_code": null,
+    "indications": "Myasthenia Gravis, Antagonist to non-depolarizing neuromuscular blockade, Paralytic Ileus, Post-operative Urinary Retention",
+    "dosage_regimen": {
+      "adult": "IM, SC: 1 – 2.5 mg repeated at suitable intervals along the day",
+      "pediatric": "IM, SC: 200 - 500 mcg repeated at suitable intervals along the day"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No adjustments needed",
+      "renal_impairment_pediatric": "No adjustments needed",
+      "hepatic_impairment_adult": "Not studied",
+      "hepatic_impairment_pediatric": "Not studied"
+    },
+    "contraindications": [
+      "Hypersensitivity to the active substance or to any of the excipients",
+      "Peritonitis or mechanical obstruction of the intestinal or urinary tract"
+    ],
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Atrioventricular block, cardiac arrhythmia (including atrioventricular nodal arrhythmia, bradycardia, tachycardia), flushing, hypotension, syncope"
+    },
+    "monitoring_parameters": "Cardiac functions particularly with IV route",
+    "drug_interactions": {
+      "Risk X: Avoid combination\",\n    ": "isk D: Consider therapy modification",
+      "Pregnancy and Lactation": "Pregnancy: Inadequate data. No adverse effects reported. Lactation: No adverse effects reported"
+    },
+    "pregnancy_and_lactation": "Pregnancy: Inadequate data. No adverse effects reported. Lactation: No adverse effects reported",
+    "id": 15
+  },
+  {
+    "category": null,
+    "name": "Cladribine",
+    "abbreviation": null,
+    "generic_name": "Cladribine",
+    "dosage_form_strengths": [
+      "Tablets: 10 mg.",
+      "Solution for S.C Injection and I.V Infusion: 2 mg/ml."
+    ],
+    "route_of_administration": "Oral, SC, IV",
+    "pharmacologic_category": "Antimetabolite (Purine Analog); Antineoplastic Agent, Immunosuppressant",
+    "atc_code": null,
+    "indications": "Injection; Treatment of hairy cell leukemia; Treatment of patients with B-cell chronic lymphocytic leukemia (CLL) who had inadequate response to standard alkylating-agent containing regimen; Oral treatment of adult patients with relapsing forms of multiple sclerosis (MS) with active disease.",
+    "dosage_regimen": {
+      "adult": "Treatment of adult patients with highly active relapsing multiple sclerosis (▪ Cumulative dosage of 3.5 mg/kg administered orally over 2 years, administered as 1 treatment course of 1.75 mg/kg per year; ▪ Each treatment course consists of 2 treatment weeks, one at the beginning of the first month and one at the beginning of the second month of the respective treatment year; ▪ If medically necessary (e.g., for recovery of lymphocytes), the treatment course in year 2 can be delayed for up to 6 months. Each treatment week consists of 4 or 5 days on which a patient receives 10 mg or 20 mg as a single daily dose, depending on body weight)",
+      "pediatric": "Safety and efficacy in children have not been established"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": "No dosage adjustments",
+      "renal_impairment_pediatric": "No dosage adjustments",
+      "hepatic_impairment_adult": "No dosage adjustments",
+      "hepatic_impairment_pediatric": "No dosage adjustments"
+    },
+    "renal_impairment": "Mild renal impairment: No dosage adjustments; Moderate to severe renal impairment (Crcl < 50): Use is not recommended.",
+    "hepatic_impairment": "Mild hepatic impairment: No dosage adjustments; Moderate or severe hepatic impairment (Child-Pugh score >6): Use is not recommended.",
+    "contra_indications": "Hypersensitivity to cladribine or to any of the excipients.",
+    "adverse_drug_reactions": {
+      "IV": ">10%",
+      "Hematologic & oncologic": [
+        "Anemia (severe: 37%)",
+        "bone marrow depression (34%; may be delayed onset)",
+        "febrile neutropenia (47%)",
+        "neutropenia (severe: 70%)",
+        "thrombocytopenia (12%)"
+      ],
+      "Infection": [
+        "Bacterial infection (12%)",
+        "infection (28%; serious infection: 6%) [including pneumonia, septicemia]"
+      ],
+      "Miscellaneous": [
+        "Fever (69%)",
+        "high fever (11%)"
+      ]
+    },
+    "id": 16
+  },
+  {
+    "category": null,
+    "name": "Dimethyl Fumarate",
+    "abbreviation": null,
+    "generic_name": "Dimethyl Fumarate",
+    "dosage_form_strengths": [
+      "Delayed Release Capsule: 120 mg, 240 mg",
+      "Oral"
+    ],
+    "route_of_administration": "Oral",
+    "pharmacologic_category": null,
+    "atc_code": null,
+    "indications": "Treatment of adult and pediatric patients aged 13 years and older with relapsing remitting multiple sclerosis.",
+    "dosage_regimen": {
+      "adult": "120 mg twice a day for 7 days",
+      "pediatric": "240 mg twice daily"
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": [
+      "Hypersensitivity to dimethyl fumarate or any of the excipients"
+    ],
+    "adverse_drug_reactions": {
+      ">10%": "Cardiovascular: Flushing (40%).",
+      "1% to 10%": "Gastrointestinal: Abdominal pain (18%), diarrhea (14%), nausea (12%).",
+      "Dermatologic: Erythema of skin (5%), pruritus (8%), skin rash (8%).\",\n    ": "ndocrine & metabolic: Albuminuria (6%).",
+      "Gastrointestinal: Dyspepsia (5%), vomiting (9%).\",\n    ": "ematologic & oncologic: Lymphocytopenia (2% to 6%).",
+      "Hepatic: Increased serum aspartate aminotransferase (4%).\",\n    \"Monitoring Parameters": "• Liver functions prior to, and during treatment, as clinically indicated. • CBC, including lymphocyte count, prior to treatment, 6 months after starting treatment, and then yearly thereafter, and as clinically indicated. • Renal function prior to treatment initiation, after 3 and 6 months of treatment, yearly thereafter and as clinically indicated."
+    },
+    "monitoring_parameters": "• Liver functions prior to, and during treatment, as clinically indicated. • CBC, including lymphocyte count, prior to treatment, 6 months after starting treatment, and then yearly thereafter, and as clinically indicated. • Renal function prior to treatment initiation, after 3 and 6 months of treatment, yearly thereafter and as clinically indicated.",
+    "drug_interactions": {
+      "Diroximel Fumarate, Monomethyl Fumarate": "Risk X: Avoid combination"
+    },
+    "pregnancy_lactation": {
+      "pregnancy": "Inadequate human data. Therapy should not be initiated in patients with severe lymphopenia (lymphocyte counts<0.5 × 10^9 /L). Consider withholding or discontinuation of treatment if lymphocyte counts <0.5 × 10^9 /L persist for more than 6 months."
+    },
+    "warnings_precautions": {
+      "Anaphylactic reactions": "Anaphylactic reactions may occur after the first dose or at any time during treatment. If developed, dimethyl fumarate should be discontinued and immediate medical care should be administered. • Signs and symptoms include difficulty breathing, urticaria, and swelling of the throat and tongue.",
+      "Infections": "Herpes zoster and other serious opportunistic infections may occur at any time during treatment. Monitor patients for signs and symptoms. • If a patient develops a serious infection, consider withholding therapy. Therapy should not be started in patients with active infections.",
+      "Lymphopenia": "Dimethyl fumarate may decrease lymphocyte counts. During clinical trials, mean lymphocyte counts decreased by approximately 30% during the first year of treatment and then remained stable. Monitor CBC including lymphocyte count prior to and periodically during treatment. • Therapy should not be initiated in patients with severe lymphopenia (lymphocyte counts<0.5 × 10^9 /L). Consider withholding or discontinuation of treatment if lymphocyte counts <0.5 × 10^9 /L persist for more than 6 months."
+    },
+    "naming_authority": "Pfizer-BioNTech",
+    "id": 17
+  },
+  {
+    "category": null,
+    "name": "FINGOLIMOD",
+    "abbreviation": null,
+    "generic_name": null,
+    "dosage_form_strengths": [
+      "0.5 mg",
+      "capsules"
+    ],
+    "route_of_administration": "oral",
+    "pharmacologic_category": "Sphingosine 1-Phosphate (S1P) Receptor Modulator",
+    "ATC_code": "L04AE01",
+    "indications": "Disease modifying therapy in highly active relapsing remitting multiple sclerosis for adults and pediatrics 10 years and older patient with either • Rapidly evolving severe relapsing remitting multiple sclerosis or • Highly active disease despite a full and adequate course of treatment with at least one disease modifying therapy.",
+    "dosage_regimen": {
+      "adult": "0.5 mg orally once daily",
+      "pediatric": null
+    },
+    "dosage_adjustment": {
+      "renal_impairment_adult": null,
+      "renal_impairment_pediatric": null,
+      "hepatic_impairment_adult": null,
+      "hepatic_impairment_pediatric": null
+    },
+    "contraindications": null,
+    "adverse_drug_reactions": {
+      "<frequency bucket as written in the text>": "Gastrointestinal: Abdominal pain (11%), diarrhea (13%), nausea (13%) Hepatic: Increased gamma-glutamyl transferase (≤15%), increased serum alanine aminotransferase (≤15%), increased serum aspartate transaminase (≤15%). Infection: Influenza (11%)."
+    },
+    "monitoring_parameters": null,
+    "drug_interactions": {
+      "risk_x_avoid_combination": null,
+      "risk_d_consider_therapy_modification": null
+    },
+    "pregnancy_lactation": {
+      "pregnancy": null,
+      "lactation": null
+    },
+    "administration": "oral",
+    "warnings_precautions": null,
+    "storage": null,
+    "id": 18
+  }
+]
