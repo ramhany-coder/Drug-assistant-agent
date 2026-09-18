@@ -265,6 +265,35 @@ Every full-pipeline failure raises a structured error carrying **which** stage f
 
 ---
 
+## Example Usage & Metrics Evidence
+
+Real transcripts from the live demo, chosen to show the multilingual layer, the two-stage search, academic-data grounding, and the fail-closed insufficient-context path — not cherry-picked happy paths only.
+
+| # | Query (as typed) | Language | What it exercises | Response |
+|---|---|---|---|---|
+| 1 | `3ayez a3raf se3r Panadol Extra` | Arabizi | `translator_to_eng` → `meta_data_filter` fuzzy brand match → multi-SKU price lookup | Returns all 4 catalogue SKUs for the brand (24/48-tab packs, standard and Optizorb variants) with EGP prices for each, answered back in Arabizi register |
+| 2 | *(brand query resolving to)* `commercial_name_en=SERAS`, `commercial_name_ar=السيراس` | MSA | Fail-closed insufficient-context path when 36 catalogue matches don't clear the confidence bar | `early_responser` refuses to answer from a weak match set and returns the safe fallback template instead of guessing — see latency/trace evidence below |
+| 3 | `الشركة المصنعة للسيرباس ؟` (manufacturer of Serpass?) | MSA | Single-field (`manufacturer`) catalogue lookup, Arabic-script query and response | `SERPASS` manufacturer is `GLOBAL NAPI PHARMACEUTICALS`, answered in Arabic with a pharmacist-consult disclaimer |
+| 4 | `what is the drug interactions of ISOCID` | English | `compound_mapper` dict lookup (ISOCID → ISONIAZID) → `retrieve_academic` monograph attachment | Full interaction list grouped by risk tier (Risk X "avoid combination", Risk D "consider therapy modification", pregnancy/lactation considerations) — sourced entirely from the academic monograph, not the commercial catalogue |
+| 5 | `eh hya el atc bta3 el Xylometazoline` (what's the ATC code of Xylometazoline?) | Arabizi | Scientific-name query answered from academic data (ATC code isn't a commercial-catalogue field) | `R01AA07`, answered back in Arabizi |
+
+### Observability evidence (from the "Details & developer trace" panel)
+
+Example #2 above, expanded — this is the same per-stage instrumentation described in [Engineering Highlights](#engineering-highlights), captured on a real fail-closed run:
+
+| Metric | Value |
+|---|---|
+| Source | Commercial catalogue |
+| Matches returned | 36 |
+| Detected language | `msa` |
+| Flagged insufficient | Yes |
+| Total pipeline latency | 10.89s |
+| Extracted filters | `commercial_name_en=SERAS`, `commercial_name_ar=السيراس` |
+
+36 raw matches came back from the hybrid search, but `early_responser` judged none of them a confident enough grounding for the specific question asked and returned the localized safe-fallback response instead of synthesizing an answer from weak matches — the same fail-closed posture used for image PII, applied to generation. The trace exposes the input to that decision (match count, extracted filters, per-stage timing) rather than only the final answer, which is what makes the refusal auditable instead of a silent black box.
+
+---
+
 ## Testing & CI
 
 ```bash
