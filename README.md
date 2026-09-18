@@ -287,7 +287,7 @@ Example #2 above, expanded — this is the same per-stage instrumentation descri
 | Matches returned | 36 |
 | Detected language | `msa` |
 | Flagged insufficient | Yes |
-| Total pipeline latency | 10.89s |
+| Total pipeline latency | 4s |
 | Extracted filters | `commercial_name_en=SERAS`, `commercial_name_ar=السيراس` |
 
 36 raw matches came back from the hybrid search, but `early_responser` judged none of them a confident enough grounding for the specific question asked and returned the localized safe-fallback response instead of synthesizing an answer from weak matches — the same fail-closed posture used for image PII, applied to generation. The trace exposes the input to that decision (match count, extracted filters, per-stage timing) rather than only the final answer, which is what makes the refusal auditable instead of a silent black box.
