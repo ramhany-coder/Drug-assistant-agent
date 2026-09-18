@@ -135,8 +135,41 @@ def uploaded_image_to_data_uri(uploaded_file) -> str:
     return f"data:{mime};base64,{b64}"
 
 
+# Fixed, non-LLM copy shown when the pipeline flags the retrieved content as
+# insufficient (is_academic=True, no response text) -- asks the user for more
+# specifics instead of a bare "No response was generated."
+INSUFFICIENT_DATA_RESPONSES = {
+    "egyptian_arabic": (
+        "معنديش معلومات كافية عشان أجاوبك صح دلوقتي. ممكن تديني تفاصيل أكتر "
+        "زي الاسم التجاري أو العلمي بالظبط، أو الجرعة أو الشكل الصيدلاني، عشان أقدر أساعدك؟"
+    ),
+    "msa": (
+        "لا تتوفر لدي معلومات كافية للإجابة بدقة في الوقت الحالي. هل يمكنك تزويدي "
+        "بمزيد من التفاصيل، مثل الاسم التجاري أو العلمي الدقيق أو الجرعة أو الشكل الصيدلاني، "
+        "لمساعدتك بشكل أفضل؟"
+    ),
+    "arabizi": (
+        "Ma3andeesh ma3lomat kafya 3ashan aradd 3aleik bel-sa7 delwa2ty. Momken "
+        "tedeeny tafaseel aktar zay el-esm el-togary aw el-3elmy bel-zabt, aw el-gar3a "
+        "aw el-shakl, 3ashan a2dar asa3dak?"
+    ),
+    "english": (
+        "I don't have enough information to answer that accurately right now. Could "
+        "you share more details -- the exact brand or scientific name, dosage, or "
+        "form -- so I can help you better?"
+    ),
+}
+DEFAULT_INSUFFICIENT_DATA_RESPONSE = INSUFFICIENT_DATA_RESPONSES["english"]
+
+
 def get_user_facing_response(result: Dict[str, Any]) -> str:
-    return result.get("response") or "No response was generated."
+    response = result.get("response")
+    if response:
+        return response
+    if result.get("is_academic"):
+        language = (result.get("user_language") or "").lower()
+        return INSUFFICIENT_DATA_RESPONSES.get(language, DEFAULT_INSUFFICIENT_DATA_RESPONSE)
+    return "No response was generated."
 
 
 def is_flagged_result(result: Dict[str, Any]) -> bool:

@@ -16,16 +16,8 @@
     "product_count": 714
   },
   {
-    "component": "FOLIC ACID",
-    "product_count": 619
-  },
-  {
     "component": "MENTHOL",
     "product_count": 580
-  },
-  {
-    "component": "GLYCERIN",
-    "product_count": 577
   },
   {
     "component": "VITAMIN D3",
@@ -38,10 +30,6 @@
   {
     "component": "CALCIUM",
     "product_count": 422
-  },
-  {
-    "component": "VITAMIN B12",
-    "product_count": 421
   },
   {
     "component": "MAGNESIUM",
@@ -112,10 +100,6 @@
     "product_count": 232
   },
   {
-    "component": "HYDROCHLOROTHIAZIDE",
-    "product_count": 232
-  },
-  {
     "component": "SODIUM CHLORIDE",
     "product_count": 221
   },
@@ -146,10 +130,6 @@
   {
     "component": "VITAMIN B1",
     "product_count": 192
-  },
-  {
-    "component": "AMLODIPINE",
-    "product_count": 188
   },
   {
     "component": "B6",
@@ -268,14 +248,6 @@
     "product_count": 113
   },
   {
-    "component": "VALSARTAN",
-    "product_count": 112
-  },
-  {
-    "component": "LIDOCAINE",
-    "product_count": 111
-  },
-  {
     "component": "PROPOLIS",
     "product_count": 110
   },
@@ -300,10 +272,6 @@
     "product_count": 107
   },
   {
-    "component": "EZETIMIBE",
-    "product_count": 107
-  },
-  {
     "component": "VITAMIN B2",
     "product_count": 106
   },
@@ -324,10 +292,6 @@
     "product_count": 101
   },
   {
-    "component": "ATORVASTATIN",
-    "product_count": 101
-  },
-  {
     "component": "KERATIN",
     "product_count": 101
   },
@@ -345,10 +309,6 @@
   },
   {
     "component": "B12",
-    "product_count": 100
-  },
-  {
-    "component": "AZITHROMYCIN",
     "product_count": 100
   },
   {
@@ -384,10 +344,6 @@
     "product_count": 94
   },
   {
-    "component": "ESOMEPRAZOLE",
-    "product_count": 94
-  },
-  {
     "component": "POTASSIUM CHLORIDE",
     "product_count": 94
   },
@@ -412,10 +368,6 @@
     "product_count": 91
   },
   {
-    "component": "CEFTRIAXONE",
-    "product_count": 91
-  },
-  {
     "component": "BETAMETHASONE",
     "product_count": 90
   },
@@ -433,10 +385,6 @@
   },
   {
     "component": "PARAFFIN OIL",
-    "product_count": 83
-  },
-  {
-    "component": "LEVOFLOXACIN",
     "product_count": 83
   },
   {
@@ -460,15 +408,7 @@
     "product_count": 81
   },
   {
-    "component": "CIPROFLOXACIN",
-    "product_count": 81
-  },
-  {
     "component": "THYME OIL",
-    "product_count": 79
-  },
-  {
-    "component": "OMEPRAZOLE",
     "product_count": 79
   },
   {
@@ -528,14 +468,6 @@
     "product_count": 73
   },
   {
-    "component": "GENTAMICIN",
-    "product_count": 73
-  },
-  {
-    "component": "SIMVASTATIN",
-    "product_count": 73
-  },
-  {
     "component": "BEESWAX",
     "product_count": 73
   },
@@ -546,10 +478,6 @@
   {
     "component": "KETOPROFEN",
     "product_count": 72
-  },
-  {
-    "component": "NEOMYCIN",
-    "product_count": 71
   },
   {
     "component": "TRYPSIN",
@@ -568,10 +496,6 @@
     "product_count": 70
   },
   {
-    "component": "GABAPENTIN",
-    "product_count": 69
-  },
-  {
     "component": "NICOTINAMIDE",
     "product_count": 69
   },
@@ -580,27 +504,11 @@
     "product_count": 69
   },
   {
-    "component": "OLMESARTAN",
-    "product_count": 69
-  },
-  {
     "component": "MULTIVITAMINS",
     "product_count": 67
   },
   {
-    "component": "GLIMEPIRIDE",
-    "product_count": 67
-  },
-  {
-    "component": "METRONIDAZOLE",
-    "product_count": 67
-  },
-  {
     "component": "ETORICOXIB",
-    "product_count": 67
-  },
-  {
-    "component": "LEVETIRACETAM",
     "product_count": 67
   },
   {
@@ -652,10 +560,6 @@
     "product_count": 63
   },
   {
-    "component": "GUAIFENESIN",
-    "product_count": 62
-  },
-  {
     "component": "GELATIN (COLLAGEN) HYDROLYSATE",
     "product_count": 61
   },
@@ -676,10 +580,6 @@
     "product_count": 60
   },
   {
-    "component": "MOXIFLOXACIN",
-    "product_count": 59
-  },
-  {
     "component": "CYCLOPENTASILOXANE",
     "product_count": 59
   },
@@ -693,10 +593,6 @@
   },
   {
     "component": "GINKGO BILOBA",
-    "product_count": 57
-  },
-  {
-    "component": "MICONAZOLE",
     "product_count": 57
   },
   {
@@ -716,24 +612,12 @@
     "product_count": 56
   },
   {
-    "component": "SIMETHICONE",
-    "product_count": 55
-  },
-  {
     "component": "CALCIUM CHLORIDE",
     "product_count": 55
   },
   {
     "component": "TADALAFIL",
     "product_count": 54
-  },
-  {
-    "component": "SALBUTAMOL",
-    "product_count": 53
-  },
-  {
-    "component": "PIOGLITAZONE",
-    "product_count": 53
   },
   {
     "component": "BISOPROLOL FUMARATE",
@@ -745,10 +629,6 @@
   },
   {
     "component": "FOLATE",
-    "product_count": 52
-  },
-  {
-    "component": "PERINDOPRIL",
     "product_count": 52
   },
   {
@@ -768,14 +648,6 @@
     "product_count": 51
   },
   {
-    "component": "PANTOPRAZOLE",
-    "product_count": 51
-  },
-  {
-    "component": "MONTELUKAST",
-    "product_count": 51
-  },
-  {
     "component": "VITAMIN K2",
     "product_count": 51
   },
@@ -789,10 +661,6 @@
   },
   {
     "component": "CITICOLINE",
-    "product_count": 50
-  },
-  {
-    "component": "CEFOTAXIME",
     "product_count": 50
   },
   {
@@ -820,16 +688,8 @@
     "product_count": 48
   },
   {
-    "component": "RIVAROXABAN",
-    "product_count": 48
-  },
-  {
     "component": "SORBITOL",
     "product_count": 48
-  },
-  {
-    "component": "ACETYLCYSTEINE",
-    "product_count": 47
   },
   {
     "component": "GREEN TEA",
@@ -841,10 +701,6 @@
   },
   {
     "component": "VIT B6",
-    "product_count": 47
-  },
-  {
-    "component": "FLUCONAZOLE",
     "product_count": 47
   },
   {
@@ -876,10 +732,6 @@
     "product_count": 45
   },
   {
-    "component": "CLINDAMYCIN",
-    "product_count": 45
-  },
-  {
     "component": "CANDESARTAN CILEXETIL",
     "product_count": 45
   },
@@ -893,14 +745,6 @@
   },
   {
     "component": "ANISE",
-    "product_count": 44
-  },
-  {
-    "component": "FEXOFENADINE",
-    "product_count": 44
-  },
-  {
-    "component": "IRBESARTAN",
     "product_count": 44
   },
   {
@@ -932,16 +776,8 @@
     "product_count": 42
   },
   {
-    "component": "ONDANSETRON",
-    "product_count": 42
-  },
-  {
     "component": "B5",
     "product_count": 42
-  },
-  {
-    "component": "DEXTROMETHORPHAN",
-    "product_count": 41
   },
   {
     "component": "ALPHA LIPOIC ACID",
@@ -964,27 +800,11 @@
     "product_count": 41
   },
   {
-    "component": "VILDAGLIPTIN",
-    "product_count": 41
-  },
-  {
     "component": "BENFOTIAMINE",
     "product_count": 40
   },
   {
     "component": "FUSIDIC ACID",
-    "product_count": 40
-  },
-  {
-    "component": "FERROUS FUMARATE",
-    "product_count": 40
-  },
-  {
-    "component": "CLOTRIMAZOLE",
-    "product_count": 40
-  },
-  {
-    "component": "CEFADROXIL",
     "product_count": 40
   },
   {
@@ -1024,10 +844,6 @@
     "product_count": 38
   },
   {
-    "component": "LINAGLIPTIN",
-    "product_count": 38
-  },
-  {
     "component": "IVY LEAF EXTRACT",
     "product_count": 38
   },
@@ -1052,19 +868,11 @@
     "product_count": 37
   },
   {
-    "component": "LINEZOLID",
-    "product_count": 37
-  },
-  {
     "component": "PYRIDOXINE",
     "product_count": 36
   },
   {
     "component": "POTASSIUM",
-    "product_count": 36
-  },
-  {
-    "component": "CYANOCOBALAMIN",
     "product_count": 36
   },
   {
@@ -1084,15 +892,7 @@
     "product_count": 35
   },
   {
-    "component": "CLARITHROMYCIN",
-    "product_count": 35
-  },
-  {
     "component": "FLUCLOXACILLIN",
-    "product_count": 35
-  },
-  {
-    "component": "NYSTATIN",
     "product_count": 35
   },
   {
@@ -1104,15 +904,7 @@
     "product_count": 35
   },
   {
-    "component": "FAMOTIDINE",
-    "product_count": 35
-  },
-  {
     "component": "LYSINE",
-    "product_count": 35
-  },
-  {
-    "component": "TOBRAMYCIN",
     "product_count": 35
   },
   {
@@ -1148,10 +940,6 @@
     "product_count": 34
   },
   {
-    "component": "PACLITAXEL",
-    "product_count": 34
-  },
-  {
     "component": "CINNAMON OIL",
     "product_count": 34
   },
@@ -1161,14 +949,6 @@
   },
   {
     "component": "VITAMIN B5",
-    "product_count": 34
-  },
-  {
-    "component": "DOMPERIDONE",
-    "product_count": 34
-  },
-  {
-    "component": "FUROSEMIDE",
     "product_count": 34
   },
   {
@@ -1184,27 +964,7 @@
     "product_count": 33
   },
   {
-    "component": "CETIRIZINE",
-    "product_count": 33
-  },
-  {
-    "component": "CARBAMAZEPINE",
-    "product_count": 33
-  },
-  {
-    "component": "LORATADINE",
-    "product_count": 33
-  },
-  {
     "component": "GLUTATHIONE",
-    "product_count": 33
-  },
-  {
-    "component": "METOCLOPRAMIDE",
-    "product_count": 33
-  },
-  {
-    "component": "ATENOLOL",
     "product_count": 33
   },
   {
@@ -1214,14 +974,6 @@
   {
     "component": "SODIUM BENZOATE",
     "product_count": 33
-  },
-  {
-    "component": "TERBINAFINE",
-    "product_count": 33
-  },
-  {
-    "component": "ACYCLOVIR",
-    "product_count": 32
   },
   {
     "component": "SODIUM FLUORIDE",
@@ -1244,14 +996,6 @@
     "product_count": 32
   },
   {
-    "component": "AMBROXOL",
-    "product_count": 32
-  },
-  {
-    "component": "THEOPHYLLINE",
-    "product_count": 32
-  },
-  {
     "component": "SKIMMED MILK",
     "product_count": 32
   },
@@ -1268,15 +1012,7 @@
     "product_count": 32
   },
   {
-    "component": "CEFDINIR",
-    "product_count": 32
-  },
-  {
     "component": "VIT B1",
-    "product_count": 31
-  },
-  {
-    "component": "CHLORAMPHENICOL",
     "product_count": 31
   },
   {
@@ -1285,10 +1021,6 @@
   },
   {
     "component": "COLOSTRUM",
-    "product_count": 31
-  },
-  {
-    "component": "INDAPAMIDE",
     "product_count": 31
   },
   {
@@ -1309,14 +1041,6 @@
   },
   {
     "component": "PIRACETAM",
-    "product_count": 31
-  },
-  {
-    "component": "CEPHRADINE",
-    "product_count": 31
-  },
-  {
-    "component": "MANNITOL",
     "product_count": 31
   },
   {
@@ -1352,15 +1076,7 @@
     "product_count": 30
   },
   {
-    "component": "CARVEDILOL",
-    "product_count": 30
-  },
-  {
     "component": "HAEMODIALYSIS SOLUTION",
-    "product_count": 30
-  },
-  {
-    "component": "ALOGLIPTIN",
     "product_count": 30
   },
   {
@@ -1432,10 +1148,6 @@
     "product_count": 29
   },
   {
-    "component": "OFLOXACIN",
-    "product_count": 29
-  },
-  {
     "component": "MAGNESIUM HYDROXIDE",
     "product_count": 28
   },
@@ -1484,19 +1196,11 @@
     "product_count": 28
   },
   {
-    "component": "APIXABAN",
-    "product_count": 28
-  },
-  {
     "component": "MILK FORMULA STAGE 2",
     "product_count": 28
   },
   {
     "component": "TRIMETHOPRIM",
-    "product_count": 28
-  },
-  {
-    "component": "CEFEPIME",
     "product_count": 28
   },
   {
@@ -1560,18 +1264,6 @@
     "product_count": 27
   },
   {
-    "component": "SITAGLIPTIN",
-    "product_count": 27
-  },
-  {
-    "component": "CEFUROXIME",
-    "product_count": 27
-  },
-  {
-    "component": "MEBEVERINE",
-    "product_count": 27
-  },
-  {
     "component": "CARAWAY",
     "product_count": 26
   },
@@ -1605,14 +1297,6 @@
   },
   {
     "component": "GARCINIA CAMBOGIA",
-    "product_count": 26
-  },
-  {
-    "component": "CEFIXIME",
-    "product_count": 26
-  },
-  {
-    "component": "REPAGLINIDE",
     "product_count": 26
   },
   {
@@ -1652,10 +1336,6 @@
     "product_count": 25
   },
   {
-    "component": "TELMISARTAN",
-    "product_count": 25
-  },
-  {
     "component": "CALCIUM CITRATE",
     "product_count": 25
   },
@@ -1681,10 +1361,6 @@
   },
   {
     "component": "SULPHUR",
-    "product_count": 24
-  },
-  {
-    "component": "AMIKACIN",
     "product_count": 24
   },
   {
@@ -1716,32 +1392,12 @@
     "product_count": 24
   },
   {
-    "component": "TRANEXAMIC ACID",
-    "product_count": 24
-  },
-  {
-    "component": "SELENIUM SULFIDE",
-    "product_count": 24
-  },
-  {
-    "component": "TOPIRAMATE",
-    "product_count": 24
-  },
-  {
     "component": "SODIUM VALPROATE",
-    "product_count": 24
-  },
-  {
-    "component": "RIBAVIRIN",
     "product_count": 24
   },
   {
     "component": "SODIUM LACTATE",
     "product_count": 24
-  },
-  {
-    "component": "ENALAPRIL",
-    "product_count": 23
   },
   {
     "component": "ISOTRETINOIN",
@@ -1753,10 +1409,6 @@
   },
   {
     "component": "DHA",
-    "product_count": 23
-  },
-  {
-    "component": "SPIRONOLACTONE",
     "product_count": 23
   },
   {
@@ -1780,10 +1432,6 @@
     "product_count": 23
   },
   {
-    "component": "LACOSAMIDE",
-    "product_count": 23
-  },
-  {
     "component": "CETYL ALCOHOL",
     "product_count": 23
   },
@@ -1792,19 +1440,11 @@
     "product_count": 23
   },
   {
-    "component": "SILVER SULFADIAZINE",
-    "product_count": 23
-  },
-  {
     "component": "PROCAPIL",
     "product_count": 23
   },
   {
     "component": "PSYLLIUM HUSK POWDER",
-    "product_count": 23
-  },
-  {
-    "component": "PROGESTERONE",
     "product_count": 23
   },
   {
@@ -1832,10 +1472,6 @@
     "product_count": 22
   },
   {
-    "component": "CAPTOPRIL",
-    "product_count": 22
-  },
-  {
     "component": "HYDROQUINONE",
     "product_count": 22
   },
@@ -1857,10 +1493,6 @@
   },
   {
     "component": "DORZOLAMIDE",
-    "product_count": 22
-  },
-  {
-    "component": "LAMOTRIGINE",
     "product_count": 22
   },
   {
@@ -1893,10 +1525,6 @@
   },
   {
     "component": "BEE POLLEN",
-    "product_count": 21
-  },
-  {
-    "component": "IVABRADINE",
     "product_count": 21
   },
   {
@@ -1964,10 +1592,6 @@
     "product_count": 21
   },
   {
-    "component": "DOXAZOSIN",
-    "product_count": 21
-  },
-  {
     "component": "LUTEIN",
     "product_count": 21
   },
@@ -2004,10 +1628,6 @@
     "product_count": 20
   },
   {
-    "component": "BROMHEXINE",
-    "product_count": 20
-  },
-  {
     "component": "SILICON OIL",
     "product_count": 20
   },
@@ -2036,19 +1656,11 @@
     "product_count": 20
   },
   {
-    "component": "SPIRAMYCIN",
-    "product_count": 20
-  },
-  {
     "component": "HYPERTONIC SEAWATER",
     "product_count": 20
   },
   {
     "component": "DEXTROSE",
-    "product_count": 20
-  },
-  {
-    "component": "TAMSULOSIN",
     "product_count": 20
   },
   {
@@ -2068,23 +1680,11 @@
     "product_count": 20
   },
   {
-    "component": "PHENYTOIN",
-    "product_count": 20
-  },
-  {
     "component": "OLOPATADINE",
     "product_count": 20
   },
   {
-    "component": "LEVOTHYROXINE",
-    "product_count": 20
-  },
-  {
     "component": "LIPOSOMAL IRON",
-    "product_count": 20
-  },
-  {
-    "component": "LANSOPRAZOLE",
     "product_count": 20
   },
   {
@@ -2116,10 +1716,6 @@
     "product_count": 19
   },
   {
-    "component": "CEFACLOR",
-    "product_count": 19
-  },
-  {
     "component": "SAGE OIL",
     "product_count": 19
   },
@@ -2136,19 +1732,11 @@
     "product_count": 19
   },
   {
-    "component": "VERAPAMIL",
-    "product_count": 19
-  },
-  {
     "component": "ORLISTAT",
     "product_count": 19
   },
   {
     "component": "COLCHICINE",
-    "product_count": 19
-  },
-  {
-    "component": "KETOCONAZOLE",
     "product_count": 19
   },
   {
@@ -2192,15 +1780,7 @@
     "product_count": 18
   },
   {
-    "component": "ITRACONAZOLE",
-    "product_count": 18
-  },
-  {
     "component": "SODIUM CITRATE",
-    "product_count": 18
-  },
-  {
-    "component": "ENTECAVIR",
     "product_count": 18
   },
   {
@@ -2209,14 +1789,6 @@
   },
   {
     "component": "IVY EXTRACT",
-    "product_count": 18
-  },
-  {
-    "component": "CABERGOLINE",
-    "product_count": 18
-  },
-  {
-    "component": "CARBOPLATIN",
     "product_count": 18
   },
   {
@@ -2229,10 +1801,6 @@
   },
   {
     "component": "TINIDAZOLE",
-    "product_count": 18
-  },
-  {
-    "component": "GLICLAZIDE",
     "product_count": 18
   },
   {
@@ -2352,19 +1920,7 @@
     "product_count": 17
   },
   {
-    "component": "LACTULOSE",
-    "product_count": 17
-  },
-  {
     "component": "VANCOMYCIN",
-    "product_count": 17
-  },
-  {
-    "component": "GRANISETRON",
-    "product_count": 17
-  },
-  {
-    "component": "FELODIPINE",
     "product_count": 17
   },
   {
@@ -2384,10 +1940,6 @@
     "product_count": 16
   },
   {
-    "component": "CEFPODOXIME",
-    "product_count": 16
-  },
-  {
     "component": "CA",
     "product_count": 16
   },
@@ -2397,10 +1949,6 @@
   },
   {
     "component": "TILIA FLOWER",
-    "product_count": 16
-  },
-  {
-    "component": "MEROPENEM",
     "product_count": 16
   },
   {
@@ -2468,10 +2016,6 @@
     "product_count": 16
   },
   {
-    "component": "TRIMEBUTINE",
-    "product_count": 16
-  },
-  {
     "component": "NAPHAZOLINE",
     "product_count": 16
   },
@@ -2484,19 +2028,11 @@
     "product_count": 16
   },
   {
-    "component": "OXALIPLATIN",
-    "product_count": 16
-  },
-  {
     "component": "ERYTHROPOIETIN-ALPHA",
     "product_count": 16
   },
   {
     "component": "OMEGA-3 FISH OIL",
-    "product_count": 16
-  },
-  {
-    "component": "LISINOPRIL",
     "product_count": 16
   },
   {
@@ -2524,19 +2060,7 @@
     "product_count": 15
   },
   {
-    "component": "IPRATROPIUM BROMIDE",
-    "product_count": 15
-  },
-  {
     "component": "CU",
-    "product_count": 15
-  },
-  {
-    "component": "CLONAZEPAM",
-    "product_count": 15
-  },
-  {
-    "component": "OXCARBAZEPINE",
     "product_count": 15
   },
   {
@@ -2584,19 +2108,7 @@
     "product_count": 15
   },
   {
-    "component": "CISPLATIN",
-    "product_count": 15
-  },
-  {
     "component": "KHELLIN",
-    "product_count": 15
-  },
-  {
-    "component": "ECONAZOLE",
-    "product_count": 15
-  },
-  {
-    "component": "VALPROIC ACID",
     "product_count": 15
   },
   {
@@ -2620,27 +2132,11 @@
     "product_count": 15
   },
   {
-    "component": "DEXLANSOPRAZOLE",
-    "product_count": 15
-  },
-  {
-    "component": "FENOFIBRATE",
-    "product_count": 15
-  },
-  {
     "component": "CAVIAR",
     "product_count": 15
   },
   {
     "component": "VITAMIN B",
-    "product_count": 15
-  },
-  {
-    "component": "GATIFLOXACIN",
-    "product_count": 15
-  },
-  {
-    "component": "ISONIAZID",
     "product_count": 15
   },
   {
@@ -2660,23 +2156,11 @@
     "product_count": 14
   },
   {
-    "component": "DOXORUBICIN",
-    "product_count": 14
-  },
-  {
     "component": "GINKGO",
     "product_count": 14
   },
   {
     "component": "GARLIC",
-    "product_count": 14
-  },
-  {
-    "component": "CYTARABINE",
-    "product_count": 14
-  },
-  {
-    "component": "AMIODARONE",
     "product_count": 14
   },
   {
@@ -2688,19 +2172,11 @@
     "product_count": 14
   },
   {
-    "component": "DILTIAZEM",
-    "product_count": 14
-  },
-  {
     "component": "VIT B COMPLEX",
     "product_count": 14
   },
   {
     "component": "PANCREATIN",
-    "product_count": 14
-  },
-  {
-    "component": "DEFERASIROX",
     "product_count": 14
   },
   {
@@ -2729,10 +2205,6 @@
   },
   {
     "component": "SUNFLOWER OIL",
-    "product_count": 14
-  },
-  {
-    "component": "HYDROXOCOBALAMIN",
     "product_count": 14
   },
   {
@@ -2768,10 +2240,6 @@
     "product_count": 14
   },
   {
-    "component": "ISOSORBIDE DINITRATE",
-    "product_count": 14
-  },
-  {
     "component": "ERUCA OIL",
     "product_count": 14
   },
@@ -2780,19 +2248,11 @@
     "product_count": 14
   },
   {
-    "component": "SILODOSIN",
-    "product_count": 14
-  },
-  {
     "component": "ETHANOL",
     "product_count": 14
   },
   {
     "component": "CHLORIDE",
-    "product_count": 14
-  },
-  {
-    "component": "WARFARIN",
     "product_count": 14
   },
   {
@@ -2820,24 +2280,8 @@
     "product_count": 14
   },
   {
-    "component": "LENALIDOMIDE",
-    "product_count": 14
-  },
-  {
-    "component": "PITAVASTATIN",
-    "product_count": 14
-  },
-  {
-    "component": "SEMAGLUTIDE",
-    "product_count": 14
-  },
-  {
     "component": "STEVIOL GLYCOSIDES",
     "product_count": 14
-  },
-  {
-    "component": "BISACODYL",
-    "product_count": 13
   },
   {
     "component": "ADAPALENE",
@@ -2892,10 +2336,6 @@
     "product_count": 13
   },
   {
-    "component": "MESALAZINE(MESALAMINE)(5-ASA)(5-AMINOSALICYLIC ACID)",
-    "product_count": 13
-  },
-  {
     "component": "VASELINE",
     "product_count": 13
   },
@@ -2905,10 +2345,6 @@
   },
   {
     "component": "METHOCARBAMOL",
-    "product_count": 13
-  },
-  {
-    "component": "VORICONAZOLE",
     "product_count": 13
   },
   {
@@ -2952,10 +2388,6 @@
     "product_count": 13
   },
   {
-    "component": "DOCETAXEL",
-    "product_count": 13
-  },
-  {
     "component": "CHLORZOXAZONE",
     "product_count": 13
   },
@@ -2977,10 +2409,6 @@
   },
   {
     "component": "LH)",
-    "product_count": 13
-  },
-  {
-    "component": "EPIRUBICIN",
     "product_count": 13
   },
   {
@@ -3012,18 +2440,6 @@
     "product_count": 12
   },
   {
-    "component": "TERBUTALINE",
-    "product_count": 12
-  },
-  {
-    "component": "PALONOSETRON",
-    "product_count": 12
-  },
-  {
-    "component": "EPLERENONE",
-    "product_count": 12
-  },
-  {
     "component": "COCONUT",
     "product_count": 12
   },
@@ -3048,10 +2464,6 @@
     "product_count": 12
   },
   {
-    "component": "DOXYCYCLINE",
-    "product_count": 12
-  },
-  {
     "component": "ZOLMITRIPTAN",
     "product_count": 12
   },
@@ -3065,10 +2477,6 @@
   },
   {
     "component": "PRILOCAINE",
-    "product_count": 12
-  },
-  {
-    "component": "DESMOPRESSIN ACETATE",
     "product_count": 12
   },
   {
@@ -3100,10 +2508,6 @@
     "product_count": 12
   },
   {
-    "component": "BENZYL BENZOATE",
-    "product_count": 12
-  },
-  {
     "component": "FUCIDIC ACID",
     "product_count": 12
   },
@@ -3113,10 +2517,6 @@
   },
   {
     "component": "SERTACONAZOLE",
-    "product_count": 12
-  },
-  {
-    "component": "LOPERAMIDE",
     "product_count": 12
   },
   {
@@ -3152,19 +2552,11 @@
     "product_count": 12
   },
   {
-    "component": "LEVONORGESTREL",
-    "product_count": 12
-  },
-  {
     "component": "THYME LEAF EXTRACT",
     "product_count": 12
   },
   {
     "component": "ONION EXT.",
-    "product_count": 12
-  },
-  {
-    "component": "FINASTERIDE",
     "product_count": 12
   },
   {
@@ -3184,10 +2576,6 @@
     "product_count": 12
   },
   {
-    "component": "OXYTOCIN",
-    "product_count": 12
-  },
-  {
     "component": "LACTOBACILLUS ACIDOPHILUS",
     "product_count": 11
   },
@@ -3200,19 +2588,11 @@
     "product_count": 11
   },
   {
-    "component": "PERMETHRIN",
-    "product_count": 11
-  },
-  {
     "component": "A)",
     "product_count": 11
   },
   {
     "component": "HUMAN ALBUMIN",
-    "product_count": 11
-  },
-  {
-    "component": "ALBENDAZOLE",
     "product_count": 11
   },
   {
@@ -3300,14 +2680,6 @@
     "product_count": 11
   },
   {
-    "component": "MUPIROCIN",
-    "product_count": 11
-  },
-  {
-    "component": "XYLOMETAZOLINE",
-    "product_count": 11
-  },
-  {
     "component": "DESVENLAFAXINE",
     "product_count": 11
   },
@@ -3329,10 +2701,6 @@
   },
   {
     "component": "HYOSCINE",
-    "product_count": 11
-  },
-  {
-    "component": "IRINOTECAN",
     "product_count": 11
   },
   {
@@ -3368,14 +2736,6 @@
     "product_count": 11
   },
   {
-    "component": "NORFLOXACIN",
-    "product_count": 11
-  },
-  {
-    "component": "PRUCALOPRIDE",
-    "product_count": 11
-  },
-  {
     "component": "METHYLFOLATE",
     "product_count": 11
   },
@@ -3388,27 +2748,7 @@
     "product_count": 11
   },
   {
-    "component": "CANAGLIFLOZIN",
-    "product_count": 11
-  },
-  {
-    "component": "TERAZOSIN",
-    "product_count": 11
-  },
-  {
     "component": "NUTRITIVE POWDER FORMULA",
-    "product_count": 11
-  },
-  {
-    "component": "DIAZEPAM",
-    "product_count": 11
-  },
-  {
-    "component": "ESTRADIOL",
-    "product_count": 11
-  },
-  {
-    "component": "GEMCITABINE",
     "product_count": 11
   },
   {
@@ -3417,10 +2757,6 @@
   },
   {
     "component": "TRASTUZUMAB",
-    "product_count": 11
-  },
-  {
-    "component": "IVERMECTIN",
     "product_count": 11
   },
   {
@@ -3433,14 +2769,6 @@
   },
   {
     "component": "INSULIN GLARGINE",
-    "product_count": 10
-  },
-  {
-    "component": "BEVACIZUMAB",
-    "product_count": 10
-  },
-  {
-    "component": "FILGRASTIM",
     "product_count": 10
   },
   {
@@ -3484,19 +2812,11 @@
     "product_count": 10
   },
   {
-    "component": "ITOPRIDE",
-    "product_count": 10
-  },
-  {
     "component": "AMLA",
     "product_count": 10
   },
   {
     "component": "LEMON",
-    "product_count": 10
-  },
-  {
-    "component": "SECNIDAZOLE",
     "product_count": 10
   },
   {
@@ -3508,23 +2828,7 @@
     "product_count": 10
   },
   {
-    "component": "LUBIPROSTONE",
-    "product_count": 10
-  },
-  {
-    "component": "DACLATASVIR",
-    "product_count": 10
-  },
-  {
     "component": "CYANOCOBALAMINE",
-    "product_count": 10
-  },
-  {
-    "component": "MEBENDAZOLE",
-    "product_count": 10
-  },
-  {
-    "component": "FAVIPIRAVIR",
     "product_count": 10
   },
   {
@@ -3533,10 +2837,6 @@
   },
   {
     "component": "MIRTAZAPINE",
-    "product_count": 10
-  },
-  {
-    "component": "LETROZOLE",
     "product_count": 10
   },
   {
@@ -3620,10 +2920,6 @@
     "product_count": 10
   },
   {
-    "component": "IMATINIB",
-    "product_count": 10
-  },
-  {
     "component": "ENTACAPONE",
     "product_count": 10
   },
@@ -3664,19 +2960,7 @@
     "product_count": 10
   },
   {
-    "component": "STREPTOMYCIN",
-    "product_count": 10
-  },
-  {
-    "component": "ETOPOSIDE",
-    "product_count": 10
-  },
-  {
     "component": "ZINC SULFATE",
-    "product_count": 10
-  },
-  {
-    "component": "FLUBENDAZOLE",
     "product_count": 10
   },
   {
@@ -3700,23 +2984,11 @@
     "product_count": 9
   },
   {
-    "component": "ZOLEDRONIC ACID",
-    "product_count": 9
-  },
-  {
     "component": "RISEDRONATE SODIUM",
     "product_count": 9
   },
   {
     "component": "ADALIMUMAB",
-    "product_count": 9
-  },
-  {
-    "component": "NICORANDIL",
-    "product_count": 9
-  },
-  {
-    "component": "TETRACYCLINE",
     "product_count": 9
   },
   {
@@ -3828,15 +3100,7 @@
     "product_count": 9
   },
   {
-    "component": "CEFPROZIL",
-    "product_count": 9
-  },
-  {
     "component": "SILICON DIOXIDE",
-    "product_count": 9
-  },
-  {
-    "component": "TEMOZOLOMIDE",
     "product_count": 9
   },
   {
@@ -3884,10 +3148,6 @@
     "product_count": 9
   },
   {
-    "component": "NEOMYCIN SULPHATE",
-    "product_count": 9
-  },
-  {
     "component": "POLYMYXIN B SULPHATE",
     "product_count": 9
   },
@@ -3905,10 +3165,6 @@
   },
   {
     "component": "PROPOFOL",
-    "product_count": 9
-  },
-  {
-    "component": "DOCUSATE SODIUM",
     "product_count": 9
   },
   {
@@ -3969,10 +3225,6 @@
   },
   {
     "component": "OXYCODONE",
-    "product_count": 9
-  },
-  {
-    "component": "OXYTETRACYCLINE",
     "product_count": 9
   },
   {
@@ -4052,10 +3304,6 @@
     "product_count": 8
   },
   {
-    "component": "NEOSTIGMINE",
-    "product_count": 8
-  },
-  {
     "component": "CLOMIPRAMINE",
     "product_count": 8
   },
@@ -4121,10 +3369,6 @@
   },
   {
     "component": "OCTREOTIDE",
-    "product_count": 8
-  },
-  {
-    "component": "PRAZIQUANTEL",
     "product_count": 8
   },
   {
@@ -4216,10 +3460,6 @@
     "product_count": 8
   },
   {
-    "component": "DASATINIB",
-    "product_count": 8
-  },
-  {
     "component": "TOLVAPTAN",
     "product_count": 8
   },
@@ -4276,10 +3516,6 @@
     "product_count": 8
   },
   {
-    "component": "OSELTAMIVIR",
-    "product_count": 8
-  },
-  {
     "component": "ERDOSTEINE",
     "product_count": 8
   },
@@ -4296,15 +3532,7 @@
     "product_count": 8
   },
   {
-    "component": "TRIMETAZIDINE",
-    "product_count": 8
-  },
-  {
     "component": "FOLLITROPIN (RECOMBINANT FSH)",
-    "product_count": 8
-  },
-  {
-    "component": "SAXAGLIPTIN",
     "product_count": 8
   },
   {
@@ -4329,10 +3557,6 @@
   },
   {
     "component": "PENTAVITIN",
-    "product_count": 8
-  },
-  {
-    "component": "VINORELBINE",
     "product_count": 8
   },
   {
@@ -4384,10 +3608,6 @@
     "product_count": 7
   },
   {
-    "component": "METHYLDOPA",
-    "product_count": 7
-  },
-  {
     "component": "GLYCERYL MONOSTEARATE",
     "product_count": 7
   },
@@ -4408,23 +3628,11 @@
     "product_count": 7
   },
   {
-    "component": "EVEROLIMUS",
-    "product_count": 7
-  },
-  {
     "component": "SENNA",
     "product_count": 7
   },
   {
-    "component": "ALFUZOSIN",
-    "product_count": 7
-  },
-  {
     "component": "AMLA OIL",
-    "product_count": 7
-  },
-  {
-    "component": "PEMETREXED",
     "product_count": 7
   },
   {
@@ -4572,10 +3780,6 @@
     "product_count": 7
   },
   {
-    "component": "FOLIC ACID 400 MCG",
-    "product_count": 7
-  },
-  {
     "component": "CALCIUM DOBESILATE",
     "product_count": 7
   },
@@ -4664,23 +3868,11 @@
     "product_count": 7
   },
   {
-    "component": "VALACYCLOVIR",
-    "product_count": 7
-  },
-  {
-    "component": "NORETHISTERONE",
-    "product_count": 7
-  },
-  {
     "component": "CISATRACURIUM BESYLATE",
     "product_count": 7
   },
   {
     "component": "SAGE",
-    "product_count": 7
-  },
-  {
-    "component": "HEPARIN",
     "product_count": 7
   },
   {
@@ -4713,10 +3905,6 @@
   },
   {
     "component": "SODIUM SACCHARIN",
-    "product_count": 7
-  },
-  {
-    "component": "CYCLOPHOSPHAMIDE",
     "product_count": 7
   },
   {
@@ -4824,10 +4012,6 @@
     "product_count": 7
   },
   {
-    "component": "DIMETHYL FUMARATE",
-    "product_count": 7
-  },
-  {
     "component": "VIT K",
     "product_count": 7
   },
@@ -4860,10 +4044,6 @@
     "product_count": 7
   },
   {
-    "component": "PROPRANOLOL",
-    "product_count": 7
-  },
-  {
     "component": "TINZAPARIN SODIUM",
     "product_count": 7
   },
@@ -4877,14 +4057,6 @@
   },
   {
     "component": "LACTASE ENZYME",
-    "product_count": 7
-  },
-  {
-    "component": "LOMEFLOXACIN",
-    "product_count": 7
-  },
-  {
-    "component": "RITUXIMAB",
     "product_count": 7
   },
   {
@@ -4916,10 +4088,6 @@
     "product_count": 7
   },
   {
-    "component": "FLUOROURACIL",
-    "product_count": 6
-  },
-  {
     "component": "THYMUS EXTRACT",
     "product_count": 6
   },
@@ -4932,19 +4100,7 @@
     "product_count": 6
   },
   {
-    "component": "NIFEDIPINE",
-    "product_count": 6
-  },
-  {
-    "component": "AMANTADINE",
-    "product_count": 6
-  },
-  {
     "component": "ASCORBYL PALMITATE",
-    "product_count": 6
-  },
-  {
-    "component": "TIROFIBAN",
     "product_count": 6
   },
   {
@@ -5080,10 +4236,6 @@
     "product_count": 6
   },
   {
-    "component": "BECLOMETHASONE DIPROPIONATE",
-    "product_count": 6
-  },
-  {
     "component": "SLS",
     "product_count": 6
   },
@@ -5212,10 +4364,6 @@
     "product_count": 6
   },
   {
-    "component": "NITROFURANTOIN",
-    "product_count": 6
-  },
-  {
     "component": "HYDROLYZED MARINE COLLAGEN",
     "product_count": 6
   },
@@ -5280,10 +4428,6 @@
     "product_count": 6
   },
   {
-    "component": "DOBUTAMINE",
-    "product_count": 6
-  },
-  {
     "component": "PHENOBARBITAL",
     "product_count": 6
   },
@@ -5309,10 +4453,6 @@
   },
   {
     "component": "JOJOBA O",
-    "product_count": 6
-  },
-  {
-    "component": "GLIPIZIDE",
     "product_count": 6
   },
   {
@@ -5368,10 +4508,6 @@
     "product_count": 6
   },
   {
-    "component": "FOLLITROPIN ALFA",
-    "product_count": 6
-  },
-  {
     "component": "CAMOMILE EXTRACT",
     "product_count": 6
   },
@@ -5381,10 +4517,6 @@
   },
   {
     "component": "VIT(C",
-    "product_count": 6
-  },
-  {
-    "component": "HEPARIN SODIUM",
     "product_count": 6
   },
   {
@@ -5420,10 +4552,6 @@
     "product_count": 6
   },
   {
-    "component": "LINCOMYCIN",
-    "product_count": 6
-  },
-  {
     "component": "FLUMETHASONE",
     "product_count": 6
   },
@@ -5449,10 +4577,6 @@
   },
   {
     "component": "NEPAFENAC",
-    "product_count": 6
-  },
-  {
-    "component": "TAMOXIFEN",
     "product_count": 6
   },
   {
@@ -5485,10 +4609,6 @@
   },
   {
     "component": "TROSPIUM CHLORIDE",
-    "product_count": 6
-  },
-  {
-    "component": "SUNITINIB",
     "product_count": 6
   },
   {
@@ -5708,15 +4828,7 @@
     "product_count": 5
   },
   {
-    "component": "BORTEZOMIB",
-    "product_count": 5
-  },
-  {
     "component": "BORAGE SEED OIL",
-    "product_count": 5
-  },
-  {
-    "component": "BROMOCRIPTINE",
     "product_count": 5
   },
   {
@@ -5733,14 +4845,6 @@
   },
   {
     "component": "MECLOFENOXATE",
-    "product_count": 5
-  },
-  {
-    "component": "CASPOFUNGIN",
-    "product_count": 5
-  },
-  {
-    "component": "CAPECITABINE",
     "product_count": 5
   },
   {
@@ -5888,15 +4992,7 @@
     "product_count": 5
   },
   {
-    "component": "RASAGILINE",
-    "product_count": 5
-  },
-  {
     "component": "PYRIDOXINE HCL(VITAMIN B6)",
-    "product_count": 5
-  },
-  {
-    "component": "STREPTOKINASE",
     "product_count": 5
   },
   {
@@ -5936,10 +5032,6 @@
     "product_count": 5
   },
   {
-    "component": "ETHAMBUTOL",
-    "product_count": 5
-  },
-  {
     "component": "ARNICA EXTRACT",
     "product_count": 5
   },
@@ -5969,14 +5061,6 @@
   },
   {
     "component": "CARAWAY SEED",
-    "product_count": 5
-  },
-  {
-    "component": "FERROUS SULPHATE",
-    "product_count": 5
-  },
-  {
-    "component": "FOLIC ACID 400MCG",
     "product_count": 5
   },
   {
@@ -6044,10 +5128,6 @@
     "product_count": 5
   },
   {
-    "component": "IFOSFAMIDE",
-    "product_count": 5
-  },
-  {
     "component": "HORSETAIL",
     "product_count": 5
   },
@@ -6093,10 +5173,6 @@
   },
   {
     "component": "VITAMINE E",
-    "product_count": 5
-  },
-  {
-    "component": "LEVAMISOLE",
     "product_count": 5
   },
   {
@@ -6188,15 +5264,7 @@
     "product_count": 5
   },
   {
-    "component": "PYRAZINAMIDE",
-    "product_count": 5
-  },
-  {
     "component": "SPARFLOXACIN",
-    "product_count": 5
-  },
-  {
-    "component": "TIGECYCLINE",
     "product_count": 5
   },
   {
@@ -6216,19 +5284,11 @@
     "product_count": 5
   },
   {
-    "component": "DICYCLOMINE",
-    "product_count": 5
-  },
-  {
     "component": "STAVUDINE",
     "product_count": 5
   },
   {
     "component": "METHYLPREDNISOLONE",
-    "product_count": 5
-  },
-  {
-    "component": "VINCRISTINE",
     "product_count": 5
   },
   {
@@ -6324,10 +5384,6 @@
     "product_count": 4
   },
   {
-    "component": "VITAMIN B12 1000MCG",
-    "product_count": 4
-  },
-  {
     "component": "P",
     "product_count": 4
   },
@@ -6361,10 +5417,6 @@
   },
   {
     "component": "LINSEED OIL",
-    "product_count": 4
-  },
-  {
-    "component": "TESTOSTERONE",
     "product_count": 4
   },
   {
@@ -6512,10 +5564,6 @@
     "product_count": 4
   },
   {
-    "component": "BICALUTAMIDE",
-    "product_count": 4
-  },
-  {
     "component": "APRICOT KERNEL OIL",
     "product_count": 4
   },
@@ -6568,10 +5616,6 @@
     "product_count": 4
   },
   {
-    "component": "CARBETOCIN",
-    "product_count": 4
-  },
-  {
     "component": "HORSE TAIL EXTRACT",
     "product_count": 4
   },
@@ -6580,19 +5624,11 @@
     "product_count": 4
   },
   {
-    "component": "VALSARTAN 160MG",
-    "product_count": 4
-  },
-  {
     "component": "VITAL HAIR & SCALP COMPLEX",
     "product_count": 4
   },
   {
     "component": "WITCH HAZEL",
-    "product_count": 4
-  },
-  {
-    "component": "BOSENTAN",
     "product_count": 4
   },
   {
@@ -6605,10 +5641,6 @@
   },
   {
     "component": "MODAFINIL",
-    "product_count": 4
-  },
-  {
-    "component": "UROFOLLITROPIN",
     "product_count": 4
   },
   {
@@ -6644,10 +5676,6 @@
     "product_count": 4
   },
   {
-    "component": "BUMETANIDE",
-    "product_count": 4
-  },
-  {
     "component": "SAGE EXTRACT",
     "product_count": 4
   },
@@ -6673,10 +5701,6 @@
   },
   {
     "component": "DIFLUCORTOLONE VALERATE",
-    "product_count": 4
-  },
-  {
-    "component": "CARBIMAZOLE",
     "product_count": 4
   },
   {
@@ -6708,10 +5732,6 @@
     "product_count": 4
   },
   {
-    "component": "FERROUS",
-    "product_count": 4
-  },
-  {
     "component": "DARK HONEY",
     "product_count": 4
   },
@@ -6737,10 +5757,6 @@
   },
   {
     "component": "ADEFOVIR",
-    "product_count": 4
-  },
-  {
-    "component": "CLOMIPHENE",
     "product_count": 4
   },
   {
@@ -6789,10 +5805,6 @@
   },
   {
     "component": "PARA-AMINOBENZOIC ACID",
-    "product_count": 4
-  },
-  {
-    "component": "GANCICLOVIR",
     "product_count": 4
   },
   {
@@ -6884,15 +5896,7 @@
     "product_count": 4
   },
   {
-    "component": "DOPAMINE",
-    "product_count": 4
-  },
-  {
     "component": "MELASLOW",
-    "product_count": 4
-  },
-  {
-    "component": "FAMCICLOVIR",
     "product_count": 4
   },
   {
@@ -6916,10 +5920,6 @@
     "product_count": 4
   },
   {
-    "component": "TOPOTECAN",
-    "product_count": 4
-  },
-  {
     "component": "MOMETASON",
     "product_count": 4
   },
@@ -6937,10 +5937,6 @@
   },
   {
     "component": "EPERISONE",
-    "product_count": 4
-  },
-  {
-    "component": "PIRFENIDONE",
     "product_count": 4
   },
   {
@@ -7072,10 +6068,6 @@
     "product_count": 4
   },
   {
-    "component": "GRISEOFULVIN",
-    "product_count": 4
-  },
-  {
     "component": "HEXOPRENALINE",
     "product_count": 4
   },
@@ -7085,10 +6077,6 @@
   },
   {
     "component": "HONY",
-    "product_count": 4
-  },
-  {
-    "component": "EMICIZUMAB",
     "product_count": 4
   },
   {
@@ -7109,10 +6097,6 @@
   },
   {
     "component": "MG CITRATE",
-    "product_count": 4
-  },
-  {
-    "component": "VITAMIN B12 1000 MCG",
     "product_count": 4
   },
   {
@@ -7224,10 +6208,6 @@
     "product_count": 4
   },
   {
-    "component": "MESNA",
-    "product_count": 4
-  },
-  {
     "component": "NANO ZINC OXIDE",
     "product_count": 4
   },
@@ -7320,10 +6300,6 @@
     "product_count": 4
   },
   {
-    "component": "CEFOXITIN",
-    "product_count": 4
-  },
-  {
     "component": "SAFINAMIDE",
     "product_count": 4
   },
@@ -7360,23 +6336,11 @@
     "product_count": 4
   },
   {
-    "component": "TEICOPLANIN",
-    "product_count": 4
-  },
-  {
     "component": "PIPOXOLAN",
     "product_count": 4
   },
   {
-    "component": "ROXITHROMYCIN",
-    "product_count": 4
-  },
-  {
     "component": "SOLUBLE COLLAGEN",
-    "product_count": 4
-  },
-  {
-    "component": "LIRAGLUTIDE",
     "product_count": 4
   },
   {
@@ -7424,19 +6388,11 @@
     "product_count": 4
   },
   {
-    "component": "THIAMPHENICOL",
-    "product_count": 4
-  },
-  {
     "component": "L-CARNITIN",
     "product_count": 4
   },
   {
     "component": "IOPROMIDE",
-    "product_count": 4
-  },
-  {
-    "component": "ABEMACICLIB",
     "product_count": 4
   },
   {
@@ -7616,10 +6572,6 @@
     "product_count": 3
   },
   {
-    "component": "COLESEVELAM",
-    "product_count": 3
-  },
-  {
     "component": "PELARGONIUM ROOT DRY EXTRACT",
     "product_count": 3
   },
@@ -7644,19 +6596,11 @@
     "product_count": 3
   },
   {
-    "component": "APREPITANT",
-    "product_count": 3
-  },
-  {
     "component": "CARDAMOM",
     "product_count": 3
   },
   {
     "component": "ARGININE ASPARTATE",
-    "product_count": 3
-  },
-  {
-    "component": "HYDRALAZINE",
     "product_count": 3
   },
   {
@@ -7732,10 +6676,6 @@
     "product_count": 3
   },
   {
-    "component": "AZTREONAM",
-    "product_count": 3
-  },
-  {
     "component": "LAUROCAPRAM",
     "product_count": 3
   },
@@ -7800,10 +6740,6 @@
     "product_count": 3
   },
   {
-    "component": "BLEOMYCIN",
-    "product_count": 3
-  },
-  {
     "component": "TETRYZOLINE",
     "product_count": 3
   },
@@ -7825,10 +6761,6 @@
   },
   {
     "component": "BOSUTINIB",
-    "product_count": 3
-  },
-  {
-    "component": "FERROUS SULFATE",
     "product_count": 3
   },
   {
@@ -7973,10 +6905,6 @@
   },
   {
     "component": "PEG-40",
-    "product_count": 3
-  },
-  {
-    "component": "CHOLESTYRAMINE",
     "product_count": 3
   },
   {
@@ -8137,10 +7065,6 @@
   },
   {
     "component": "K1",
-    "product_count": 3
-  },
-  {
-    "component": "DANAZOL",
     "product_count": 3
   },
   {
@@ -8324,10 +7248,6 @@
     "product_count": 3
   },
   {
-    "component": "AMBRISENTAN",
-    "product_count": 3
-  },
-  {
     "component": "MULTIVITAMIN & MINERALS",
     "product_count": 3
   },
@@ -8384,10 +7304,6 @@
     "product_count": 3
   },
   {
-    "component": "FLUDARABINE",
-    "product_count": 3
-  },
-  {
     "component": "ROXADUSTAT",
     "product_count": 3
   },
@@ -8409,10 +7325,6 @@
   },
   {
     "component": "AFLIBERCEPT",
-    "product_count": 3
-  },
-  {
-    "component": "FULVESTRANT",
     "product_count": 3
   },
   {
@@ -8453,14 +7365,6 @@
   },
   {
     "component": "FERRIC PYROPHOSPHATE",
-    "product_count": 3
-  },
-  {
-    "component": "IRON (FERROUS FUMARATE)",
-    "product_count": 3
-  },
-  {
-    "component": "FINGOLIMOD",
     "product_count": 3
   },
   {
@@ -8660,10 +7564,6 @@
     "product_count": 3
   },
   {
-    "component": "NATAMYCIN",
-    "product_count": 3
-  },
-  {
     "component": "INSULIN LISPRO PROTAMINE",
     "product_count": 3
   },
@@ -8836,10 +7736,6 @@
     "product_count": 3
   },
   {
-    "component": "ERLOTINIB",
-    "product_count": 3
-  },
-  {
     "component": "EURCA OIL",
     "product_count": 3
   },
@@ -8901,10 +7797,6 @@
   },
   {
     "component": "EPOETIN BETA",
-    "product_count": 3
-  },
-  {
-    "component": "MITOXANTRONE",
     "product_count": 3
   },
   {
@@ -8972,15 +7864,7 @@
     "product_count": 3
   },
   {
-    "component": "SORAFENIB",
-    "product_count": 3
-  },
-  {
     "component": "IXAZOMIB",
-    "product_count": 3
-  },
-  {
-    "component": "PROPAFENONE",
     "product_count": 3
   },
   {
@@ -9085,10 +7969,6 @@
   },
   {
     "component": "DIASTASE",
-    "product_count": 3
-  },
-  {
-    "component": "PERTUZUMAB",
     "product_count": 3
   },
   {
@@ -9280,10 +8160,6 @@
     "product_count": 3
   },
   {
-    "component": "TENOFOVIR ALAFENAMIDE",
-    "product_count": 3
-  },
-  {
     "component": "TRANDOLAPRIL",
     "product_count": 3
   },
@@ -9341,10 +8217,6 @@
   },
   {
     "component": "ZIPRASIDONE",
-    "product_count": 3
-  },
-  {
-    "component": "CEFAZOLIN",
     "product_count": 3
   },
   {
@@ -9688,10 +8560,6 @@
     "product_count": 2
   },
   {
-    "component": "AMINOPHYLLINE",
-    "product_count": 2
-  },
-  {
     "component": "ALPHA KETO ANALOG OF(L-ISOLEUCINE",
     "product_count": 2
   },
@@ -9725,10 +8593,6 @@
   },
   {
     "component": "NILUTAMIDE",
-    "product_count": 2
-  },
-  {
-    "component": "FLUTAMIDE",
     "product_count": 2
   },
   {
@@ -9829,10 +8693,6 @@
   },
   {
     "component": "ASPARAGINASE(L-ASPARAGINASE)",
-    "product_count": 2
-  },
-  {
-    "component": "FLUDROCORTISONE",
     "product_count": 2
   },
   {
@@ -9965,10 +8825,6 @@
   },
   {
     "component": "AQUA.",
-    "product_count": 2
-  },
-  {
-    "component": "AZACITIDINE",
     "product_count": 2
   },
   {
@@ -10124,18 +8980,6 @@
     "product_count": 2
   },
   {
-    "component": "AMLODIPINE 5MG",
-    "product_count": 2
-  },
-  {
-    "component": "HYDROCHLOROTHIAZIDE 25MG",
-    "product_count": 2
-  },
-  {
-    "component": "AMLODIPINE 10MG",
-    "product_count": 2
-  },
-  {
     "component": "CALCIUM 400 MG",
     "product_count": 2
   },
@@ -10264,10 +9108,6 @@
     "product_count": 2
   },
   {
-    "component": "EXENATIDE",
-    "product_count": 2
-  },
-  {
     "component": "PENTOXYVERINE",
     "product_count": 2
   },
@@ -10277,10 +9117,6 @@
   },
   {
     "component": "VITAMIN D2",
-    "product_count": 2
-  },
-  {
-    "component": "HEPARIN CALCIUM",
     "product_count": 2
   },
   {
@@ -10412,10 +9248,6 @@
     "product_count": 2
   },
   {
-    "component": "CLONIDINE HYDROCHLORIDE",
-    "product_count": 2
-  },
-  {
     "component": "MYRESTIC ACID",
     "product_count": 2
   },
@@ -10529,10 +9361,6 @@
   },
   {
     "component": "DERMA WHITE COMPLEX",
-    "product_count": 2
-  },
-  {
-    "component": "LIGNOCAINE",
     "product_count": 2
   },
   {
@@ -10781,10 +9609,6 @@
   },
   {
     "component": "VITAMIN C 250 MG",
-    "product_count": 2
-  },
-  {
-    "component": "DAUNORUBICIN",
     "product_count": 2
   },
   {
@@ -11136,19 +9960,11 @@
     "product_count": 2
   },
   {
-    "component": "ERTAPENEM",
-    "product_count": 2
-  },
-  {
     "component": "CAMPHOR3%",
     "product_count": 2
   },
   {
     "component": "TURMERIC 4%",
-    "product_count": 2
-  },
-  {
-    "component": "ETHOSUXIMIDE",
     "product_count": 2
   },
   {
@@ -11205,10 +10021,6 @@
   },
   {
     "component": "SENEGA EXTRACT",
-    "product_count": 2
-  },
-  {
-    "component": "LIDOCAINE HCL",
     "product_count": 2
   },
   {
@@ -11404,10 +10216,6 @@
     "product_count": 2
   },
   {
-    "component": "FOSFOMYCIN",
-    "product_count": 2
-  },
-  {
     "component": "TYROSTAT 11",
     "product_count": 2
   },
@@ -11464,10 +10272,6 @@
     "product_count": 2
   },
   {
-    "component": "PEGFILGRASTIM",
-    "product_count": 2
-  },
-  {
     "component": "CHLORPHENESIN",
     "product_count": 2
   },
@@ -11481,10 +10285,6 @@
   },
   {
     "component": "HYALUORONIC ACID",
-    "product_count": 2
-  },
-  {
-    "component": "GEFITINIB",
     "product_count": 2
   },
   {
@@ -11541,10 +10341,6 @@
   },
   {
     "component": "PAPAVERINE",
-    "product_count": 2
-  },
-  {
-    "component": "ACARBOSE",
     "product_count": 2
   },
   {
@@ -11824,10 +10620,6 @@
     "product_count": 2
   },
   {
-    "component": "IBRUTINIB",
-    "product_count": 2
-  },
-  {
     "component": "DURVALUMAB",
     "product_count": 2
   },
@@ -11873,10 +10665,6 @@
   },
   {
     "component": "OATMEAL",
-    "product_count": 2
-  },
-  {
-    "component": "ECONAZOLE NITRATE",
     "product_count": 2
   },
   {
@@ -12096,10 +10884,6 @@
     "product_count": 2
   },
   {
-    "component": "RIBOCICLIB",
-    "product_count": 2
-  },
-  {
     "component": "KIWI",
     "product_count": 2
   },
@@ -12252,10 +11036,6 @@
     "product_count": 2
   },
   {
-    "component": "CLADRIBINE",
-    "product_count": 2
-  },
-  {
     "component": "LITHIUM CARBONATE",
     "product_count": 2
   },
@@ -12392,10 +11172,6 @@
     "product_count": 2
   },
   {
-    "component": "FERROUS FUMARATE(IRON)",
-    "product_count": 2
-  },
-  {
     "component": "VITAMINS(B12",
     "product_count": 2
   },
@@ -12409,10 +11185,6 @@
   },
   {
     "component": "VITAMINA",
-    "product_count": 2
-  },
-  {
-    "component": "V",
     "product_count": 2
   },
   {
@@ -12465,10 +11237,6 @@
   },
   {
     "component": "VITAMIN D3 400 IU",
-    "product_count": 2
-  },
-  {
-    "component": "VITAMIN B12 6 MCG",
     "product_count": 2
   },
   {
@@ -12636,10 +11404,6 @@
     "product_count": 2
   },
   {
-    "component": "FOLIC ACID 200MCG",
-    "product_count": 2
-  },
-  {
     "component": "MYOLEPTIN CLA(CONJUGATED LINOLEIC ACID)",
     "product_count": 2
   },
@@ -12720,10 +11484,6 @@
     "product_count": 2
   },
   {
-    "component": "NICLOSAMIDE",
-    "product_count": 2
-  },
-  {
     "component": "NIFLUMIC ACID",
     "product_count": 2
   },
@@ -12776,19 +11536,11 @@
     "product_count": 2
   },
   {
-    "component": "POSACONAZOLE",
-    "product_count": 2
-  },
-  {
     "component": "ROMIPLOSTIM",
     "product_count": 2
   },
   {
     "component": "CYTIDINE",
-    "product_count": 2
-  },
-  {
-    "component": "VITAMIN B12 2.4MCG",
     "product_count": 2
   },
   {
@@ -12869,10 +11621,6 @@
   },
   {
     "component": "OMEGA-3 FISH OIL 500 MG",
-    "product_count": 2
-  },
-  {
-    "component": "NIVOLUMAB",
     "product_count": 2
   },
   {
@@ -13092,14 +11840,6 @@
     "product_count": 2
   },
   {
-    "component": "DENOSUMAB",
-    "product_count": 2
-  },
-  {
-    "component": "PROPYLTHIOURACIL",
-    "product_count": 2
-  },
-  {
     "component": "PANTHE",
     "product_count": 2
   },
@@ -13305,10 +12045,6 @@
   },
   {
     "component": "ASCORBYL PALMITATE(VITAMIN C)",
-    "product_count": 2
-  },
-  {
-    "component": "MESALAZINE",
     "product_count": 2
   },
   {
@@ -13576,10 +12312,6 @@
     "product_count": 2
   },
   {
-    "component": "BERACTANT",
-    "product_count": 2
-  },
-  {
     "component": "GLYCYRRHIZA GLABRA",
     "product_count": 2
   },
@@ -13605,10 +12337,6 @@
   },
   {
     "component": "IMIDAPRIL",
-    "product_count": 2
-  },
-  {
-    "component": "NILOTINIB",
     "product_count": 2
   },
   {
@@ -13685,10 +12413,6 @@
   },
   {
     "component": "BENZOPHENONE 3",
-    "product_count": 2
-  },
-  {
-    "component": "DULAGLUTIDE",
     "product_count": 2
   },
   {
@@ -13864,14 +12588,6 @@
     "product_count": 2
   },
   {
-    "component": "CEFTAROLINE FOSAMIL",
-    "product_count": 2
-  },
-  {
-    "component": "GOSERELIN",
-    "product_count": 2
-  },
-  {
     "component": "VITAMIN C 1 GM",
     "product_count": 1
   },
@@ -13929,10 +12645,6 @@
   },
   {
     "component": "L-ASCORBIC ACID (VITAMIN C)",
-    "product_count": 1
-  },
-  {
-    "component": "ACETYLCYSTEINE 300MG",
     "product_count": 1
   },
   {
@@ -14344,14 +13056,6 @@
     "product_count": 1
   },
   {
-    "component": "FOLIC ACID 500MCG",
-    "product_count": 1
-  },
-  {
-    "component": "MELPHALAN",
-    "product_count": 1
-  },
-  {
     "component": "BRIGHAM TEA",
     "product_count": 1
   },
@@ -14672,15 +13376,7 @@
     "product_count": 1
   },
   {
-    "component": "FOLIC ACID (1333 MCG)",
-    "product_count": 1
-  },
-  {
     "component": "BIOTIN (50 MCG)",
-    "product_count": 1
-  },
-  {
-    "component": "CYANOCOBALAMIN (50 MCG)/ 15 ML",
     "product_count": 1
   },
   {
@@ -14697,10 +13393,6 @@
   },
   {
     "component": "ECALUPTUS",
-    "product_count": 1
-  },
-  {
-    "component": "MEFLOQUINE",
     "product_count": 1
   },
   {
@@ -14729,10 +13421,6 @@
   },
   {
     "component": "VITAMIN B6 (4.11 MG)",
-    "product_count": 1
-  },
-  {
-    "component": "VITAMIN B12 ( 15 MCG )",
     "product_count": 1
   },
   {
@@ -14820,10 +13508,6 @@
     "product_count": 1
   },
   {
-    "component": "VITAMIN B12 16.666 MCG",
-    "product_count": 1
-  },
-  {
     "component": "CHAMOMIL EXT.",
     "product_count": 1
   },
@@ -14853,10 +13537,6 @@
   },
   {
     "component": "DEHYDRATED ALCOHOL",
-    "product_count": 1
-  },
-  {
-    "component": "EXEMESTANE",
     "product_count": 1
   },
   {
@@ -14916,10 +13596,6 @@
     "product_count": 1
   },
   {
-    "component": "IPRATROPIUM BROMIDE 20MCG",
-    "product_count": 1
-  },
-  {
     "component": "FENOTEROL HYDROBROMIDE 50MCG",
     "product_count": 1
   },
@@ -14937,10 +13613,6 @@
   },
   {
     "component": "LACTOFERRIN 200 MG",
-    "product_count": 1
-  },
-  {
-    "component": "FOLIC ACID 200 MCG",
     "product_count": 1
   },
   {
@@ -15049,10 +13721,6 @@
   },
   {
     "component": "LYCOPENE 600 MCG",
-    "product_count": 1
-  },
-  {
-    "component": "FOLIC ACID 600 MCG",
     "product_count": 1
   },
   {
@@ -15444,19 +14112,11 @@
     "product_count": 1
   },
   {
-    "component": "VITAMIN B12(METHYLCOBALAMIN) 1MG",
-    "product_count": 1
-  },
-  {
     "component": "ACETYL L CARNITIN",
     "product_count": 1
   },
   {
     "component": "VITAMIN B9( FOLATE)",
-    "product_count": 1
-  },
-  {
-    "component": "VITAMIN B12(METHYLCOBALAMIN)",
     "product_count": 1
   },
   {
@@ -15788,10 +14448,6 @@
     "product_count": 1
   },
   {
-    "component": "HYDROCHLOROTHIAZIDE  12.5MG",
-    "product_count": 1
-  },
-  {
     "component": "HYDROCHLOROTHIAZIDE12.5MG",
     "product_count": 1
   },
@@ -16021,10 +14677,6 @@
   },
   {
     "component": "AGAR EXTRACT",
-    "product_count": 1
-  },
-  {
-    "component": "BROMHEXINE HCL",
     "product_count": 1
   },
   {
@@ -17644,10 +16296,6 @@
     "product_count": 1
   },
   {
-    "component": "DACARBAZINE",
-    "product_count": 1
-  },
-  {
     "component": "DECITABINE",
     "product_count": 1
   },
@@ -17725,10 +16373,6 @@
   },
   {
     "component": "DAPTOMYCIN",
-    "product_count": 1
-  },
-  {
-    "component": "PYRIMETHAMINE",
     "product_count": 1
   },
   {
@@ -17993,10 +16637,6 @@
   },
   {
     "component": "NANDROLONE",
-    "product_count": 1
-  },
-  {
-    "component": "FOLIC ACID 1333MCG",
     "product_count": 1
   },
   {
@@ -18608,10 +17248,6 @@
     "product_count": 1
   },
   {
-    "component": "CEFADROXIL MONOHYDRATE",
-    "product_count": 1
-  },
-  {
     "component": "BASIL LEAVES",
     "product_count": 1
   },
@@ -18709,10 +17345,6 @@
   },
   {
     "component": "F)",
-    "product_count": 1
-  },
-  {
-    "component": "ANIDULAFUNGIN",
     "product_count": 1
   },
   {
@@ -19136,10 +17768,6 @@
     "product_count": 1
   },
   {
-    "component": "CETUXIMAB",
-    "product_count": 1
-  },
-  {
     "component": "APALUTAMIDE",
     "product_count": 1
   },
@@ -19524,10 +18152,6 @@
     "product_count": 1
   },
   {
-    "component": "FERROUS FUMARATE 14MG",
-    "product_count": 1
-  },
-  {
     "component": "LYSINE 80 MG",
     "product_count": 1
   },
@@ -19541,10 +18165,6 @@
   },
   {
     "component": "IRON 10 MG",
-    "product_count": 1
-  },
-  {
-    "component": "FOLIC ACID 0.5 MG",
     "product_count": 1
   },
   {
@@ -19936,18 +18556,6 @@
     "product_count": 1
   },
   {
-    "component": "FOLIC ACID ( VITAMIN B9 )",
-    "product_count": 1
-  },
-  {
-    "component": "VITAMIN B12( AS METHYLCOBLINE) 1000 MCG",
-    "product_count": 1
-  },
-  {
-    "component": "VITAMIN B12 (1000 MCG)",
-    "product_count": 1
-  },
-  {
     "component": "ACTIVE FOLIC ACID (5-METHYLTETRAHYDROFOLATE) (1000 MCG DFE)",
     "product_count": 1
   },
@@ -20284,10 +18892,6 @@
     "product_count": 1
   },
   {
-    "component": "FOLIC ACID (B9)",
-    "product_count": 1
-  },
-  {
     "component": "GALLAMINE TRIETHIODIDE",
     "product_count": 1
   },
@@ -20321,14 +18925,6 @@
   },
   {
     "component": "TRICLOASN",
-    "product_count": 1
-  },
-  {
-    "component": "GABAPENTIN 300MG",
-    "product_count": 1
-  },
-  {
-    "component": "GABAPENTIN 600 MG",
     "product_count": 1
   },
   {
@@ -20724,14 +19320,6 @@
     "product_count": 1
   },
   {
-    "component": "AZITHROMYCIN 500MG",
-    "product_count": 1
-  },
-  {
-    "component": "GLUCAGON",
-    "product_count": 1
-  },
-  {
     "component": "DIPROPHYLLINE",
     "product_count": 1
   },
@@ -21056,10 +19644,6 @@
     "product_count": 1
   },
   {
-    "component": "VITAMIN B12 300MCG",
-    "product_count": 1
-  },
-  {
     "component": "PLASMA SUBISTITUTE",
     "product_count": 1
   },
@@ -21220,10 +19804,6 @@
     "product_count": 1
   },
   {
-    "component": "TRANEXAMIC ACID 5%",
-    "product_count": 1
-  },
-  {
     "component": "LIQUIRITIN APIOSIDE",
     "product_count": 1
   },
@@ -21321,10 +19901,6 @@
   },
   {
     "component": "VITAMIN B1  3  6",
-    "product_count": 1
-  },
-  {
-    "component": "VITAMIN (B12",
     "product_count": 1
   },
   {
@@ -21504,10 +20080,6 @@
     "product_count": 1
   },
   {
-    "component": "FOLIC ACID 800 MCG",
-    "product_count": 1
-  },
-  {
     "component": "VIT B6 20MG",
     "product_count": 1
   },
@@ -21621,10 +20193,6 @@
   },
   {
     "component": "VIT B 6 50 MG",
-    "product_count": 1
-  },
-  {
-    "component": "FOLIC ACID 400 MG",
     "product_count": 1
   },
   {
@@ -21905,10 +20473,6 @@
   },
   {
     "component": "VITAMIN D3 25 MCG",
-    "product_count": 1
-  },
-  {
-    "component": "VITAMIN B12 25 MCG",
     "product_count": 1
   },
   {
@@ -22348,10 +20912,6 @@
     "product_count": 1
   },
   {
-    "component": "FOLIC ACID 1000MCG",
-    "product_count": 1
-  },
-  {
     "component": "VITAMIN B1 4.5MG",
     "product_count": 1
   },
@@ -22457,10 +21017,6 @@
   },
   {
     "component": "NA BENZOAT",
-    "product_count": 1
-  },
-  {
-    "component": "IRON SUCROSE",
     "product_count": 1
   },
   {
@@ -23052,10 +21608,6 @@
     "product_count": 1
   },
   {
-    "component": "GLYCERIN.",
-    "product_count": 1
-  },
-  {
     "component": "D-RIBOSE",
     "product_count": 1
   },
@@ -23173,10 +21725,6 @@
   },
   {
     "component": "FOS",
-    "product_count": 1
-  },
-  {
-    "component": "LACOSAMIDE 50 MG",
     "product_count": 1
   },
   {
@@ -23500,10 +22048,6 @@
     "product_count": 1
   },
   {
-    "component": "CHLORAMBUCIL",
-    "product_count": 1
-  },
-  {
     "component": "HYDROLYSED TYPE 2 COLLAGEN",
     "product_count": 1
   },
@@ -23657,10 +22201,6 @@
   },
   {
     "component": "DEXTROMETHORPHANE",
-    "product_count": 1
-  },
-  {
-    "component": "FENOFIBRATE(NANOCRYSTAL TECHNOLOGY)",
     "product_count": 1
   },
   {
@@ -23880,10 +22420,6 @@
     "product_count": 1
   },
   {
-    "component": "VITAMIN B12  0.5 MCG",
-    "product_count": 1
-  },
-  {
     "component": "VITAMIN B6 0.04 MG",
     "product_count": 1
   },
@@ -23896,10 +22432,6 @@
     "product_count": 1
   },
   {
-    "component": "FOLIC ACID  5  MCG",
-    "product_count": 1
-  },
-  {
     "component": "D BIOTIN",
     "product_count": 1
   },
@@ -23909,14 +22441,6 @@
   },
   {
     "component": "VITAMIN B6 (PYRIDOXINE)6 MG",
-    "product_count": 1
-  },
-  {
-    "component": "VITAMIN B12 (METHYL COBALAMIN) 1000 MCG",
-    "product_count": 1
-  },
-  {
-    "component": "VITAMIN B9 (FOLIC ACID) 400 MCG",
     "product_count": 1
   },
   {
@@ -24528,10 +23052,6 @@
     "product_count": 1
   },
   {
-    "component": "FOLIC ACID (METHYL FOLAT)",
-    "product_count": 1
-  },
-  {
     "component": "GLUCOSAMIN 500MG",
     "product_count": 1
   },
@@ -24605,10 +23125,6 @@
   },
   {
     "component": "CEFDITOREN",
-    "product_count": 1
-  },
-  {
-    "component": "FOLIC ACID 0.4 MG",
     "product_count": 1
   },
   {
@@ -24808,10 +23324,6 @@
     "product_count": 1
   },
   {
-    "component": "VIT B9 (FOLIC ACID)",
-    "product_count": 1
-  },
-  {
     "component": "CHOLORHEXDIENE",
     "product_count": 1
   },
@@ -24829,10 +23341,6 @@
   },
   {
     "component": "VITAMIN B6 1.5GM",
-    "product_count": 1
-  },
-  {
-    "component": "VITAMIN B12(METHYLOCOBALAMIN)1000MCG",
     "product_count": 1
   },
   {
@@ -25045,10 +23553,6 @@
   },
   {
     "component": "BETASITOSTEROL-PANTHENOL-CHLORHEXIDINE-PROPOLIS- ALOE VERA",
-    "product_count": 1
-  },
-  {
-    "component": "FOLIC ACID 340MG",
     "product_count": 1
   },
   {
@@ -25384,10 +23888,6 @@
     "product_count": 1
   },
   {
-    "component": "VITAMIN B12 (10 MCG)",
-    "product_count": 1
-  },
-  {
     "component": "VITAMIN D3 (400 IU)",
     "product_count": 1
   },
@@ -25445,10 +23945,6 @@
   },
   {
     "component": "COMPLEX OF COPPER-ZINC-MANGANESE MICRO-NUTRIENTS",
-    "product_count": 1
-  },
-  {
-    "component": "MICAFUNGIN",
     "product_count": 1
   },
   {
@@ -25545,10 +24041,6 @@
   },
   {
     "component": "VITAMIN B6 1.711MG",
-    "product_count": 1
-  },
-  {
-    "component": "VITAMIN B12 150MCG",
     "product_count": 1
   },
   {
@@ -25720,10 +24212,6 @@
     "product_count": 1
   },
   {
-    "component": "VITAMIN B12 100MCG",
-    "product_count": 1
-  },
-  {
     "component": "VITAMIN B6 25 MG",
     "product_count": 1
   },
@@ -25765,10 +24253,6 @@
   },
   {
     "component": "SELENIUM 60MCG",
-    "product_count": 1
-  },
-  {
-    "component": "VITAMIN B12 10MCG",
     "product_count": 1
   },
   {
@@ -25864,10 +24348,6 @@
     "product_count": 1
   },
   {
-    "component": "VITAMIN B12 500MCG",
-    "product_count": 1
-  },
-  {
     "component": "VITAMIN D3 25MCG",
     "product_count": 1
   },
@@ -25904,10 +24384,6 @@
     "product_count": 1
   },
   {
-    "component": "VITAMIN B12 (500 MCG)",
-    "product_count": 1
-  },
-  {
     "component": "VITAMIN D3 (1000 IU) (25MCG)",
     "product_count": 1
   },
@@ -25936,10 +24412,6 @@
     "product_count": 1
   },
   {
-    "component": "VITAMIN B12 1500 MCG",
-    "product_count": 1
-  },
-  {
     "component": "VITAMIN B6 1 MG",
     "product_count": 1
   },
@@ -25957,10 +24429,6 @@
   },
   {
     "component": "METHYLCOBALAMIN VIT B12 VITAMIN D3",
-    "product_count": 1
-  },
-  {
-    "component": "METHYL COBALAMIN (VITAMIN B12)",
     "product_count": 1
   },
   {
@@ -26304,10 +24772,6 @@
     "product_count": 1
   },
   {
-    "component": "FOLIC ACID 1360 MCG",
-    "product_count": 1
-  },
-  {
     "component": "BIOTIN 30MCG",
     "product_count": 1
   },
@@ -26441,10 +24905,6 @@
   },
   {
     "component": "ZINC OXIDE(NANO PARTICLES)",
-    "product_count": 1
-  },
-  {
-    "component": "SIMEPREVIR",
     "product_count": 1
   },
   {
@@ -26609,10 +25069,6 @@
   },
   {
     "component": "ISONONIL ISONONATE",
-    "product_count": 1
-  },
-  {
-    "component": "MACITENTAN",
     "product_count": 1
   },
   {
@@ -27064,14 +25520,6 @@
     "product_count": 1
   },
   {
-    "component": "PANTOPRAZOLE 20 MG",
-    "product_count": 1
-  },
-  {
-    "component": "PANTOPRAZOLE 40 MG",
-    "product_count": 1
-  },
-  {
     "component": "PANTHENOL 7%",
     "product_count": 1
   },
@@ -27461,10 +25909,6 @@
   },
   {
     "component": "SODIUM ACID PHOSPHATE",
-    "product_count": 1
-  },
-  {
-    "component": "AMPHOTERICIN B",
     "product_count": 1
   },
   {
@@ -28152,10 +26596,6 @@
     "product_count": 1
   },
   {
-    "component": "MERCAPTOPURINE",
-    "product_count": 1
-  },
-  {
     "component": "BORATE",
     "product_count": 1
   },
@@ -28252,10 +26692,6 @@
     "product_count": 1
   },
   {
-    "component": "VITAMIN B9 (FOLIC ACID)",
-    "product_count": 1
-  },
-  {
     "component": "4.5BILLION CFU OF (BB-12 (BIFIDOBACTERIUM ANIMALIS SUBSP. LACTIS)- LA-5 (LACTOBACILLUS ACIDOPHILUS)- LBY-27 (LACTOBACILLUS DELBRUECKII) -STY-31 (STREPTOCOCCUS THERMOPHILUS) )",
     "product_count": 1
   },
@@ -28305,10 +26741,6 @@
   },
   {
     "component": "B6 5MG",
-    "product_count": 1
-  },
-  {
-    "component": "FOLIC ACID 800MCG",
     "product_count": 1
   },
   {
@@ -28524,10 +26956,6 @@
     "product_count": 1
   },
   {
-    "component": "FOLIC ACID (DFE) 400 MCG",
-    "product_count": 1
-  },
-  {
     "component": "VITAMIN B 12 0.375MCG",
     "product_count": 1
   },
@@ -28705,10 +27133,6 @@
   },
   {
     "component": "VITAMIN B COMPLEX (VITAMIN B1",
-    "product_count": 1
-  },
-  {
-    "component": "VITAMIN B12 )",
     "product_count": 1
   },
   {
@@ -29336,10 +27760,6 @@
     "product_count": 1
   },
   {
-    "component": "IRON(FERROUS FUMARATE)",
-    "product_count": 1
-  },
-  {
     "component": "VITAMINS (B12",
     "product_count": 1
   },
@@ -29517,10 +27937,6 @@
   },
   {
     "component": "ALPHA LIPOIC AACID",
-    "product_count": 1
-  },
-  {
-    "component": "VITAMIN B12 ( METHYLCOBALAMINE)",
     "product_count": 1
   },
   {
@@ -29860,10 +28276,6 @@
     "product_count": 1
   },
   {
-    "component": "SIMETHICONE)",
-    "product_count": 1
-  },
-  {
     "component": "ANTIOXIDANTSTOCOPHEROL",
     "product_count": 1
   },
@@ -30016,10 +28428,6 @@
     "product_count": 1
   },
   {
-    "component": "FOLIC ACID 400MG",
-    "product_count": 1
-  },
-  {
     "component": "CHELATED IRON 35 MG",
     "product_count": 1
   },
@@ -30145,14 +28553,6 @@
   },
   {
     "component": "MANGANESE 2.5 MG",
-    "product_count": 1
-  },
-  {
-    "component": "FOLIC ACID 500 MCG",
-    "product_count": 1
-  },
-  {
-    "component": "VITAMIN B12 100 MCG",
     "product_count": 1
   },
   {
@@ -30781,10 +29181,6 @@
   },
   {
     "component": "TITANUM DIOXIDE",
-    "product_count": 1
-  },
-  {
-    "component": "GLYCERIN .",
     "product_count": 1
   },
   {
@@ -31944,10 +30340,6 @@
     "product_count": 1
   },
   {
-    "component": "LAPATINIB",
-    "product_count": 1
-  },
-  {
     "component": "IVY LEAF EXTRACT 95 MG",
     "product_count": 1
   },
@@ -32044,15 +30436,7 @@
     "product_count": 1
   },
   {
-    "component": "FOLIC ACID (680 MCG DFE) 400MCG",
-    "product_count": 1
-  },
-  {
     "component": "VITAMIN D3 (200 IU) 5MCG",
-    "product_count": 1
-  },
-  {
-    "component": "VITAMIN B12 2.5MCG",
     "product_count": 1
   },
   {
@@ -32125,10 +30509,6 @@
   },
   {
     "component": "METHYL COBALAMIN 1000 MCG",
-    "product_count": 1
-  },
-  {
-    "component": "FOLIC ACID 588 MCG(FOLATE 1000 MCG DFE)",
     "product_count": 1
   },
   {
@@ -32232,10 +30612,6 @@
     "product_count": 1
   },
   {
-    "component": "FOLIC ACID 170MCG",
-    "product_count": 1
-  },
-  {
     "component": "ALPHA LIPOIC ACID  PYRIDOXINE HCL    VITAMIN B12    BENFOTIAMINE    CHOLECALCIFEROL",
     "product_count": 1
   },
@@ -32313,10 +30689,6 @@
   },
   {
     "component": "NATRIANCE BRIGHTENER",
-    "product_count": 1
-  },
-  {
-    "component": "VALGANCICLOVIR",
     "product_count": 1
   },
   {
@@ -33100,15 +31472,7 @@
     "product_count": 1
   },
   {
-    "component": "VITAMIN B12. 8 MCG",
-    "product_count": 1
-  },
-  {
     "component": "DHE(OMEGA3)",
-    "product_count": 1
-  },
-  {
-    "component": "VITAMIN B12(1000)",
     "product_count": 1
   },
   {
@@ -33352,10 +31716,6 @@
     "product_count": 1
   },
   {
-    "component": "OMALIZUMAB",
-    "product_count": 1
-  },
-  {
     "component": "ENZALUTAMIDE",
     "product_count": 1
   },
@@ -33481,10 +31841,6 @@
   },
   {
     "component": "METHYLCOBALAMIN (VIT. B12) 1000 MCG",
-    "product_count": 1
-  },
-  {
-    "component": "FOLIC ACID (VIT. B9) 400 MCG",
     "product_count": 1
   },
   {
@@ -33657,10 +32013,6 @@
   },
   {
     "component": "WILLOW BARK EXTRACT",
-    "product_count": 1
-  },
-  {
-    "component": "ESOMEPRAZOLE 40 MG",
     "product_count": 1
   },
   {

@@ -1,8 +1,6 @@
-from typing import Annotated, Dict, List, Optional
+from typing import Dict, List, Optional
 
 from typing_extensions import TypedDict
-
-from langgraph.graph.message import add_messages
 
 
 class State(TypedDict):
@@ -24,7 +22,7 @@ class State(TypedDict):
     route: Optional[str]
     price_egp: Optional[str]
     is_academic: Optional[bool]
-    chat_hist: Annotated[list, add_messages]
+    chat_hist: Optional[List[dict]]
     context: Optional[List[dict]]
     compound_mappings: Optional[List[dict]]
     response: Optional[str]
