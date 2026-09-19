@@ -339,10 +339,10 @@ with st.sidebar:
     st.markdown("### Suggested demo prompts")
     st.markdown(
         """
-- عايز حاجة للصداع تحت 20 جنيه
 - 3ayez a3raf se3r Panadol Extra
-- What is the price of Cataflam?
-- هل يوجد بديل لدواء النيكسيوم بنفس المادة الفعالة؟
+- الشركة المصنعة للسيرباس ؟
+- what is the drug interactions of ISOCID
+- eh hya el atc bta3 el Xylometazoline
         """
     )
 
