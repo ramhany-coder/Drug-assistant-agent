@@ -11,6 +11,7 @@ from agents.meta_data_fiter.agent.meta_data_filter import meta_data_filter
 from agents.compound_mapper.compound_mapper import compound_mapper
 from agents.retreivale.agent import retrieve_academic
 from agents.early_responser.early_responser import early_responser
+from agents.product_cards.product_cards import product_cards
 
 from api.graph_builder import GraphBuilder
 
@@ -37,6 +38,8 @@ def _normalize_state(state: Dict[str, Any]) -> Dict[str, Any]:
             "price_egp": state.get("price_egp"),
         },
         "context": state.get("context", []),
+        "match_count": state.get("match_count"),
+        "cards": state.get("cards", []),
         "compound_mappings": state.get("compound_mappings", []),
         "response": state.get("response"),
         "is_academic": state.get("is_academic", False),
@@ -110,6 +113,7 @@ def default_agent_map() -> Dict[str, Any]:
         "compound_mapper": _timed("compound_mapper", compound_mapper),
         "retrieve_academic": _timed("retrieve_academic", retrieve_academic),
         "early_responser": _timed("early_responser", early_responser),
+        "product_cards": _timed("product_cards", product_cards),
     }
 
 
@@ -127,8 +131,9 @@ def run_pipeline(
     chat_hist: Optional[List[Any]] = None,
     image: Optional[str] = None,
 ) -> Dict[str, Any]:
-    """Runs the compiled graph: translator -> extractor -> filter -> responder, or,
-    when `image` is given, image_describer -> query_merger first (see
+    """Runs the compiled graph: translator -> extractor -> filter -> responder (or
+    product_cards, with no LLM, for a non-academic query with at most 10 matches),
+    or, when `image` is given, image_describer -> query_merger first (see
     GraphBuilder.build). `image` is a data URI ("data:image/jpeg;base64,...") or a
     plain URL the vision model can fetch; `query` doubles as the photo's caption.
 

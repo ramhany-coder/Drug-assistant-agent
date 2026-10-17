@@ -97,20 +97,22 @@ flowchart TD
     MERGE -->|unreadable / ambiguous| REJECT[Clarification Response]
     MERGE -->|merged ok| EXTRACT
 
-    EXTRACT -->|scientific_name extracted directly| COMPOUND[Compound Mapper]
-    EXTRACT -->|no direct scientific_name| FILTER[Catalogue Filter - hybrid search]
+    EXTRACT -->|academic + scientific_name extracted directly| COMPOUND[Compound Mapper]
+    EXTRACT -->|otherwise| FILTER[Catalogue Filter - hybrid search]
 
-    FILTER -->|matches found| COMPOUND
-    FILTER -->|no matches| RESPOND[Response Synthesis - LLM]
+    FILTER -->|academic query| COMPOUND
+    FILTER -->|no matches, or more than 10| RESPOND[Response Synthesis - LLM]
+    FILTER -->|not academic, 10 or fewer| CARDS[Product Cards - no LLM]
 
     COMPOUND --> ACADEMIC[Academic Monograph Retrieval]
     ACADEMIC --> RESPOND
 
     REJECT --> DONE([Final Response])
     RESPOND --> DONE
+    CARDS --> DONE
 ```
 
-This graph is built with **LangGraph** (`api/graph_builder.py: GraphBuilder.build`) over a typed `TypedDict` `State` (`models/state.py`) shared by every node — conditional edges decide the route at three separate points (entry, post-translation, post-extraction) based only on what the state already contains.
+This graph is built with **LangGraph** (`api/graph_builder.py: GraphBuilder.build`) over a typed `TypedDict` `State` (`models/state.py`) shared by every node — conditional edges decide the route at four separate points (entry, post-translation, post-extraction, post-filter) based only on what the state already contains. The LLM responder is optional: `meta_data_extractor` flags a query `is_academic` when answering needs facts the catalogue fields can't hold (dose, interactions, side effects, ...); a non-academic query with 10 or fewer matches ends on `product_cards` (a templated intro in the user's language plus one card per product) without any LLM call.
 
 ### Agent Reference
 
@@ -120,11 +122,12 @@ This graph is built with **LangGraph** (`api/graph_builder.py: GraphBuilder.buil
 | `image_pii` | `agents/image_pii` | Presidio-based OCR + NER image redaction, fail-closed |
 | `image_describer` | `agents/image_describer` | Vision-LLM structured description of the redacted photo (package / blister / bottle / prescription / shelf / other) |
 | `query_merger` | `agents/query_merger` | Fuses the image description with any caption into one search query, or routes to a localized clarification response |
-| `meta_data_extractor` | `agents/meta_data_fiter/query_extractor` | Extracts structured catalogue filters from the English query |
-| `meta_data_filter` | `agents/meta_data_fiter/agent` | Two-stage hybrid search over the commercial catalogue |
+| `meta_data_extractor` | `agents/meta_data_fiter/query_extractor` | Extracts structured catalogue filters from the English query, plus `is_academic`: whether answering needs academic (monograph) data |
+| `meta_data_filter` | `agents/meta_data_fiter/agent` | Two-stage hybrid search over the commercial catalogue; reports `match_count` before the 10-row cap |
 | `compound_mapper` | `agents/compound_mapper` | Dict-lookup resolution of ingredient strings to academic `generic_name`s (build-time artefact, no LLM) |
 | `retrieve_academic` | `agents/retreivale` | Attaches each resolved compound to its academic monograph |
 | `early_responser` | `agents/early_responser` | Grounded, catalogue-cited answer synthesis in the user's own language, using `chat_hist` to resolve what a follow-up query refers to |
+| `product_cards` | `agents/product_cards` | No-LLM ending for a non-academic query with 10 or fewer matches: templated intro + one card per matched product, re-ranked most to least relevant to the extracted filters (price order kept for "cheapest"/"most expensive") |
 
 ---
 
@@ -144,7 +147,8 @@ This graph is built with **LangGraph** (`api/graph_builder.py: GraphBuilder.buil
 │   │   └── engine_registry.py    # process-wide cached engine, content-hash keyed
 │   ├── compound_mapper/          # runtime dict-lookup + normalization + build artefacts
 │   ├── retreivale/                # academic monograph attachment
-│   └── early_responser/           # grounded answer synthesis
+│   ├── early_responser/           # grounded answer synthesis
+│   └── product_cards/             # no-LLM ending: templated intro + product cards
 ├── llm/
 │   ├── llm_models.py               # multi-provider chat model factory
 │   ├── fallback.py                  # FallBack router (plain + constrained/structured invoke)
@@ -259,6 +263,7 @@ Then hit `GET /health` or `POST /api/pipeline/run` with a JSON body of `{"query"
 | `POST` | `/api/map_compounds` | Runs `compound_mapper` standalone |
 | `POST` | `/api/retrieve_academic` | Runs `retrieve_academic` standalone |
 | `POST` | `/api/respond` | Runs `early_responser` standalone |
+| `POST` | `/api/cards` | Runs `product_cards` standalone |
 | `POST` | `/api/pipeline/run` | Runs the full compiled graph end to end; returns the final state plus per-stage and total latency |
 
 Every full-pipeline failure raises a structured error carrying **which** stage failed, how long it ran before failing, the latencies of every stage that completed before it, and the partial state — surfaced as an HTTP 500 with full diagnostic detail rather than a bare stack trace (`api/workflow.py: PipelineStageError`).
@@ -308,7 +313,9 @@ pytest -v
 | `tests/test_build_compound_map.py` | The offline exact/parenthetical/fuzzy-review matching cascade |
 | `tests/test_compound_map.py` / `test_compound_mapper_node.py` | Runtime dict-lookup behavior of the `compound_mapper` node |
 | `tests/test_retrieve_academic.py` | Academic monograph attachment onto existing commercial context |
-| `tests/test_meta_data_filter.py` | End-to-end filter behavior (route/price hard filters, multi-field OR matching) |
+| `tests/test_meta_data_filter.py` | End-to-end filter behavior (route/price hard filters, multi-field OR matching, pre-cap `match_count`) |
+| `tests/test_graph_routing.py` | Graph routing with stubbed agents: academic path, >10-match responder path, no-LLM product-cards path |
+| `tests/test_product_cards.py` | Card fields and the localized templated intro of the `product_cards` node |
 | `tests/test_image_pii.py` | Fail-closed behavior of the image redaction node |
 
 GitHub Actions (`.github/workflows/ci.yml`) runs the full suite on every push/PR to `master`: installs dependencies, copies `.env.example` to `.env` so CI exercises the same default configuration a fresh clone would.

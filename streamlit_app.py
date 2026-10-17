@@ -178,6 +178,30 @@ def is_flagged_result(result: Dict[str, Any]) -> bool:
     return bool(result.get("is_academic")) and not result.get("response")
 
 
+def format_price(price: Any) -> str:
+    if price is None:
+        return "N/A"
+    if isinstance(price, (int, float)):
+        return f"{price:g} EGP"
+    return f"{price} EGP"
+
+
+def render_product_cards(cards: List[Dict[str, Any]]):
+    """Product cards for a turn the pipeline ended without the LLM responder
+    (product_cards node): one bordered tile per matched catalogue row."""
+    columns = st.columns(2)
+    for i, card in enumerate(cards):
+        with columns[i % 2].container(border=True):
+            st.markdown(f"**{card.get('commercial_name_en') or card.get('commercial_name_ar') or 'Unnamed product'}**")
+            if card.get("commercial_name_ar"):
+                st.caption(card["commercial_name_ar"])
+            st.metric("Price", format_price(card.get("price_egp")))
+            if card.get("scientific_name"):
+                st.caption(f"Active ingredients: {card['scientific_name']}")
+            details = [card.get("manufacturer"), card.get("drug_class"), card.get("route")]
+            st.caption(" · ".join(d for d in details if d))
+
+
 def stream_words(text: str, delay: float = 0.02):
     """Yield text word-by-word so st.write_stream can render a typing effect."""
     words = text.split(" ")
@@ -209,6 +233,8 @@ def render_chat_message(message: Dict[str, Any], streaming: bool = False):
             st.write(message["content"])
 
         result = message.get("result")
+        if result and result.get("cards"):
+            render_product_cards(result["cards"])
         if result:
             with st.expander("Details & developer trace"):
                 render_result_metadata(result)
@@ -458,6 +484,8 @@ with tab_chat:
             # Streamed outside the spinner so the typing effect is visible.
             st.write_stream(stream_words(response))
 
+            if result and result.get("cards"):
+                render_product_cards(result["cards"])
             if result:
                 with st.expander("Details & developer trace"):
                     render_result_metadata(result)

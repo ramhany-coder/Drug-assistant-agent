@@ -24,6 +24,8 @@ class State(TypedDict):
     is_academic: Optional[bool]
     chat_hist: Optional[List[dict]]
     context: Optional[List[dict]]
+    match_count: Optional[int]
+    cards: Optional[List[dict]]
     compound_mappings: Optional[List[dict]]
     response: Optional[str]
     native_response: Optional[str]

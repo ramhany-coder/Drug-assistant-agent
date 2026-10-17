@@ -171,3 +171,11 @@ def test_context_capped_at_max_items(monkeypatch):
 
     result = meta_data_filter({"scientific_name": "BULKINGREDIENT"})
     assert len(result["context"]) == meta_data_filter_module.MAX_CONTEXT_ITEMS
+    # match_count is taken before the cap, so the graph can tell a capped result
+    # (responder) apart from one that fits in the cards (product_cards).
+    assert result["match_count"] > meta_data_filter_module.MAX_CONTEXT_ITEMS
+
+
+def test_match_count_equals_context_size_under_the_cap():
+    result = meta_data_filter({"scientific_name": "vitamin d3"})
+    assert result["match_count"] == len(result["context"])

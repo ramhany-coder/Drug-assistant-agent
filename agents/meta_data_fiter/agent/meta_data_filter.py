@@ -12,7 +12,11 @@ MAX_CONTEXT_ITEMS = 10
 # search engine only needs to search within it; the same behaviour is achieved
 # cheaply here by pulling more candidates per field and filtering afterwards,
 # rather than rebuilding a BM25 index over an arbitrary per-request subset.
-_SEARCH_TOP_K = MAX_CONTEXT_ITEMS
+# Without a hard filter, one candidate more than the cap is still pulled, so
+# match_count can tell "exactly MAX_CONTEXT_ITEMS matched" apart from "more than
+# that matched" -- the graph shows the first as product cards and hands the
+# second to the responder (see GraphBuilder.build).
+_SEARCH_TOP_K = MAX_CONTEXT_ITEMS + 1
 _SEARCH_TOP_K_WITH_HARD_FILTER = MAX_CONTEXT_ITEMS * 3
 
 TEXT_FIELDS = (
@@ -86,4 +90,5 @@ def meta_data_filter(state):
         matched_records = with_price + without_price
 
     # Cap what gets forwarded to the responder so a broad match can't overflow the LLM's context window.
-    return {"context": matched_records[:MAX_CONTEXT_ITEMS]}
+    # match_count is taken before the cap -- it's what the graph routes on.
+    return {"context": matched_records[:MAX_CONTEXT_ITEMS], "match_count": len(matched_records)}

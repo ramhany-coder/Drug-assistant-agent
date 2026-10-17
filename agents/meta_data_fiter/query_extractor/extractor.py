@@ -23,4 +23,5 @@ def meta_data_extractor (state : State):
         "drug_class" : result["drug_class"],
         "route" : result["route"],
         "price_egp" : result["price_egp"],
+        "is_academic" : result["is_academic"],
     }

@@ -9,3 +9,4 @@ class extractor_model (BaseModel):
     drug_class : str | None = None
     route : str | None = None
     price_egp : str | None = None
+    is_academic : bool = False

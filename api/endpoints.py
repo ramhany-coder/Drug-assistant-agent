@@ -11,6 +11,7 @@ from agents.meta_data_fiter.agent.meta_data_filter import meta_data_filter
 from agents.compound_mapper.compound_mapper import compound_mapper
 from agents.retreivale.agent import retrieve_academic
 from agents.early_responser.early_responser import early_responser
+from agents.product_cards.product_cards import product_cards
 from api.workflow import run_pipeline, PipelineStageError
 
 router = APIRouter()
@@ -72,6 +73,7 @@ class ExtractResponse(BaseModel):
     drug_class: Optional[str] = None
     route: Optional[str] = None
     price_egp: Optional[str] = None
+    is_academic: bool = False
     latency_seconds: float
 
 
@@ -94,6 +96,7 @@ class FilterRequest(BaseModel):
 
 class FilterResponse(BaseModel):
     context: List[Dict[str, Any]] = []
+    match_count: int = 0
     is_academic: Optional[bool] = None
     latency_seconds: float
 
@@ -156,6 +159,25 @@ def respond(payload: RespondRequest):
     return _run_stage("early_responser", lambda: early_responser(payload.model_dump()))
 
 
+# ---- stage 4b: product cards (no LLM) ----
+
+class CardsRequest(BaseModel):
+    user_language: Optional[str] = None
+    context: List[Dict[str, Any]] = []
+
+
+class CardsResponse(BaseModel):
+    response: str
+    cards: List[Dict[str, Any]] = []
+    is_academic: bool = False
+    latency_seconds: float
+
+
+@router.post("/cards", response_model=CardsResponse)
+def cards(payload: CardsRequest):
+    return _run_stage("product_cards", lambda: product_cards(payload.model_dump()))
+
+
 # ---- full pipeline ----
 
 class PipelineRequest(BaseModel):
@@ -174,6 +196,8 @@ class PipelineResponse(BaseModel):
     needs_clarification: Optional[bool] = None
     extracted: Dict[str, Any]
     context: List[Dict[str, Any]]
+    match_count: Optional[int] = None
+    cards: List[Dict[str, Any]] = []
     compound_mappings: List[Dict[str, Any]] = []
     response: Optional[str] = None
     is_academic: bool = False

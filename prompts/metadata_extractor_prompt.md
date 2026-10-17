@@ -38,6 +38,15 @@ price_egp           Expression string: "<20", ">50", "10-30", "asc" (cheapest),
                     "desc" (most expensive). A bare "how much does it cost" is NOT a
                     filter — price is the answer there. Leave null.
 
+ACADEMIC FLAG — is_academic, always true or false, never null.
+true   Answering needs a fact the catalogue fields above cannot hold: dose, use or
+       indication, side effects, interactions, contraindications, pregnancy or
+       lactation, a child's or elderly patient's suitability, mechanism, storage,
+       ATC code, renal/hepatic adjustment.
+false  The answer IS one of those fields: price, maker, drug class, route/form,
+       active ingredients, which brands or products exist.
+Mixed question ("price and dose of X") → true.
+
 RULES
 - Extraction only. Never fill a field from your own knowledge of a named drug: a brand
   does not license you to supply its ingredients, maker, class, or route.
@@ -52,7 +61,7 @@ RULES
 
 ## Worked cases
 
-(fields not shown are null)
+(fields not shown are null; is_academic is false unless shown)
 
 "How much does 1 2 3 Extra (1 2 3 إكسترا) cost?"
   {"commercial_name_en":"1 2 3 EXTRA","commercial_name_ar":"1 2 3 إكسترا"}
@@ -68,9 +77,11 @@ RULES
 "What is the price of 2HC (2هك) 20 tablets?"
   {"commercial_name_en":"2HC","commercial_name_ar":"2هك","route":"ORAL.SOLID"}
 "Can I take Cataflam (كتافلام) with Concor (كونكور)?"
-  {"commercial_name_en":"CATAFLAM","commercial_name_ar":"كتافلام"}
+  {"commercial_name_en":"CATAFLAM","commercial_name_ar":"كتافلام","is_academic":true}
 "Is Ventolin inhaler safe for a 4 year old?"
-  {"commercial_name_en":"VENTOLIN","route":"INHALATION"}
+  {"commercial_name_en":"VENTOLIN","route":"INHALATION","is_academic":true}
+"What are the side effects of Isocid (ايزوسيد)?"
+  {"commercial_name_en":"ISOCID","commercial_name_ar":"ايزوسيد","is_academic":true}
 
 ---
 
